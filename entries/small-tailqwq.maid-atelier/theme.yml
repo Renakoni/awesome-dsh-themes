@@ -29,7 +29,12 @@ compatibility:
 screenshots:
   - https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/873f5c6d7f52aa4e4283a5ffd5598229595184da/maid-atelier/preview/light.webp
   - https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/873f5c6d7f52aa4e4283a5ffd5598229595184da/maid-atelier/preview/dark.webp
+review:
+  compatibility: verified
+  preview: verified
+  installation: verified
 license:
   code: CC-BY-NC-SA-4.0
   commercialUse: false
   notice: 仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。
+updatedAt: 2026-08-16T12:47:30.553Z
