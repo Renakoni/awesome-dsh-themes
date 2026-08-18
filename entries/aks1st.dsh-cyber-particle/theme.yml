@@ -1,0 +1,37 @@
+id: aks1st.dsh-cyber-particle
+name:
+  zh: dsh-cyber-particle
+  en: dsh-cyber-particle
+author: AKS1st
+description: 为 DSH Web 界面提供粒子网络动态背景：全屏覆盖、点击穿透、零运行时依赖；以及开放事件源：其他插件可注入 notifier 服务（ctx.notifier）并订阅 dsh-notifier/sent 发送事件——复用通知能力而无需耦合。
+package: cyber-particle
+rowId: cyber-particle
+version: 0.2.2
+source:
+  kind: external
+  repository: https://github.com/AKS1st/dsh-cyber-particle
+  commit: fbe8186bb54be3b2485ea3cb5184fe1513cd2828
+tags:
+  - wallpaper
+  - glass
+  - motion
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/AKS1st/dsh-cyber-particle/fbe8186bb54be3b2485ea3cb5184fe1513cd2828/assets/image_light.png
+  - https://raw.githubusercontent.com/AKS1st/dsh-cyber-particle/fbe8186bb54be3b2485ea3cb5184fe1513cd2828/assets/image_dark.png
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T12:16:03.923Z
