@@ -1,0 +1,37 @@
+id: xingyingyuzhui.dsh-liquid-glass
+name:
+  zh: dsh-liquid-glass
+  en: dsh-liquid-glass
+author: xingyingyuzhui
+description: DSH Web 液态玻璃皮肤：冰原/深水壁纸、可导入、壁纸透明度，以及叠在官方浅色/深色/跟随系统上的分岛模糊。
+package: dsh-liquid-glass
+rowId: dsh-liquid-glass
+version: 0.12.82
+source:
+  kind: external
+  repository: https://github.com/xingyingyuzhui/dsh-liquid-glass
+  commit: 573a81d66ddff86216a61ebee4c755ed49ae31de
+tags:
+  - wallpaper
+  - glass
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/xingyingyuzhui/dsh-liquid-glass/573a81d66ddff86216a61ebee4c755ed49ae31de/docs/preview/ice-hero.jpg
+  - https://raw.githubusercontent.com/xingyingyuzhui/dsh-liquid-glass/573a81d66ddff86216a61ebee4c755ed49ae31de/docs/preview/deepwater-chat.jpg
+  - https://raw.githubusercontent.com/xingyingyuzhui/dsh-liquid-glass/573a81d66ddff86216a61ebee4c755ed49ae31de/docs/preview/settings.jpg
+  - https://raw.githubusercontent.com/xingyingyuzhui/dsh-liquid-glass/573a81d66ddff86216a61ebee4c755ed49ae31de/docs/preview/custom-wallpaper.jpg
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T12:15:45.060Z
