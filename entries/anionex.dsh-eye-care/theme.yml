@@ -1,0 +1,37 @@
+id: anionex.dsh-eye-care
+name:
+  zh: dsh-eye-care
+  en: dsh-eye-care
+author: Anionex
+description: Warm light, warm dark, and system-aware eye-care themes for DSH Web
+package: "@anionex/dsh-eye-care"
+rowId: dsh-eye-care
+version: 0.1.0
+source:
+  kind: external
+  repository: https://github.com/Anionex/dsh-eye-care
+  commit: 4f87acff00135317134e61a580c86198dad907c2
+tags:
+  - wallpaper
+  - retro
+  - pastel
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: ^0.1.0-rc.6
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/Anionex/dsh-eye-care/4f87acff00135317134e61a580c86198dad907c2/assets/eye-care-light.png
+  - https://raw.githubusercontent.com/Anionex/dsh-eye-care/4f87acff00135317134e61a580c86198dad907c2/assets/eye-care-dark.png
+review:
+  compatibility: verified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:49:43.768Z
