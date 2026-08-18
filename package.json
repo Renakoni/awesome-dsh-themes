@@ -1,0 +1,28 @@
+{
+  "name": "dsh-appearance-catalog",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Curated DSH appearance catalog for DSH Desk.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Renakoni/dsh-appearance-catalog.git"
+  },
+  "catalog": {
+    "repository": "Renakoni/dsh-appearance-catalog"
+  },
+  "scripts": {
+    "catalog": "node scripts/build-catalog.mjs",
+    "catalog:check": "node scripts/build-catalog.mjs --check --offline",
+    "test": "node --test",
+    "check": "npm run catalog:check && npm test"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "yaml": "^2.8.1"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,33 @@
+name: Check contribution scope
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  scope:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Require one contribution directory and no generated edits
+        shell: bash
+        run: |
+          changed="$(git diff --name-only "${{ github.event.pull_request.base.sha }}" "${{ github.event.pull_request.head.sha }}")"
+          if printf '%s\n' "$changed" | grep -Fxq 'data/catalog.json'; then
+            echo 'Do not edit generated data/catalog.json in a contribution PR.'
+            exit 1
+          fi
+          entries="$(printf '%s\n' "$changed" | awk -F/ '$1 == "entries" && $2 != "" { print $2 }' | sort -u)"
+          count="$(printf '%s\n' "$entries" | sed '/^$/d' | wc -l)"
+          if [ "$count" -gt 1 ]; then
+            echo 'A contribution PR may contain only one entries/<theme-id> directory.'
+            printf '%s\n' "$entries"
+            exit 1
+          fi
+          echo "Contribution scope accepted."

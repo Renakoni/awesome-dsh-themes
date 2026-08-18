@@ -1,0 +1,48 @@
+name: Generate catalog index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "entries/**"
+      - "themes/**"
+      - "data/schema.json"
+      - "scripts/**"
+      - "package.json"
+      - "package-lock.json"
+  schedule:
+    - cron: "17 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: appearance-catalog-sync
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run catalog
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit generated catalog
+        run: |
+          if git diff --quiet -- data/catalog.json; then
+            echo "catalog is up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/catalog.json
+          git commit -m "chore(catalog): regenerate theme index"
+          git push
