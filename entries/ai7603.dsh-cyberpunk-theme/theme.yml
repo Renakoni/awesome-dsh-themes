@@ -1,0 +1,35 @@
+id: ai7603.dsh-cyberpunk-theme
+name:
+  zh: dsh-cyberpunk-theme
+  en: dsh-cyberpunk-theme
+author: ai7603
+description: Cyberpunk 2077 (Night City) theme for DeepSeek Harness — installable as a permanent composition plugin or a dynamic Cordis plugin.
+package: dsh-cyberpunk-theme
+rowId: cyberpunk-2077
+version: 1.0.0
+source:
+  kind: external
+  repository: https://github.com/ai7603/dsh-cyberpunk-theme
+  commit: 445693a248a03ebae53f155e8af0401410463d70
+tags:
+  - motion
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/ai7603/dsh-cyberpunk-theme/445693a248a03ebae53f155e8af0401410463d70/docs/screenshots/session-dark.png
+  - https://raw.githubusercontent.com/ai7603/dsh-cyberpunk-theme/445693a248a03ebae53f155e8af0401410463d70/docs/screenshots/session-light.png
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:48:35.219Z
