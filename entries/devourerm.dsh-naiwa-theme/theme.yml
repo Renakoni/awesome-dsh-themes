@@ -1,0 +1,34 @@
+id: devourerm.dsh-naiwa-theme
+name:
+  zh: dsh-naiwa-theme
+  en: dsh-naiwa-theme
+author: DevourerM
+description: 克制的奶蛙 Harness 主题：半头背景、抱腹大笑标题标记、发送与完成音效。
+package: dsh-naiwa-theme
+rowId: naiwa-theme
+version: 0.5.0
+source:
+  kind: external
+  repository: https://github.com/DevourerM/dsh-naiwa-theme
+  commit: e25421d9247aceecdc97852091991708a5897df0
+tags:
+  - wallpaper
+  - motion
+  - token-theme
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: 0.1.0-rc.5
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/e25421d9247aceecdc97852091991708a5897df0/DevourerM/dsh-naiwa-theme
+review:
+  compatibility: verified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:50:16.726Z
