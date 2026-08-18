@@ -30,6 +30,13 @@ function repositorySlug(repository) {
   return match[1];
 }
 
+function localScreenshotPath(value, file) {
+  if (typeof value !== "string" || !/^[A-Za-z0-9._/-]+$/.test(value) || value.split("/").includes("..")) {
+    fail(file, `invalid bundled screenshot path: ${String(value)}`);
+  }
+  return value;
+}
+
 function requireValid(value, file) {
   if (!validate(value)) {
     const details = (validate.errors ?? []).map(error => `${error.instancePath || "/"} ${error.message}`).join("; ");
@@ -101,26 +108,38 @@ for (const file of (await entryFiles()).sort()) {
   let repositoryUrl = null;
   let commit;
   let target;
+  let screenshots;
   if (source.kind === "external") {
     repositoryUrl = source.repository;
     commit = source.commit;
     target = `github:${repositorySlug(source.repository)}#${commit}${source.subpath ? `&path:${source.subpath}` : ""}`;
+    screenshots = value.screenshots;
   } else {
     const packageDir = join(root, source.path);
     if (!existsSync(join(packageDir, "package.json"))) fail(file, `bundled theme package is missing: ${source.path}/package.json`);
+    if ((source.repository === undefined) !== (source.commit === undefined)) {
+      fail(file, "bundled source repository and commit must be provided together");
+    }
     commit = gitPathCommit(source.path);
     if (!/^[0-9a-f]{40}$/.test(commit)) fail(file, `cannot resolve a commit for bundled theme path: ${source.path}`);
     const catalogRepository = JSON.parse(readFileSync(join(root, "package.json"), "utf8")).catalog?.repository;
     if (typeof catalogRepository !== "string" || !/^[^/]+\/[^/]+$/.test(catalogRepository)) fail(file, "package.json catalog.repository is invalid");
     target = `github:${catalogRepository}#${commit}&path:${source.path}`;
+    repositoryUrl = source.repository ?? null;
+    screenshots = value.screenshots.map(value => {
+      const relativePath = localScreenshotPath(value, file);
+      const image = join(packageDir, relativePath);
+      if (!existsSync(image)) fail(file, `bundled screenshot is missing: ${source.path}/${relativePath}`);
+      return `https://raw.githubusercontent.com/${catalogRepository}/${commit}/${source.path}/${relativePath}`;
+    });
   }
 
   if (!/^[0-9a-f]{40}$/.test(commit)) fail(file, "source commit must be a 40-character lowercase SHA");
-  if (value.screenshots.length === 0) fail(file, "at least one screenshot URL is required for the first catalog version");
+  if (screenshots.length === 0) fail(file, "at least one screenshot URL is required for the first catalog version");
   const old = previousById.get(value.id);
   const stars = source.kind === "external"
     ? await githubStars(source.repository, old?.stars)
-    : null;
+    : source.repository ? await githubStars(source.repository, old?.stars) : null;
 
   themes.push({
     id: value.id,
@@ -137,7 +156,7 @@ for (const file of (await entryFiles()).sort()) {
     tags: value.tags,
     modes: value.modes,
     compatibility: value.compatibility,
-    screenshots: value.screenshots,
+    screenshots,
     license: value.license,
     stars
   });
