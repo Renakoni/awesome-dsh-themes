@@ -1,0 +1,34 @@
+id: tianya-dao.dsh-wallpaper-engine
+name:
+  zh: dsh-wallpaper-engine
+  en: dsh-wallpaper-engine
+author: TianYa-DAO
+description: deepseek-和人生是、
+package: dsh-wallpaper-engine
+rowId: wallpaper-engine
+version: 0.1.0
+source:
+  kind: external
+  repository: https://github.com/TianYa-DAO/dsh-wallpaper-engine
+  commit: 5c7e29de9f864381c2b0aeb6dd709f034a17eb6c
+tags:
+  - wallpaper
+  - glass
+  - retro
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: ^0.1.0-rc.5
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/5c7e29de9f864381c2b0aeb6dd709f034a17eb6c/TianYa-DAO/dsh-wallpaper-engine
+review:
+  compatibility: verified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T14:27:05.562Z
