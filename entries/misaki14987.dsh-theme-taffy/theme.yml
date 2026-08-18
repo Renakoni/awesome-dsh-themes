@@ -1,0 +1,38 @@
+id: misaki14987.dsh-theme-taffy
+name:
+  zh: dsh-theme-taffy
+  en: dsh-theme-taffy
+author: Misaki14987
+description: 我不是雏草姬（自用
+package: dsh-client-ui-theme-taffy
+rowId: taffy-theme
+version: 0.3.0
+source:
+  kind: external
+  repository: https://github.com/Misaki14987/dsh-theme-taffy
+  commit: 58761735d967c3cbf551a9bd7aa292bb13258853
+tags:
+  - wallpaper
+  - glass
+  - pastel
+  - motion
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: ^0.1.0-rc.6
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/Misaki14987/dsh-theme-taffy/58761735d967c3cbf551a9bd7aa292bb13258853/docs/screenshot-dark.png
+  - https://raw.githubusercontent.com/Misaki14987/dsh-theme-taffy/58761735d967c3cbf551a9bd7aa292bb13258853/docs/screenshot-light.png
+review:
+  compatibility: verified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:48:03.686Z
