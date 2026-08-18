@@ -1,0 +1,37 @@
+id: zhxqc.dsh-oh-my-theme
+name:
+  zh: dsh-oh-my-theme
+  en: dsh-oh-my-theme
+author: zhxqc
+description: DSH Web 主题与文件工作台：全局字体设置、@ 文件引用、项目文件树、Markdown 预览和可拖拽侧边面板。
+package: dsh-oh-my-theme
+rowId: oh-my-theme
+version: 0.6.0
+source:
+  kind: external
+  repository: https://github.com/zhxqc/dsh-oh-my-theme
+  commit: 5052f83f4ccc21da11f37b27824f2c95052fb25b
+tags:
+  - token-theme
+  - light-dark
+modes:
+  - dark
+compatibility:
+  dsh: ^0.1.0-rc.6
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/5052f83f4ccc21da11f37b27824f2c95052fb25b/docs/assets/setting.png
+  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/5052f83f4ccc21da11f37b27824f2c95052fb25b/docs/assets/at.png
+  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/5052f83f4ccc21da11f37b27824f2c95052fb25b/docs/assets/slider-icon.png
+  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/5052f83f4ccc21da11f37b27824f2c95052fb25b/docs/assets/file-sys.png
+  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/5052f83f4ccc21da11f37b27824f2c95052fb25b/docs/assets/md-preview.png
+  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/5052f83f4ccc21da11f37b27824f2c95052fb25b/docs/assets/git-changes.png
+review:
+  compatibility: verified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T12:32:28.705Z
