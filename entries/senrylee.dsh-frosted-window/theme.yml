@@ -1,0 +1,35 @@
+id: senrylee.dsh-frosted-window
+name:
+  zh: dsh-frosted-window
+  en: dsh-frosted-window
+author: SenryLee
+description: 上传图片作为整窗磨砂玻璃主题：侧栏/会话/详情同一层磨砂，保存/删除，官方浅色/深色/跟随系统仍有效。
+package: dsh-frosted-window
+rowId: dsh-frosted-window
+version: 0.1.0
+source:
+  kind: external
+  repository: https://github.com/SenryLee/dsh-frosted-window
+  commit: ccee61d02837d2e3e3160743c07c8627a40c3438
+tags:
+  - wallpaper
+  - glass
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/SenryLee/dsh-frosted-window/ccee61d02837d2e3e3160743c07c8627a40c3438/docs/preview.jpg
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T12:16:30.062Z
