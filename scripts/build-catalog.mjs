@@ -1,7 +1,7 @@
 import { execFileSync } from "node:child_process";
 import { existsSync, readFileSync } from "node:fs";
 import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
-import { join, relative, resolve } from "node:path";
+import { dirname, join, relative, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import Ajv from "ajv/dist/2020.js";
 import { parse } from "yaml";
@@ -12,6 +12,7 @@ const outputFile = join(root, "data", "catalog.json");
 const schemaFile = join(root, "data", "schema.json");
 const previewDir = join(root, "previews");
 const catalogRepository = JSON.parse(readFileSync(join(root, "package.json"), "utf8")).catalog?.repository;
+if (typeof catalogRepository !== "string" || !/^[^/]+\/[^/]+$/.test(catalogRepository)) throw new Error("package.json catalog.repository is invalid");
 const checkOnly = process.argv.includes("--check");
 const offline = process.argv.includes("--offline");
 
@@ -37,6 +38,13 @@ function localScreenshotPath(value, file) {
     fail(file, `invalid bundled screenshot path: ${String(value)}`);
   }
   return value;
+}
+
+function catalogScreenshotUrl(value, file) {
+  const relativePath = localScreenshotPath(value, file);
+  const image = join(dirname(file), relativePath);
+  if (!existsSync(image)) fail(file, `catalog screenshot is missing: ${relativePath}`);
+  return `https://raw.githubusercontent.com/${catalogRepository}/main/entries/${file.split(/[\\/]/).at(-2)}/${relativePath}`;
 }
 
 function requireValid(value, file) {
@@ -115,7 +123,9 @@ for (const file of (await entryFiles()).sort()) {
     repositoryUrl = source.repository;
     commit = source.commit;
     target = `github:${repositorySlug(source.repository)}#${commit}${source.subpath ? `&path:${source.subpath}` : ""}`;
-    screenshots = value.screenshots;
+    screenshots = value.screenshots.map(screenshot => /^https:\/\//.test(screenshot)
+      ? screenshot
+      : catalogScreenshotUrl(screenshot, file));
   } else {
     const packageDir = join(root, source.path);
     if (!existsSync(join(packageDir, "package.json"))) fail(file, `bundled theme package is missing: ${source.path}/package.json`);
@@ -124,7 +134,6 @@ for (const file of (await entryFiles()).sort()) {
     }
     commit = gitPathCommit(source.path);
     if (!/^[0-9a-f]{40}$/.test(commit)) fail(file, `cannot resolve a commit for bundled theme path: ${source.path}`);
-    if (typeof catalogRepository !== "string" || !/^[^/]+\/[^/]+$/.test(catalogRepository)) fail(file, "package.json catalog.repository is invalid");
     target = `github:${catalogRepository}#${commit}&path:${source.path}`;
     repositoryUrl = source.repository ?? null;
     screenshots = value.screenshots.map(value => {
