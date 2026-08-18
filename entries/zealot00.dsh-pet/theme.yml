@@ -1,0 +1,34 @@
+id: zealot00.dsh-pet
+name:
+  zh: dsh-pet
+  en: dsh-pet
+author: zealot00
+description: "Desktop pet for DeepSeek Harness Web UI: idle float animation, click speech, right-click settings panel, skin separation (assets + settings). Roadmap: alarm clock, sticky notes and more practical widgets — pure front-end."
+package: "@dsh-local/dsh-pet"
+rowId: dsh-pet
+version: 0.2.0
+source:
+  kind: external
+  repository: https://github.com/zealot00/dsh-pet
+  commit: cb31dd4474f655e1caa87ed10d4403ba46a3f8b5
+tags:
+  - glass
+  - motion
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/zealot00/dsh-pet/cb31dd4474f655e1caa87ed10d4403ba46a3f8b5/docs/screenshot-states.png
+  - https://raw.githubusercontent.com/zealot00/dsh-pet/cb31dd4474f655e1caa87ed10d4403ba46a3f8b5/docs/screenshot-scene.png
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:51:35.527Z
