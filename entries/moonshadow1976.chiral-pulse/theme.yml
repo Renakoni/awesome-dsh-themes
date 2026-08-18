@@ -1,0 +1,33 @@
+id: moonshadow1976.chiral-pulse
+name:
+  zh: chiral-pulse
+  en: chiral-pulse
+author: MoonShadow1976
+description: "CHIRAL PULSE - a Death Stranding-styled BB pod vital-signs monitor for the DeepSeek Harness web UI: the session's heartbeat waveform is the hero, and the pulse reacts to real agent activity."
+package: chiral-pulse
+rowId: ui-chiral-pulse
+version: 1.2.7
+source:
+  kind: external
+  repository: https://github.com/MoonShadow1976/chiral-pulse
+  commit: 4e5ba581468370871ff79e159c1c1b9dd31433b1
+tags:
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/MoonShadow1976/chiral-pulse/4e5ba581468370871ff79e159c1c1b9dd31433b1/assets/chiral-pulse-hero.png
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:50:42.859Z
