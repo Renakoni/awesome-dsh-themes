@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T16:28:06.902Z",
+  "generatedAt": "2026-08-18T18:01:14.668Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -9,19 +9,20 @@
         "en": "dsh-neo-skin"
       },
       "author": "0nt-one",
-      "description": "Neo-brutalism skin for DeepSeek Harness Web UI.",
+      "description": "Neo-brutalist skin for DeepSeek Harness Web UI.",
       "repositoryUrl": "https://github.com/0nt-one/dsh-neo-skin",
       "packageName": "dsh-neo-skin",
       "rowId": "dsh-neo-skin",
       "version": "0.6.1",
       "source": {
-        "kind": "external",
+        "kind": "bundled",
+        "path": "themes/0nt-one.dsh-neo-skin",
         "repository": "https://github.com/0nt-one/dsh-neo-skin",
         "commit": "fe5ef0e671fab5ab8c8700013f3966eb9642455f"
       },
       "install": {
-        "target": "github:0nt-one/dsh-neo-skin#fe5ef0e671fab5ab8c8700013f3966eb9642455f",
-        "commit": "fe5ef0e671fab5ab8c8700013f3966eb9642455f",
+        "target": "github:Renakoni/dsh-appearance-catalog#0cbc40a90a6da80d08a8f60b035b4ad3e905185b&path:themes/0nt-one.dsh-neo-skin",
+        "commit": "0cbc40a90a6da80d08a8f60b035b4ad3e905185b",
         "version": "0.6.1"
       },
       "tags": [
@@ -40,9 +41,10 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/0nt-one/dsh-neo-skin/fe5ef0e671fab5ab8c8700013f3966eb9642455f/screenshots/app-light.png",
-        "https://raw.githubusercontent.com/0nt-one/dsh-neo-skin/fe5ef0e671fab5ab8c8700013f3966eb9642455f/screenshots/app-dark.png"
+        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/0cbc40a90a6da80d08a8f60b035b4ad3e905185b/themes/0nt-one.dsh-neo-skin/screenshots/app-light.png",
+        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/0cbc40a90a6da80d08a8f60b035b4ad3e905185b/themes/0nt-one.dsh-neo-skin/screenshots/app-dark.png"
       ],
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/0nt-one.dsh-neo-skin.webp",
       "license": {
         "code": "MIT",
         "commercialUse": true
@@ -91,6 +93,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/DocJlm/dsh-arknights/6419ea4d249945daa4bc05112b32ee868f5d2d6c/skins/pramanix-eyjafjalla/preview/cover.webp"
       ],
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/docjlm.pramanix-eyjafjalla.webp",
       "license": {
         "code": "MIT",
         "commercialUse": true
@@ -142,12 +145,13 @@
         "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/873f5c6d7f52aa4e4283a5ffd5598229595184da/maid-atelier/preview/light.webp",
         "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/873f5c6d7f52aa4e4283a5ffd5598229595184da/maid-atelier/preview/dark.webp"
       ],
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/small-tailqwq.maid-atelier.webp",
       "license": {
         "code": "CC-BY-NC-SA-4.0",
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1358
+      "stars": 1363
     }
   ]
 }
