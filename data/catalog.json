@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T16:26:03.704Z",
+  "generatedAt": "2026-08-18T16:28:06.902Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -96,6 +96,58 @@
         "commercialUse": true
       },
       "stars": 2
+    },
+    {
+      "id": "small-tailqwq.maid-atelier",
+      "name": {
+        "zh": "深海女仆工坊",
+        "en": "Abyssal Maid Atelier"
+      },
+      "author": "Small-tailqwq",
+      "description": "DSH Web 鲸鱼娘皮肤系列（深海女仆工坊 maid-atelier）。",
+      "repositoryUrl": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "packageName": "@dsh-external/dsh-client-ui-skin-maid-atelier",
+      "rowId": "ui-skin-maid-atelier",
+      "version": "0.0.1",
+      "source": {
+        "kind": "external",
+        "repository": "https://github.com/Small-tailqwq/dsh-deep-whale",
+        "commit": "873f5c6d7f52aa4e4283a5ffd5598229595184da",
+        "subpath": "maid-atelier"
+      },
+      "install": {
+        "target": "github:Small-tailqwq/dsh-deep-whale#873f5c6d7f52aa4e4283a5ffd5598229595184da&path:maid-atelier",
+        "commit": "873f5c6d7f52aa4e4283a5ffd5598229595184da",
+        "version": "0.0.1"
+      },
+      "tags": [
+        "anime",
+        "maid",
+        "whale",
+        "navy",
+        "ornate",
+        "glass"
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "compatibility": {
+        "dsh": "0.1.0-rc.6",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/873f5c6d7f52aa4e4283a5ffd5598229595184da/maid-atelier/preview/light.webp",
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/873f5c6d7f52aa4e4283a5ffd5598229595184da/maid-atelier/preview/dark.webp"
+      ],
+      "license": {
+        "code": "CC-BY-NC-SA-4.0",
+        "commercialUse": false,
+        "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
+      },
+      "stars": 1358
     }
   ]
 }
