@@ -2,14 +2,6 @@ name: Validate catalog contribution
 
 on:
   pull_request:
-    paths:
-      - "entries/**"
-      - "themes/**"
-      - "data/schema.json"
-      - "scripts/**"
-      - "package.json"
-      - "package-lock.json"
-      - ".github/workflows/**"
   push:
     branches: [main]
 
