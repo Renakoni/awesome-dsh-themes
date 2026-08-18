@@ -1,0 +1,35 @@
+id: morinissleeping.dsh-pnc-theme
+name:
+  zh: dsh-pnc-theme
+  en: dsh-pnc-theme
+author: Morinissleeping
+description: PNC 云图风格主题插件（自包含可移植版）：背景视频/等高线/康威/配额条/LLM 活跃度评分
+package: "@dsh-external/dsh-pnc-theme"
+rowId: dsh-pnc-theme
+version: 0.2.17
+source:
+  kind: external
+  repository: https://github.com/Morinissleeping/dsh-pnc-theme
+  commit: 07e2e0ebfd2fce33ca9737cdfe42acd6cb512377
+tags:
+  - wallpaper
+  - glass
+  - motion
+  - token-theme
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://github.com/user-attachments/assets/0d5ca23b-e24e-4ee9-9265-95aedb4b1272
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:56:51.169Z
