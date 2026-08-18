@@ -1,0 +1,34 @@
+id: a1swg1159-pixel.dsh-arcaea-theme
+name:
+  zh: dsh-arcaea-theme
+  en: dsh-arcaea-theme
+author: a1swg1159-pixel
+description: An original high-key prismatic memory theme for the DeepSeek Harness web UI.
+package: dsh-arcaea-theme
+rowId: arcaea-theme
+version: 0.5.0
+source:
+  kind: external
+  repository: https://github.com/a1swg1159-pixel/dsh-arcaea-theme
+  commit: 7cbd4a03df2430ac39c32470cf0e4c7e93dc5918
+tags:
+  - retro
+  - token-theme
+  - light-dark
+modes:
+  - light
+compatibility:
+  dsh: ">=0.1.0-rc.5 <0.2.0"
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/a1swg1159-pixel/dsh-arcaea-theme/7cbd4a03df2430ac39c32470cf0e4c7e93dc5918/assets/repository-banner.png
+  - https://raw.githubusercontent.com/a1swg1159-pixel/dsh-arcaea-theme/7cbd4a03df2430ac39c32470cf0e4c7e93dc5918/preview.png
+review:
+  compatibility: verified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:51:53.473Z
