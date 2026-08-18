@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs";
 import { readFile, readdir } from "node:fs/promises";
-import { join, relative, resolve } from "node:path";
+import { dirname, join, relative, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parse } from "yaml";
 
@@ -75,6 +75,12 @@ for (const file of (await entryFiles()).sort()) {
   if (!manifest.dsh || typeof manifest.dsh !== "object" || manifest.dsh.client === undefined) fail(file, "package must declare dsh.client");
 
   for (const screenshot of value.screenshots) {
+    if (!/^https:\/\//.test(screenshot)) {
+      if (screenshot.split("/").includes("..")) fail(file, `invalid local screenshot path: ${screenshot}`);
+      const screenshotPath = join(dirname(file), screenshot);
+      if (!existsSync(screenshotPath)) fail(file, `local screenshot is missing: ${screenshot}`);
+      continue;
+    }
     const response = await request(screenshot, file);
     const length = Number(response.headers.get("content-length") ?? "0");
     const contentType = response.headers.get("content-type") ?? "";
