@@ -1,0 +1,34 @@
+id: wangxilhy23.dsh-wx-skin
+name:
+  zh: dsh-wx-skin
+  en: dsh-wx-skin
+author: wangxilhy23
+description: DSH Web GUI 皮肤插件：侧栏「皮肤」面板，支持自选本地图片 / URL 作为全屏背景，含预设、暗化、模糊、关闭皮肤，跨刷新持久化（外部 client 插件，dsh-web-ui 风格）。
+package: dsh-wx-skin
+rowId: ui-dsh-wx-skin
+version: 0.1.1
+source:
+  kind: external
+  repository: https://github.com/wangxilhy23/dsh-wx-skin
+  commit: 1dce62c660fbc2525e1358f864dba797d2f9d5c3
+tags:
+  - wallpaper
+  - glass
+  - token-theme
+  - light-dark
+modes:
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/wangxilhy23/dsh-wx-skin/1dce62c660fbc2525e1358f864dba797d2f9d5c3/assets/demo1.png
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:51:09.489Z
