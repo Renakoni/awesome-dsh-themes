@@ -1,0 +1,36 @@
+id: mizuhara37.dsh-nene-theme
+name:
+  zh: dsh-nene-theme
+  en: dsh-nene-theme
+author: mizuhara37
+description: 草薙宁宁同人主题（DeepSeek Harness 客户端插件）：日夜背景 + 可拖动立绘 + 状态台词
+package: dsh-nene-theme
+rowId: nene-theme
+version: 0.1.0
+source:
+  kind: external
+  repository: https://github.com/mizuhara37/dsh-nene-theme
+  commit: dcf7642211a84114186a7f12e1a6efbe5d7d36e1
+tags:
+  - wallpaper
+  - glass
+  - retro
+  - motion
+  - token-theme
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/dcf7642211a84114186a7f12e1a6efbe5d7d36e1/mizuhara37/dsh-nene-theme
+review:
+  compatibility: unverified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:56:45.550Z
