@@ -1,0 +1,36 @@
+id: wuwl-98.dsh-theme-paper
+name:
+  zh: dsh-theme-paper
+  en: dsh-theme-paper
+author: WuWL-98
+description: 纸质主题 — a warm paper-texture appearance for DeepSeek Harness, inspired by Claude Code (cream paper, ink text, terracotta accents).
+package: dsh-theme-paper
+rowId: theme-paper
+version: 1.0.0
+source:
+  kind: external
+  repository: https://github.com/WuWL-98/dsh-theme-paper
+  commit: a13f7a3383543f14e1a50a58ee25865ea1185ed6
+tags:
+  - wallpaper
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: ^0.1.0-rc.6
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/WuWL-98/dsh-theme-paper/a13f7a3383543f14e1a50a58ee25865ea1185ed6/docs/main.png
+  - https://raw.githubusercontent.com/WuWL-98/dsh-theme-paper/a13f7a3383543f14e1a50a58ee25865ea1185ed6/docs/settings.png
+  - https://raw.githubusercontent.com/WuWL-98/dsh-theme-paper/a13f7a3383543f14e1a50a58ee25865ea1185ed6/docs/conversation.png
+review:
+  compatibility: verified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:58:11.377Z
