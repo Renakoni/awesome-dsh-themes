@@ -26,6 +26,11 @@ compatibility:
     - web
 screenshots:
   - https://raw.githubusercontent.com/DocJlm/dsh-arknights/6419ea4d249945daa4bc05112b32ee868f5d2d6c/skins/pramanix-eyjafjalla/preview/cover.webp
+review:
+  compatibility: verified
+  preview: verified
+  installation: verified
 license:
   code: MIT
   commercialUse: true
+updatedAt: 2026-08-16T12:32:55.976Z
