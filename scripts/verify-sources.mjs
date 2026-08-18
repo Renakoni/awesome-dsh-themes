@@ -7,6 +7,7 @@ import { parse } from "yaml";
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const entriesDir = join(root, "entries");
 const MAX_IMAGE_BYTES = 10 * 1024 * 1024;
+const RATE_LIMIT_RETRY_DELAYS_MS = [2_000, 5_000, 10_000];
 const entryIndex = process.argv.indexOf("--entry");
 const requestedEntry = entryIndex >= 0 ? process.argv[entryIndex + 1] : undefined;
 
@@ -21,17 +22,23 @@ function repositorySlug(repository) {
 }
 
 async function request(url, file) {
-  let response;
-  try {
-    response = await fetch(url, {
-      headers: { accept: "application/json", "user-agent": "dsh-appearance-catalog-source-check" },
-      signal: AbortSignal.timeout(15_000)
-    });
-  } catch (error) {
-    fail(file, `${url} request failed: ${error instanceof Error ? error.message : String(error)}`);
+  for (let attempt = 0; attempt <= RATE_LIMIT_RETRY_DELAYS_MS.length; attempt += 1) {
+    let response;
+    try {
+      response = await fetch(url, {
+        headers: { accept: "application/json", "user-agent": "dsh-appearance-catalog-source-check" },
+        signal: AbortSignal.timeout(15_000)
+      });
+    } catch (error) {
+      fail(file, `${url} request failed: ${error instanceof Error ? error.message : String(error)}`);
+    }
+    if (response.ok) return response;
+    if (response.status !== 429 || attempt === RATE_LIMIT_RETRY_DELAYS_MS.length) {
+      fail(file, `${url} returned HTTP ${response.status}`);
+    }
+    await response.body?.cancel();
+    await new Promise(resolve => setTimeout(resolve, RATE_LIMIT_RETRY_DELAYS_MS[attempt]));
   }
-  if (!response.ok) fail(file, `${url} returned HTTP ${response.status}`);
-  return response;
 }
 
 async function entryFiles() {
