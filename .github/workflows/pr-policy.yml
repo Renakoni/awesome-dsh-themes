@@ -19,6 +19,16 @@ jobs:
         shell: bash
         run: |
           changed="$(git diff --name-only "${{ github.event.pull_request.base.sha }}" "${{ github.event.pull_request.head.sha }}")"
+          if [ "${{ github.event.pull_request.head.ref }}" = "automation/catalog-sync" ]; then
+            unexpected="$(printf '%s\n' "$changed" | grep -Ev '^(data/catalog\.json|previews/[a-z0-9][a-z0-9.-]*\.webp)$' || true)"
+            if [ -n "$unexpected" ]; then
+              echo 'Catalog automation PR contains unexpected files:'
+              printf '%s\n' "$unexpected"
+              exit 1
+            fi
+            echo 'Catalog automation scope accepted.'
+            exit 0
+          fi
           if printf '%s\n' "$changed" | grep -Fxq 'data/catalog.json'; then
             echo 'Do not edit generated data/catalog.json in a contribution PR.'
             exit 1

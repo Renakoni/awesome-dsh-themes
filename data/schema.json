@@ -59,6 +59,17 @@
       }
     },
     "screenshots": { "type": "array", "items": { "type": "string", "pattern": "^(?:https://|[A-Za-z0-9._/-]+$)" }, "uniqueItems": true },
+    "review": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["compatibility", "preview", "installation"],
+      "properties": {
+        "compatibility": { "enum": ["verified", "unverified"] },
+        "preview": { "enum": ["verified", "repository-card"] },
+        "installation": { "enum": ["verified", "manual-only"] }
+      }
+    },
+    "updatedAt": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T" },
     "license": {
       "type": "object",
       "additionalProperties": false,

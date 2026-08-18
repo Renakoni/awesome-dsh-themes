@@ -10,6 +10,8 @@ const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const entriesDir = join(root, "entries");
 const outputFile = join(root, "data", "catalog.json");
 const schemaFile = join(root, "data", "schema.json");
+const previewDir = join(root, "previews");
+const catalogRepository = JSON.parse(readFileSync(join(root, "package.json"), "utf8")).catalog?.repository;
 const checkOnly = process.argv.includes("--check");
 const offline = process.argv.includes("--offline");
 
@@ -122,7 +124,6 @@ for (const file of (await entryFiles()).sort()) {
     }
     commit = gitPathCommit(source.path);
     if (!/^[0-9a-f]{40}$/.test(commit)) fail(file, `cannot resolve a commit for bundled theme path: ${source.path}`);
-    const catalogRepository = JSON.parse(readFileSync(join(root, "package.json"), "utf8")).catalog?.repository;
     if (typeof catalogRepository !== "string" || !/^[^/]+\/[^/]+$/.test(catalogRepository)) fail(file, "package.json catalog.repository is invalid");
     target = `github:${catalogRepository}#${commit}&path:${source.path}`;
     repositoryUrl = source.repository ?? null;
@@ -157,8 +158,13 @@ for (const file of (await entryFiles()).sort()) {
     modes: value.modes,
     compatibility: value.compatibility,
     screenshots,
+    ...(existsSync(join(previewDir, `${value.id}.webp`))
+      ? { listScreenshot: `https://raw.githubusercontent.com/${catalogRepository}/main/previews/${value.id}.webp` }
+      : {}),
+    ...(value.review ? { review: value.review } : {}),
     license: value.license,
-    stars
+    stars,
+    ...(value.updatedAt ? { updatedAt: value.updatedAt } : {})
   });
 }
 

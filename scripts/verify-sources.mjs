@@ -7,6 +7,8 @@ import { parse } from "yaml";
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const entriesDir = join(root, "entries");
 const MAX_IMAGE_BYTES = 10 * 1024 * 1024;
+const entryIndex = process.argv.indexOf("--entry");
+const requestedEntry = entryIndex >= 0 ? process.argv[entryIndex + 1] : undefined;
 
 function fail(file, message) {
   throw new Error(`${relative(root, file)}: ${message}`);
@@ -34,9 +36,13 @@ async function request(url, file) {
 
 async function entryFiles() {
   if (!existsSync(entriesDir)) return [];
-  return (await readdir(entriesDir, { withFileTypes: true }))
+  const files = (await readdir(entriesDir, { withFileTypes: true }))
     .filter(item => item.isDirectory())
     .map(item => join(entriesDir, item.name, "theme.yml"));
+  if (!requestedEntry) return files;
+  const selected = files.filter(file => file.split(/[\\/]/).at(-2) === requestedEntry);
+  if (selected.length !== 1) throw new Error(`entry not found: ${requestedEntry}`);
+  return selected;
 }
 
 for (const file of (await entryFiles()).sort()) {

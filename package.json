@@ -12,6 +12,7 @@
     "repository": "Renakoni/dsh-appearance-catalog"
   },
   "scripts": {
+    "previews": "node scripts/build-previews.mjs",
     "catalog": "node scripts/build-catalog.mjs",
     "catalog:check": "node scripts/build-catalog.mjs --check --offline",
     "sources:check": "node scripts/verify-sources.mjs",
@@ -25,5 +26,8 @@
   "engines": {
     "node": ">=22"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "sharp": "^0.35.3"
+  }
 }
