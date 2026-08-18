@@ -2,11 +2,6 @@ name: Verify external sources
 
 on:
   pull_request:
-    paths:
-      - "entries/**"
-      - "scripts/verify-sources.mjs"
-      - "package.json"
-      - "package-lock.json"
   push:
     branches: [main]
 
