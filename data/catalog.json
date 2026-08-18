@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T16:58:45.455Z",
+  "generatedAt": "2026-08-18T16:28:06.902Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -9,20 +9,19 @@
         "en": "dsh-neo-skin"
       },
       "author": "0nt-one",
-      "description": "Neo-brutalist skin for DeepSeek Harness Web UI.",
+      "description": "Neo-brutalism skin for DeepSeek Harness Web UI.",
       "repositoryUrl": "https://github.com/0nt-one/dsh-neo-skin",
       "packageName": "dsh-neo-skin",
       "rowId": "dsh-neo-skin",
       "version": "0.6.1",
       "source": {
-        "kind": "bundled",
-        "path": "themes/0nt-one.dsh-neo-skin",
+        "kind": "external",
         "repository": "https://github.com/0nt-one/dsh-neo-skin",
         "commit": "fe5ef0e671fab5ab8c8700013f3966eb9642455f"
       },
       "install": {
-        "target": "github:Renakoni/dsh-appearance-catalog#29dcad4d99d56617677c4d903a6eae830b48fc0b&path:themes/0nt-one.dsh-neo-skin",
-        "commit": "29dcad4d99d56617677c4d903a6eae830b48fc0b",
+        "target": "github:0nt-one/dsh-neo-skin#fe5ef0e671fab5ab8c8700013f3966eb9642455f",
+        "commit": "fe5ef0e671fab5ab8c8700013f3966eb9642455f",
         "version": "0.6.1"
       },
       "tags": [
@@ -41,8 +40,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/29dcad4d99d56617677c4d903a6eae830b48fc0b/themes/0nt-one.dsh-neo-skin/screenshots/app-light.png",
-        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/29dcad4d99d56617677c4d903a6eae830b48fc0b/themes/0nt-one.dsh-neo-skin/screenshots/app-dark.png"
+        "https://raw.githubusercontent.com/0nt-one/dsh-neo-skin/fe5ef0e671fab5ab8c8700013f3966eb9642455f/screenshots/app-light.png",
+        "https://raw.githubusercontent.com/0nt-one/dsh-neo-skin/fe5ef0e671fab5ab8c8700013f3966eb9642455f/screenshots/app-dark.png"
       ],
       "license": {
         "code": "MIT",
