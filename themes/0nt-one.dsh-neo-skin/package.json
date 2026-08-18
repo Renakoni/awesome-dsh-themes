@@ -1,0 +1,49 @@
+{
+  "name": "dsh-neo-skin",
+  "version": "0.6.1",
+  "description": "Neo-brutalism skin for DeepSeek Harness Web UI — stacks hard-border / high-contrast --dsw-alias-* token overrides (DS-native blue + black-white + green + orange) on top of the built-in light/dark palettes.",
+  "type": "module",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "author": "CrazyGummies",
+  "keywords": [
+    "deepseek-harness",
+    "dsh",
+    "plugin",
+    "client-plugin",
+    "theme",
+    "skin",
+    "neo-brutalism"
+  ],
+  "exports": {
+    ".": {
+      "default": "./lib/index.js"
+    },
+    "./client": "./client.js",
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "inject": [
+        "@deepseek-ai/dsh-client-ui-theme"
+      ],
+      "platform": "web"
+    }
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "prepublishOnly": "node scripts/build.mjs && node --check client.js"
+  },
+  "files": [
+    "lib",
+    "client.js",
+    "src",
+    "scripts",
+    "cordis.patch.yml",
+    "README.md",
+    "LICENSE"
+  ]
+}

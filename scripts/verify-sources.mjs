@@ -41,7 +41,22 @@ async function entryFiles() {
 
 for (const file of (await entryFiles()).sort()) {
   const value = parse(await readFile(file, "utf8"));
-  if (value.source.kind !== "external") continue;
+  if (value.source.kind === "bundled") {
+    const packageDir = join(root, value.source.path);
+    const manifestPath = join(packageDir, "package.json");
+    if (!existsSync(manifestPath)) fail(file, `bundled theme package is missing: ${value.source.path}/package.json`);
+    let manifest;
+    try { manifest = JSON.parse(readFileSync(manifestPath, "utf8")); } catch { fail(file, "bundled package.json is not valid JSON"); }
+    if (manifest.name !== value.package) fail(file, `package name is ${String(manifest.name)}, expected ${value.package}`);
+    if (manifest.version !== value.version) fail(file, `package version is ${String(manifest.version)}, expected ${value.version}`);
+    if (!manifest.dsh || typeof manifest.dsh !== "object" || manifest.dsh.client === undefined) fail(file, "package must declare dsh.client");
+    for (const screenshot of value.screenshots) {
+      if (!/^[A-Za-z0-9._/-]+$/.test(screenshot) || screenshot.split("/").includes("..")) fail(file, `invalid bundled screenshot path: ${screenshot}`);
+      if (!existsSync(join(packageDir, screenshot))) fail(file, `bundled screenshot is missing: ${value.source.path}/${screenshot}`);
+    }
+    console.log(`verified bundled ${value.id}`);
+    continue;
+  }
   const slug = repositorySlug(value.source.repository);
   const subpath = value.source.subpath ? `${value.source.subpath}/` : "";
   if (value.source.subpath?.split("/").includes("..")) fail(file, "source.subpath must not contain parent traversal");
