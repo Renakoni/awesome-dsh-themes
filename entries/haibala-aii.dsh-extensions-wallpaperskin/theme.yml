@@ -1,0 +1,32 @@
+id: haibala-aii.dsh-extensions-wallpaperskin
+name:
+  zh: dsh-extensions-wallpaperskin
+  en: dsh-extensions-wallpaperskin
+author: haibala-aii
+description: Wallpaper Engine skin plugin for the DeepSeek Harness web UI
+package: "@haibala-aii/dsh-extensions-wallpaperskin"
+rowId: wallpaperskin
+version: 0.3.0
+source:
+  kind: external
+  repository: https://github.com/haibala-aii/dsh-extensions-wallpaperskin
+  commit: 91b23249e7428f7b8d477726d9f6c2b52c85b8ff
+tags:
+  - wallpaper
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: ^0.1.0-rc.6
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/91b23249e7428f7b8d477726d9f6c2b52c85b8ff/haibala-aii/dsh-extensions-wallpaperskin
+review:
+  compatibility: verified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:55:44.428Z
