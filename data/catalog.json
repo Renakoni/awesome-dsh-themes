@@ -1,5 +1,53 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "1970-01-01T00:00:00.000Z",
-  "themes": []
+  "generatedAt": "2026-08-18T16:23:27.130Z",
+  "themes": [
+    {
+      "id": "0nt-one.dsh-neo-skin",
+      "name": {
+        "zh": "dsh-neo-skin",
+        "en": "dsh-neo-skin"
+      },
+      "author": "0nt-one",
+      "description": "Neo-brutalism skin for DeepSeek Harness Web UI.",
+      "repositoryUrl": "https://github.com/0nt-one/dsh-neo-skin",
+      "packageName": "dsh-neo-skin",
+      "rowId": "dsh-neo-skin",
+      "version": "0.6.1",
+      "source": {
+        "kind": "external",
+        "repository": "https://github.com/0nt-one/dsh-neo-skin",
+        "commit": "fe5ef0e671fab5ab8c8700013f3966eb9642455f"
+      },
+      "install": {
+        "target": "github:0nt-one/dsh-neo-skin#fe5ef0e671fab5ab8c8700013f3966eb9642455f",
+        "commit": "fe5ef0e671fab5ab8c8700013f3966eb9642455f",
+        "version": "0.6.1"
+      },
+      "tags": [
+        "retro",
+        "token-theme",
+        "light-dark"
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "compatibility": {
+        "dsh": "unverified",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://raw.githubusercontent.com/0nt-one/dsh-neo-skin/fe5ef0e671fab5ab8c8700013f3966eb9642455f/screenshots/app-light.png",
+        "https://raw.githubusercontent.com/0nt-one/dsh-neo-skin/fe5ef0e671fab5ab8c8700013f3966eb9642455f/screenshots/app-dark.png"
+      ],
+      "license": {
+        "code": "MIT",
+        "commercialUse": true
+      },
+      "stars": 2
+    }
+  ]
 }
