@@ -1,0 +1,38 @@
+id: adaning.dsh-pixel-skin
+name:
+  zh: dsh-pixel-skin
+  en: dsh-pixel-skin
+author: ADAning
+description: "8-bit pixel skin for the DeepSeek Harness web GUI: Fusion Pixel type, chunky CRT palette, hard-edged controls and scanlines."
+package: dsh-pixel-skin
+rowId: dsh-pixel-skin
+version: 0.1.0
+source:
+  kind: external
+  repository: https://github.com/ADAning/dsh-pixel-skin
+  commit: 7cfce7ae3b533418163c70e2f57c4dc44aab3d3a
+tags:
+  - retro
+  - motion
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/ADAning/dsh-pixel-skin/7cfce7ae3b533418163c70e2f57c4dc44aab3d3a/assets/screenshots/new-session.png
+  - https://raw.githubusercontent.com/ADAning/dsh-pixel-skin/7cfce7ae3b533418163c70e2f57c4dc44aab3d3a/assets/screenshots/working.png
+  - https://raw.githubusercontent.com/ADAning/dsh-pixel-skin/7cfce7ae3b533418163c70e2f57c4dc44aab3d3a/assets/screenshots/palettes-light.png
+  - https://raw.githubusercontent.com/ADAning/dsh-pixel-skin/7cfce7ae3b533418163c70e2f57c4dc44aab3d3a/assets/screenshots/palettes-dark.png
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:54:49.092Z
