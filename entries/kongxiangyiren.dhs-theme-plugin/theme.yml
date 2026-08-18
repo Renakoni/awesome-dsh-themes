@@ -1,0 +1,34 @@
+id: kongxiangyiren.dhs-theme-plugin
+name:
+  zh: dhs-theme-plugin
+  en: dhs-theme-plugin
+author: kongxiangyiren
+description: 主题管理插件：设置-主题大分类，内置森林绿/海洋蓝，支持上传 __ModuleLoader__.load 格式的 JS 主题（overrideTokens + CSS + slots UI），点击切换，磁盘持久化。
+package: "@kongxiangyiren/dhs-theme-plugin"
+rowId: dhs-theme-plugin
+version: 0.0.3
+source:
+  kind: external
+  repository: https://github.com/kongxiangyiren/dhs-theme-plugin
+  commit: 9e451e3a9eda86f62c8624d606a911e68a943b16
+tags:
+  - retro
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: ^0.1.0-rc.6
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/9e451e3a9eda86f62c8624d606a911e68a943b16/kongxiangyiren/dhs-theme-plugin
+review:
+  compatibility: verified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:52:44.893Z
