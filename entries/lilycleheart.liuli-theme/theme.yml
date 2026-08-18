@@ -1,0 +1,42 @@
+id: lilycleheart.liuli-theme
+name:
+  zh: liuli-theme
+  en: liuli-theme
+author: LilycleHeart
+description: 琉璃主题——为DeepSeek Harness打造实用美观的主题UI
+package: "@deepseek-ai/liuli-theme"
+rowId: liuli-theme
+version: 0.1.0
+source:
+  kind: external
+  repository: https://github.com/LilycleHeart/liuli-theme
+  commit: a714d171400258d31923604e22c1a6b99e2add62
+tags:
+  - wallpaper
+  - glass
+  - retro
+  - motion
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://count.getloli.com/@liuli-theme?theme=rule34
+  - https://raw.githubusercontent.com/LilycleHeart/liuli-theme/a714d171400258d31923604e22c1a6b99e2add62/docs/preview-start-light.png
+  - https://raw.githubusercontent.com/LilycleHeart/liuli-theme/a714d171400258d31923604e22c1a6b99e2add62/docs/preview-start-dark.png
+  - https://raw.githubusercontent.com/LilycleHeart/liuli-theme/a714d171400258d31923604e22c1a6b99e2add62/docs/preview-color-light.png
+  - https://raw.githubusercontent.com/LilycleHeart/liuli-theme/a714d171400258d31923604e22c1a6b99e2add62/docs/preview-color-dark.png
+  - https://raw.githubusercontent.com/LilycleHeart/liuli-theme/a714d171400258d31923604e22c1a6b99e2add62/docs/preview-session-dark.png
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:50:39.220Z
