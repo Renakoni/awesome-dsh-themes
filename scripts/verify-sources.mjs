@@ -8,6 +8,7 @@ const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const entriesDir = join(root, "entries");
 const MAX_IMAGE_BYTES = 10 * 1024 * 1024;
 const RATE_LIMIT_RETRY_DELAYS_MS = [2_000, 5_000, 10_000];
+const IMAGE_EXTENSIONS = /\.(?:apng|avif|bmp|gif|jpe?g|png|svg|tiff?|webp)(?:$|[?#])/i;
 const entryIndex = process.argv.indexOf("--entry");
 const requestedEntry = entryIndex >= 0 ? process.argv[entryIndex + 1] : undefined;
 
@@ -39,6 +40,10 @@ async function request(url, file) {
     await response.body?.cancel();
     await new Promise(resolve => setTimeout(resolve, RATE_LIMIT_RETRY_DELAYS_MS[attempt]));
   }
+}
+
+function isImageResponse(url, contentType) {
+  return contentType.toLowerCase().startsWith("image/") || IMAGE_EXTENSIONS.test(url);
 }
 
 async function entryFiles() {
@@ -92,7 +97,7 @@ for (const file of (await entryFiles()).sort()) {
     const length = Number(response.headers.get("content-length") ?? "0");
     const contentType = response.headers.get("content-type") ?? "";
     if (Number.isFinite(length) && length > MAX_IMAGE_BYTES) fail(file, `screenshot is larger than ${MAX_IMAGE_BYTES} bytes: ${screenshot}`);
-    if (!contentType.toLowerCase().startsWith("image/")) fail(file, `screenshot is not an image: ${screenshot}`);
+    if (!isImageResponse(screenshot, contentType)) fail(file, `screenshot is not an image: ${screenshot}`);
     await response.body?.cancel();
   }
   console.log(`verified ${value.id}`);
