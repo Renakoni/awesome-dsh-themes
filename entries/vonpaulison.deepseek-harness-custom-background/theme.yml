@@ -1,0 +1,36 @@
+id: vonpaulison.deepseek-harness-custom-background
+name:
+  zh: deepseek-harness-custom-background
+  en: deepseek-harness-custom-background
+author: vonPaulison
+description: DeepSeek Harness Web 界面自定义背景插件：主界面/边栏/顶栏三区域独立背景、拖拽定位、不透明度 0-100、主题色、圆角、缩放，附健壮定位与内置诊断
+package: dsh-ui-customizer
+rowId: ui-customizer
+version: 1.1.0
+source:
+  kind: external
+  repository: https://github.com/vonPaulison/deepseek-harness-custom-background
+  commit: 3be4924a1e05af0882aebaae87237e2ff5a93d4b
+tags:
+  - wallpaper
+  - glass
+  - retro
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/3be4924a1e05af0882aebaae87237e2ff5a93d4b/vonPaulison/deepseek-harness-custom-background
+review:
+  compatibility: unverified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:51:04.723Z
