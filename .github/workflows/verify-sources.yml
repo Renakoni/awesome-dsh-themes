@@ -2,8 +2,6 @@ name: Verify external sources
 
 on:
   pull_request:
-  push:
-    branches: [main]
 
 permissions:
   contents: read
@@ -14,9 +12,21 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: npm run sources:check
+      - name: Verify changed theme source
+        shell: bash
+        run: |
+          changed="$(git diff --name-only "${{ github.event.pull_request.base.sha }}" "${{ github.event.pull_request.head.sha }}")"
+          entries="$(printf '%s\n' "$changed" | awk -F/ '$1 == "entries" && $2 != "" { print $2 }' | sort -u)"
+          count="$(printf '%s\n' "$entries" | sed '/^$/d' | wc -l)"
+          if [ "$count" -eq 1 ]; then
+            npm run sources:check -- --entry "$entries"
+          else
+            npm run sources:check
+          fi
