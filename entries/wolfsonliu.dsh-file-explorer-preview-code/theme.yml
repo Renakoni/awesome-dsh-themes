@@ -1,0 +1,35 @@
+id: wolfsonliu.dsh-file-explorer-preview-code
+name:
+  zh: dsh-file-explorer-preview-code
+  en: dsh-file-explorer-preview-code
+author: wolfsonliu
+description: CodeMirror 6 code preview and editor for DSH Web, overriding dsh-file-explorer's plain-text preview with per-language syntax highlighting
+package: "@dsh-external/dsh-file-explorer-preview-code"
+rowId: file-explorer-preview-code
+version: 0.1.0
+source:
+  kind: external
+  repository: https://github.com/wolfsonliu/dsh-file-explorer-preview-code
+  commit: 28ff8f56d1a5c2cebc798d3161955f2568d44603
+tags:
+  - retro
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/wolfsonliu/dsh-file-explorer-preview-code/28ff8f56d1a5c2cebc798d3161955f2568d44603/assets/dsh-file-explorer-preview-code_dark.png
+  - https://raw.githubusercontent.com/wolfsonliu/dsh-file-explorer-preview-code/28ff8f56d1a5c2cebc798d3161955f2568d44603/assets/dsh-file-explorer-preview-code_light.png
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:58:05.239Z
