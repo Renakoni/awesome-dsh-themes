@@ -1,0 +1,36 @@
+id: noexcs.dsh-skin-glass
+name:
+  zh: dsh-skin-glass
+  en: dsh-skin-glass
+author: noexcs
+description: "Frosted-glass skin for the DeepSeek Harness web UI: pick any image as background, theme colors extracted from it, glassmorphism surfaces."
+package: dsh-skin-glass
+rowId: dsh-skin-glass
+version: 0.1.0
+source:
+  kind: external
+  repository: https://github.com/noexcs/dsh-skin-glass
+  commit: 085df7daf0ebc65f721e66896406bb9877489b59
+tags:
+  - wallpaper
+  - glass
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/noexcs/dsh-skin-glass/085df7daf0ebc65f721e66896406bb9877489b59/screenshots/screenshot_0.jpg
+  - https://raw.githubusercontent.com/noexcs/dsh-skin-glass/085df7daf0ebc65f721e66896406bb9877489b59/screenshots/screenshot_1.jpg
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:56:56.643Z
