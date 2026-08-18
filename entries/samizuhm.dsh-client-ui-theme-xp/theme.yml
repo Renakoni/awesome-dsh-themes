@@ -1,0 +1,34 @@
+id: samizuhm.dsh-client-ui-theme-xp
+name:
+  zh: dsh-client-ui-theme-xp
+  en: dsh-client-ui-theme-xp
+author: SamizuHM
+description: Windows XP Luna 桌面化主题：浮动窗口管理器（任务栏、桌面图标）加上还原度很高的 Luna 皮肤。
+package: dsh-client-ui-theme-xp
+rowId: ui-theme-xp
+version: 0.1.1
+source:
+  kind: external
+  repository: https://github.com/SamizuHM/dsh-client-ui-theme-xp
+  commit: 3cc412f4e877c127dea2e5b6e3413e5ddc95ce97
+tags:
+  - wallpaper
+  - retro
+  - token-theme
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/SamizuHM/dsh-client-ui-theme-xp/3cc412f4e877c127dea2e5b6e3413e5ddc95ce97/docs/screenshot.png
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T12:16:17.062Z
