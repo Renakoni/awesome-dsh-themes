@@ -1,0 +1,34 @@
+id: yuqisun.dsh-theme-machine
+name:
+  zh: dsh-theme-machine
+  en: dsh-theme-machine
+author: yuqisun
+description: "Person-of-Interest skin for DeepSeek Harness: THE MACHINE surveillance-HUD theme (dark, cyan-on-black). Token override layer + HUD chrome + live telemetry panel for the dsh web UI."
+package: dsh-theme-machine
+rowId: theme-machine
+version: 0.1.1
+source:
+  kind: external
+  repository: https://github.com/yuqisun/dsh-theme-machine
+  commit: 58766c63e3ae487b84b3902b2467d85f9c8f9b83
+tags:
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/yuqisun/dsh-theme-machine/58766c63e3ae487b84b3902b2467d85f9c8f9b83/screenshots/demo1.png
+  - https://raw.githubusercontent.com/yuqisun/dsh-theme-machine/58766c63e3ae487b84b3902b2467d85f9c8f9b83/screenshots/demo2.png
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:58:28.052Z
