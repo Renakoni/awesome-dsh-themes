@@ -1,0 +1,34 @@
+id: darkskyx15.dsh-client-ui-m3-theme
+name:
+  zh: dsh-client-ui-m3-theme
+  en: dsh-client-ui-m3-theme
+author: DarkskyX15
+description: "Material 3 theme plugin for DeepSeek Harness: full M3 token mapping (light/dark palettes with per-mode chroma) + settings panel with primary color picker, presets and preview"
+package: dsh-client-ui-m3-theme
+rowId: ui-m3-theme
+version: 0.2.0
+source:
+  kind: external
+  repository: https://github.com/DarkskyX15/dsh-client-ui-m3-theme
+  commit: 5b167b8e1b544aa6224c1bb32bbb4d9a149e5f34
+tags:
+  - retro
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: ^0.1.0-rc.6
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/5b167b8e1b544aa6224c1bb32bbb4d9a149e5f34/DarkskyX15/dsh-client-ui-m3-theme
+review:
+  compatibility: verified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:52:11.206Z
