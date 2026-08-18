@@ -1,0 +1,31 @@
+id: linzhuolisoc.dsh-skin-study
+name:
+  zh: dsh-skin-study
+  en: dsh-skin-study
+author: linzhuoliSOC
+description: DeepSeek Harness 3D 书房。Cozy Study skin for DSH web.
+package: dsh-skin-study
+rowId: ui-skin-study
+version: 0.1.0
+source:
+  kind: external
+  repository: https://github.com/linzhuoliSOC/dsh-skin-study
+  commit: 233139cec4165c6f5231424ff7cd4647c4f2bf71
+tags:
+  - wallpaper
+modes:
+  - light
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/233139cec4165c6f5231424ff7cd4647c4f2bf71/linzhuoliSOC/dsh-skin-study
+review:
+  compatibility: unverified
+  preview: repository-card
+  installation: verified
+license:
+  code: Apache-2.0
+  commercialUse: true
+updatedAt: 2026-08-16T13:56:41.045Z
