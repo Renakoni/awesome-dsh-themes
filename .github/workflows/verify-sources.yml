@@ -1,0 +1,27 @@
+name: Verify external sources
+
+on:
+  pull_request:
+    paths:
+      - "entries/**"
+      - "scripts/verify-sources.mjs"
+      - "package.json"
+      - "package-lock.json"
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  sources:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run sources:check
