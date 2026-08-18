@@ -1,0 +1,36 @@
+id: dsh-plugins.dsh-thought-buddy
+name:
+  zh: dsh-thought-buddy
+  en: dsh-thought-buddy
+author: dsh-plugins
+description: 在「Deep diving...」状态提示前，放一只动态小伙伴——GrokBot 风格动画头像，状态文字还会同步打字机变换。
+package: "@dsh-plugin/dsh-thought-buddy"
+rowId: thought-buddy
+version: 0.2.0
+source:
+  kind: external
+  repository: https://github.com/dsh-plugins/dsh-thought-buddy
+  commit: bb8f1aa5972aab844b0c9793f0793b34f4a486b8
+tags:
+  - retro
+  - motion
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/bb8f1aa5972aab844b0c9793f0793b34f4a486b8/docs/banner.png
+  - https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/bb8f1aa5972aab844b0c9793f0793b34f4a486b8/docs/effect.gif
+  - https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/bb8f1aa5972aab844b0c9793f0793b34f4a486b8/docs/img.png
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: BSD-3-Clause
+  commercialUse: true
+updatedAt: 2026-08-16T12:16:21.589Z
