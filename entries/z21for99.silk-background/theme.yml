@@ -1,0 +1,37 @@
+id: z21for99.silk-background
+name:
+  zh: silk-background
+  en: silk-background
+author: z21for99
+description: "dsh web-profile client plugin: WebGL silk shader background for the Web GUI. v4: the glass effect rides the official theme service (overrideTokens token layers with light/dark pairs); the node half is a no-op. @deepseek-ai/dsh-client-modules discovers dsh.client, serves /plugins/silk-background/client.js and injects it into the boot manifest; the dsh.bundle.patch declaration lets `dsh plugin --profile web add` wire the entry automatically."
+package: silk-background
+rowId: silk-background
+version: 0.4.0
+source:
+  kind: external
+  repository: https://github.com/z21for99/silk-background
+  commit: f53a6ebb4b3dc1cb08b8d7a450d2a8a75cd1f2a1
+tags:
+  - wallpaper
+  - glass
+  - motion
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/z21for99/silk-background/f53a6ebb4b3dc1cb08b8d7a450d2a8a75cd1f2a1/screenshots/screenshot-1.png
+  - https://raw.githubusercontent.com/z21for99/silk-background/f53a6ebb4b3dc1cb08b8d7a450d2a8a75cd1f2a1/screenshots/screenshot-2.png
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:51:27.838Z
