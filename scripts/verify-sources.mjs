@@ -31,7 +31,7 @@ async function request(url, file) {
     let response;
     try {
       response = await fetch(url, {
-        headers: { accept: "application/json", "user-agent": "dsh-appearance-catalog-source-check" },
+        headers: { accept: "application/json", "user-agent": "awesome-dsh-themes-source-check" },
         signal: AbortSignal.timeout(15_000)
       });
     } catch (error) {
@@ -80,7 +80,7 @@ for (const file of (await entryFiles()).sort()) {
     try {
       const latest = await latestGitHubSource(value.source, {
         token: process.env.GITHUB_TOKEN,
-        userAgent: "dsh-appearance-catalog-source-check"
+        userAgent: "awesome-dsh-themes-source-check"
       });
       commit = latest.commit;
       manifest = latest.manifest;

@@ -1,4 +1,4 @@
-<h1 align="center">DSH Appearance Catalog</h1>
+<h1 align="center">Awesome DSH Themes</h1>
 
 <p align="center">
   <sub><b>简体中文</b> · <a href="README.en.md">English</a></sub>
@@ -46,7 +46,7 @@
 之后，对你的 AI 说：
 
 ```text
-把这个 DSH 主题[对应的主题仓库或链接]收录到 https://github.com/Renakoni/dsh-appearance-catalog：
+把这个 DSH 主题[对应的主题仓库或链接]收录到 https://github.com/Renakoni/awesome-dsh-themes：
 
 请检查上游仓库，找到真正的主题包目录、package.json 中的 name、version 和 dsh.client，确认主题的 rowId、预览图、许可证和兼容性；如果是 monorepo，请找到具体的主题包子目录。commit SHA 由收录脚本自动获取，不需要手动填写。
 

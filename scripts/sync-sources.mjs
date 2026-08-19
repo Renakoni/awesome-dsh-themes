@@ -84,7 +84,7 @@ async function resolveEntries(files, concurrency = 8) {
       try {
         const latest = await latestGitHubSource(entry.source, {
           token: process.env.GITHUB_TOKEN,
-          userAgent: "dsh-appearance-catalog-source-sync"
+          userAgent: "awesome-dsh-themes-source-sync"
         });
         results[index] = { file, document, entry, latest };
       } catch (error) {

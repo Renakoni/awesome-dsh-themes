@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T09:56:21.545Z",
+  "generatedAt": "2026-08-19T12:44:40.614Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -38,7 +38,7 @@
         "https://raw.githubusercontent.com/0nt-one/dsh-neo-skin/fe5ef0e671fab5ab8c8700013f3966eb9642455f/screenshots/app-dark.png",
         "https://raw.githubusercontent.com/0nt-one/dsh-neo-skin/fe5ef0e671fab5ab8c8700013f3966eb9642455f/screenshots/newspaper.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/0nt-one.dsh-neo-skin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/0nt-one.dsh-neo-skin.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -85,7 +85,7 @@
         "https://raw.githubusercontent.com/a1swg1159-pixel/dsh-arcaea-theme/7cbd4a03df2430ac39c32470cf0e4c7e93dc5918/assets/repository-banner.png",
         "https://raw.githubusercontent.com/a1swg1159-pixel/dsh-arcaea-theme/7cbd4a03df2430ac39c32470cf0e4c7e93dc5918/preview.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/a1swg1159-pixel.dsh-arcaea-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/a1swg1159-pixel.dsh-arcaea-theme.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -136,7 +136,7 @@
         "https://raw.githubusercontent.com/ADAning/dsh-pixel-skin/cd34110195a94ca785f32e9b45d2f6e4bc685b1a/assets/screenshots/palettes-light.png",
         "https://raw.githubusercontent.com/ADAning/dsh-pixel-skin/cd34110195a94ca785f32e9b45d2f6e4bc685b1a/assets/screenshots/palettes-dark.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/adaning.dsh-pixel-skin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/adaning.dsh-pixel-skin.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -184,7 +184,7 @@
         "https://raw.githubusercontent.com/ai7603/dsh-cyberpunk-theme/445693a248a03ebae53f155e8af0401410463d70/docs/screenshots/session-dark.png",
         "https://raw.githubusercontent.com/ai7603/dsh-cyberpunk-theme/445693a248a03ebae53f155e8af0401410463d70/docs/screenshots/session-light.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/ai7603.dsh-cyberpunk-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/ai7603.dsh-cyberpunk-theme.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -234,7 +234,7 @@
         "https://raw.githubusercontent.com/AKS1st/dsh-cyber-particle/e08111d59df009454d9de6b8384907f697e038f6/assets/image_light.png",
         "https://raw.githubusercontent.com/AKS1st/dsh-cyber-particle/e08111d59df009454d9de6b8384907f697e038f6/assets/image_dark.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/aks1st.dsh-cyber-particle.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/aks1st.dsh-cyber-particle.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -283,7 +283,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/c0e59e61332a5e3317365848f73240308d9d9345/AKS1st/ikun-theme-skin"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/aks1st.ikun-theme-skin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/aks1st.ikun-theme-skin.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -331,7 +331,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/bc3d531dbe1a4810300d63b1ed1220478e302d49/alcohol-101/dsh-gif-background"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/alcohol-101.dsh-gif-background.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/alcohol-101.dsh-gif-background.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -380,7 +380,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/3990dd397aec128553c7391b6d083c556483bc12/Andy294753951/dsh-plugin-gouden-leeuw-theme"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/andy294753951.dsh-plugin-gouden-leeuw-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/andy294753951.dsh-plugin-gouden-leeuw-theme.webp",
       "review": {
         "compatibility": "verified",
         "preview": "repository-card",
@@ -430,7 +430,7 @@
         "https://raw.githubusercontent.com/Anionex/dsh-eye-care/4f87acff00135317134e61a580c86198dad907c2/assets/eye-care-light.png",
         "https://raw.githubusercontent.com/Anionex/dsh-eye-care/4f87acff00135317134e61a580c86198dad907c2/assets/eye-care-dark.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/anionex.dsh-eye-care.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/anionex.dsh-eye-care.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -479,7 +479,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/b3e7e143532c4b6df71da753d2336bb018949d2a/BeiZi6/dsh-theme-plugin"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/beizi6.dsh-theme-plugin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/beizi6.dsh-theme-plugin.webp",
       "review": {
         "compatibility": "verified",
         "preview": "repository-card",
@@ -526,11 +526,11 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/entries/bilbillm.deepseek-harness-angelina-themes/screenshots/home.png",
-        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/entries/bilbillm.deepseek-harness-angelina-themes/screenshots/conversation.png",
-        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/entries/bilbillm.deepseek-harness-angelina-themes/screenshots/settings.png"
+        "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/entries/bilbillm.deepseek-harness-angelina-themes/screenshots/home.png",
+        "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/entries/bilbillm.deepseek-harness-angelina-themes/screenshots/conversation.png",
+        "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/entries/bilbillm.deepseek-harness-angelina-themes/screenshots/settings.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/bilbillm.deepseek-harness-angelina-themes.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/bilbillm.deepseek-harness-angelina-themes.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -577,7 +577,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/61e47127275240f31d61c34e2af3c1715c4fe2bb/CaoNing3212/dsh-plugin-image-wallpaper"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/caoning3212.dsh-plugin-image-wallpaper.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/caoning3212.dsh-plugin-image-wallpaper.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -625,7 +625,7 @@
         "https://raw.githubusercontent.com/caoyiwei850/dsh-client-ui-skins/2d6d60b2f7c28312149db9507f2bd3ee8acadfdb/assets/screenshots/ocean-guardian-dsh.jpg",
         "https://raw.githubusercontent.com/caoyiwei850/dsh-client-ui-skins/2d6d60b2f7c28312149db9507f2bd3ee8acadfdb/assets/screenshots/crimson-moon-dsh.jpg"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/caoyiwei850.dsh-client-ui-skins.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/caoyiwei850.dsh-client-ui-skins.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -673,7 +673,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/Carpon39038/dsh-image-theme/d522281fcdf81fb08984650800294b0058b89301/docs/preview.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/carpon39038.dsh-image-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/carpon39038.dsh-image-theme.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -721,7 +721,7 @@
         "https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/02cb6818155dc4816e4de5824a6d6d756b0ba87b/docs/screenshots/conversation.png",
         "https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/02cb6818155dc4816e4de5824a6d6d756b0ba87b/docs/screenshots/settings.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/cdxdnrf.wishadel-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/cdxdnrf.wishadel-theme.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -769,7 +769,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/976b65da11bd0e23d77aac9cbadd466fea51eb1b/chajiuqqq/dsh-claude-theme"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/chajiuqqq.dsh-claude-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/chajiuqqq.dsh-claude-theme.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -818,7 +818,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/e769eb31089880d156dc0cf9e98f1fa14bb7c5b9/CharlesAQ/dsh-fgo-chaldea"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/charlesaq.dsh-fgo-chaldea.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/charlesaq.dsh-fgo-chaldea.webp",
       "review": {
         "compatibility": "verified",
         "preview": "repository-card",
@@ -866,7 +866,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/ac35d036582b1e2b16f1138c01d5417ce6dc93ea/chinaRXQ/dsh-wallpaper"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/chinarxq.dsh-wallpaper.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/chinarxq.dsh-wallpaper.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -912,7 +912,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/6f8470414dc42541f0cfa182b0f85659cc0efc9c/cnskycn/shuimo-skin"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/cnskycn.shuimo-skin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/cnskycn.shuimo-skin.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -965,7 +965,7 @@
         "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/2437d80a96de4124c54fbe89872fa7090103f025/docs/screenshots/harness-wave-control-40.gif",
         "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/2437d80a96de4124c54fbe89872fa7090103f025/docs/screenshots/harness-daylight-sunset-40.gif"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/d-dev0101.open-sea-skin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/d-dev0101.open-sea-skin.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -1016,7 +1016,7 @@
         "https://raw.githubusercontent.com/dac114514/dsh-theme-center/705b65215d3a5de0e600c48fc1800863c8d1c923/docs/screenshots/theme-window.png",
         "https://raw.githubusercontent.com/dac114514/dsh-theme-center/705b65215d3a5de0e600c48fc1800863c8d1c923/docs/screenshots/theme-edit.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/dac114514.dsh-theme-center.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/dac114514.dsh-theme-center.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -1060,16 +1060,16 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/entries/dancingmemory.dskin/screenshots/home.png",
-        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/entries/dancingmemory.dskin/screenshots/conversation.png",
-        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/entries/dancingmemory.dskin/screenshots/settings.png",
+        "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/entries/dancingmemory.dskin/screenshots/home.png",
+        "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/entries/dancingmemory.dskin/screenshots/conversation.png",
+        "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/entries/dancingmemory.dskin/screenshots/settings.png",
         "https://raw.githubusercontent.com/dancingmemory/dskin/9ec8661b49bdf1a94250dcee9710cec22162a865/assets/banner.jpg",
         "https://raw.githubusercontent.com/dancingmemory/dskin/9ec8661b49bdf1a94250dcee9710cec22162a865/assets/shot-bigorange.png",
         "https://raw.githubusercontent.com/dancingmemory/dskin/9ec8661b49bdf1a94250dcee9710cec22162a865/assets/shot-white.png",
         "https://raw.githubusercontent.com/dancingmemory/dskin/9ec8661b49bdf1a94250dcee9710cec22162a865/assets/shot-black.png",
         "https://raw.githubusercontent.com/dancingmemory/dskin/9ec8661b49bdf1a94250dcee9710cec22162a865/assets/shot-tuxedo.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/dancingmemory.dskin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/dancingmemory.dskin.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -1114,7 +1114,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/bf9902e49b42d213180de1a4b8b0dd4574a5ca66/Danieltoraji/dsh-skin-kamisato"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/danieltoraji.dsh-skin-kamisato.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/danieltoraji.dsh-skin-kamisato.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -1161,7 +1161,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/5b167b8e1b544aa6224c1bb32bbb4d9a149e5f34/DarkskyX15/dsh-client-ui-m3-theme"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/darkskyx15.dsh-client-ui-m3-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/darkskyx15.dsh-client-ui-m3-theme.webp",
       "review": {
         "compatibility": "verified",
         "preview": "repository-card",
@@ -1208,7 +1208,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/e25421d9247aceecdc97852091991708a5897df0/DevourerM/dsh-naiwa-theme"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/devourerm.dsh-naiwa-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/devourerm.dsh-naiwa-theme.webp",
       "review": {
         "compatibility": "verified",
         "preview": "repository-card",
@@ -1257,7 +1257,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/0bddb1507514e758f1f63668df2b0c90d8d20102/dlpufan/dsh-theme-cyberpunk"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/dlpufan.dsh-theme-cyberpunk.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/dlpufan.dsh-theme-cyberpunk.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -1305,7 +1305,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/DocJlm/dsh-arknights/6419ea4d249945daa4bc05112b32ee868f5d2d6c/skins/pramanix-eyjafjalla/preview/cover.webp"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/docjlm.pramanix-eyjafjalla.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/docjlm.pramanix-eyjafjalla.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -1352,7 +1352,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/drfccv/dsh-theme-neko/6c7c9a58ff93cef7117cbfc3b48a295039cd7c45/sample/screenshot.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/drfccv.dsh-theme-neko.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/drfccv.dsh-theme-neko.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -1401,7 +1401,7 @@
         "https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/bb8f1aa5972aab844b0c9793f0793b34f4a486b8/docs/effect.gif",
         "https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/bb8f1aa5972aab844b0c9793f0793b34f4a486b8/docs/img.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/dsh-plugins.dsh-thought-buddy.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/dsh-plugins.dsh-thought-buddy.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -1446,7 +1446,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/DViridescent/dafy-whale-theme/99e8c571c40eee8d2e0599af8eddfcbf4f47fc89/preview.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/dviridescent.dafy-whale-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/dviridescent.dafy-whale-theme.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -1498,7 +1498,7 @@
         "https://raw.githubusercontent.com/Estellalee/dsh-outdoor-theme/236e5426f9a833191dd57758caef1fcd076d51ad/screenshots/waypoints-panel.png",
         "https://raw.githubusercontent.com/Estellalee/dsh-outdoor-theme/236e5426f9a833191dd57758caef1fcd076d51ad/screenshots/waypoints-expanded.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/estellalee.dsh-outdoor-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/estellalee.dsh-outdoor-theme.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -1548,7 +1548,7 @@
         "https://raw.githubusercontent.com/Ewnscat-ya/dsh-client-ui-skin-denia/1b846939864137123203f1cc8db628e1331df62a/preview/light.webp",
         "https://raw.githubusercontent.com/Ewnscat-ya/dsh-client-ui-skin-denia/1b846939864137123203f1cc8db628e1331df62a/preview/dark.webp"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/ewnscat-ya.dsh-client-ui-skin-denia.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/ewnscat-ya.dsh-client-ui-skin-denia.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -1598,7 +1598,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/gooosie/dsh-whale-bg/2746a7eacba5c0dde28e29d00b6b15f1f2894164/docs/assets/dsh-whale-bg-preview.gif"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/gooosie.dsh-whale-bg.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/gooosie.dsh-whale-bg.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -1651,7 +1651,7 @@
         "https://raw.githubusercontent.com/GptsApp/dsh-stylevault/b627f3a40c86cee9016d3749368479c08b5443b9/docs/screenshots/settings-2.png",
         "https://raw.githubusercontent.com/GptsApp/dsh-stylevault/b627f3a40c86cee9016d3749368479c08b5443b9/docs/screenshots/settings-3.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/gptsapp.dsh-stylevault.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/gptsapp.dsh-stylevault.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -1699,7 +1699,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/hachimi-ai/dsh-aemeath/f58eef75dcadb5aeaee9e78542e7e1d9ba43f821/image/image1.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/hachimi-ai.dsh-aemeath.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/hachimi-ai.dsh-aemeath.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -1745,7 +1745,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/91b23249e7428f7b8d477726d9f6c2b52c85b8ff/haibala-aii/dsh-extensions-wallpaperskin"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/haibala-aii.dsh-extensions-wallpaperskin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/haibala-aii.dsh-extensions-wallpaperskin.webp",
       "review": {
         "compatibility": "verified",
         "preview": "repository-card",
@@ -1792,7 +1792,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/a3f130852db0b7d86a819a22586b3f37029ae360/He2way/dsh-task-console"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/he2way.dsh-task-console.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/he2way.dsh-task-console.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -1843,7 +1843,7 @@
         "https://raw.githubusercontent.com/i1j/dsh-krill-theme/8711e44fd5e9ae94c1913a2bda09be28162432d3/assets/theme-light-1.0.png",
         "https://raw.githubusercontent.com/i1j/dsh-krill-theme/8711e44fd5e9ae94c1913a2bda09be28162432d3/assets/plankton-1.0.apng"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/i1j.dsh-krill-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/i1j.dsh-krill-theme.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -1897,7 +1897,7 @@
         "https://raw.githubusercontent.com/ink5897/dsh-theme-kit/0b2101b431491c24143f939daea8fd773ca2c641/docs/settings-preset.png",
         "https://raw.githubusercontent.com/ink5897/dsh-theme-kit/0b2101b431491c24143f939daea8fd773ca2c641/docs/settings-background.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/ink5897.dsh-theme-kit.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/ink5897.dsh-theme-kit.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -1942,7 +1942,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/1b74cfdd4c17b155e666c1becd63da35cb44846a/Isilsolme/dsh-anthropic-fonts"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/isilsolme.dsh-anthropic-fonts.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/isilsolme.dsh-anthropic-fonts.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -1989,7 +1989,7 @@
         "https://raw.githubusercontent.com/Jack-sun-learner/dsh-image-skin/896de5d72b5c05d4c8a2263af3586a0b0b4b8cb9/assets/shot-1.png",
         "https://raw.githubusercontent.com/Jack-sun-learner/dsh-image-skin/896de5d72b5c05d4c8a2263af3586a0b0b4b8cb9/assets/shot-2.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/jack-sun-learner.dsh-image-skin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/jack-sun-learner.dsh-image-skin.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -2038,7 +2038,7 @@
         "https://raw.githubusercontent.com/Jayliu2025-vip/dsh-fate-twin-contract/2564a25d0bb7a5ba88414075d4c8aa8f4a95cc87/assets/preview/light.webp",
         "https://raw.githubusercontent.com/Jayliu2025-vip/dsh-fate-twin-contract/2564a25d0bb7a5ba88414075d4c8aa8f4a95cc87/assets/preview/dark.webp"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/jayliu2025-vip.dsh-fate-twin-contract.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/jayliu2025-vip.dsh-fate-twin-contract.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -2084,7 +2084,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/0ab3d4227105ebb20f9e8a5ffd951c38969089df/Jayliu2025-vip/dsh-theme-huluwa"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/jayliu2025-vip.dsh-theme-huluwa.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/jayliu2025-vip.dsh-theme-huluwa.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -2131,7 +2131,7 @@
         "https://raw.githubusercontent.com/Jieice/dsh-wallpaper-rotator-enhanced/48f5cee32eff7c91f2c6f1b4f1de719bc2f1750e/docs/preview-1.png",
         "https://raw.githubusercontent.com/Jieice/dsh-wallpaper-rotator-enhanced/48f5cee32eff7c91f2c6f1b4f1de719bc2f1750e/docs/preview-2.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/jieice.dsh-wallpaper-rotator-enhanced.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/jieice.dsh-wallpaper-rotator-enhanced.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -2179,7 +2179,7 @@
         "https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/f65bf387a4a3e3f4680dd6bb63e7f30d20455543/docs/preview.png",
         "https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/f65bf387a4a3e3f4680dd6bb63e7f30d20455543/docs/demo.gif"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/king-of-soy-sauce.liang-intensity.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/king-of-soy-sauce.liang-intensity.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -2227,11 +2227,11 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/entries/kingao294.dsh-skin/screenshots/home.png",
-        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/entries/kingao294.dsh-skin/screenshots/conversation.png",
-        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/entries/kingao294.dsh-skin/screenshots/settings.png"
+        "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/entries/kingao294.dsh-skin/screenshots/home.png",
+        "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/entries/kingao294.dsh-skin/screenshots/conversation.png",
+        "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/entries/kingao294.dsh-skin/screenshots/settings.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/kingao294.dsh-skin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/kingao294.dsh-skin.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -2275,7 +2275,7 @@
       "screenshots": [
         "https://cdn.jsdelivr.net/gh/kinmat-A/dsh-theme-switch@main/docs/screenshot-zh.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/kinmat-a.dsh-theme-switch.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/kinmat-a.dsh-theme-switch.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -2322,7 +2322,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/9e451e3a9eda86f62c8624d606a911e68a943b16/kongxiangyiren/dhs-theme-plugin"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/kongxiangyiren.dhs-theme-plugin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/kongxiangyiren.dhs-theme-plugin.webp",
       "review": {
         "compatibility": "verified",
         "preview": "repository-card",
@@ -2371,7 +2371,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/laoduu/DeepSeek-Harness-yizi-themes/8964dc67fd77447d450afafc134c8d7421ac6735/assets/dsh-yizi-themes.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/laoduu.deepseek-harness-yizi-themes.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/laoduu.deepseek-harness-yizi-themes.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -2420,7 +2420,7 @@
         "https://raw.githubusercontent.com/LaplaceYoung/dsh-qq2006/fa3493ceb748171728113aba1aaf606d733790a0/assets/screenshots/qq2006-window-chrome.webp",
         "https://raw.githubusercontent.com/LaplaceYoung/dsh-qq2006/fa3493ceb748171728113aba1aaf606d733790a0/assets/screenshots/qq2006-message-flow.webp"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/laplaceyoung.dsh-qq2006.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/laplaceyoung.dsh-qq2006.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -2466,7 +2466,7 @@
         "https://raw.githubusercontent.com/le-soleil-se-couche/dsh-skin-claude-code/8590170e1c37eca3176469ade61998fd3d5088d4/docs/codex-config.png",
         "https://raw.githubusercontent.com/le-soleil-se-couche/dsh-skin-claude-code/8590170e1c37eca3176469ade61998fd3d5088d4/preview/light.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/le-soleil-se-couche.dsh-skin-claude-code.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/le-soleil-se-couche.dsh-skin-claude-code.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -2520,7 +2520,7 @@
         "https://raw.githubusercontent.com/LeemanCheung/dsh-qq2007-skin/e7c61af021dab1d387566a07d3528dc563e4f070/assets/runtime/retro-toolbar-icons.webp",
         "https://raw.githubusercontent.com/LeemanCheung/dsh-qq2007-skin/e7c61af021dab1d387566a07d3528dc563e4f070/assets/runtime/buddy-room-wallpaper.webp"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/leemancheung.dsh-qq2007-skin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/leemancheung.dsh-qq2007-skin.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -2567,7 +2567,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/LeemanCheung/dsh-whale-companion/9fca0908e5a96412f2314c047c2a0bedcdd642b8/assets/screenshots/overview.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/leemancheung.dsh-whale-companion.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/leemancheung.dsh-whale-companion.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -2614,7 +2614,7 @@
         "https://raw.githubusercontent.com/lengduan/dsh-815-skin/5b0c843b8fb0e3e4a0a223209fb8768d3cd3275d/assets/nanjing-surrender-chen-jian.jpg",
         "https://raw.githubusercontent.com/lengduan/dsh-815-skin/5b0c843b8fb0e3e4a0a223209fb8768d3cd3275d/docs/preview.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/lengduan.dsh-815-skin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/lengduan.dsh-815-skin.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -2664,7 +2664,7 @@
         "https://raw.githubusercontent.com/Lhy723/dsh-neu-theme/54f4a07c0364f9f9d571a1384471e3825e1c14a4/.github/asset/light.webp",
         "https://raw.githubusercontent.com/Lhy723/dsh-neu-theme/54f4a07c0364f9f9d571a1384471e3825e1c14a4/.github/asset/dark.webp"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/lhy723.dsh-neu-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/lhy723.dsh-neu-theme.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -2710,7 +2710,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/licheng-ma/dsh-wechat-skin/9528966105ab074631a9b3f7bdf8e2c0a13e3297/docs/preview.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/licheng-ma.dsh-wechat-skin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/licheng-ma.dsh-wechat-skin.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -2764,7 +2764,7 @@
         "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/307eb04764a24ff8ba3f3bd7a2eb5e103fc772d6/docs/preview-color-dark.png",
         "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/307eb04764a24ff8ba3f3bd7a2eb5e103fc772d6/docs/preview-session-dark.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/lilycleheart.liuli-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/lilycleheart.liuli-theme.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -2812,7 +2812,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/7a5b6a60e6748f011d5822d99c65b0a736b367ff/linkingoscar/dsh-billing-glass"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/linkingoscar.dsh-billing-glass.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/linkingoscar.dsh-billing-glass.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -2856,7 +2856,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/65c35fe23ee64a9fa8d8c2813b81a3fba8d218bf/linzhuoliSOC/dsh-skin-study"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/linzhuolisoc.dsh-skin-study.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/linzhuolisoc.dsh-skin-study.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -2905,7 +2905,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/62ae2e761f045387617e28828e4b533626b3156e/longyu065/dsh-theme-ti"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/longyu065.dsh-theme-ti.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/longyu065.dsh-theme-ti.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -2953,7 +2953,7 @@
         "https://raw.githubusercontent.com/lssyd20070106/dsh-ui-preset-enhance/36a18e24340677cf3c7a4771c861b9b931360e1e/assets/preview-home.png",
         "https://raw.githubusercontent.com/lssyd20070106/dsh-ui-preset-enhance/36a18e24340677cf3c7a4771c861b9b931360e1e/assets/preview-settings.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/lssyd20070106.dsh-ui-preset-enhance.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/lssyd20070106.dsh-ui-preset-enhance.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -3001,7 +3001,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/14980c518e7a64c37d1875af4a8be44feaa53f12/luoyu-xingu/dsh-background"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/luoyu-xingu.dsh-background.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/luoyu-xingu.dsh-background.webp",
       "review": {
         "compatibility": "verified",
         "preview": "repository-card",
@@ -3047,7 +3047,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/d03495118b21019a9e45f63044985faf6962e5f6/lzylyd/dsh-dracula"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/lzylyd.dsh-dracula.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/lzylyd.dsh-dracula.webp",
       "review": {
         "compatibility": "verified",
         "preview": "repository-card",
@@ -3096,7 +3096,7 @@
         "https://raw.githubusercontent.com/makuralymi/dsh-webUI-Glass-Theme/b76db9b1a96074a44eef0e87c2346a528065f1fe/assets/sc.png",
         "https://raw.githubusercontent.com/makuralymi/dsh-webUI-Glass-Theme/b76db9b1a96074a44eef0e87c2346a528065f1fe/assets/sc2.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/makuralymi.dsh-webui-glass-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/makuralymi.dsh-webui-glass-theme.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -3143,7 +3143,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/MangMax/dsh-themes/85fe103cc2792da5eec2d57b045509256a5206d1/assets/screenshot.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/mangmax.dsh-themes.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/mangmax.dsh-themes.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -3194,7 +3194,7 @@
         "https://raw.githubusercontent.com/Misaki14987/dsh-theme-taffy/58761735d967c3cbf551a9bd7aa292bb13258853/docs/screenshot-dark.png",
         "https://raw.githubusercontent.com/Misaki14987/dsh-theme-taffy/58761735d967c3cbf551a9bd7aa292bb13258853/docs/screenshot-light.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/misaki14987.dsh-theme-taffy.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/misaki14987.dsh-theme-taffy.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -3243,7 +3243,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/dcf7642211a84114186a7f12e1a6efbe5d7d36e1/mizuhara37/dsh-nene-theme"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/mizuhara37.dsh-nene-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/mizuhara37.dsh-nene-theme.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -3291,7 +3291,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/mldhao/dsh-blue-archive-shiroko/dffeebce96a606c22cf593be3affbf6620e91a9b/assets/screenshot.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/mldhao.dsh-blue-archive-shiroko.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/mldhao.dsh-blue-archive-shiroko.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -3337,7 +3337,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/MoonShadow1976/chiral-pulse/4e5ba581468370871ff79e159c1c1b9dd31433b1/assets/chiral-pulse-hero.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/moonshadow1976.chiral-pulse.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/moonshadow1976.chiral-pulse.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -3385,7 +3385,7 @@
       "screenshots": [
         "https://github.com/user-attachments/assets/0d5ca23b-e24e-4ee9-9265-95aedb4b1272"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/morinissleeping.dsh-pnc-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/morinissleeping.dsh-pnc-theme.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -3433,7 +3433,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/mtaech/dsh-material-you/ed551a54dbf7f666e96b85f650cf01870117aba1/demo.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/mtaech.dsh-material-you.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/mtaech.dsh-material-you.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -3480,7 +3480,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/f535e6817e4ac0c2a78f383adf4943f5807b88b4/nineandnine-9/dsh-theme-rheostat"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/nineandnine-9.dsh-theme-rheostat.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/nineandnine-9.dsh-theme-rheostat.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -3529,7 +3529,7 @@
         "https://raw.githubusercontent.com/noexcs/dsh-skin-glass/085df7daf0ebc65f721e66896406bb9877489b59/screenshots/screenshot_0.jpg",
         "https://raw.githubusercontent.com/noexcs/dsh-skin-glass/085df7daf0ebc65f721e66896406bb9877489b59/screenshots/screenshot_1.jpg"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/noexcs.dsh-skin-glass.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/noexcs.dsh-skin-glass.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -3583,7 +3583,7 @@
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png",
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/nonamelego.dsh-catppuccin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/nonamelego.dsh-catppuccin.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -3634,7 +3634,7 @@
         "https://raw.githubusercontent.com/oceanxuikun/dsh-eva-theme-plugin/dcdf404b83b0c49ccc16a9389222ec513ae3b81d/assets/screenshot00.png",
         "https://raw.githubusercontent.com/oceanxuikun/dsh-eva-theme-plugin/dcdf404b83b0c49ccc16a9389222ec513ae3b81d/assets/screenshot02.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/oceanxuikun.dsh-eva-theme-plugin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/oceanxuikun.dsh-eva-theme-plugin.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -3681,7 +3681,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/efe1bec16889571f5e67bc7118163b0435768101/omdsh-dev/dsh-fun-weather"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/omdsh-dev.dsh-fun-weather.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/omdsh-dev.dsh-fun-weather.webp",
       "review": {
         "compatibility": "verified",
         "preview": "repository-card",
@@ -3728,7 +3728,7 @@
         "https://raw.githubusercontent.com/PAKIKNOWLEDGE/dsh-client-ui-skin-claude/78690f8449b61c0ea00e827c7427934810b9c554/docs/dark.png",
         "https://raw.githubusercontent.com/PAKIKNOWLEDGE/dsh-client-ui-skin-claude/78690f8449b61c0ea00e827c7427934810b9c554/docs/light.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/pakiknowledge.dsh-client-ui-skin-claude.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/pakiknowledge.dsh-client-ui-skin-claude.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -3775,7 +3775,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/887d5a4ee5c037b5e69a6e867984dfb300c2dda4/RainbowDashy/dsh-theme-palettes"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/rainbowdashy.dsh-theme-palettes.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/rainbowdashy.dsh-theme-palettes.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -3822,7 +3822,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/824cef053f1cabcfaca93ae6b63261f66279f238/RayYeung1989/claude-parchment-theme"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/rayyeung1989.claude-parchment-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/rayyeung1989.claude-parchment-theme.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -3869,7 +3869,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/RealHacker/dsh-theme-colorizer/7c4152c1956ff87d93d74f928f1cf3a9e60101ca/asset/dsh-color-theme.jpeg"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/realhacker.dsh-theme-colorizer.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/realhacker.dsh-theme-colorizer.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -3917,7 +3917,7 @@
         "https://raw.githubusercontent.com/ReLuckyLucy/dsh_Rhine_Lab_themo/54c2f2611f6bc6e36a784cc33908ad29bccef2b7/screenshots/light.png",
         "https://raw.githubusercontent.com/ReLuckyLucy/dsh_Rhine_Lab_themo/54c2f2611f6bc6e36a784cc33908ad29bccef2b7/screenshots/dark.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/reluckylucy.dsh-rhine-lab-themo.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/reluckylucy.dsh-rhine-lab-themo.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -3966,7 +3966,7 @@
         "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/cb44e620126126061e8a0237280b4424464ecba7/docs/screenshots/preview.png",
         "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/cb44e620126126061e8a0237280b4424464ecba7/docs/screenshots/settings.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/revolutionla.dsh-dream-skin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -4014,7 +4014,7 @@
         "https://raw.githubusercontent.com/sakka6868/dsh-skin/802461800cfd20c640198c82df4d23a2c996c1bc/docs/preview-main.png",
         "https://raw.githubusercontent.com/sakka6868/dsh-skin/802461800cfd20c640198c82df4d23a2c996c1bc/docs/preview-gallery.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/sakka6868.dsh-skin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/sakka6868.dsh-skin.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -4061,7 +4061,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/SamizuHM/dsh-client-ui-theme-xp/3cc412f4e877c127dea2e5b6e3413e5ddc95ce97/docs/screenshot.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/samizuhm.dsh-client-ui-theme-xp.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/samizuhm.dsh-client-ui-theme-xp.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -4108,7 +4108,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/3b220e179812a81e60f2d32259bde9262808cd09/seekerwxy/dsh-aurora-theme"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/seekerwxy.dsh-aurora-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/seekerwxy.dsh-aurora-theme.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -4156,7 +4156,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/SenryLee/dsh-frosted-window/ccee61d02837d2e3e3160743c07c8627a40c3438/docs/preview.jpg"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/senrylee.dsh-frosted-window.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/senrylee.dsh-frosted-window.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -4202,7 +4202,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/3f94f1569a0f9193a7ff5bb7bb8000b8e6b05a36/shenmy-git/dsh-weather-plugin"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/shenmy-git.dsh-weather-plugin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/shenmy-git.dsh-weather-plugin.webp",
       "review": {
         "compatibility": "verified",
         "preview": "repository-card",
@@ -4249,7 +4249,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/1e22fa74783f5f84e7ecb8d7b96fb2997dc9d4f8/Sim-xia/dsh-vscode-theme"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/sim-xia.dsh-vscode-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/sim-xia.dsh-vscode-theme.webp",
       "review": {
         "compatibility": "verified",
         "preview": "repository-card",
@@ -4300,7 +4300,7 @@
         "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/4d3e34687010863a29e0ba539209ad5138856f1f/maid-atelier/preview/light.webp",
         "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/4d3e34687010863a29e0ba539209ad5138856f1f/maid-atelier/preview/dark.webp"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/small-tailqwq.maid-atelier.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/small-tailqwq.maid-atelier.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -4349,7 +4349,7 @@
         "https://raw.githubusercontent.com/starslittle/dsh-blue-whale/e18aa1e27e98df98c478b8d24076a94e64d43ed5/docs/compare-home.png",
         "https://raw.githubusercontent.com/starslittle/dsh-blue-whale/e18aa1e27e98df98c478b8d24076a94e64d43ed5/docs/compare-brand.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/starslittle.dsh-blue-whale.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/starslittle.dsh-blue-whale.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -4397,7 +4397,7 @@
         "https://raw.githubusercontent.com/suzike/freestyle-dsh-theme/cd9e9eb53ccbaded4cf6123919e24392daeda0d4/docs/images/screenshot-proposer.png",
         "https://raw.githubusercontent.com/suzike/freestyle-dsh-theme/cd9e9eb53ccbaded4cf6123919e24392daeda0d4/docs/images/screenshot-designer.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/suzike.freestyle-dsh-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/suzike.freestyle-dsh-theme.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -4445,7 +4445,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/syOPV/dsh-theme-background-center/06ff231740697a3f3119be72f5f715677bbbee2c/assets/screenshot.jpg"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/syopv.dsh-theme-background-center.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/syopv.dsh-theme-background-center.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -4497,7 +4497,7 @@
         "https://raw.githubusercontent.com/thjyy/dph-endfield-theme/223a27aefedd1ad221083d065754614401eade80/docs/images/state-typing.gif",
         "https://raw.githubusercontent.com/thjyy/dph-endfield-theme/223a27aefedd1ad221083d065754614401eade80/docs/images/state-thinking.gif"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/thjyy.dph-endfield-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/thjyy.dph-endfield-theme.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -4544,7 +4544,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/781fd4605756503f9635d6083686e079b5a8944f/tiantyu/dsh-skin-toggle"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/tiantyu.dsh-skin-toggle.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tiantyu.dsh-skin-toggle.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -4591,7 +4591,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/45eb412553607a3ac69c73d85d04a943334e0d30/TianYa-DAO/dsh-wallpaper-engine"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/tianya-dao.dsh-wallpaper-engine.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tianya-dao.dsh-wallpaper-engine.webp",
       "review": {
         "compatibility": "verified",
         "preview": "repository-card",
@@ -4634,11 +4634,11 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/entries/tianyhjg-lab.dsh-font/screenshots/home.png",
-        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/entries/tianyhjg-lab.dsh-font/screenshots/conversation.png",
-        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/entries/tianyhjg-lab.dsh-font/screenshots/settings.png"
+        "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/entries/tianyhjg-lab.dsh-font/screenshots/home.png",
+        "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/entries/tianyhjg-lab.dsh-font/screenshots/conversation.png",
+        "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/entries/tianyhjg-lab.dsh-font/screenshots/settings.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/tianyhjg-lab.dsh-font.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tianyhjg-lab.dsh-font.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -4692,7 +4692,7 @@
         "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/5e4c0e0c3758c834422a6528ac26821ebf764b29/example_img/image-3.png",
         "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/5e4c0e0c3758c834422a6528ac26821ebf764b29/example_img/image-4.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/tkingxiao.dsh-any-background.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tkingxiao.dsh-any-background.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -4740,7 +4740,7 @@
         "https://raw.githubusercontent.com/Tommy00748/dsh-theme-cyberpunk2077/a3681ee431f59c64b8bf37d34ee609ddc7811278/assets/screenshot.png",
         "https://raw.githubusercontent.com/Tommy00748/dsh-theme-cyberpunk2077/a3681ee431f59c64b8bf37d34ee609ddc7811278/assets/relic-easter-egg.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/tommy00748.dsh-theme-cyberpunk2077.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tommy00748.dsh-theme-cyberpunk2077.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -4791,7 +4791,7 @@
         "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/8eb1379dd04f18592f7ae6b833d1890f57e26f24/docs/app-logo-library.png",
         "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/8eb1379dd04f18592f7ae6b833d1890f57e26f24/docs/app-logo-flowers.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/tpmoonchefryan.dsh-joi-channel-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tpmoonchefryan.dsh-joi-channel-theme.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -4839,7 +4839,7 @@
         "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/e9605869ddb38dd79d88ff7de191fea21da1db52/docs/screenshot-settings.png",
         "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/e9605869ddb38dd79d88ff7de191fea21da1db52/docs/screenshot-wallpaper.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/tqsy114514.dsh-ui-appearance.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tqsy114514.dsh-ui-appearance.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -4887,7 +4887,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/701b3f5e19a15ebf6c777502edd7549c956ff618/tuogusa/dsh-whale-background"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/tuogusa.dsh-whale-background.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tuogusa.dsh-whale-background.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -4935,7 +4935,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/64e59c04affb0aa08af20d6cdf41f3f47bb40aff/tzy168/dsh-web-theme-packs"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/tzy168.dsh-web-theme-packs.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tzy168.dsh-web-theme-packs.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -4988,7 +4988,7 @@
         "https://raw.githubusercontent.com/Vim0x3c/dsh-skin-appearance/be7b05776c1dee9e3d387e122c42005edf400837/assets/screenshots/abyss-starport.jpg",
         "https://raw.githubusercontent.com/Vim0x3c/dsh-skin-appearance/be7b05776c1dee9e3d387e122c42005edf400837/assets/screenshots/deepsea-whale.jpg"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/vim0x3c.dsh-skin-appearance.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/vim0x3c.dsh-skin-appearance.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -5036,7 +5036,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/af4e9c3967df0fbeeead25b4f1426e30382d1a90/VlanTech/dsh-glassic-mist-theme"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/vlantech.dsh-glassic-mist-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/vlantech.dsh-glassic-mist-theme.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -5085,7 +5085,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/3be4924a1e05af0882aebaae87237e2ff5a93d4b/vonPaulison/deepseek-harness-custom-background"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/vonpaulison.deepseek-harness-custom-background.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/vonpaulison.deepseek-harness-custom-background.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -5132,7 +5132,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/wangxilhy23/dsh-wx-skin/5351f776e73331ed70f5b656c8373c83b7a559a9/assets/demo1.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/wangxilhy23.dsh-wx-skin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/wangxilhy23.dsh-wx-skin.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -5181,7 +5181,7 @@
         "https://raw.githubusercontent.com/wanzhiwei5/dsh-skin-amis/74d91e4b994d9fb8513ee3df97c43d3280390e58/preview/light.png",
         "https://raw.githubusercontent.com/wanzhiwei5/dsh-skin-amis/74d91e4b994d9fb8513ee3df97c43d3280390e58/preview/dark.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/wanzhiwei5.dsh-skin-amis.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/wanzhiwei5.dsh-skin-amis.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -5229,7 +5229,7 @@
         "https://raw.githubusercontent.com/wolfsonliu/dsh-file-explorer-preview-code/7a82582400e3b64f2f03487114446245fc2e3693/assets/dsh-file-explorer-preview-code_dark.png",
         "https://raw.githubusercontent.com/wolfsonliu/dsh-file-explorer-preview-code/7a82582400e3b64f2f03487114446245fc2e3693/assets/dsh-file-explorer-preview-code_light.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/wolfsonliu.dsh-file-explorer-preview-code.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/wolfsonliu.dsh-file-explorer-preview-code.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -5277,7 +5277,7 @@
         "https://raw.githubusercontent.com/wsxwj123/dsh-plugins/269acbc87df039a2aba9cc405dea488fbfceb414/assets/screenshots/appearance-gallery.png",
         "https://raw.githubusercontent.com/wsxwj123/dsh-plugins/269acbc87df039a2aba9cc405dea488fbfceb414/assets/screenshots/appearance-gallery-skin.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/wsxwj123.dsh-appearance-gallery.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/wsxwj123.dsh-appearance-gallery.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -5327,7 +5327,7 @@
         "https://raw.githubusercontent.com/WuWL-98/dsh-theme-paper/a13f7a3383543f14e1a50a58ee25865ea1185ed6/docs/settings.png",
         "https://raw.githubusercontent.com/WuWL-98/dsh-theme-paper/a13f7a3383543f14e1a50a58ee25865ea1185ed6/docs/conversation.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/wuwl-98.dsh-theme-paper.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/wuwl-98.dsh-theme-paper.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -5374,7 +5374,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/6f451fb54d5f77359712e7fb4055fc8b025b6b68/wuzhong962-alt/dsh-matrix-theme"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/wuzhong962-alt.dsh-matrix-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/wuzhong962-alt.dsh-matrix-theme.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "repository-card",
@@ -5425,7 +5425,7 @@
         "https://raw.githubusercontent.com/WYH66666666/DSH-Transparent-UI-Plugin/fa0cb1fd172a1301297727334b08d8322ee57077/assets/3.png",
         "https://raw.githubusercontent.com/WYH66666666/DSH-Transparent-UI-Plugin/fa0cb1fd172a1301297727334b08d8322ee57077/assets/4.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/wyh66666666.dsh-transparent-ui-plugin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/wyh66666666.dsh-transparent-ui-plugin.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -5476,7 +5476,7 @@
         "https://raw.githubusercontent.com/X9wd09ncc/dsh-x9-theme/9af49294ab82a3ca1e6c5ab9df46179a5bd9489b//assets/screenshots/settings-theme.png",
         "https://raw.githubusercontent.com/X9wd09ncc/dsh-x9-theme/9af49294ab82a3ca1e6c5ab9df46179a5bd9489b//assets/screenshots/background.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/x9wd09ncc.dsh-x9-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/x9wd09ncc.dsh-x9-theme.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -5531,7 +5531,7 @@
         "https://raw.githubusercontent.com/xiake595/touhou-hakurei/dae71e3b063f2051c590abbabaa1462cf2cd54ea/screenshots/shot-light-1.webp",
         "https://raw.githubusercontent.com/xiake595/touhou-hakurei/dae71e3b063f2051c590abbabaa1462cf2cd54ea/screenshots/shot-light-2.webp"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/xiake595.touhou-hakurei.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/xiake595.touhou-hakurei.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -5584,7 +5584,7 @@
         "https://raw.githubusercontent.com/xiaoyanzi191/dsh-premium-themes/7e485999e45711396ba08806a40c9bfe3c650103/docs/screenshots/jade-dark.png",
         "https://raw.githubusercontent.com/xiaoyanzi191/dsh-premium-themes/7e485999e45711396ba08806a40c9bfe3c650103/docs/screenshots/default-light.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/xiaoyanzi191.dsh-premium-themes.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/xiaoyanzi191.dsh-premium-themes.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -5634,7 +5634,7 @@
         "https://raw.githubusercontent.com/xingyingyuzhui/dsh-liquid-glass/573a81d66ddff86216a61ebee4c755ed49ae31de/docs/preview/settings.jpg",
         "https://raw.githubusercontent.com/xingyingyuzhui/dsh-liquid-glass/573a81d66ddff86216a61ebee4c755ed49ae31de/docs/preview/custom-wallpaper.jpg"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/xingyingyuzhui.dsh-liquid-glass.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/xingyingyuzhui.dsh-liquid-glass.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -5687,7 +5687,7 @@
         "https://cdn.jsdelivr.net/gh/yoli-mi/dsh-client-ui-custom@main/assets/general-settings.png",
         "https://cdn.jsdelivr.net/gh/yoli-mi/dsh-client-ui-custom@main/assets/marketplace.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/yoli-mi.dsh-client-ui-custom.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/yoli-mi.dsh-client-ui-custom.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -5735,7 +5735,7 @@
         "https://raw.githubusercontent.com/youyli03/dsh-palenight-theme/94d2f61a679c6760c58357f5a0f2bee7c9bca906/screenshots/light.jpeg",
         "https://raw.githubusercontent.com/youyli03/dsh-palenight-theme/94d2f61a679c6760c58357f5a0f2bee7c9bca906/screenshots/dark.jpeg"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/youyli03.dsh-palenight-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/youyli03.dsh-palenight-theme.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -5783,7 +5783,7 @@
         "https://raw.githubusercontent.com/youzhoujiMrLiu/dsh-ui-wallpaper/dab67b19bd54dce3accbfac33ee7b0d40a1235a6/screenshots/wallpaper.jpg",
         "https://raw.githubusercontent.com/youzhoujiMrLiu/dsh-ui-wallpaper/dab67b19bd54dce3accbfac33ee7b0d40a1235a6/screenshots/settings.jpg"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/youzhoujimrliu.dsh-ui-wallpaper.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/youzhoujimrliu.dsh-ui-wallpaper.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -5832,7 +5832,7 @@
       "screenshots": [
         "https://github.com/user-attachments/assets/59734301-8ebc-4f9b-8d7a-340b96873733"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/yrn-playmaker.dsh-wallpaper-share.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/yrn-playmaker.dsh-wallpaper-share.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -5881,7 +5881,7 @@
         "https://raw.githubusercontent.com/yunxiiQwQ/dsh-maid-whale-webUI/f574f151bdfde7e8569797962eb8ff6aad4b3bf1/maid-whale-webui/preview/light.webp",
         "https://raw.githubusercontent.com/yunxiiQwQ/dsh-maid-whale-webUI/f574f151bdfde7e8569797962eb8ff6aad4b3bf1/maid-whale-webui/preview/dark.webp"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/yunxiiqwq.maid-whale-webui.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/yunxiiqwq.maid-whale-webui.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -5928,7 +5928,7 @@
         "https://raw.githubusercontent.com/yuqisun/dsh-theme-machine/e7e7762e16ff6469fe9153e5d75bac1b37b0ef13/screenshots/demo1.png",
         "https://raw.githubusercontent.com/yuqisun/dsh-theme-machine/e7e7762e16ff6469fe9153e5d75bac1b37b0ef13/screenshots/demo2.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/yuqisun.dsh-theme-machine.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/yuqisun.dsh-theme-machine.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -5978,7 +5978,7 @@
         "https://raw.githubusercontent.com/yushi-xxh/dsh-homepage-skin/44933213da11f82caefd609ad1bdfe84ac95b3e0/docs/compare-dark.png",
         "https://raw.githubusercontent.com/yushi-xxh/dsh-homepage-skin/44933213da11f82caefd609ad1bdfe84ac95b3e0/docs/compare-light.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/yushi-xxh.dsh-homepage-skin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/yushi-xxh.dsh-homepage-skin.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -6028,7 +6028,7 @@
         "https://raw.githubusercontent.com/z21for99/silk-background/f53a6ebb4b3dc1cb08b8d7a450d2a8a75cd1f2a1/screenshots/screenshot-1.png",
         "https://raw.githubusercontent.com/z21for99/silk-background/f53a6ebb4b3dc1cb08b8d7a450d2a8a75cd1f2a1/screenshots/screenshot-2.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/z21for99.silk-background.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/z21for99.silk-background.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -6075,7 +6075,7 @@
       "screenshots": [
         "https://opengraph.githubassets.com/8077481d61ac9f838f5fba870c523e81176c467c/z827439974/dsh-background-plugin"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/z827439974.dsh-background-plugin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/z827439974.dsh-background-plugin.webp",
       "review": {
         "compatibility": "verified",
         "preview": "repository-card",
@@ -6122,7 +6122,7 @@
         "https://raw.githubusercontent.com/zealot00/dsh-pet/cb31dd4474f655e1caa87ed10d4403ba46a3f8b5/docs/screenshot-states.png",
         "https://raw.githubusercontent.com/zealot00/dsh-pet/cb31dd4474f655e1caa87ed10d4403ba46a3f8b5/docs/screenshot-scene.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/zealot00.dsh-pet.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/zealot00.dsh-pet.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",
@@ -6172,7 +6172,7 @@
         "https://raw.githubusercontent.com/zenghuizhu69-hub/dsh-skin-blue-whale/6cf1b2125b01ec9180a7e65b7d707b53f5119334/screenshots/hero.png",
         "https://raw.githubusercontent.com/zenghuizhu69-hub/dsh-skin-blue-whale/6cf1b2125b01ec9180a7e65b7d707b53f5119334/screenshots/work.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/zenghuizhu69-hub.dsh-skin-blue-whale.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/zenghuizhu69-hub.dsh-skin-blue-whale.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -6225,7 +6225,7 @@
         "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/9885d3e7ee93ad4c972e92be4b6f301105e73eb4/assets/frappe.webp",
         "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/9885d3e7ee93ad4c972e92be4b6f301105e73eb4/assets/macchiato.webp"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/zhijun-dai.catppuccin.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/zhijun-dai.catppuccin.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -6272,7 +6272,7 @@
         "https://raw.githubusercontent.com/zhijun-dai/dsh-Fonts/46014ec5663435bdd39acee2e77c3979810b1967/assets/fonts-jetbrains-inter.webp",
         "https://raw.githubusercontent.com/zhijun-dai/dsh-Fonts/46014ec5663435bdd39acee2e77c3979810b1967/assets/fonts-settings.webp"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/zhijun-dai.dsh-fonts.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/zhijun-dai.dsh-fonts.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -6324,7 +6324,7 @@
         "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/6b0614e53a4314c1705967b7e3c437b64dee64f2/assets/selenized-light.webp",
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/zhijun-dai.solarized-dsh-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/zhijun-dai.solarized-dsh-theme.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -6374,7 +6374,7 @@
         "https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/6dbea1ac6131abccea755551eb294a8cc4805786/docs/assets/md-preview.png",
         "https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/6dbea1ac6131abccea755551eb294a8cc4805786/docs/assets/git-changes.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/zhxqc.dsh-oh-my-theme.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/zhxqc.dsh-oh-my-theme.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -6423,7 +6423,7 @@
         "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/3391be192dfb3a5cc4b0ac7a6f43bfc7be03f317/assets/conversation-light.png",
         "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/3391be192dfb3a5cc4b0ac7a6f43bfc7be03f317/assets/mobile-light.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/zjuzhiyucai.dsh-ivory.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/zjuzhiyucai.dsh-ivory.webp",
       "review": {
         "compatibility": "unverified",
         "preview": "verified",

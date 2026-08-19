@@ -26,7 +26,7 @@ async function repositoryMetadata(entry) {
     const response = await fetch(`https://api.github.com/repos/${slug}`, {
       headers: {
         accept: "application/vnd.github+json",
-        "user-agent": "dsh-appearance-catalog-preview",
+        "user-agent": "awesome-dsh-themes-preview",
         ...(process.env.GITHUB_TOKEN ? { authorization: `Bearer ${process.env.GITHUB_TOKEN}` } : {})
       },
       signal: AbortSignal.timeout(15_000)
@@ -51,7 +51,7 @@ async function sourceBuffer(entry, file) {
   let response;
   try {
     response = await fetch(source, {
-      headers: { accept: "image/*", "user-agent": "dsh-appearance-catalog-preview" },
+      headers: { accept: "image/*", "user-agent": "awesome-dsh-themes-preview" },
       signal: AbortSignal.timeout(30_000)
     });
   } catch (error) {

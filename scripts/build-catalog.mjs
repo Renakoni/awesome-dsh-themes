@@ -60,7 +60,7 @@ async function githubStars(repository, fallback) {
     const response = await fetch(`https://api.github.com/repos/${repositorySlug(repository)}`, {
       headers: {
         accept: "application/vnd.github+json",
-        "user-agent": "dsh-appearance-catalog",
+        "user-agent": "awesome-dsh-themes",
         authorization: `Bearer ${process.env.GITHUB_TOKEN}`
       },
       signal: AbortSignal.timeout(10_000)

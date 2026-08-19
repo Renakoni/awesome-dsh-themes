@@ -48,7 +48,7 @@ export async function latestGitHubSource(source, options = {}) {
   const slug = repositorySlug(source.repository);
   const requestOptions = {
     token: options.token,
-    userAgent: options.userAgent ?? "dsh-appearance-catalog",
+    userAgent: options.userAgent ?? "awesome-dsh-themes",
     fetcher: options.fetcher
   };
   const repository = await githubJson(`/repos/${slug}`, requestOptions);
