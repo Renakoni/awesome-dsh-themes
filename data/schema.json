@@ -3,7 +3,7 @@
   "$id": "https://github.com/Renakoni/dsh-appearance-catalog/schemas/theme.json",
   "type": "object",
   "additionalProperties": false,
-  "required": ["id", "name", "author", "description", "package", "rowId", "version", "source", "compatibility", "screenshots", "license"],
+  "required": ["id", "name", "author", "description", "package", "rowId", "version", "source", "compatibility", "license"],
   "properties": {
     "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9.-]+$" },
     "name": {

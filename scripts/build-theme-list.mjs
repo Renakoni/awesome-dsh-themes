@@ -3,6 +3,7 @@ import { readFile, readdir, writeFile } from "node:fs/promises";
 import { join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parse } from "yaml";
+import { themeScreenshots } from "./theme-screenshots.mjs";
 
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const entriesDir = join(root, "entries");
@@ -34,7 +35,7 @@ for (const directory of (await readdir(entriesDir, { withFileTypes: true }))
   if (!repository) throw new Error(`${entry.id}: theme list requires an upstream repository`);
   const preview = existsSync(join(root, "previews", `${entry.id}.webp`))
     ? `previews/${entry.id}.webp`
-    : entry.screenshots[0];
+    : themeScreenshots(entry)[0];
   if (!preview) throw new Error(`${entry.id}: theme list requires a preview`);
   entries.push({
     id: entry.id,

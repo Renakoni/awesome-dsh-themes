@@ -34,20 +34,28 @@ This project currently lists **134** themes. Details are collected on a separate
 
 ## Adding a theme
 
-Found a theme that is missing? Tell your AI:
+Found a theme that is missing?
+
+You only need:
+
+- The theme repository or a link to it;
+- A suitable DSH interface preview, if you have one.
+
+When no preview is provided, the catalog scripts use the GitHub repository card.
+
+Then tell your AI:
 
 ```text
-Add this DSH theme to https://github.com/Renakoni/dsh-appearance-catalog:
-https://github.com/put-the-theme-repository-here
+Add this DSH theme [theme repository or link] to https://github.com/Renakoni/dsh-appearance-catalog:
 
-Inspect the upstream repository first. Confirm the actual theme package directory, name / version / dsh.client in package.json, rowId, the complete 40-character commit SHA, preview images, license, and compatibility. If it is a monorepo, find the theme package subdirectory.
+Inspect the upstream repository and find the actual theme package directory, name, version, and dsh.client in package.json. Confirm the rowId, complete commit SHA, preview images, license, and compatibility. If it is a monorepo, find the specific theme package subdirectory.
 
-Follow CONTRIBUTING.en.md and create one entries/<theme-id>/theme.yml. Keep the PR to one theme. Do not edit generated files under data/catalog.json, THEMES.md, THEMES.en.md, or previews/. Do not guess anything you cannot verify; tell me if the repository is not a DSH theme.
+Then follow CONTRIBUTING.en.md and create one entries/<theme-id>/theme.yml. Keep the PR to one theme. Do not edit generated files under data/catalog.json, THEMES.md, THEMES.en.md, or previews/.
 
 Run npm ci, npm run check, and npm run sources:check -- --entry <theme-id>, open the PR, then send me the check results and PR link.
 ```
 
-For a manual submission, see [`CONTRIBUTING.en.md`](CONTRIBUTING.en.md) for the entry example and checks.
+You can also submit manually; see [`CONTRIBUTING.en.md`](CONTRIBUTING.en.md) for the entry example and checks.
 
 ## Repository layout
 

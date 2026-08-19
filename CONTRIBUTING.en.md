@@ -37,7 +37,7 @@ license:
 
 The theme repository must be public and pinned to a complete 40-character commit SHA. `package`, `version`, and `rowId` must match the theme package at that commit. Add `subpath` under `source` when the theme is inside a monorepo.
 
-Screenshots may use HTTPS URLs pinned to that commit or files stored in the entry directory. Do not guess the license or compatibility when the upstream repository does not provide reliable information; explain the gap in the pull request.
+Screenshots may use HTTPS URLs pinned to that commit or files stored in the entry directory. If no suitable screenshot exists, omit `screenshots`; the build scripts will use the GitHub repository card. Do not guess the license or compatibility when the upstream repository does not provide reliable information; explain the gap in the pull request.
 
 Do not edit these generated files:
 

@@ -37,7 +37,7 @@ license:
 
 主题仓库必须公开，并固定到完整的 40 位 commit SHA。`package`、`version` 和 `rowId` 需要与该 commit 中的主题包一致；如果主题位于 monorepo 中，在 `source` 下增加 `subpath`。
 
-截图可以使用固定到该 commit 的 HTTPS 地址，也可以放在条目目录中。许可证和兼容性没有可靠信息时不要猜，先在 PR 中说明。
+截图可以使用固定到该 commit 的 HTTPS 地址，也可以放在条目目录中。没有合适的截图时，可以省略 `screenshots`；生成脚本会使用 GitHub 仓库卡片。许可证和兼容性没有可靠信息时不要猜，先在 PR 中说明。
 
 不要修改这些生成文件：
 

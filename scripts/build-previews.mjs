@@ -4,6 +4,7 @@ import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import sharp from "sharp";
 import { parse } from "yaml";
+import { isGitHubRepositoryCard, renderRepositoryCard, themeScreenshots } from "./theme-screenshots.mjs";
 
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const entriesDir = join(root, "entries");
@@ -12,18 +13,48 @@ const MAX_SOURCE_BYTES = 12 * 1024 * 1024;
 const WIDTH = 960;
 const HEIGHT = 540;
 
+async function repositoryMetadata(entry) {
+  const slug = entry.source.repository.replace(/^https:\/\/github\.com\//, "").replace(/\/$/, "");
+  try {
+    const response = await fetch(`https://api.github.com/repos/${slug}`, {
+      headers: {
+        accept: "application/vnd.github+json",
+        "user-agent": "dsh-appearance-catalog-preview",
+        ...(process.env.GITHUB_TOKEN ? { authorization: `Bearer ${process.env.GITHUB_TOKEN}` } : {})
+      },
+      signal: AbortSignal.timeout(15_000)
+    });
+    if (response.ok) return await response.json();
+  } catch { /* The repository slug is enough for the local fallback card. */ }
+  return { full_name: slug, name: slug.split("/").at(-1), description: "DeepSeek Harness theme" };
+}
+
+async function localRepositoryCard(entry) {
+  const repository = await repositoryMetadata(entry);
+  return renderRepositoryCard(entry.source, repository);
+}
+
 async function sourceBuffer(entry, file) {
-  const source = entry.screenshots[0];
+  const source = themeScreenshots(entry)[0];
   if (!/^https:\/\//.test(source)) {
     const path = join(dirname(file), source);
     if (!existsSync(path)) throw new Error(`${file}: screenshot not found: ${path}`);
     return readFile(path);
   }
-  const response = await fetch(source, {
-    headers: { accept: "image/*", "user-agent": "dsh-appearance-catalog-preview" },
-    signal: AbortSignal.timeout(30_000)
-  });
-  if (!response.ok) throw new Error(`${file}: screenshot returned HTTP ${response.status}`);
+  let response;
+  try {
+    response = await fetch(source, {
+      headers: { accept: "image/*", "user-agent": "dsh-appearance-catalog-preview" },
+      signal: AbortSignal.timeout(30_000)
+    });
+  } catch (error) {
+    if (isGitHubRepositoryCard(source, entry.source)) return localRepositoryCard(entry);
+    throw error;
+  }
+  if (!response.ok) {
+    if (isGitHubRepositoryCard(source, entry.source)) return localRepositoryCard(entry);
+    throw new Error(`${file}: screenshot returned HTTP ${response.status}`);
+  }
   const declared = Number(response.headers.get("content-length") ?? "0");
   if (Number.isFinite(declared) && declared > MAX_SOURCE_BYTES) throw new Error(`${file}: screenshot exceeds 12 MB`);
   const buffer = Buffer.from(await response.arrayBuffer());

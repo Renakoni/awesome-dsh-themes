@@ -4,6 +4,7 @@ import { dirname, join, relative, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import Ajv from "ajv/dist/2020.js";
 import { parse } from "yaml";
+import { themeScreenshots } from "./theme-screenshots.mjs";
 
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const entriesDir = join(root, "entries");
@@ -109,7 +110,12 @@ for (const file of (await entryFiles()).sort()) {
   const repositoryUrl = source.repository;
   const commit = source.commit;
   const target = `github:${repositorySlug(source.repository)}#${commit}${source.subpath ? `&path:${source.subpath}` : ""}`;
-  const screenshots = value.screenshots.map(screenshot => /^https:\/\//.test(screenshot)
+  const generatedPreview = existsSync(join(previewDir, `${value.id}.webp`));
+  const generatedPreviewUrl = `https://raw.githubusercontent.com/${catalogRepository}/main/previews/${value.id}.webp`;
+  const sourceScreenshots = value.screenshots?.length > 0
+    ? themeScreenshots(value)
+    : generatedPreview ? [generatedPreviewUrl] : themeScreenshots(value);
+  const screenshots = sourceScreenshots.map(screenshot => /^https:\/\//.test(screenshot)
     ? screenshot
     : catalogScreenshotUrl(screenshot, file));
 
@@ -131,10 +137,14 @@ for (const file of (await entryFiles()).sort()) {
     modes: value.modes,
     compatibility: value.compatibility,
     screenshots,
-    ...(existsSync(join(previewDir, `${value.id}.webp`))
-      ? { listScreenshot: `https://raw.githubusercontent.com/${catalogRepository}/main/previews/${value.id}.webp` }
+    ...(generatedPreview
+      ? { listScreenshot: generatedPreviewUrl }
       : {}),
-    ...(value.review ? { review: value.review } : {}),
+    ...(value.review ? {
+      review: value.screenshots?.length > 0
+        ? value.review
+        : { ...value.review, preview: "repository-card" }
+    } : {}),
     license: value.license,
     stars,
     ...(value.updatedAt ? { updatedAt: value.updatedAt } : {})

@@ -3,6 +3,7 @@ import { readFile, readdir } from "node:fs/promises";
 import { dirname, join, relative, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parse } from "yaml";
+import { isGitHubRepositoryCard } from "./theme-screenshots.mjs";
 
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const entriesDir = join(root, "entries");
@@ -70,13 +71,14 @@ for (const file of (await entryFiles()).sort()) {
   if (manifest.version !== value.version) fail(file, `package version is ${String(manifest.version)}, expected ${value.version}`);
   if (!manifest.dsh || typeof manifest.dsh !== "object" || manifest.dsh.client === undefined) fail(file, "package must declare dsh.client");
 
-  for (const screenshot of value.screenshots) {
+  for (const screenshot of value.screenshots ?? []) {
     if (!/^https:\/\//.test(screenshot)) {
       if (screenshot.split("/").includes("..")) fail(file, `invalid local screenshot path: ${screenshot}`);
       const screenshotPath = join(dirname(file), screenshot);
       if (!existsSync(screenshotPath)) fail(file, `local screenshot is missing: ${screenshot}`);
       continue;
     }
+    if (isGitHubRepositoryCard(screenshot, value.source)) continue;
     const response = await request(screenshot, file);
     const length = Number(response.headers.get("content-length") ?? "0");
     const contentType = response.headers.get("content-type") ?? "";
