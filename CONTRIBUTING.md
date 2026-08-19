@@ -55,4 +55,4 @@ npm run check
 npm run sources:check -- --entry <theme-id>
 ```
 
-条目合并后，机器人每天检查一次上游默认分支。只要出现新提交，无论 Release 或版本号是否变化，都会更新 commit SHA、版本、更新时间、预览图和 Stars，并创建一个同步 PR。
+条目合并后，机器人每 12 小时检查一次上游默认分支。只要出现新提交，无论 Release 或版本号是否变化，都会更新 commit SHA、版本、更新时间、预览图和 Stars；检查全部通过后，同步 PR 会自动合并。

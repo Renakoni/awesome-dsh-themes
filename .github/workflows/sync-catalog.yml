@@ -11,7 +11,7 @@ on:
       - "package.json"
       - "package-lock.json"
   schedule:
-    - cron: "17 4 * * *"
+    - cron: "17 4,16 * * *"
   workflow_dispatch:
 
 permissions:
@@ -26,7 +26,7 @@ jobs:
   generate:
     if: "${{ github.event_name != 'push' || !contains(toJSON(github.event.commits), 'chore(catalog): sync upstream themes') }}"
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-node@v7
@@ -49,13 +49,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: npm run themes
       - uses: peter-evans/create-pull-request@v8
+        id: catalog-pr
         with:
           token: ${{ secrets.CATALOG_SYNC_TOKEN || github.token }}
           branch: automation/catalog-sync
           delete-branch: true
           commit-message: "chore(catalog): sync upstream themes"
           title: "chore(catalog): sync upstream themes"
-          body: "Daily upstream commit, version, preview, Stars, and catalog refresh. Theme installs remain pinned to the full commit SHA recorded in this pull request."
+          body: "Upstream commit, version, preview, Stars, and catalog refresh. This PR merges automatically after all required checks pass. Theme installs remain pinned to the full commit SHA recorded in this pull request."
           add-paths: |
             entries/*/theme.yml
             data/catalog.json
@@ -64,3 +65,27 @@ jobs:
             THEMES.en.md
             README.md
             README.en.md
+      - name: Merge validated catalog update
+        if: ${{ steps.catalog-pr.outputs.pull-request-operation == 'created' || steps.catalog-pr.outputs.pull-request-operation == 'updated' }}
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.CATALOG_SYNC_TOKEN }}
+          PR_NUMBER: ${{ steps.catalog-pr.outputs.pull-request-number }}
+          PR_HEAD_SHA: ${{ steps.catalog-pr.outputs.pull-request-head-sha }}
+        run: |
+          for attempt in $(seq 1 12); do
+            check_names="$(gh pr checks "$PR_NUMBER" --required --json name --jq '.[].name' 2>/dev/null || true)"
+            if printf '%s\n' "$check_names" | grep -Fxq 'scope' \
+              && printf '%s\n' "$check_names" | grep -Fxq 'sources' \
+              && printf '%s\n' "$check_names" | grep -Fxq 'validate'; then
+              break
+            fi
+            if [ "$attempt" = "12" ]; then
+              echo 'Required checks were not registered within two minutes.'
+              exit 1
+            fi
+            sleep 10
+          done
+
+          gh pr checks "$PR_NUMBER" --required --watch --fail-fast
+          gh pr merge "$PR_NUMBER" --squash --admin --delete-branch --match-head-commit "$PR_HEAD_SHA"
