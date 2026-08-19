@@ -6,11 +6,11 @@ author: kingOfSoySauce
 description: DeepSeek Harness 滑动变阻器皮肤
 package: dsh-client-liang-intensity-skin
 rowId: liang-intensity-skin
-version: 0.1.4
+version: 0.1.6
 source:
   kind: external
   repository: https://github.com/kingOfSoySauce/dsh-liang-skin
-  commit: 75692c83c3c8219736a607c1089dffafda310e7a
+  commit: f65bf387a4a3e3f4680dd6bb63e7f30d20455543
 tags:
   - black-gold
   - reasoning-slider
@@ -23,8 +23,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/75692c83c3c8219736a607c1089dffafda310e7a/docs/preview.png
-  - https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/75692c83c3c8219736a607c1089dffafda310e7a/docs/demo.gif
+  - https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/f65bf387a4a3e3f4680dd6bb63e7f30d20455543/docs/preview.png
+  - https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/f65bf387a4a3e3f4680dd6bb63e7f30d20455543/docs/demo.gif
 review:
   compatibility: verified
   preview: verified
@@ -33,4 +33,4 @@ license:
   code: NOASSERTION
   commercialUse: false
   notice: 仓库当前未声明许可证；安装和再分发前请向作者确认授权。
-updatedAt: 2026-08-16T12:50:44.804Z
+updatedAt: 2026-08-18T11:34:16Z

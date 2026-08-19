@@ -10,7 +10,7 @@ version: 0.1.0
 source:
   kind: external
   repository: https://github.com/Jack-sun-learner/dsh-image-skin
-  commit: 8f6b3f663e71fb9133af29098e4f3ce48dc4f310
+  commit: 896de5d72b5c05d4c8a2263af3586a0b0b4b8cb9
 tags:
   - wallpaper
   - glass
@@ -22,8 +22,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/Jack-sun-learner/dsh-image-skin/8f6b3f663e71fb9133af29098e4f3ce48dc4f310/assets/shot-1.png
-  - https://raw.githubusercontent.com/Jack-sun-learner/dsh-image-skin/8f6b3f663e71fb9133af29098e4f3ce48dc4f310/assets/shot-2.png
+  - https://raw.githubusercontent.com/Jack-sun-learner/dsh-image-skin/896de5d72b5c05d4c8a2263af3586a0b0b4b8cb9/assets/shot-1.png
+  - https://raw.githubusercontent.com/Jack-sun-learner/dsh-image-skin/896de5d72b5c05d4c8a2263af3586a0b0b4b8cb9/assets/shot-2.png
 review:
   compatibility: unverified
   preview: verified
@@ -31,4 +31,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-16T13:52:36.792Z
+updatedAt: 2026-08-17T15:07:20Z

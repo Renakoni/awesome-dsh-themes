@@ -10,7 +10,7 @@ version: 0.1.0
 source:
   kind: external
   repository: https://github.com/linzhuoliSOC/dsh-skin-study
-  commit: 233139cec4165c6f5231424ff7cd4647c4f2bf71
+  commit: 65c35fe23ee64a9fa8d8c2813b81a3fba8d218bf
 tags:
   - wallpaper
 modes:
@@ -20,7 +20,7 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://opengraph.githubassets.com/233139cec4165c6f5231424ff7cd4647c4f2bf71/linzhuoliSOC/dsh-skin-study
+  - https://opengraph.githubassets.com/65c35fe23ee64a9fa8d8c2813b81a3fba8d218bf/linzhuoliSOC/dsh-skin-study
 review:
   compatibility: unverified
   preview: repository-card
@@ -28,4 +28,4 @@ review:
 license:
   code: Apache-2.0
   commercialUse: true
-updatedAt: 2026-08-16T13:56:41.045Z
+updatedAt: 2026-08-17T01:24:27Z

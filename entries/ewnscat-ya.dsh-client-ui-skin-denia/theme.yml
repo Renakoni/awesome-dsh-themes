@@ -6,11 +6,11 @@ author: Ewnscat-ya
 description: 鸣潮达妮娅主题皮肤，提供亮暗双形态、玻璃卡片、泡泡粒子、锁链边框和侧边角色布景。
 package: "@dsh-external/dsh-client-ui-skin-denia"
 rowId: ui-skin-denia
-version: 0.0.1
+version: 0.0.4
 source:
   kind: external
   repository: https://github.com/Ewnscat-ya/dsh-client-ui-skin-denia
-  commit: 41a64c8984bed21483cf06285532d1641a52dc91
+  commit: 1b846939864137123203f1cc8db628e1331df62a
 tags:
   - wallpaper
   - glass
@@ -25,8 +25,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/Ewnscat-ya/dsh-client-ui-skin-denia/41a64c8984bed21483cf06285532d1641a52dc91/preview/light.webp
-  - https://raw.githubusercontent.com/Ewnscat-ya/dsh-client-ui-skin-denia/41a64c8984bed21483cf06285532d1641a52dc91/preview/dark.webp
+  - https://raw.githubusercontent.com/Ewnscat-ya/dsh-client-ui-skin-denia/1b846939864137123203f1cc8db628e1331df62a/preview/light.webp
+  - https://raw.githubusercontent.com/Ewnscat-ya/dsh-client-ui-skin-denia/1b846939864137123203f1cc8db628e1331df62a/preview/dark.webp
 review:
   compatibility: unverified
   preview: verified
@@ -35,4 +35,4 @@ license:
   code: CC-BY-NC-SA-4.0
   commercialUse: false
   notice: 角色、美术和商标权利归原权利人所有；仓库声明为非官方同人作品并禁止商业使用。
-updatedAt: 2026-08-17T02:03:47.000Z
+updatedAt: 2026-08-17T21:15:26Z
