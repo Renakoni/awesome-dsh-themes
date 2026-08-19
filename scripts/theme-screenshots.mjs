@@ -24,6 +24,10 @@ export function isGitHubRepositoryCard(url, source) {
   return card?.[1].toLowerCase() === match[1].toLowerCase();
 }
 
+export function shouldPreserveRepositoryCardPreview(entry, previewExists) {
+  return previewExists && isGitHubRepositoryCard(themeScreenshots(entry)[0], entry.source);
+}
+
 function escapeXml(value) {
   return String(value)
     .replaceAll("&", "&amp;")
