@@ -55,4 +55,4 @@ npm run check
 npm run sources:check -- --entry <theme-id>
 ```
 
-After an entry is merged, a bot checks the upstream default branch once a day. Any new commit is followed, whether or not a Release or version change exists, and a synchronization PR updates the commit SHA, version, update time, previews, and Stars.
+After an entry is merged, a bot checks the upstream default branch every 12 hours. Any new commit is followed, whether or not a Release or version change exists. The synchronization PR updates the commit SHA, version, update time, previews, and Stars, then merges automatically after all checks pass.
