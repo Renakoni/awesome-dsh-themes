@@ -31,7 +31,7 @@ const catalogById = new Map((catalog.themes ?? []).map(theme => [theme.id, theme
 const entries = [];
 
 for (const directory of (await readdir(entriesDir, { withFileTypes: true }))
-  .filter(item => item.isDirectory())
+  .filter(item => item.isDirectory() && existsSync(join(entriesDir, item.name, "theme.yml")))
   .sort((a, b) => a.name.localeCompare(b.name))) {
   const entry = parse(await readFile(join(entriesDir, directory.name, "theme.yml"), "utf8"));
   const normalized = catalogById.get(entry.id);

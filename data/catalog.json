@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T09:14:31.602Z",
+  "generatedAt": "2026-08-19T09:44:04.785Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -442,52 +442,6 @@
       },
       "stars": 2,
       "updatedAt": "2026-08-16T13:49:43.768Z"
-    },
-    {
-      "id": "anneheartrecord.dsh-desk-pet",
-      "name": {
-        "zh": "dsh-desk-pet",
-        "en": "dsh-desk-pet"
-      },
-      "author": "anneheartrecord",
-      "description": "Always-on-top DeepSeek Harness desktop pet. Default whale, four skins, four silent states. Not an in-page widget.",
-      "repositoryUrl": "https://github.com/anneheartrecord/dsh-desk-pet",
-      "packageName": "dsh-desk-pet",
-      "rowId": "dsh-desk-pet",
-      "install": {
-        "target": "github:anneheartrecord/dsh-desk-pet#93c0a90e8147c53cb5d3f3f4babb75e89ebe930b",
-        "commit": "93c0a90e8147c53cb5d3f3f4babb75e89ebe930b",
-        "version": "0.1.0"
-      },
-      "tags": [
-        "wallpaper",
-        "glass",
-        "token-theme"
-      ],
-      "modes": [
-        "light"
-      ],
-      "compatibility": {
-        "dsh": "unverified",
-        "platform": [
-          "web"
-        ]
-      },
-      "screenshots": [
-        "https://opengraph.githubassets.com/93c0a90e8147c53cb5d3f3f4babb75e89ebe930b/anneheartrecord/dsh-desk-pet"
-      ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/anneheartrecord.dsh-desk-pet.webp",
-      "review": {
-        "compatibility": "unverified",
-        "preview": "repository-card",
-        "installation": "verified"
-      },
-      "license": {
-        "code": "MIT",
-        "commercialUse": true
-      },
-      "stars": 4,
-      "updatedAt": "2026-08-16T13:48:42.914Z"
     },
     {
       "id": "beizi6.dsh-theme-plugin",
@@ -1264,7 +1218,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 4,
       "updatedAt": "2026-08-16T13:50:16.726Z"
     },
     {
@@ -2236,7 +2190,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 107,
+      "stars": 109,
       "updatedAt": "2026-08-18T11:34:16Z"
     },
     {
@@ -4357,7 +4311,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1423,
+      "stars": 1428,
       "updatedAt": "2026-08-19T04:55:42Z"
     },
     {
@@ -4610,14 +4564,14 @@
         "en": "dsh-wallpaper-engine"
       },
       "author": "TianYa-DAO",
-      "description": "deepseek-和人生是、",
+      "description": "DSH 桌面端的 Wallpaper Engine 本地壁纸库、背景层与原生场景设置面板。",
       "repositoryUrl": "https://github.com/TianYa-DAO/dsh-wallpaper-engine",
       "packageName": "dsh-wallpaper-engine",
       "rowId": "wallpaper-engine",
       "install": {
-        "target": "github:TianYa-DAO/dsh-wallpaper-engine#5c7e29de9f864381c2b0aeb6dd709f034a17eb6c",
-        "commit": "5c7e29de9f864381c2b0aeb6dd709f034a17eb6c",
-        "version": "0.1.0"
+        "target": "github:TianYa-DAO/dsh-wallpaper-engine#45eb412553607a3ac69c73d85d04a943334e0d30&path:packages/dsh-wallpaper-engine",
+        "commit": "45eb412553607a3ac69c73d85d04a943334e0d30",
+        "version": "0.1.3"
       },
       "tags": [
         "wallpaper",
@@ -4635,7 +4589,7 @@
         ]
       },
       "screenshots": [
-        "https://opengraph.githubassets.com/5c7e29de9f864381c2b0aeb6dd709f034a17eb6c/TianYa-DAO/dsh-wallpaper-engine"
+        "https://opengraph.githubassets.com/45eb412553607a3ac69c73d85d04a943334e0d30/TianYa-DAO/dsh-wallpaper-engine"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/tianya-dao.dsh-wallpaper-engine.webp",
       "review": {
@@ -4648,7 +4602,7 @@
         "commercialUse": true
       },
       "stars": 3,
-      "updatedAt": "2026-08-16T14:27:05.562Z"
+      "updatedAt": "2026-08-18T12:49:48Z"
     },
     {
       "id": "tianyhjg-lab.dsh-font",
@@ -5289,66 +5243,20 @@
       "updatedAt": "2026-08-18T02:49:03Z"
     },
     {
-      "id": "wsxwj123.skin-gallery",
+      "id": "wsxwj123.dsh-appearance-gallery",
       "name": {
-        "zh": "skin-gallery",
-        "en": "skin-gallery"
+        "zh": "DSH 外观画廊",
+        "en": "DSH Appearance Gallery"
       },
       "author": "wsxwj123",
-      "description": "9 个完整 dsh-web-ui 皮肤复刻，支持自定义皮肤包导入、试穿、应用、删除、恢复默认，并修正气泡与代码块可读性。",
+      "description": "15 个主题家族和 9 款完整界面皮肤合并在一个设置入口中，支持自定义主题和皮肤导入。",
       "repositoryUrl": "https://github.com/wsxwj123/dsh-plugins",
-      "packageName": "dsh-skin-gallery",
-      "rowId": "skin-gallery",
+      "packageName": "dsh-appearance-gallery",
+      "rowId": "appearance-gallery",
       "install": {
-        "target": "github:wsxwj123/dsh-plugins#ae7b7d50efdc0151477735ccadf4d59807abfec3&path:packages/skin-gallery",
-        "commit": "ae7b7d50efdc0151477735ccadf4d59807abfec3",
-        "version": "0.1.0"
-      },
-      "tags": [
-        "retro",
-        "light-dark"
-      ],
-      "modes": [
-        "light",
-        "dark"
-      ],
-      "compatibility": {
-        "dsh": "^0.1.0-rc.6",
-        "platform": [
-          "web"
-        ]
-      },
-      "screenshots": [
-        "https://opengraph.githubassets.com/ae7b7d50efdc0151477735ccadf4d59807abfec3/wsxwj123/dsh-plugins"
-      ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/wsxwj123.skin-gallery.webp",
-      "review": {
-        "compatibility": "verified",
-        "preview": "repository-card",
-        "installation": "verified"
-      },
-      "license": {
-        "code": "MIT",
-        "commercialUse": true
-      },
-      "stars": 7,
-      "updatedAt": "2026-08-16T12:15:58.715Z"
-    },
-    {
-      "id": "wsxwj123.theme-gallery",
-      "name": {
-        "zh": "theme-gallery",
-        "en": "theme-gallery"
-      },
-      "author": "wsxwj123",
-      "description": "15 个精选主题家族 + CSS-only 自定义主题，支持导入、试穿、应用、删除和恢复默认，跟随 DSH 原生浅色/深色/跟随系统模式。",
-      "repositoryUrl": "https://github.com/wsxwj123/dsh-plugins",
-      "packageName": "dsh-theme-gallery",
-      "rowId": "theme-gallery",
-      "install": {
-        "target": "github:wsxwj123/dsh-plugins#ae7b7d50efdc0151477735ccadf4d59807abfec3&path:packages/theme-gallery",
-        "commit": "ae7b7d50efdc0151477735ccadf4d59807abfec3",
-        "version": "0.6.0"
+        "target": "github:wsxwj123/dsh-plugins#269acbc87df039a2aba9cc405dea488fbfceb414&path:packages/dsh-appearance-gallery",
+        "commit": "269acbc87df039a2aba9cc405dea488fbfceb414",
+        "version": "1.0.0"
       },
       "tags": [
         "retro",
@@ -5366,9 +5274,10 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/wsxwj123/dsh-plugins/ae7b7d50efdc0151477735ccadf4d59807abfec3/packages/theme-gallery/../../assets/screenshots/theme-gallery-real.png"
+        "https://raw.githubusercontent.com/wsxwj123/dsh-plugins/269acbc87df039a2aba9cc405dea488fbfceb414/assets/screenshots/appearance-gallery.png",
+        "https://raw.githubusercontent.com/wsxwj123/dsh-plugins/269acbc87df039a2aba9cc405dea488fbfceb414/assets/screenshots/appearance-gallery-skin.png"
       ],
-      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/wsxwj123.theme-gallery.webp",
+      "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/wsxwj123.dsh-appearance-gallery.webp",
       "review": {
         "compatibility": "verified",
         "preview": "verified",
@@ -5376,10 +5285,11 @@
       },
       "license": {
         "code": "MIT",
-        "commercialUse": true
+        "commercialUse": true,
+        "notice": "各皮肤保留原作者的许可和署名，详见上游 skins/NOTICE.md。"
       },
       "stars": 7,
-      "updatedAt": "2026-08-16T12:32:14.655Z"
+      "updatedAt": "2026-08-19T05:08:28Z"
     },
     {
       "id": "wuwl-98.dsh-theme-paper",
@@ -5746,11 +5656,11 @@
       "author": "yoli-mi",
       "description": "Configurable DSH web-surface plugin: wallpaper & frosted-glass themes, accent colors, custom keyboard shortcuts, app-usage panel, history strip, message Markdown — zero shell edits.",
       "repositoryUrl": "https://github.com/yoli-mi/dsh-client-ui-custom",
-      "packageName": "@deepseek-ai/dsh-client-ui-custom",
+      "packageName": "@ha-na-bi/dsh-client-ui-custom",
       "rowId": "ui-custom",
       "install": {
-        "target": "github:yoli-mi/dsh-client-ui-custom#f3660eb0198a4cf3acc3631c330caefdf1a49c90",
-        "commit": "f3660eb0198a4cf3acc3631c330caefdf1a49c90",
+        "target": "github:yoli-mi/dsh-client-ui-custom#26c239f5c2d930c30b9b0a83dbc7b2171b87b2d7",
+        "commit": "26c239f5c2d930c30b9b0a83dbc7b2171b87b2d7",
         "version": "0.1.0-rc.5"
       },
       "tags": [
@@ -5788,7 +5698,7 @@
         "commercialUse": true
       },
       "stars": 6,
-      "updatedAt": "2026-08-16T13:51:23.052Z"
+      "updatedAt": "2026-08-17T05:54:32Z"
     },
     {
       "id": "youyli03.dsh-palenight-theme",
@@ -5895,12 +5805,12 @@
       "author": "YRN-playmaker",
       "description": "A \"wallpaper engine\" synchronization plugin mounted on the deepseek harness can synchronize static wallpapers",
       "repositoryUrl": "https://github.com/YRN-playmaker/dsh-wallpaper_share",
-      "packageName": "we-sync-dsh",
+      "packageName": "dsh-wallpaper_share",
       "rowId": "we-sync",
       "install": {
-        "target": "github:YRN-playmaker/dsh-wallpaper_share#7b3d2f1d26fe0b7a8d9c145520439ad44e7c8686",
-        "commit": "7b3d2f1d26fe0b7a8d9c145520439ad44e7c8686",
-        "version": "0.1.0"
+        "target": "github:YRN-playmaker/dsh-wallpaper_share#f7313c6764e921cd3e448d4dcbd02a44596f12bb",
+        "commit": "f7313c6764e921cd3e448d4dcbd02a44596f12bb",
+        "version": "0.2.0"
       },
       "tags": [
         "wallpaper",
@@ -5933,7 +5843,7 @@
         "commercialUse": true
       },
       "stars": 3,
-      "updatedAt": "2026-08-16T14:27:39.357Z"
+      "updatedAt": "2026-08-19T03:41:47Z"
     },
     {
       "id": "yunxiiqwq.maid-whale-webui",

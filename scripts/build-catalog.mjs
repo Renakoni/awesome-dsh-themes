@@ -79,7 +79,8 @@ async function entryFiles() {
   if (!existsSync(entriesDir)) return [];
   return (await readdir(entriesDir, { withFileTypes: true }))
     .filter(item => item.isDirectory())
-    .map(item => join(entriesDir, item.name, "theme.yml"));
+    .map(item => join(entriesDir, item.name, "theme.yml"))
+    .filter(existsSync);
 }
 
 function readPrevious() {

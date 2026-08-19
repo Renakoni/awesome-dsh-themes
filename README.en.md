@@ -27,7 +27,7 @@ It supplies the theme list used by [DSH Desk](https://github.com/Renakoni/dsh-de
 ## Browse themes
 
 <!-- theme-count:start -->
-This project currently lists **134** themes. Details are collected on a separate page:
+This project currently lists **132** themes. Details are collected on a separate page:
 <!-- theme-count:end -->
 
 ### [Browse all themes →](THEMES.en.md)

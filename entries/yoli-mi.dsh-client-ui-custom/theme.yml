@@ -3,14 +3,16 @@ name:
   zh: dsh-client-ui-custom
   en: dsh-client-ui-custom
 author: yoli-mi
-description: "Configurable DSH web-surface plugin: wallpaper & frosted-glass themes, accent colors, custom keyboard shortcuts, app-usage panel, history strip, message Markdown — zero shell edits."
-package: "@deepseek-ai/dsh-client-ui-custom"
+description: "Configurable DSH web-surface plugin: wallpaper & frosted-glass
+  themes, accent colors, custom keyboard shortcuts, app-usage panel, history
+  strip, message Markdown — zero shell edits."
+package: "@ha-na-bi/dsh-client-ui-custom"
 rowId: ui-custom
 version: 0.1.0-rc.5
 source:
   kind: external
   repository: https://github.com/yoli-mi/dsh-client-ui-custom
-  commit: f3660eb0198a4cf3acc3631c330caefdf1a49c90
+  commit: 26c239f5c2d930c30b9b0a83dbc7b2171b87b2d7
 tags:
   - wallpaper
   - glass
@@ -37,4 +39,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-16T13:51:23.052Z
+updatedAt: 2026-08-17T05:54:32Z
