@@ -1,0 +1,37 @@
+id: wsxwj123.dsh-appearance-gallery
+name:
+  zh: DSH 外观画廊
+  en: DSH Appearance Gallery
+author: wsxwj123
+description: 15 个主题家族和 9 款完整界面皮肤合并在一个设置入口中，支持自定义主题和皮肤导入。
+package: dsh-appearance-gallery
+rowId: appearance-gallery
+version: 1.0.0
+source:
+  kind: external
+  repository: https://github.com/wsxwj123/dsh-plugins
+  subpath: packages/dsh-appearance-gallery
+  commit: 269acbc87df039a2aba9cc405dea488fbfceb414
+tags:
+  - retro
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: ^0.1.0-rc.6
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/wsxwj123/dsh-plugins/269acbc87df039a2aba9cc405dea488fbfceb414/assets/screenshots/appearance-gallery.png
+  - https://raw.githubusercontent.com/wsxwj123/dsh-plugins/269acbc87df039a2aba9cc405dea488fbfceb414/assets/screenshots/appearance-gallery-skin.png
+review:
+  compatibility: verified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+  notice: 各皮肤保留原作者的许可和署名，详见上游 skins/NOTICE.md。
+updatedAt: 2026-08-19T05:08:28Z

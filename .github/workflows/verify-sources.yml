@@ -22,14 +22,15 @@ jobs:
       - name: Verify changed theme source
         shell: bash
         run: |
-          changed="$(git diff --name-only "${{ github.event.pull_request.base.sha }}" "${{ github.event.pull_request.head.sha }}")"
+          changed="$(git diff --name-only --diff-filter=ACM --no-renames "${{ github.event.pull_request.base.sha }}" "${{ github.event.pull_request.head.sha }}")"
           entries="$(printf '%s\n' "$changed" | awk -F/ '$1 == "entries" && $2 != "" { print $2 }' | sort -u)"
           count="$(printf '%s\n' "$entries" | sed '/^$/d' | wc -l)"
           if [ "$count" -eq 0 ]; then
             echo 'No entry changes; source verification is not required.'
             exit 0
           fi
-          if [ "${{ github.event.pull_request.head.ref }}" = "automation/catalog-sync" ] && [ "${{ github.event.pull_request.head.repo.full_name }}" = "${{ github.repository }}" ]; then
+          if { [ "${{ github.event.pull_request.head.ref }}" = "automation/catalog-sync" ] || [[ "${{ github.event.pull_request.head.ref }}" == maintenance/catalog-* ]]; } \
+            && [ "${{ github.event.pull_request.head.repo.full_name }}" = "${{ github.repository }}" ]; then
             entry_list="$(printf '%s\n' "$entries" | paste -sd, -)"
             npm run sources:check -- --entries "$entry_list"
             exit 0

@@ -2,7 +2,7 @@
 
 [Back to README](README.en.md) · [简体中文](THEMES.md)
 
-134 themes are listed here. Sorted by Stars, then by name.
+132 themes are listed here. Sorted by Stars, then by name.
 
 <table width="100%">
 <thead>
@@ -18,7 +18,7 @@
 <td align="center" valign="middle">Abyssal Maid Atelier</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="Abyssal Maid Atelier" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">1,423</td>
+<td align="center" valign="middle">1,428</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
@@ -36,7 +36,7 @@
 <td align="center" valign="middle">Liang Intensity Skin</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="Liang Intensity Skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">107</td>
+<td align="center" valign="middle">109</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
@@ -141,6 +141,12 @@
 <td align="center" valign="middle">7</td>
 </tr>
 <tr>
+<td align="center" valign="middle">DSH Appearance Gallery</td>
+<td align="center" valign="middle"><img src="previews/wsxwj123.dsh-appearance-gallery.webp" alt="DSH Appearance Gallery" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/wsxwj123/dsh-plugins">wsxwj123/dsh-plugins</a></td>
+<td align="center" valign="middle">7</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-client-ui-skin-claude</td>
 <td align="center" valign="middle"><img src="previews/pakiknowledge.dsh-client-ui-skin-claude.webp" alt="dsh-client-ui-skin-claude" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/PAKIKNOWLEDGE/dsh-client-ui-skin-claude">PAKIKNOWLEDGE/dsh-client-ui-skin-claude</a></td>
@@ -156,18 +162,6 @@
 <td align="center" valign="middle">dskin</td>
 <td align="center" valign="middle"><img src="previews/dancingmemory.dskin.webp" alt="dskin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/dancingmemory/dskin">dancingmemory/dskin</a></td>
-<td align="center" valign="middle">7</td>
-</tr>
-<tr>
-<td align="center" valign="middle">skin-gallery</td>
-<td align="center" valign="middle"><img src="previews/wsxwj123.skin-gallery.webp" alt="skin-gallery" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/wsxwj123/dsh-plugins">wsxwj123/dsh-plugins</a></td>
-<td align="center" valign="middle">7</td>
-</tr>
-<tr>
-<td align="center" valign="middle">theme-gallery</td>
-<td align="center" valign="middle"><img src="previews/wsxwj123.theme-gallery.webp" alt="theme-gallery" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/wsxwj123/dsh-plugins">wsxwj123/dsh-plugins</a></td>
 <td align="center" valign="middle">7</td>
 </tr>
 <tr>
@@ -219,9 +213,9 @@
 <td align="center" valign="middle">5</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-desk-pet</td>
-<td align="center" valign="middle"><img src="previews/anneheartrecord.dsh-desk-pet.webp" alt="dsh-desk-pet" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/anneheartrecord/dsh-desk-pet">anneheartrecord/dsh-desk-pet</a></td>
+<td align="center" valign="middle">dsh-naiwa-theme</td>
+<td align="center" valign="middle"><img src="previews/devourerm.dsh-naiwa-theme.webp" alt="dsh-naiwa-theme" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/DevourerM/dsh-naiwa-theme">DevourerM/dsh-naiwa-theme</a></td>
 <td align="center" valign="middle">4</td>
 </tr>
 <tr>
@@ -282,12 +276,6 @@
 <td align="center" valign="middle">dsh-fun-weather</td>
 <td align="center" valign="middle"><img src="previews/omdsh-dev.dsh-fun-weather.webp" alt="dsh-fun-weather" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/omdsh-dev/dsh-fun-weather">omdsh-dev/dsh-fun-weather</a></td>
-<td align="center" valign="middle">3</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-naiwa-theme</td>
-<td align="center" valign="middle"><img src="previews/devourerm.dsh-naiwa-theme.webp" alt="dsh-naiwa-theme" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/DevourerM/dsh-naiwa-theme">DevourerM/dsh-naiwa-theme</a></td>
 <td align="center" valign="middle">3</td>
 </tr>
 <tr>

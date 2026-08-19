@@ -17,6 +17,8 @@ const previewDir = join(root, "previews");
 const MAX_SOURCE_BYTES = 12 * 1024 * 1024;
 const WIDTH = 960;
 const HEIGHT = 540;
+const entryIndex = process.argv.indexOf("--entry");
+const requestedEntry = entryIndex >= 0 ? process.argv[entryIndex + 1] : undefined;
 
 async function repositoryMetadata(entry) {
   const slug = entry.source.repository.replace(/^https:\/\/github\.com\//, "").replace(/\/$/, "");
@@ -68,10 +70,15 @@ async function sourceBuffer(entry, file) {
 }
 
 await mkdir(previewDir, { recursive: true });
-const files = (await readdir(entriesDir, { withFileTypes: true }))
+let files = (await readdir(entriesDir, { withFileTypes: true }))
   .filter(item => item.isDirectory())
   .map(item => join(entriesDir, item.name, "theme.yml"))
+  .filter(existsSync)
   .sort();
+if (requestedEntry) {
+  files = files.filter(file => file.split(/[\\/]/).at(-2) === requestedEntry);
+  if (files.length !== 1) throw new Error(`entry not found: ${requestedEntry}`);
+}
 
 for (const file of files) {
   const entry = parse(await readFile(file, "utf8"));

@@ -1,3 +1,4 @@
+import { existsSync } from "node:fs";
 import { appendFile, readFile, readdir, writeFile } from "node:fs/promises";
 import { join, relative, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -60,6 +61,7 @@ async function entryFiles() {
   const files = (await readdir(entriesDir, { withFileTypes: true }))
     .filter(item => item.isDirectory())
     .map(item => join(entriesDir, item.name, "theme.yml"))
+    .filter(existsSync)
     .sort();
   if (!requestedEntry) return files;
   const selected = files.filter(file => file.split(/[\\/]/).at(-2) === requestedEntry);

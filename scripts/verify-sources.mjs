@@ -54,7 +54,8 @@ async function entryFiles() {
   if (!existsSync(entriesDir)) return [];
   const files = (await readdir(entriesDir, { withFileTypes: true }))
     .filter(item => item.isDirectory())
-    .map(item => join(entriesDir, item.name, "theme.yml"));
+    .map(item => join(entriesDir, item.name, "theme.yml"))
+    .filter(existsSync);
   if (!requestedEntry && !requestedEntries) return files;
   const selected = files.filter(file => requestedEntries
     ? requestedEntries.has(file.split(/[\\/]/).at(-2))
