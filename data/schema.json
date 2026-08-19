@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/Renakoni/dsh-appearance-catalog/schemas/theme.json",
+  "$id": "https://github.com/Renakoni/awesome-dsh-themes/schemas/theme.json",
   "type": "object",
   "additionalProperties": false,
   "required": ["id", "name", "author", "description", "package", "rowId", "version", "source", "compatibility", "license"],

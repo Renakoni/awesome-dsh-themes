@@ -1,15 +1,15 @@
 {
-  "name": "dsh-appearance-catalog",
+  "name": "awesome-dsh-themes",
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Curated DSH appearance catalog for DSH Desk.",
+  "description": "Curated DSH theme collection for DSH Desk.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Renakoni/dsh-appearance-catalog.git"
+    "url": "https://github.com/Renakoni/awesome-dsh-themes.git"
   },
   "catalog": {
-    "repository": "Renakoni/dsh-appearance-catalog"
+    "repository": "Renakoni/awesome-dsh-themes"
   },
   "scripts": {
     "previews": "node scripts/build-previews.mjs",

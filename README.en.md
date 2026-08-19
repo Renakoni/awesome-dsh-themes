@@ -1,4 +1,4 @@
-<h1 align="center">DSH Appearance Catalog</h1>
+<h1 align="center">Awesome DSH Themes</h1>
 
 <p align="center">
   <sub><a href="README.md">简体中文</a> · <b>English</b></sub>
@@ -46,7 +46,7 @@ When no preview is provided, the catalog scripts use the GitHub repository card.
 Then tell your AI:
 
 ```text
-Add this DSH theme [theme repository or link] to https://github.com/Renakoni/dsh-appearance-catalog:
+Add this DSH theme [theme repository or link] to https://github.com/Renakoni/awesome-dsh-themes:
 
 Inspect the upstream repository and find the actual theme package directory, name, version, and dsh.client in package.json. Confirm the rowId, preview images, license, and compatibility. If it is a monorepo, find the specific theme package subdirectory. The catalog scripts resolve the commit SHA automatically, so do not add it by hand.
 
