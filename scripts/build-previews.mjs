@@ -15,9 +15,7 @@ const HEIGHT = 540;
 async function sourceBuffer(entry, file) {
   const source = entry.screenshots[0];
   if (!/^https:\/\//.test(source)) {
-    const path = entry.source.kind === "bundled"
-      ? join(root, entry.source.path, source)
-      : join(dirname(file), source);
+    const path = join(dirname(file), source);
     if (!existsSync(path)) throw new Error(`${file}: screenshot not found: ${path}`);
     return readFile(path);
   }

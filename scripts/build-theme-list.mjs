@@ -30,13 +30,11 @@ for (const directory of (await readdir(entriesDir, { withFileTypes: true }))
   .sort((a, b) => a.name.localeCompare(b.name))) {
   const entry = parse(await readFile(join(entriesDir, directory.name, "theme.yml"), "utf8"));
   const normalized = catalogById.get(entry.id);
-  const repository = entry.source.repository ?? entry.homepage;
-  if (!repository) throw new Error(`${entry.id}: theme list requires an upstream repository or homepage`);
+  const repository = entry.source.repository;
+  if (!repository) throw new Error(`${entry.id}: theme list requires an upstream repository`);
   const preview = existsSync(join(root, "previews", `${entry.id}.webp`))
     ? `previews/${entry.id}.webp`
-    : entry.source.kind === "bundled"
-      ? `${entry.source.path}/${entry.screenshots[0]}`
-      : entry.screenshots[0];
+    : entry.screenshots[0];
   if (!preview) throw new Error(`${entry.id}: theme list requires a preview`);
   entries.push({
     id: entry.id,

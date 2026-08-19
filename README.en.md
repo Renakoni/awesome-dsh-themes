@@ -34,20 +34,20 @@ This project currently lists **134** themes. Details are collected on a separate
 
 ## Adding a theme
 
-Keep each pull request to one theme.
+Found a theme that is missing? Tell your AI:
 
-1. Add `entries/<theme-id>/theme.yml`; the directory name and `id` must match.
-2. Fill in the theme information using the example in [`CONTRIBUTING.md`](CONTRIBUTING.md).
-3. Do not edit generated files under `data/catalog.json`, `THEMES.md`, `THEMES.en.md`, or `previews/`.
-4. Run these checks before opening the pull request:
+```text
+Add this DSH theme to https://github.com/Renakoni/dsh-appearance-catalog:
+https://github.com/put-the-theme-repository-here
 
-   ```powershell
-   npm ci
-   npm run check
-   npm run sources:check -- --entry <theme-id>
-   ```
+Inspect the upstream repository first. Confirm the actual theme package directory, name / version / dsh.client in package.json, rowId, the complete 40-character commit SHA, preview images, license, and compatibility. If it is a monorepo, find the theme package subdirectory.
 
-Themes must come from public GitHub repositories and use complete 40-character commit SHAs. The package name, version, screenshots, and license must match the contents at that commit.
+Follow CONTRIBUTING.en.md and create one entries/<theme-id>/theme.yml. Keep the PR to one theme. Do not edit generated files under data/catalog.json, THEMES.md, THEMES.en.md, or previews/. Do not guess anything you cannot verify; tell me if the repository is not a DSH theme.
+
+Run npm ci, npm run check, and npm run sources:check -- --entry <theme-id>, open the PR, then send me the check results and PR link.
+```
+
+For a manual submission, see [`CONTRIBUTING.en.md`](CONTRIBUTING.en.md) for the entry example and checks.
 
 ## Repository layout
 

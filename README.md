@@ -34,20 +34,20 @@
 
 ## 收录主题
 
-一个 Pull Request 只添加或修改一个主题。
+发现了还没收录的主题？对你的 AI 说：
 
-1. 新建 `entries/<theme-id>/theme.yml`，目录名与 `id` 保持一致。
-2. 按照 [`CONTRIBUTING.md`](CONTRIBUTING.md) 中的示例填写主题信息。
-3. 不要修改 `data/catalog.json`、`THEMES.md`、`THEMES.en.md` 和 `previews/` 中的生成文件。
-4. 提交前运行：
+```text
+把这个 DSH 主题收录到 https://github.com/Renakoni/dsh-appearance-catalog：
+https://github.com/在这里填写主题仓库
 
-   ```powershell
-   npm ci
-   npm run check
-   npm run sources:check -- --entry <theme-id>
-   ```
+先检查上游仓库，确认真正的主题包目录、package.json 中的 name / version / dsh.client、rowId、完整的 40 位 commit SHA、预览截图、许可证和兼容性；如果是 monorepo，要找到主题包所在的子目录。
 
-主题必须来自公开的 GitHub 仓库，并固定到完整的 40 位 commit SHA。主题的包名、版本、截图和许可证需要与该 commit 中的内容一致。
+按照 CONTRIBUTING.md 创建一个 entries/<theme-id>/theme.yml。一个 PR 只处理一个主题，不要修改 data/catalog.json、THEMES.md、THEMES.en.md 或 previews/ 下的生成文件。无法确认的信息不要猜；如果它不是 DSH 主题，也直接告诉我。
+
+完成后运行 npm ci、npm run check 和 npm run sources:check -- --entry <theme-id>，提交 PR，并把检查结果和 PR 链接发给我。
+```
+
+想自己提交的话，字段示例和检查命令都在 [`CONTRIBUTING.md`](CONTRIBUTING.md) 中。
 
 ## 仓库结构
 
