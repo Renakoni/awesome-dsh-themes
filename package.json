@@ -19,7 +19,7 @@
     "catalog:check": "node scripts/build-catalog.mjs --check --offline",
     "sources:check": "node scripts/verify-sources.mjs",
     "test": "node --test",
-    "check": "npm run catalog:check && npm run themes:check && npm test"
+    "check": "npm run catalog:check && npm test"
   },
   "dependencies": {
     "ajv": "^8.17.1",

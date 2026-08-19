@@ -6,13 +6,10 @@ import { parse } from "yaml";
 
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const entriesDir = join(root, "entries");
+const catalogFile = join(root, "data", "catalog.json");
 const checkOnly = process.argv.includes("--check");
 
-function escapeCell(value) {
-  return String(value).replaceAll("|", "\\|").replaceAll("\n", " ");
-}
-
-function escapeAttribute(value) {
+function escapeHtml(value) {
   return String(value)
     .replaceAll("&", "&amp;")
     .replaceAll('"', "&quot;")
@@ -24,64 +21,104 @@ function repositoryLabel(repository) {
   return repository.replace(/^https:\/\/github\.com\//, "").replace(/\/$/, "");
 }
 
+const catalog = JSON.parse(await readFile(catalogFile, "utf8"));
+const catalogById = new Map((catalog.themes ?? []).map(theme => [theme.id, theme]));
 const entries = [];
-for (const directory of (await readdir(entriesDir, { withFileTypes: true })).filter(item => item.isDirectory()).sort((a, b) => a.name.localeCompare(b.name))) {
+
+for (const directory of (await readdir(entriesDir, { withFileTypes: true }))
+  .filter(item => item.isDirectory())
+  .sort((a, b) => a.name.localeCompare(b.name))) {
   const entry = parse(await readFile(join(entriesDir, directory.name, "theme.yml"), "utf8"));
+  const normalized = catalogById.get(entry.id);
   const repository = entry.source.repository ?? entry.homepage;
   if (!repository) throw new Error(`${entry.id}: theme list requires an upstream repository or homepage`);
   const preview = existsSync(join(root, "previews", `${entry.id}.webp`))
     ? `previews/${entry.id}.webp`
-    : entry.screenshots[0];
+    : entry.source.kind === "bundled"
+      ? `${entry.source.path}/${entry.screenshots[0]}`
+      : entry.screenshots[0];
   if (!preview) throw new Error(`${entry.id}: theme list requires a preview`);
   entries.push({
+    id: entry.id,
     name: entry.name,
     repository,
-    preview
+    preview,
+    stars: Number.isInteger(normalized?.stars) ? normalized.stars : null
   });
 }
 
-function render({ language, title, intro, name, preview, upstream, back, alternate }) {
-  const rows = entries.map(entry => {
-    const displayName = escapeCell(entry.name[language] || entry.name.en || entry.name.zh);
-    const repository = escapeCell(entry.repository);
-    const label = escapeCell(repositoryLabel(entry.repository));
-    const image = `<img src="${escapeAttribute(entry.preview)}" alt="${escapeAttribute(entry.name[language] || entry.name.en || entry.name.zh)}" width="320">`;
-    return `| [${displayName}](${repository}) | ${image} | [${label}](${repository}) |`;
-  });
-  return [
+function displayName(entry, language) {
+  return entry.name[language] || entry.name.en || entry.name.zh || entry.id;
+}
+
+entries.sort((a, b) => {
+  const starOrder = (b.stars ?? -1) - (a.stars ?? -1);
+  if (starOrder !== 0) return starOrder;
+  const nameOrder = displayName(a, "zh").localeCompare(displayName(b, "zh"), "zh", { sensitivity: "base" });
+  return nameOrder || a.id.localeCompare(b.id);
+});
+
+function render({ language, title, intro, back, alternate, labels }) {
+  const lines = [
     `# ${title}`,
     "",
     `${back} · ${alternate}`,
     "",
     intro.replace("{count}", String(entries.length)),
     "",
-    `| ${name} | ${preview} | ${upstream} |`,
-    "| --- | --- | --- |",
-    ...rows,
+    "<table width=\"100%\">",
+    "<thead>",
+    "<tr>",
+    `<th width=\"18%\" align=\"center\">${labels.name}</th>`,
+    `<th width=\"52%\" align=\"center\">${labels.preview}</th>`,
+    `<th width=\"23%\" align=\"center\">${labels.upstream}</th>`,
+    `<th width=\"7%\" align=\"center\">${labels.stars}</th>`,
+    "</tr>",
+    "</thead>",
+    "<tbody>"
+  ];
+
+  for (const entry of entries) {
+    const name = displayName(entry, language);
+    const repository = escapeHtml(entry.repository);
+    const preview = escapeHtml(entry.preview);
+    const label = escapeHtml(repositoryLabel(entry.repository));
+    const image = `<img src=\"${preview}\" alt=\"${escapeHtml(name)}\" width=\"260\">`;
+    const stars = entry.stars === null ? "-" : entry.stars.toLocaleString("en-US");
+    lines.push(
+      "<tr>",
+      `<td align=\"center\" valign=\"middle\">${escapeHtml(name)}</td>`,
+      `<td align=\"center\" valign=\"middle\">${image}</td>`,
+      `<td align=\"center\" valign=\"middle\"><a href=\"${repository}\">${label}</a></td>`,
+      `<td align=\"center\" valign=\"middle\">${stars}</td>`,
+      "</tr>"
+    );
+  }
+
+  lines.push(
+    "</tbody>",
+    "</table>",
     ""
-  ].join("\n");
+  );
+  return lines.join("\n");
 }
 
 const outputs = new Map([
   ["THEMES.md", render({
     language: "zh",
     title: "DSH 主题",
-    intro: "共收录 {count} 个主题。此页面由 `entries/` 自动生成。",
-    name: "名称",
-    preview: "预览",
-    upstream: "上游",
+    intro: "共收录 {count} 个主题。按 Stars 从高到低排序，Stars 相同时按名称排序。",
     back: "[返回 README](README.md)",
-    alternate: "[English](THEMES.en.md)"
+    alternate: "[English](THEMES.en.md)",
+    labels: { name: "名称", preview: "预览", upstream: "上游", stars: "Stars" }
   })],
   ["THEMES.en.md", render({
     language: "en",
     title: "DSH Themes",
-    intro: "{count} themes are listed. This page is generated from `entries/`.",
-    name: "Name",
-    preview: "Preview",
-    upstream: "Upstream",
+    intro: "{count} themes are listed here. Sorted by Stars, then by name.",
     back: "[Back to README](README.en.md)",
-    alternate: "[简体中文](THEMES.md)"
+    alternate: "[简体中文](THEMES.md)",
+    labels: { name: "Name", preview: "Preview", upstream: "Upstream", stars: "Stars" }
   })]
 ]);
 
