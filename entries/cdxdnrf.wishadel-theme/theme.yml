@@ -3,14 +3,15 @@ name:
   zh: wishadel-theme
   en: wishadel-theme
 author: cdxDNRF
-description: Wishadel demolition-terminal skin + task board, git graph, project panel and settings center for DeepSeek Harness Web GUI
+description: Wishadel demolition-terminal skin + task board, git graph, project
+  panel and settings center for DeepSeek Harness Web GUI
 package: "@cdxdnrf/dsh-client-ui-skin-wishadel"
 rowId: ui-skin-wishadel
 version: 0.6.0
 source:
   kind: external
   repository: https://github.com/cdxDNRF/wishadel-theme
-  commit: b78f51e6fd702d839a333de603022d68ca0ed248
+  commit: 44f4bd02d737b0c3125ffdc9a1f5ecdf53ff953c
 tags:
   - wallpaper
   - motion
@@ -23,8 +24,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/b78f51e6fd702d839a333de603022d68ca0ed248/docs/screenshots/conversation.png
-  - https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/b78f51e6fd702d839a333de603022d68ca0ed248/docs/screenshots/settings.png
+  - https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/44f4bd02d737b0c3125ffdc9a1f5ecdf53ff953c/docs/screenshots/conversation.png
+  - https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/44f4bd02d737b0c3125ffdc9a1f5ecdf53ff953c/docs/screenshots/settings.png
 review:
   compatibility: verified
   preview: verified
@@ -32,4 +33,4 @@ review:
 license:
   code: CC-BY-NC-SA-4.0
   commercialUse: false
-updatedAt: 2026-08-16T13:54:53.805Z
+updatedAt: 2026-08-18T16:55:26Z

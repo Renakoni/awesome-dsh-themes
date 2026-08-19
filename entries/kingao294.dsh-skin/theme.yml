@@ -6,11 +6,11 @@ author: KinGao294
 description: Codex 风格皮肤切换器 + 自定义壁纸层，可调透明度与模糊。
 package: dsh-skin
 rowId: skin
-version: 0.3.1
+version: 0.4.0
 source:
   kind: external
   repository: https://github.com/KinGao294/dsh-skin
-  commit: 65c79b09d4c5f23e72076ff6b6b6b26c883f935c
+  commit: 0a571a27adcc5f780b7b72386c9c294243eec5b3
 tags:
   - wallpaper
   - glass
@@ -35,4 +35,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-16T12:15:32.137Z
+updatedAt: 2026-08-18T11:23:24Z

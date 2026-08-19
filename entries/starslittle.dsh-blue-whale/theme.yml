@@ -10,7 +10,7 @@ version: 0.1.0
 source:
   kind: external
   repository: https://github.com/starslittle/dsh-blue-whale
-  commit: 1abc6eea453011c7449af8e1aef5c7754784738d
+  commit: e18aa1e27e98df98c478b8d24076a94e64d43ed5
 tags:
   - retro
   - token-theme
@@ -23,8 +23,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/starslittle/dsh-blue-whale/1abc6eea453011c7449af8e1aef5c7754784738d/docs/compare-home.png
-  - https://raw.githubusercontent.com/starslittle/dsh-blue-whale/1abc6eea453011c7449af8e1aef5c7754784738d/docs/compare-brand.png
+  - https://raw.githubusercontent.com/starslittle/dsh-blue-whale/e18aa1e27e98df98c478b8d24076a94e64d43ed5/docs/compare-home.png
+  - https://raw.githubusercontent.com/starslittle/dsh-blue-whale/e18aa1e27e98df98c478b8d24076a94e64d43ed5/docs/compare-brand.png
 review:
   compatibility: verified
   preview: verified
@@ -32,4 +32,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-16T12:31:55.720Z
+updatedAt: 2026-08-17T19:58:04Z

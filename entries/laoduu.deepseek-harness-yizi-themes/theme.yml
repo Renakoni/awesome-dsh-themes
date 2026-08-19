@@ -3,14 +3,15 @@ name:
   zh: DeepSeek-Harness-yizi-themes
   en: DeepSeek-Harness-yizi-themes
 author: laoduu
-description: YiziMarkdown theme pack for DeepSeek Harness — 19 style themes with custom brand and prompt mapping.
+description: YiziMarkdown theme pack for DeepSeek Harness — 19 style themes with
+  custom brand and prompt mapping.
 package: dsh-yizi-themes
 rowId: yizi-themes
-version: 0.2.0
+version: 0.2.4
 source:
   kind: external
   repository: https://github.com/laoduu/DeepSeek-Harness-yizi-themes
-  commit: a557d305f1512510b275d515035c7e74e9a5f992
+  commit: 8964dc67fd77447d450afafc134c8d7421ac6735
 tags:
   - wallpaper
   - glass
@@ -25,7 +26,7 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/laoduu/DeepSeek-Harness-yizi-themes/a557d305f1512510b275d515035c7e74e9a5f992/assets/dsh-yizi-themes.png
+  - https://raw.githubusercontent.com/laoduu/DeepSeek-Harness-yizi-themes/8964dc67fd77447d450afafc134c8d7421ac6735/assets/dsh-yizi-themes.png
 review:
   compatibility: unverified
   preview: verified
@@ -33,4 +34,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-16T13:52:49.212Z
+updatedAt: 2026-08-16T18:45:04Z

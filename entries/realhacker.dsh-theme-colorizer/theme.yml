@@ -3,14 +3,15 @@ name:
   zh: dsh-theme-colorizer
   en: dsh-theme-colorizer
 author: RealHacker
-description: "DSH plugin: adds customizable color themes to the DeepSeek Web UI, selectable in the Settings page"
+description: "DSH plugin: adds customizable color themes to the DeepSeek Web UI,
+  selectable in the Settings page"
 package: dsh-theme-colorizer
 rowId: theme-colorizer
 version: 1.0.0
 source:
   kind: external
   repository: https://github.com/RealHacker/dsh-theme-colorizer
-  commit: 987fd9dfced2a5dd0f3031ab8b6d03619816c91b
+  commit: 7c4152c1956ff87d93d74f928f1cf3a9e60101ca
 tags:
   - retro
   - token-theme
@@ -23,7 +24,7 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/RealHacker/dsh-theme-colorizer/987fd9dfced2a5dd0f3031ab8b6d03619816c91b/asset/dsh-color-theme.jpeg
+  - https://raw.githubusercontent.com/RealHacker/dsh-theme-colorizer/7c4152c1956ff87d93d74f928f1cf3a9e60101ca/asset/dsh-color-theme.jpeg
 review:
   compatibility: unverified
   preview: verified
@@ -31,4 +32,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-16T13:57:07.914Z
+updatedAt: 2026-08-17T10:03:54Z

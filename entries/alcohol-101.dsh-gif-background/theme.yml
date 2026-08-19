@@ -3,14 +3,16 @@ name:
   zh: dsh-gif-background
   en: dsh-gif-background
 author: alcohol-101
-description: Custom background (image / GIF / animated wallpaper) plugin for the DeepSeek Harness (DSH) Web GUI - enable switch plus a local asset library, with separate display mechanisms for the official theme and skin-center skins.
+description: Custom background (image / GIF / animated wallpaper) plugin for the
+  DeepSeek Harness (DSH) Web GUI - enable switch plus a local asset library,
+  with separate display mechanisms for the official theme and skin-center skins.
 package: dsh-gif-background
 rowId: gif-background
-version: 0.1.0
+version: 0.1.2
 source:
   kind: external
   repository: https://github.com/alcohol-101/dsh-gif-background
-  commit: 1e4b5f9a27a491769c8b5ec595b461e64b1ee844
+  commit: bc3d531dbe1a4810300d63b1ed1220478e302d49
 tags:
   - wallpaper
   - retro
@@ -24,7 +26,7 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://opengraph.githubassets.com/1e4b5f9a27a491769c8b5ec595b461e64b1ee844/alcohol-101/dsh-gif-background
+  - https://opengraph.githubassets.com/bc3d531dbe1a4810300d63b1ed1220478e302d49/alcohol-101/dsh-gif-background
 review:
   compatibility: unverified
   preview: repository-card
@@ -32,4 +34,4 @@ review:
 license:
   code: Apache-2.0
   commercialUse: true
-updatedAt: 2026-08-16T13:52:04.051Z
+updatedAt: 2026-08-18T05:16:01Z

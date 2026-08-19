@@ -6,11 +6,11 @@ author: Tkingxiao
 description: 自定义外观插件：换背景图（可调大小和位置）、用色轮自定义主题色，主界面和设置界面的透明度都能单独调。
 package: dsh-any-background
 rowId: dsh-any-background
-version: 0.1.6
+version: 0.1.8
 source:
   kind: external
   repository: https://github.com/Tkingxiao/dsh-any-background
-  commit: 13acd6f4866dc3ce60a918b588ba38c4d4edd3ce
+  commit: 5e4c0e0c3758c834422a6528ac26821ebf764b29
 tags:
   - wallpaper
   - glass
@@ -25,12 +25,12 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13acd6f4866dc3ce60a918b588ba38c4d4edd3ce/example_img/image-6.png
-  - https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13acd6f4866dc3ce60a918b588ba38c4d4edd3ce/example_img/image-9.png
-  - https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13acd6f4866dc3ce60a918b588ba38c4d4edd3ce/example_img/image.png
-  - https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13acd6f4866dc3ce60a918b588ba38c4d4edd3ce/example_img/image-2.png
-  - https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13acd6f4866dc3ce60a918b588ba38c4d4edd3ce/example_img/image-3.png
-  - https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13acd6f4866dc3ce60a918b588ba38c4d4edd3ce/example_img/image-4.png
+  - https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/5e4c0e0c3758c834422a6528ac26821ebf764b29/example_img/image-6.png
+  - https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/5e4c0e0c3758c834422a6528ac26821ebf764b29/example_img/image-9.png
+  - https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/5e4c0e0c3758c834422a6528ac26821ebf764b29/example_img/image.png
+  - https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/5e4c0e0c3758c834422a6528ac26821ebf764b29/example_img/image-2.png
+  - https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/5e4c0e0c3758c834422a6528ac26821ebf764b29/example_img/image-3.png
+  - https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/5e4c0e0c3758c834422a6528ac26821ebf764b29/example_img/image-4.png
 review:
   compatibility: verified
   preview: verified
@@ -38,4 +38,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-16T12:31:59.883Z
+updatedAt: 2026-08-18T21:35:58Z

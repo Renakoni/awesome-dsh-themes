@@ -3,14 +3,15 @@ name:
   zh: dsh-joi-channel-theme
   en: dsh-joi-channel-theme
 author: tpmoonchefryan
-description: 轴伊 Joi 双衣装主题（Joi-Flowers / Joi-Library）for DeepSeek Harness — unofficial, non-commercial fan theme plugin
+description: 轴伊 Joi 双衣装主题（Joi-Flowers / Joi-Library）for DeepSeek Harness —
+  unofficial, non-commercial fan theme plugin
 package: dsh-joi-channel-theme
 rowId: joi-channel-theme
-version: 0.1.6
+version: 0.1.9
 source:
   kind: external
   repository: https://github.com/tpmoonchefryan/dsh-joi-channel-theme
-  commit: 5d971cfd2877f699668c0c7062e46a11c690c50e
+  commit: 8eb1379dd04f18592f7ae6b833d1890f57e26f24
 tags:
   - token-theme
   - light-dark
@@ -22,12 +23,12 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/5d971cfd2877f699668c0c7062e46a11c690c50e/docs/new-chat-flowers.png
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/5d971cfd2877f699668c0c7062e46a11c690c50e/docs/new-chat-library.png
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/5d971cfd2877f699668c0c7062e46a11c690c50e/docs/new-chat-flowers-dark.png
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/5d971cfd2877f699668c0c7062e46a11c690c50e/docs/new-chat-library-dark.png
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/5d971cfd2877f699668c0c7062e46a11c690c50e/docs/app-logo-library.png
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/5d971cfd2877f699668c0c7062e46a11c690c50e/docs/app-logo-flowers.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/8eb1379dd04f18592f7ae6b833d1890f57e26f24/docs/new-chat-flowers.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/8eb1379dd04f18592f7ae6b833d1890f57e26f24/docs/new-chat-library.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/8eb1379dd04f18592f7ae6b833d1890f57e26f24/docs/new-chat-flowers-dark.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/8eb1379dd04f18592f7ae6b833d1890f57e26f24/docs/new-chat-library-dark.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/8eb1379dd04f18592f7ae6b833d1890f57e26f24/docs/app-logo-library.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/8eb1379dd04f18592f7ae6b833d1890f57e26f24/docs/app-logo-flowers.png
 review:
   compatibility: verified
   preview: verified
@@ -35,4 +36,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-16T13:54:05.830Z
+updatedAt: 2026-08-17T10:26:37Z

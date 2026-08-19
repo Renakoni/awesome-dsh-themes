@@ -10,7 +10,7 @@ version: 0.6.0
 source:
   kind: external
   repository: https://github.com/zhxqc/dsh-oh-my-theme
-  commit: 5052f83f4ccc21da11f37b27824f2c95052fb25b
+  commit: 6dbea1ac6131abccea755551eb294a8cc4805786
 tags:
   - token-theme
   - light-dark
@@ -21,12 +21,12 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/5052f83f4ccc21da11f37b27824f2c95052fb25b/docs/assets/setting.png
-  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/5052f83f4ccc21da11f37b27824f2c95052fb25b/docs/assets/at.png
-  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/5052f83f4ccc21da11f37b27824f2c95052fb25b/docs/assets/slider-icon.png
-  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/5052f83f4ccc21da11f37b27824f2c95052fb25b/docs/assets/file-sys.png
-  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/5052f83f4ccc21da11f37b27824f2c95052fb25b/docs/assets/md-preview.png
-  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/5052f83f4ccc21da11f37b27824f2c95052fb25b/docs/assets/git-changes.png
+  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/6dbea1ac6131abccea755551eb294a8cc4805786/docs/assets/setting.png
+  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/6dbea1ac6131abccea755551eb294a8cc4805786/docs/assets/at.png
+  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/6dbea1ac6131abccea755551eb294a8cc4805786/docs/assets/slider-icon.png
+  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/6dbea1ac6131abccea755551eb294a8cc4805786/docs/assets/file-sys.png
+  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/6dbea1ac6131abccea755551eb294a8cc4805786/docs/assets/md-preview.png
+  - https://raw.githubusercontent.com/zhxqc/dsh-oh-my-theme/6dbea1ac6131abccea755551eb294a8cc4805786/docs/assets/git-changes.png
 review:
   compatibility: verified
   preview: verified
@@ -34,4 +34,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-16T12:32:28.705Z
+updatedAt: 2026-08-17T01:57:39Z
