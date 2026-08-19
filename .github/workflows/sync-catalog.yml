@@ -37,6 +37,7 @@ jobs:
       - run: npm run catalog
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: npm run themes
       - uses: peter-evans/create-pull-request@v7
         with:
           branch: automation/catalog-sync
@@ -47,3 +48,5 @@ jobs:
           add-paths: |
             data/catalog.json
             previews/*.webp
+            THEMES.md
+            THEMES.en.md

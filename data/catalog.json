@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T03:01:34.146Z",
+  "generatedAt": "2026-08-19T03:04:00.531Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -54,7 +54,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:51:42.695Z"
     },
     {
@@ -107,7 +107,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:51:53.473Z"
     },
     {
@@ -164,7 +164,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:54:49.092Z"
     },
     {
@@ -218,7 +218,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T13:48:35.219Z"
     },
     {
@@ -274,7 +274,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 9,
       "updatedAt": "2026-08-16T12:16:03.923Z"
     },
     {
@@ -329,7 +329,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 4,
       "updatedAt": "2026-08-16T12:50:27.463Z"
     },
     {
@@ -383,7 +383,7 @@
         "code": "Apache-2.0",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:52:04.051Z"
     },
     {
@@ -438,7 +438,7 @@
         "code": "SEE LICENSE IN LICENSE",
         "commercialUse": false
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:52:07.647Z"
     },
     {
@@ -494,7 +494,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:49:43.768Z"
     },
     {
@@ -546,7 +546,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 4,
       "updatedAt": "2026-08-16T13:48:42.914Z"
     },
     {
@@ -601,7 +601,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T12:16:08.600Z"
     },
     {
@@ -658,7 +658,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T13:49:51.564Z"
     },
     {
@@ -711,7 +711,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:49:58.682Z"
     },
     {
@@ -765,7 +765,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 5,
       "updatedAt": "2026-08-16T12:32:24.075Z"
     },
     {
@@ -819,7 +819,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:50:02.941Z"
     },
     {
@@ -873,7 +873,7 @@
         "code": "CC-BY-NC-SA-4.0",
         "commercialUse": false
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:54:53.805Z"
     },
     {
@@ -927,7 +927,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:50:06.363Z"
     },
     {
@@ -982,7 +982,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:54:57.394Z"
     },
     {
@@ -1036,7 +1036,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T12:16:12.637Z"
     },
     {
@@ -1088,7 +1088,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:55:01.116Z"
     },
     {
@@ -1148,7 +1148,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": null,
+      "stars": 125,
       "updatedAt": "2026-08-17T10:46:59.000Z"
     },
     {
@@ -1204,7 +1204,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:55:05.474Z"
     },
     {
@@ -1263,7 +1263,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 7,
       "updatedAt": "2026-08-16T13:46:39.411Z"
     },
     {
@@ -1314,7 +1314,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:55:09.178Z"
     },
     {
@@ -1367,7 +1367,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:52:11.206Z"
     },
     {
@@ -1420,7 +1420,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T13:50:16.726Z"
     },
     {
@@ -1475,7 +1475,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:50:20.382Z"
     },
     {
@@ -1530,7 +1530,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T12:32:55.976Z"
     },
     {
@@ -1583,7 +1583,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 4,
       "updatedAt": "2026-08-16T13:48:19.998Z"
     },
     {
@@ -1638,7 +1638,7 @@
         "code": "BSD-3-Clause",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T12:16:21.589Z"
     },
     {
@@ -1689,7 +1689,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 7,
       "updatedAt": "2026-08-16T13:47:59.806Z"
     },
     {
@@ -1747,7 +1747,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 4,
       "updatedAt": "2026-08-16T13:48:50.122Z"
     },
     {
@@ -1804,7 +1804,7 @@
         "commercialUse": false,
         "notice": "角色、美术和商标权利归原权利人所有；仓库声明为非官方同人作品并禁止商业使用。"
       },
-      "stars": null,
+      "stars": 18,
       "updatedAt": "2026-08-17T02:03:47.000Z"
     },
     {
@@ -1859,7 +1859,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:55:34.455Z"
     },
     {
@@ -1918,7 +1918,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:55:39.547Z"
     },
     {
@@ -1973,7 +1973,7 @@
         "commercialUse": false,
         "notice": "插件代码声明为 MIT；壁纸与精灵表为第三方《鸣潮》爱弥斯素材，仓库说明仅供个人学习交流使用，版权归原权利人所有。"
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T16:37:51Z"
     },
     {
@@ -2024,7 +2024,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:55:44.428Z"
     },
     {
@@ -2077,7 +2077,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:55:53.334Z"
     },
     {
@@ -2134,7 +2134,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:52:26.766Z"
     },
     {
@@ -2194,7 +2194,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:52:31.430Z"
     },
     {
@@ -2245,7 +2245,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T12:16:47.899Z"
     },
     {
@@ -2298,7 +2298,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:52:36.792Z"
     },
     {
@@ -2353,7 +2353,7 @@
         "code": "SEE LICENSE IN NOTICE.md",
         "commercialUse": false
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:55:59.921Z"
     },
     {
@@ -2405,7 +2405,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:56:03.838Z"
     },
     {
@@ -2458,7 +2458,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T14:25:23.482Z"
     },
     {
@@ -2513,7 +2513,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": null,
+      "stars": 98,
       "updatedAt": "2026-08-16T12:50:44.804Z"
     },
     {
@@ -2570,7 +2570,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 19,
       "updatedAt": "2026-08-16T12:15:32.137Z"
     },
     {
@@ -2620,7 +2620,7 @@
         "code": "BSD-3-Clause",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T12:33:06.282Z"
     },
     {
@@ -2673,7 +2673,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:52:44.893Z"
     },
     {
@@ -2728,7 +2728,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:52:49.212Z"
     },
     {
@@ -2783,7 +2783,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 18,
       "updatedAt": "2026-08-16T13:47:05.463Z"
     },
     {
@@ -2835,7 +2835,7 @@
         "code": "BSD-3-Clause",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T13:49:00.442Z"
     },
     {
@@ -2895,7 +2895,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T12:33:52.774Z"
     },
     {
@@ -2948,7 +2948,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:56:21.797Z"
     },
     {
@@ -3001,7 +3001,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:56:26.825Z"
     },
     {
@@ -3057,7 +3057,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T12:32:42.957Z"
     },
     {
@@ -3109,7 +3109,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:56:36.780Z"
     },
     {
@@ -3169,7 +3169,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:50:39.220Z"
     },
     {
@@ -3223,7 +3223,7 @@
         "code": "Apache-2.0",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T13:49:03.548Z"
     },
     {
@@ -3273,7 +3273,7 @@
         "code": "Apache-2.0",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:56:41.045Z"
     },
     {
@@ -3328,7 +3328,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:53:00.319Z"
     },
     {
@@ -3382,7 +3382,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 7,
       "updatedAt": "2026-08-16T13:47:45.102Z"
     },
     {
@@ -3436,7 +3436,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T13:49:06.693Z"
     },
     {
@@ -3488,7 +3488,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:53:10.751Z"
     },
     {
@@ -3543,7 +3543,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 4,
       "updatedAt": "2026-08-16T13:49:10.001Z"
     },
     {
@@ -3596,7 +3596,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T12:16:26.193Z"
     },
     {
@@ -3653,7 +3653,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 6,
       "updatedAt": "2026-08-16T13:48:03.686Z"
     },
     {
@@ -3708,7 +3708,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:56:45.550Z"
     },
     {
@@ -3762,7 +3762,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:53:22.631Z"
     },
     {
@@ -3814,7 +3814,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:50:42.859Z"
     },
     {
@@ -3868,7 +3868,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:56:51.169Z"
     },
     {
@@ -3922,7 +3922,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:53:28.039Z"
     },
     {
@@ -3975,7 +3975,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:53:31.745Z"
     },
     {
@@ -4030,7 +4030,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:56:56.643Z"
     },
     {
@@ -4090,7 +4090,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 13,
       "updatedAt": "2026-08-16T14:16:53.255Z"
     },
     {
@@ -4147,7 +4147,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:53:35.278Z"
     },
     {
@@ -4200,7 +4200,7 @@
         "code": "BSD-3-Clause",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T13:49:17.801Z"
     },
     {
@@ -4253,7 +4253,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 7,
       "updatedAt": "2026-08-16T12:15:53.427Z"
     },
     {
@@ -4306,7 +4306,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:53:39.460Z"
     },
     {
@@ -4359,7 +4359,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:53:45.052Z"
     },
     {
@@ -4412,7 +4412,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:57:07.914Z"
     },
     {
@@ -4466,7 +4466,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T14:26:15.903Z"
     },
     {
@@ -4521,7 +4521,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 58,
       "updatedAt": "2026-08-16T12:47:55.813Z"
     },
     {
@@ -4575,7 +4575,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:53:50.782Z"
     },
     {
@@ -4628,7 +4628,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 5,
       "updatedAt": "2026-08-16T12:16:17.062Z"
     },
     {
@@ -4681,7 +4681,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:57:29.957Z"
     },
     {
@@ -4735,7 +4735,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T12:16:30.062Z"
     },
     {
@@ -4787,7 +4787,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:57:34.783Z"
     },
     {
@@ -4840,7 +4840,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T12:17:02.328Z"
     },
     {
@@ -4899,7 +4899,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": null,
+      "stars": 1368,
       "updatedAt": "2026-08-16T12:47:30.553Z"
     },
     {
@@ -4953,7 +4953,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 6,
       "updatedAt": "2026-08-16T12:31:55.720Z"
     },
     {
@@ -5007,7 +5007,7 @@
         "code": "BSD-3-Clause",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 12,
       "updatedAt": "2026-08-16T13:47:08.953Z"
     },
     {
@@ -5061,7 +5061,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:53:58.612Z"
     },
     {
@@ -5119,7 +5119,7 @@
         "code": "SEE LICENSE IN LICENSE",
         "commercialUse": false
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:57:46.646Z"
     },
     {
@@ -5172,7 +5172,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T13:57:51.456Z"
     },
     {
@@ -5225,7 +5225,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T14:27:05.562Z"
     },
     {
@@ -5278,7 +5278,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 8,
       "updatedAt": "2026-08-16T12:15:41.349Z"
     },
     {
@@ -5338,7 +5338,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 9,
       "updatedAt": "2026-08-16T12:31:59.883Z"
     },
     {
@@ -5392,7 +5392,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 14,
       "updatedAt": "2026-08-16T12:15:36.557Z"
     },
     {
@@ -5449,7 +5449,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 7,
       "updatedAt": "2026-08-16T13:54:05.830Z"
     },
     {
@@ -5503,7 +5503,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 7,
       "updatedAt": "2026-08-16T13:25:07.230Z"
     },
     {
@@ -5557,7 +5557,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T12:16:34.856Z"
     },
     {
@@ -5611,7 +5611,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T13:49:24.908Z"
     },
     {
@@ -5670,7 +5670,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 5,
       "updatedAt": "2026-08-16T13:48:16.554Z"
     },
     {
@@ -5724,7 +5724,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:57:56.238Z"
     },
     {
@@ -5779,7 +5779,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:51:04.723Z"
     },
     {
@@ -5832,7 +5832,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:51:09.489Z"
     },
     {
@@ -5887,7 +5887,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:51:14.660Z"
     },
     {
@@ -5941,7 +5941,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:58:05.239Z"
     },
     {
@@ -5994,7 +5994,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 7,
       "updatedAt": "2026-08-16T12:15:58.715Z"
     },
     {
@@ -6048,7 +6048,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 7,
       "updatedAt": "2026-08-16T12:32:14.655Z"
     },
     {
@@ -6103,7 +6103,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:58:11.377Z"
     },
     {
@@ -6156,7 +6156,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:54:27.004Z"
     },
     {
@@ -6213,7 +6213,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 291,
       "updatedAt": "2026-08-16T14:15:34.511Z"
     },
     {
@@ -6270,7 +6270,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:54:32.014Z"
     },
     {
@@ -6331,7 +6331,7 @@
         "code": "CC-BY-NC-SA-4.0",
         "commercialUse": false
       },
-      "stars": null,
+      "stars": 16,
       "updatedAt": "2026-08-16T13:47:01.836Z"
     },
     {
@@ -6390,7 +6390,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:58:16.091Z"
     },
     {
@@ -6446,7 +6446,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 11,
       "updatedAt": "2026-08-16T12:15:45.060Z"
     },
     {
@@ -6505,7 +6505,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 6,
       "updatedAt": "2026-08-16T13:51:23.052Z"
     },
     {
@@ -6559,7 +6559,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:58:24.026Z"
     },
     {
@@ -6613,7 +6613,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:54:40.449Z"
     },
     {
@@ -6668,7 +6668,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T14:27:39.357Z"
     },
     {
@@ -6724,7 +6724,7 @@
         "code": "BSD-3-Clause",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 14,
       "updatedAt": "2026-08-16T12:48:35.081Z"
     },
     {
@@ -6777,7 +6777,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:58:28.052Z"
     },
     {
@@ -6833,7 +6833,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T12:34:09.222Z"
     },
     {
@@ -6889,7 +6889,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T13:51:27.838Z"
     },
     {
@@ -6942,7 +6942,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T13:51:31.579Z"
     },
     {
@@ -6995,7 +6995,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T13:51:35.527Z"
     },
     {
@@ -7051,7 +7051,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T13:49:28.860Z"
     },
     {
@@ -7111,7 +7111,7 @@
         "commercialUse": true,
         "notice": "Catppuccin palette 源自 catppuccin/palette，并按 MIT 许可证使用。"
       },
-      "stars": null,
+      "stars": 9,
       "updatedAt": "2026-08-16T13:24:43.612Z"
     },
     {
@@ -7163,7 +7163,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 0,
       "updatedAt": "2026-08-16T12:34:13.620Z"
     },
     {
@@ -7221,7 +7221,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 3,
       "updatedAt": "2026-08-16T12:32:51.434Z"
     },
     {
@@ -7277,7 +7277,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 5,
       "updatedAt": "2026-08-16T12:32:28.705Z"
     },
     {
@@ -7332,7 +7332,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": null,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:58:44.799Z"
     }
   ]
