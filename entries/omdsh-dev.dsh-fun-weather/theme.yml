@@ -10,7 +10,7 @@ version: 0.1.0
 source:
   kind: external
   repository: https://github.com/omdsh-dev/dsh-fun-weather
-  commit: efe1bec16889571f5e67bc7118163b0435768101
+  commit: bce75dc597ef688580b96be77a92c3105e0fcf0c
 tags:
   - wallpaper
   - motion
@@ -23,7 +23,7 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://opengraph.githubassets.com/efe1bec16889571f5e67bc7118163b0435768101/omdsh-dev/dsh-fun-weather
+  - https://opengraph.githubassets.com/bce75dc597ef688580b96be77a92c3105e0fcf0c/omdsh-dev/dsh-fun-weather
 review:
   compatibility: verified
   preview: repository-card
@@ -31,4 +31,4 @@ review:
 license:
   code: BSD-3-Clause
   commercialUse: true
-updatedAt: 2026-08-16T13:49:17.801Z
+updatedAt: 2026-08-19T16:10:43Z

@@ -10,7 +10,7 @@ version: 0.2.0
 source:
   kind: external
   repository: https://github.com/dsh-plugins/dsh-thought-buddy
-  commit: bb8f1aa5972aab844b0c9793f0793b34f4a486b8
+  commit: 3fcc172a38e1567a190ff644c581ff5ba4c8472a
 tags:
   - retro
   - motion
@@ -23,9 +23,9 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/bb8f1aa5972aab844b0c9793f0793b34f4a486b8/docs/banner.png
-  - https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/bb8f1aa5972aab844b0c9793f0793b34f4a486b8/docs/effect.gif
-  - https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/bb8f1aa5972aab844b0c9793f0793b34f4a486b8/docs/img.png
+  - https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/3fcc172a38e1567a190ff644c581ff5ba4c8472a/docs/banner.png
+  - https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/3fcc172a38e1567a190ff644c581ff5ba4c8472a/docs/effect.gif
+  - https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/3fcc172a38e1567a190ff644c581ff5ba4c8472a/docs/img.png
 review:
   compatibility: unverified
   preview: verified
@@ -33,4 +33,4 @@ review:
 license:
   code: BSD-3-Clause
   commercialUse: true
-updatedAt: 2026-08-16T12:16:21.589Z
+updatedAt: 2026-08-19T16:20:15Z

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T12:54:00.231Z",
+  "generatedAt": "2026-08-19T16:46:03.285Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -976,7 +976,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 181,
+      "stars": 182,
       "updatedAt": "2026-08-19T03:29:13Z"
     },
     {
@@ -1282,8 +1282,8 @@
       "packageName": "dsh-arknights",
       "rowId": "ui-skin-arknights",
       "install": {
-        "target": "github:DocJlm/dsh-arknights#6419ea4d249945daa4bc05112b32ee868f5d2d6c&path:skins/pramanix-eyjafjalla",
-        "commit": "6419ea4d249945daa4bc05112b32ee868f5d2d6c",
+        "target": "github:DocJlm/dsh-arknights#87116ed1536c61dbb287addd9e4830cf3e8e0f36&path:skins/pramanix-eyjafjalla",
+        "commit": "87116ed1536c61dbb287addd9e4830cf3e8e0f36",
         "version": "0.1.0"
       },
       "tags": [
@@ -1303,7 +1303,7 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/DocJlm/dsh-arknights/6419ea4d249945daa4bc05112b32ee868f5d2d6c/skins/pramanix-eyjafjalla/preview/cover.webp"
+        "https://raw.githubusercontent.com/DocJlm/dsh-arknights/87116ed1536c61dbb287addd9e4830cf3e8e0f36/skins/pramanix-eyjafjalla/preview/cover.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/docjlm.pramanix-eyjafjalla.webp",
       "review": {
@@ -1316,7 +1316,7 @@
         "commercialUse": true
       },
       "stars": 2,
-      "updatedAt": "2026-08-16T12:32:55.976Z"
+      "updatedAt": "2026-08-19T13:51:53Z"
     },
     {
       "id": "drfccv.dsh-theme-neko",
@@ -1377,8 +1377,8 @@
       "packageName": "@dsh-plugin/dsh-thought-buddy",
       "rowId": "thought-buddy",
       "install": {
-        "target": "github:dsh-plugins/dsh-thought-buddy#bb8f1aa5972aab844b0c9793f0793b34f4a486b8",
-        "commit": "bb8f1aa5972aab844b0c9793f0793b34f4a486b8",
+        "target": "github:dsh-plugins/dsh-thought-buddy#3fcc172a38e1567a190ff644c581ff5ba4c8472a",
+        "commit": "3fcc172a38e1567a190ff644c581ff5ba4c8472a",
         "version": "0.2.0"
       },
       "tags": [
@@ -1397,9 +1397,9 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/bb8f1aa5972aab844b0c9793f0793b34f4a486b8/docs/banner.png",
-        "https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/bb8f1aa5972aab844b0c9793f0793b34f4a486b8/docs/effect.gif",
-        "https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/bb8f1aa5972aab844b0c9793f0793b34f4a486b8/docs/img.png"
+        "https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/3fcc172a38e1567a190ff644c581ff5ba4c8472a/docs/banner.png",
+        "https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/3fcc172a38e1567a190ff644c581ff5ba4c8472a/docs/effect.gif",
+        "https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/3fcc172a38e1567a190ff644c581ff5ba4c8472a/docs/img.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/dsh-plugins.dsh-thought-buddy.webp",
       "review": {
@@ -1412,7 +1412,7 @@
         "commercialUse": true
       },
       "stars": 2,
-      "updatedAt": "2026-08-16T12:16:21.589Z"
+      "updatedAt": "2026-08-19T16:20:15Z"
     },
     {
       "id": "dviridescent.dafy-whale-theme",
@@ -2190,7 +2190,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 112,
+      "stars": 115,
       "updatedAt": "2026-08-18T11:34:16Z"
     },
     {
@@ -3593,7 +3593,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 13,
+      "stars": 14,
       "updatedAt": "2026-08-18T12:46:45Z"
     },
     {
@@ -3659,8 +3659,8 @@
       "packageName": "@deepseek-ai/dsh-fun-weather",
       "rowId": "fun-weather",
       "install": {
-        "target": "github:omdsh-dev/dsh-fun-weather#efe1bec16889571f5e67bc7118163b0435768101",
-        "commit": "efe1bec16889571f5e67bc7118163b0435768101",
+        "target": "github:omdsh-dev/dsh-fun-weather#bce75dc597ef688580b96be77a92c3105e0fcf0c",
+        "commit": "bce75dc597ef688580b96be77a92c3105e0fcf0c",
         "version": "0.1.0"
       },
       "tags": [
@@ -3679,7 +3679,7 @@
         ]
       },
       "screenshots": [
-        "https://opengraph.githubassets.com/efe1bec16889571f5e67bc7118163b0435768101/omdsh-dev/dsh-fun-weather"
+        "https://opengraph.githubassets.com/bce75dc597ef688580b96be77a92c3105e0fcf0c/omdsh-dev/dsh-fun-weather"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/omdsh-dev.dsh-fun-weather.webp",
       "review": {
@@ -3692,7 +3692,7 @@
         "commercialUse": true
       },
       "stars": 3,
-      "updatedAt": "2026-08-16T13:49:17.801Z"
+      "updatedAt": "2026-08-19T16:10:43Z"
     },
     {
       "id": "pakiknowledge.dsh-client-ui-skin-claude",
@@ -3976,7 +3976,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 64,
+      "stars": 65,
       "updatedAt": "2026-08-18T06:59:04Z"
     },
     {
@@ -4274,8 +4274,8 @@
       "packageName": "@dsh-external/dsh-client-ui-skin-maid-atelier",
       "rowId": "ui-skin-maid-atelier",
       "install": {
-        "target": "github:Small-tailqwq/dsh-deep-whale#4d3e34687010863a29e0ba539209ad5138856f1f&path:maid-atelier",
-        "commit": "4d3e34687010863a29e0ba539209ad5138856f1f",
+        "target": "github:Small-tailqwq/dsh-deep-whale#7514a13dbc35ce04ed851d284f7a2058c4c5873a&path:maid-atelier",
+        "commit": "7514a13dbc35ce04ed851d284f7a2058c4c5873a",
         "version": "0.0.1"
       },
       "tags": [
@@ -4297,8 +4297,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/4d3e34687010863a29e0ba539209ad5138856f1f/maid-atelier/preview/light.webp",
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/4d3e34687010863a29e0ba539209ad5138856f1f/maid-atelier/preview/dark.webp"
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/7514a13dbc35ce04ed851d284f7a2058c4c5873a/maid-atelier/preview/light.webp",
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/7514a13dbc35ce04ed851d284f7a2058c4c5873a/maid-atelier/preview/dark.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/small-tailqwq.maid-atelier.webp",
       "review": {
@@ -4311,8 +4311,8 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1439,
-      "updatedAt": "2026-08-19T04:55:42Z"
+      "stars": 1452,
+      "updatedAt": "2026-08-19T15:30:54Z"
     },
     {
       "id": "starslittle.dsh-blue-whale",
@@ -4470,9 +4470,9 @@
       "packageName": "dph-endfield-theme",
       "rowId": "dph-endfield-theme",
       "install": {
-        "target": "github:thjyy/dph-endfield-theme#223a27aefedd1ad221083d065754614401eade80",
-        "commit": "223a27aefedd1ad221083d065754614401eade80",
-        "version": "1.1.0"
+        "target": "github:thjyy/dph-endfield-theme#a7d7467ed14db2504ab860073800244e4521d177",
+        "commit": "a7d7467ed14db2504ab860073800244e4521d177",
+        "version": "1.2.0"
       },
       "tags": [
         "glass",
@@ -4491,11 +4491,11 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/thjyy/dph-endfield-theme/223a27aefedd1ad221083d065754614401eade80/docs/images/preview-home.png",
-        "https://raw.githubusercontent.com/thjyy/dph-endfield-theme/223a27aefedd1ad221083d065754614401eade80/docs/images/preview-conversation.png",
-        "https://raw.githubusercontent.com/thjyy/dph-endfield-theme/223a27aefedd1ad221083d065754614401eade80/docs/images/state-idle.gif",
-        "https://raw.githubusercontent.com/thjyy/dph-endfield-theme/223a27aefedd1ad221083d065754614401eade80/docs/images/state-typing.gif",
-        "https://raw.githubusercontent.com/thjyy/dph-endfield-theme/223a27aefedd1ad221083d065754614401eade80/docs/images/state-thinking.gif"
+        "https://raw.githubusercontent.com/thjyy/dph-endfield-theme/a7d7467ed14db2504ab860073800244e4521d177/docs/images/preview-home.png",
+        "https://raw.githubusercontent.com/thjyy/dph-endfield-theme/a7d7467ed14db2504ab860073800244e4521d177/docs/images/preview-conversation.png",
+        "https://raw.githubusercontent.com/thjyy/dph-endfield-theme/a7d7467ed14db2504ab860073800244e4521d177/docs/images/state-idle.gif",
+        "https://raw.githubusercontent.com/thjyy/dph-endfield-theme/a7d7467ed14db2504ab860073800244e4521d177/docs/images/state-typing.gif",
+        "https://raw.githubusercontent.com/thjyy/dph-endfield-theme/a7d7467ed14db2504ab860073800244e4521d177/docs/images/state-thinking.gif"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/thjyy.dph-endfield-theme.webp",
       "review": {
@@ -4508,7 +4508,7 @@
         "commercialUse": false
       },
       "stars": 2,
-      "updatedAt": "2026-08-16T13:57:46.646Z"
+      "updatedAt": "2026-08-19T14:43:45Z"
     },
     {
       "id": "tiantyu.dsh-skin-toggle",
@@ -4663,9 +4663,9 @@
       "packageName": "dsh-any-background",
       "rowId": "dsh-any-background",
       "install": {
-        "target": "github:Tkingxiao/dsh-any-background#5e4c0e0c3758c834422a6528ac26821ebf764b29",
-        "commit": "5e4c0e0c3758c834422a6528ac26821ebf764b29",
-        "version": "0.1.8"
+        "target": "github:Tkingxiao/dsh-any-background#2f8020788479f2a5d05db302f64ceaed958f99f3",
+        "commit": "2f8020788479f2a5d05db302f64ceaed958f99f3",
+        "version": "0.1.9"
       },
       "tags": [
         "wallpaper",
@@ -4685,12 +4685,12 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/5e4c0e0c3758c834422a6528ac26821ebf764b29/example_img/image-6.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/5e4c0e0c3758c834422a6528ac26821ebf764b29/example_img/image-9.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/5e4c0e0c3758c834422a6528ac26821ebf764b29/example_img/image.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/5e4c0e0c3758c834422a6528ac26821ebf764b29/example_img/image-2.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/5e4c0e0c3758c834422a6528ac26821ebf764b29/example_img/image-3.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/5e4c0e0c3758c834422a6528ac26821ebf764b29/example_img/image-4.png"
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/2f8020788479f2a5d05db302f64ceaed958f99f3/example_img/image-6.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/2f8020788479f2a5d05db302f64ceaed958f99f3/example_img/image-9.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/2f8020788479f2a5d05db302f64ceaed958f99f3/example_img/image.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/2f8020788479f2a5d05db302f64ceaed958f99f3/example_img/image-2.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/2f8020788479f2a5d05db302f64ceaed958f99f3/example_img/image-3.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/2f8020788479f2a5d05db302f64ceaed958f99f3/example_img/image-4.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tkingxiao.dsh-any-background.webp",
       "review": {
@@ -4702,8 +4702,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 12,
-      "updatedAt": "2026-08-18T21:35:58Z"
+      "stars": 13,
+      "updatedAt": "2026-08-19T16:12:00Z"
     },
     {
       "id": "tommy00748.dsh-theme-cyberpunk2077",
@@ -4750,7 +4750,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 15,
+      "stars": 16,
       "updatedAt": "2026-08-16T12:15:36.557Z"
     },
     {
@@ -5435,7 +5435,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 317,
+      "stars": 325,
       "updatedAt": "2026-08-17T10:23:35Z"
     },
     {
@@ -5697,7 +5697,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 6,
+      "stars": 7,
       "updatedAt": "2026-08-17T05:54:32Z"
     },
     {

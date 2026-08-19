@@ -6,11 +6,11 @@ author: thjyy
 description: Unofficial industrial Endfield-inspired theme bundle for DeepSeek Harness Web.
 package: dph-endfield-theme
 rowId: dph-endfield-theme
-version: 1.1.0
+version: 1.2.0
 source:
   kind: external
   repository: https://github.com/thjyy/dph-endfield-theme
-  commit: 223a27aefedd1ad221083d065754614401eade80
+  commit: a7d7467ed14db2504ab860073800244e4521d177
 tags:
   - glass
   - retro
@@ -24,11 +24,11 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/thjyy/dph-endfield-theme/223a27aefedd1ad221083d065754614401eade80/docs/images/preview-home.png
-  - https://raw.githubusercontent.com/thjyy/dph-endfield-theme/223a27aefedd1ad221083d065754614401eade80/docs/images/preview-conversation.png
-  - https://raw.githubusercontent.com/thjyy/dph-endfield-theme/223a27aefedd1ad221083d065754614401eade80/docs/images/state-idle.gif
-  - https://raw.githubusercontent.com/thjyy/dph-endfield-theme/223a27aefedd1ad221083d065754614401eade80/docs/images/state-typing.gif
-  - https://raw.githubusercontent.com/thjyy/dph-endfield-theme/223a27aefedd1ad221083d065754614401eade80/docs/images/state-thinking.gif
+  - https://raw.githubusercontent.com/thjyy/dph-endfield-theme/a7d7467ed14db2504ab860073800244e4521d177/docs/images/preview-home.png
+  - https://raw.githubusercontent.com/thjyy/dph-endfield-theme/a7d7467ed14db2504ab860073800244e4521d177/docs/images/preview-conversation.png
+  - https://raw.githubusercontent.com/thjyy/dph-endfield-theme/a7d7467ed14db2504ab860073800244e4521d177/docs/images/state-idle.gif
+  - https://raw.githubusercontent.com/thjyy/dph-endfield-theme/a7d7467ed14db2504ab860073800244e4521d177/docs/images/state-typing.gif
+  - https://raw.githubusercontent.com/thjyy/dph-endfield-theme/a7d7467ed14db2504ab860073800244e4521d177/docs/images/state-thinking.gif
 review:
   compatibility: unverified
   preview: verified
@@ -36,4 +36,4 @@ review:
 license:
   code: SEE LICENSE IN LICENSE
   commercialUse: false
-updatedAt: 2026-08-16T13:57:46.646Z
+updatedAt: 2026-08-19T14:43:45Z
