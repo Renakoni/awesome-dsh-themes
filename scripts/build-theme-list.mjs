@@ -85,6 +85,11 @@ const outputs = new Map([
   })]
 ]);
 
+const countBlocks = new Map([
+  ["README.md", `<!-- theme-count:start -->\n本项目已收录 **${entries.length}** 个主题，主题详情整理在单独的主题页中：\n<!-- theme-count:end -->`],
+  ["README.en.md", `<!-- theme-count:start -->\nThis project currently lists **${entries.length}** themes. Details are collected on a separate page:\n<!-- theme-count:end -->`]
+]);
+
 for (const [file, content] of outputs) {
   const path = join(root, file);
   if (checkOnly) {
@@ -92,6 +97,18 @@ for (const [file, content] of outputs) {
     if (current !== content) throw new Error(`${file} is out of date; run npm run themes`);
   } else {
     await writeFile(path, content);
+  }
+}
+
+for (const [file, block] of countBlocks) {
+  const path = join(root, file);
+  const current = await readFile(path, "utf8");
+  const next = current.replace(/<!-- theme-count:start -->[\s\S]*?<!-- theme-count:end -->/, block);
+  if (next === current && !current.includes(block)) throw new Error(`${file}: theme count markers are missing`);
+  if (checkOnly) {
+    if (next !== current) throw new Error(`${file} has an outdated theme count; run npm run themes`);
+  } else {
+    await writeFile(path, next);
   }
 }
 

@@ -22,11 +22,13 @@
 
 This is an archive of themes made for DeepSeek Harness.
 
-It supplies the theme list used by DSH Desk and also works as a standalone theme collection.
+It supplies the theme list used by [DSH Desk](https://github.com/Renakoni/dsh-desk) and also works as a standalone theme collection.
 
 ## Browse themes
 
-Theme names, previews, and original repositories are listed on a separate page:
+<!-- theme-count:start -->
+This project currently lists **134** themes. Details are collected on a separate page:
+<!-- theme-count:end -->
 
 ### [Browse all themes →](THEMES.en.md)
 
@@ -49,14 +51,19 @@ Themes must come from public GitHub repositories and use complete 40-character c
 
 ## Repository layout
 
-- [`THEMES.en.md`](THEMES.en.md): theme names, previews, and upstream repositories.
-- `entries/<theme-id>/theme.yml`: metadata for each theme.
-- `previews/<theme-id>.webp`: preview images used by the theme list.
-- `data/catalog.json`: catalog data consumed by DSH Desk.
-- `data/schema.json`: the theme entry schema.
-- `scripts/`: catalog generators and checks.
-
-`THEMES.md`, `THEMES.en.md`, `previews/`, and `data/catalog.json` are updated automatically after an entry is merged.
+```text
+.
+├── entries/
+│   └── <theme-id>/
+│       └── theme.yml
+├── previews/
+├── data/
+│   ├── catalog.json
+│   └── schema.json
+├── scripts/
+├── THEMES.md
+└── THEMES.en.md
+```
 
 ## License
 

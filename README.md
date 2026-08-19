@@ -22,11 +22,13 @@
 
 这是一个 DeepSeek Harness 主题归档库。
 
-它是 DSH Desk 主题列表的上游数据源，也可以作为一个独立的主题合集浏览。
+它是 [DSH Desk](https://github.com/Renakoni/dsh-desk) 主题列表的上游数据源，也可以作为一个独立的主题合集浏览。
 
 ## 浏览主题
 
-主题名称、预览图和原仓库都整理在单独的主题页中：
+<!-- theme-count:start -->
+本项目已收录 **134** 个主题，主题详情整理在单独的主题页中：
+<!-- theme-count:end -->
 
 ### [查看全部主题 →](THEMES.md)
 
@@ -49,14 +51,19 @@
 
 ## 仓库结构
 
-- [`THEMES.md`](THEMES.md)：主题列表，包含名称、预览和上游仓库。
-- `entries/<theme-id>/theme.yml`：每个主题的元数据。
-- `previews/<theme-id>.webp`：主题列表使用的预览图。
-- `data/catalog.json`：提供给 DSH Desk 的目录数据。
-- `data/schema.json`：主题条目的格式定义。
-- `scripts/`：目录生成和检查脚本。
-
-`THEMES.md`、`THEMES.en.md`、`previews/` 和 `data/catalog.json` 会在条目合并后自动更新。
+```text
+.
+├── entries/
+│   └── <theme-id>/
+│       └── theme.yml
+├── previews/
+├── data/
+│   ├── catalog.json
+│   └── schema.json
+├── scripts/
+├── THEMES.md
+└── THEMES.en.md
+```
 
 ## 许可证
 
