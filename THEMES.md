@@ -18,13 +18,13 @@
 <td align="center" valign="middle">深海女仆工坊</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="深海女仆工坊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">1,403</td>
+<td align="center" valign="middle">1,421</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
 <td align="center" valign="middle"><img src="previews/wyh66666666.dsh-transparent-ui-plugin.webp" alt="DSH-Transparent-UI-Plugin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/WYH66666666/DSH-Transparent-UI-Plugin">WYH66666666/DSH-Transparent-UI-Plugin</a></td>
-<td align="center" valign="middle">300</td>
+<td align="center" valign="middle">307</td>
 </tr>
 <tr>
 <td align="center" valign="middle">Open Sea 海洋皮肤</td>
@@ -36,13 +36,13 @@
 <td align="center" valign="middle">滑动变祖</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="滑动变祖" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">105</td>
+<td align="center" valign="middle">107</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
 <td align="center" valign="middle"><img src="previews/revolutionla.dsh-dream-skin.webp" alt="dsh-dream-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></td>
-<td align="center" valign="middle">58</td>
+<td align="center" valign="middle">62</td>
 </tr>
 <tr>
 <td align="center" valign="middle">达妮娅 · 虚无之泡</td>
@@ -69,16 +69,16 @@
 <td align="center" valign="middle">17</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-theme-cyberpunk2077</td>
+<td align="center" valign="middle"><img src="previews/tommy00748.dsh-theme-cyberpunk2077.webp" alt="dsh-theme-cyberpunk2077" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/Tommy00748/dsh-theme-cyberpunk2077">Tommy00748/dsh-theme-cyberpunk2077</a></td>
+<td align="center" valign="middle">15</td>
+</tr>
+<tr>
 <td align="center" valign="middle">maid-whale-webui</td>
 <td align="center" valign="middle"><img src="previews/yunxiiqwq.maid-whale-webui.webp" alt="maid-whale-webui" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/yunxiiQwQ/dsh-maid-whale-webUI">yunxiiQwQ/dsh-maid-whale-webUI</a></td>
 <td align="center" valign="middle">15</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-theme-cyberpunk2077</td>
-<td align="center" valign="middle"><img src="previews/tommy00748.dsh-theme-cyberpunk2077.webp" alt="dsh-theme-cyberpunk2077" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/Tommy00748/dsh-theme-cyberpunk2077">Tommy00748/dsh-theme-cyberpunk2077</a></td>
-<td align="center" valign="middle">14</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-catppuccin</td>
@@ -375,6 +375,12 @@
 <td align="center" valign="middle">2</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dph-endfield-theme</td>
+<td align="center" valign="middle"><img src="previews/thjyy.dph-endfield-theme.webp" alt="dph-endfield-theme" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/thjyy/dph-endfield-theme">thjyy/dph-endfield-theme</a></td>
+<td align="center" valign="middle">2</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-claude-theme</td>
 <td align="center" valign="middle"><img src="previews/chajiuqqq.dsh-claude-theme.webp" alt="dsh-claude-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/chajiuqqq/dsh-claude-theme">chajiuqqq/dsh-claude-theme</a></td>
@@ -474,12 +480,6 @@
 <td align="center" valign="middle">dhs-theme-plugin</td>
 <td align="center" valign="middle"><img src="previews/kongxiangyiren.dhs-theme-plugin.webp" alt="dhs-theme-plugin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kongxiangyiren/dhs-theme-plugin">kongxiangyiren/dhs-theme-plugin</a></td>
-<td align="center" valign="middle">1</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dph-endfield-theme</td>
-<td align="center" valign="middle"><img src="previews/thjyy.dph-endfield-theme.webp" alt="dph-endfield-theme" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/thjyy/dph-endfield-theme">thjyy/dph-endfield-theme</a></td>
 <td align="center" valign="middle">1</td>
 </tr>
 <tr>

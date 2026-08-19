@@ -11,7 +11,7 @@ version: 0.6.0
 source:
   kind: external
   repository: https://github.com/cdxDNRF/wishadel-theme
-  commit: 44f4bd02d737b0c3125ffdc9a1f5ecdf53ff953c
+  commit: af3537597b97e8989c2518c25cfdabebddd2c1ee
 tags:
   - wallpaper
   - motion
@@ -24,8 +24,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/44f4bd02d737b0c3125ffdc9a1f5ecdf53ff953c/docs/screenshots/conversation.png
-  - https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/44f4bd02d737b0c3125ffdc9a1f5ecdf53ff953c/docs/screenshots/settings.png
+  - https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/af3537597b97e8989c2518c25cfdabebddd2c1ee/docs/screenshots/conversation.png
+  - https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/af3537597b97e8989c2518c25cfdabebddd2c1ee/docs/screenshots/settings.png
 review:
   compatibility: verified
   preview: verified
@@ -33,4 +33,4 @@ review:
 license:
   code: CC-BY-NC-SA-4.0
   commercialUse: false
-updatedAt: 2026-08-18T16:55:26Z
+updatedAt: 2026-08-19T08:49:06Z
