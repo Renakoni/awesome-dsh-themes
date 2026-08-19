@@ -33,7 +33,9 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: npm run previews
+      - name: Build previews
+        if: github.event_name != 'schedule'
+        run: npm run previews
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: npm run catalog
@@ -44,11 +46,13 @@ jobs:
         with:
           branch: automation/catalog-sync
           delete-branch: true
-          commit-message: "chore(catalog): regenerate appearance assets"
-          title: "chore(catalog): regenerate appearance assets"
-          body: "Automated catalog index and WebP preview refresh."
+          commit-message: "chore(catalog): refresh generated catalog data"
+          title: "chore(catalog): refresh generated catalog data"
+          body: "Automated refresh of Stars, catalog data, theme pages, and previews when needed."
           add-paths: |
             data/catalog.json
             previews/*.webp
             THEMES.md
             THEMES.en.md
+            README.md
+            README.en.md
