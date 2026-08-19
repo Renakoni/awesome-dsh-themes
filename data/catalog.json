@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T06:08:31.944Z",
+  "generatedAt": "2026-08-19T08:51:44.963Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -744,8 +744,8 @@
       "packageName": "@cdxdnrf/dsh-client-ui-skin-wishadel",
       "rowId": "ui-skin-wishadel",
       "install": {
-        "target": "github:cdxDNRF/wishadel-theme#44f4bd02d737b0c3125ffdc9a1f5ecdf53ff953c",
-        "commit": "44f4bd02d737b0c3125ffdc9a1f5ecdf53ff953c",
+        "target": "github:cdxDNRF/wishadel-theme#af3537597b97e8989c2518c25cfdabebddd2c1ee",
+        "commit": "af3537597b97e8989c2518c25cfdabebddd2c1ee",
         "version": "0.6.0"
       },
       "tags": [
@@ -764,8 +764,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/44f4bd02d737b0c3125ffdc9a1f5ecdf53ff953c/docs/screenshots/conversation.png",
-        "https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/44f4bd02d737b0c3125ffdc9a1f5ecdf53ff953c/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/af3537597b97e8989c2518c25cfdabebddd2c1ee/docs/screenshots/conversation.png",
+        "https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/af3537597b97e8989c2518c25cfdabebddd2c1ee/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/cdxdnrf.wishadel-theme.webp",
       "review": {
@@ -778,7 +778,7 @@
         "commercialUse": false
       },
       "stars": 0,
-      "updatedAt": "2026-08-18T16:55:26Z"
+      "updatedAt": "2026-08-19T08:49:06Z"
     },
     {
       "id": "chajiuqqq.dsh-claude-theme",
@@ -2236,7 +2236,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 105,
+      "stars": 107,
       "updatedAt": "2026-08-18T11:34:16Z"
     },
     {
@@ -4022,7 +4022,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 58,
+      "stars": 62,
       "updatedAt": "2026-08-18T06:59:04Z"
     },
     {
@@ -4320,8 +4320,8 @@
       "packageName": "@dsh-external/dsh-client-ui-skin-maid-atelier",
       "rowId": "ui-skin-maid-atelier",
       "install": {
-        "target": "github:Small-tailqwq/dsh-deep-whale#6ce114cf67c785e61458d30d2ea53f7d0ea95bbe&path:maid-atelier",
-        "commit": "6ce114cf67c785e61458d30d2ea53f7d0ea95bbe",
+        "target": "github:Small-tailqwq/dsh-deep-whale#4d3e34687010863a29e0ba539209ad5138856f1f&path:maid-atelier",
+        "commit": "4d3e34687010863a29e0ba539209ad5138856f1f",
         "version": "0.0.1"
       },
       "tags": [
@@ -4343,8 +4343,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/6ce114cf67c785e61458d30d2ea53f7d0ea95bbe/maid-atelier/preview/light.webp",
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/6ce114cf67c785e61458d30d2ea53f7d0ea95bbe/maid-atelier/preview/dark.webp"
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/4d3e34687010863a29e0ba539209ad5138856f1f/maid-atelier/preview/light.webp",
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/4d3e34687010863a29e0ba539209ad5138856f1f/maid-atelier/preview/dark.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/small-tailqwq.maid-atelier.webp",
       "review": {
@@ -4357,8 +4357,8 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1403,
-      "updatedAt": "2026-08-19T04:15:49Z"
+      "stars": 1421,
+      "updatedAt": "2026-08-19T04:55:42Z"
     },
     {
       "id": "starslittle.dsh-blue-whale",
@@ -4553,7 +4553,7 @@
         "code": "SEE LICENSE IN LICENSE",
         "commercialUse": false
       },
-      "stars": 1,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:57:46.646Z"
     },
     {
@@ -4796,7 +4796,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 14,
+      "stars": 15,
       "updatedAt": "2026-08-16T12:15:36.557Z"
     },
     {
@@ -5525,7 +5525,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 300,
+      "stars": 307,
       "updatedAt": "2026-08-17T10:23:35Z"
     },
     {
