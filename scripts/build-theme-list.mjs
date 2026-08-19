@@ -10,6 +10,10 @@ const entriesDir = join(root, "entries");
 const catalogFile = join(root, "data", "catalog.json");
 const checkOnly = process.argv.includes("--check");
 
+function normalizeText(value) {
+  return value.replace(/\r\n?/g, "\n");
+}
+
 function escapeHtml(value) {
   return String(value)
     .replaceAll("&", "&amp;")
@@ -132,7 +136,7 @@ const countBlocks = new Map([
 for (const [file, content] of outputs) {
   const path = join(root, file);
   if (checkOnly) {
-    const current = existsSync(path) ? await readFile(path, "utf8") : "";
+    const current = existsSync(path) ? normalizeText(await readFile(path, "utf8")) : "";
     if (current !== content) throw new Error(`${file} is out of date; run npm run themes`);
   } else {
     await writeFile(path, content);
@@ -141,7 +145,7 @@ for (const [file, content] of outputs) {
 
 for (const [file, block] of countBlocks) {
   const path = join(root, file);
-  const current = await readFile(path, "utf8");
+  const current = normalizeText(await readFile(path, "utf8"));
   const next = current.replace(/<!-- theme-count:start -->[\s\S]*?<!-- theme-count:end -->/, block);
   if (next === current && !current.includes(block)) throw new Error(`${file}: theme count markers are missing`);
   if (checkOnly) {

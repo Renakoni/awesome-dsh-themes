@@ -3,7 +3,13 @@ import assert from "node:assert/strict";
 import test from "node:test";
 import sharp from "sharp";
 import { latestGitHubSource } from "../scripts/github-source.mjs";
-import { githubRepositoryCard, isGitHubRepositoryCard, renderRepositoryCard, themeScreenshots } from "../scripts/theme-screenshots.mjs";
+import {
+  githubRepositoryCard,
+  isGitHubRepositoryCard,
+  renderRepositoryCard,
+  shouldPreserveRepositoryCardPreview,
+  themeScreenshots
+} from "../scripts/theme-screenshots.mjs";
 import { pinScreenshotUrl, synchronizedEntry } from "../scripts/sync-sources.mjs";
 
 const source = {
@@ -22,6 +28,12 @@ test("uses the GitHub repository card when screenshots are missing", () => {
 
 test("keeps submitted screenshots", () => {
   assert.deepEqual(themeScreenshots({ source, screenshots: ["preview.png"] }), ["preview.png"]);
+});
+
+test("preserves an existing generated repository card", () => {
+  assert.equal(shouldPreserveRepositoryCardPreview({ source }, true), true);
+  assert.equal(shouldPreserveRepositoryCardPreview({ source }, false), false);
+  assert.equal(shouldPreserveRepositoryCardPreview({ source, screenshots: ["preview.png"] }, true), false);
 });
 
 test("pins same-repository screenshots to the synchronized commit", () => {

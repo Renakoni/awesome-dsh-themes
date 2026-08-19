@@ -4,7 +4,12 @@ import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import sharp from "sharp";
 import { parse } from "yaml";
-import { isGitHubRepositoryCard, renderRepositoryCard, themeScreenshots } from "./theme-screenshots.mjs";
+import {
+  isGitHubRepositoryCard,
+  renderRepositoryCard,
+  shouldPreserveRepositoryCardPreview,
+  themeScreenshots
+} from "./theme-screenshots.mjs";
 
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const entriesDir = join(root, "entries");
@@ -70,6 +75,11 @@ const files = (await readdir(entriesDir, { withFileTypes: true }))
 
 for (const file of files) {
   const entry = parse(await readFile(file, "utf8"));
+  const outputFile = join(previewDir, `${entry.id}.webp`);
+  if (shouldPreserveRepositoryCardPreview(entry, existsSync(outputFile))) {
+    console.log(`${entry.id}: kept existing repository card`);
+    continue;
+  }
   const input = await sourceBuffer(entry, file);
   const image = sharp(input, { limitInputPixels: 50_000_000 }).rotate();
   const metadata = await image.metadata();
@@ -79,6 +89,6 @@ for (const file of files) {
     .sharpen({ sigma: 0.45 })
     .webp({ quality: 90, alphaQuality: 100, smartSubsample: false, effort: 6 })
     .toBuffer();
-  await writeFile(join(previewDir, `${entry.id}.webp`), output);
+  await writeFile(outputFile, output);
   console.log(`${entry.id}: ${metadata.width}x${metadata.height} -> ${WIDTH}x${HEIGHT} (${output.length} bytes)`);
 }

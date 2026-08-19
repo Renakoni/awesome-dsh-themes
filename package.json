@@ -20,7 +20,7 @@
     "sources:check": "node scripts/verify-sources.mjs",
     "sources:sync": "node scripts/sync-sources.mjs",
     "test": "node --test",
-    "check": "npm run catalog:check && npm test"
+    "check": "npm run catalog:check && npm run themes:check && npm test"
   },
   "dependencies": {
     "ajv": "^8.17.1",
