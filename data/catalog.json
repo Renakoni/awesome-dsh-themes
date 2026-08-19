@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T18:01:14.668Z",
+  "generatedAt": "2026-08-19T02:41:34.429Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -9,20 +9,19 @@
         "en": "dsh-neo-skin"
       },
       "author": "0nt-one",
-      "description": "Neo-brutalist skin for DeepSeek Harness Web UI.",
+      "description": "Neo-brutalism skin for DeepSeek Harness Web UI — stacks hard-border / high-contrast --dsw-alias-* token overrides (DS-native blue + black-white + green + orange) on top of the built-in light/dark palettes.",
       "repositoryUrl": "https://github.com/0nt-one/dsh-neo-skin",
       "packageName": "dsh-neo-skin",
       "rowId": "dsh-neo-skin",
       "version": "0.6.1",
       "source": {
-        "kind": "bundled",
-        "path": "themes/0nt-one.dsh-neo-skin",
+        "kind": "external",
         "repository": "https://github.com/0nt-one/dsh-neo-skin",
         "commit": "fe5ef0e671fab5ab8c8700013f3966eb9642455f"
       },
       "install": {
-        "target": "github:Renakoni/dsh-appearance-catalog#0cbc40a90a6da80d08a8f60b035b4ad3e905185b&path:themes/0nt-one.dsh-neo-skin",
-        "commit": "0cbc40a90a6da80d08a8f60b035b4ad3e905185b",
+        "target": "github:0nt-one/dsh-neo-skin#fe5ef0e671fab5ab8c8700013f3966eb9642455f",
+        "commit": "fe5ef0e671fab5ab8c8700013f3966eb9642455f",
         "version": "0.6.1"
       },
       "tags": [
@@ -41,15 +40,22 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/0cbc40a90a6da80d08a8f60b035b4ad3e905185b/themes/0nt-one.dsh-neo-skin/screenshots/app-light.png",
-        "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/0cbc40a90a6da80d08a8f60b035b4ad3e905185b/themes/0nt-one.dsh-neo-skin/screenshots/app-dark.png"
+        "https://raw.githubusercontent.com/0nt-one/dsh-neo-skin/fe5ef0e671fab5ab8c8700013f3966eb9642455f/screenshots/app-light.png",
+        "https://raw.githubusercontent.com/0nt-one/dsh-neo-skin/fe5ef0e671fab5ab8c8700013f3966eb9642455f/screenshots/app-dark.png",
+        "https://raw.githubusercontent.com/0nt-one/dsh-neo-skin/fe5ef0e671fab5ab8c8700013f3966eb9642455f/screenshots/newspaper.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/0nt-one.dsh-neo-skin.webp",
+      "review": {
+        "compatibility": "unverified",
+        "preview": "verified",
+        "installation": "verified"
+      },
       "license": {
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2
+      "stars": 2,
+      "updatedAt": "2026-08-16T13:51:42.695Z"
     },
     {
       "id": "docjlm.pramanix-eyjafjalla",
@@ -94,11 +100,17 @@
         "https://raw.githubusercontent.com/DocJlm/dsh-arknights/6419ea4d249945daa4bc05112b32ee868f5d2d6c/skins/pramanix-eyjafjalla/preview/cover.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/docjlm.pramanix-eyjafjalla.webp",
+      "review": {
+        "compatibility": "verified",
+        "preview": "verified",
+        "installation": "verified"
+      },
       "license": {
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2
+      "stars": 2,
+      "updatedAt": "2026-08-16T12:32:55.976Z"
     },
     {
       "id": "small-tailqwq.maid-atelier",
@@ -146,12 +158,18 @@
         "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/873f5c6d7f52aa4e4283a5ffd5598229595184da/maid-atelier/preview/dark.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/small-tailqwq.maid-atelier.webp",
+      "review": {
+        "compatibility": "verified",
+        "preview": "verified",
+        "installation": "verified"
+      },
       "license": {
         "code": "CC-BY-NC-SA-4.0",
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1363
+      "stars": 1363,
+      "updatedAt": "2026-08-16T12:47:30.553Z"
     }
   ]
-}
+}\n
