@@ -25,8 +25,20 @@ jobs:
           changed="$(git diff --name-only "${{ github.event.pull_request.base.sha }}" "${{ github.event.pull_request.head.sha }}")"
           entries="$(printf '%s\n' "$changed" | awk -F/ '$1 == "entries" && $2 != "" { print $2 }' | sort -u)"
           count="$(printf '%s\n' "$entries" | sed '/^$/d' | wc -l)"
-          if [ "$count" -eq 1 ]; then
-            npm run sources:check -- --entry "$entries"
-          else
-            npm run sources:check
+          if [ "$count" -eq 0 ]; then
+            echo 'No entry changes; source verification is not required.'
+            exit 0
           fi
+          if [ "${{ github.event.pull_request.head.ref }}" = "automation/catalog-sync" ] && [ "${{ github.event.pull_request.head.repo.full_name }}" = "${{ github.repository }}" ]; then
+            entry_list="$(printf '%s\n' "$entries" | paste -sd, -)"
+            npm run sources:check -- --entries "$entry_list"
+            exit 0
+          fi
+          if [ "$count" -ne 1 ]; then
+            echo 'Expected at most one changed entry directory.'
+            printf '%s\n' "$entries"
+            exit 1
+          fi
+          npm run sources:check -- --entry "$entries"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

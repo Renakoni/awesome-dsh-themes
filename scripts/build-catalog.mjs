@@ -1,10 +1,10 @@
-import { execFileSync } from "node:child_process";
 import { existsSync, readFileSync } from "node:fs";
 import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
 import { dirname, join, relative, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import Ajv from "ajv/dist/2020.js";
 import { parse } from "yaml";
+import { themeScreenshots } from "./theme-screenshots.mjs";
 
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const entriesDir = join(root, "entries");
@@ -35,7 +35,7 @@ function repositorySlug(repository) {
 
 function localScreenshotPath(value, file) {
   if (typeof value !== "string" || !/^[A-Za-z0-9._/-]+$/.test(value) || value.split("/").includes("..")) {
-    fail(file, `invalid bundled screenshot path: ${String(value)}`);
+    fail(file, `invalid local screenshot path: ${String(value)}`);
   }
   return value;
 }
@@ -51,14 +51,6 @@ function requireValid(value, file) {
   if (!validate(value)) {
     const details = (validate.errors ?? []).map(error => `${error.instancePath || "/"} ${error.message}`).join("; ");
     fail(file, details);
-  }
-}
-
-function gitPathCommit(path) {
-  try {
-    return execFileSync("git", ["rev-list", "-1", "HEAD", "--", path], { cwd: root, encoding: "utf8" }).trim();
-  } catch {
-    return "";
   }
 }
 
@@ -115,62 +107,46 @@ for (const file of (await entryFiles()).sort()) {
   rows.add(value.rowId);
 
   const source = value.source;
-  let repositoryUrl = null;
-  let commit;
-  let target;
-  let screenshots;
-  if (source.kind === "external") {
-    repositoryUrl = source.repository;
-    commit = source.commit;
-    target = `github:${repositorySlug(source.repository)}#${commit}${source.subpath ? `&path:${source.subpath}` : ""}`;
-    screenshots = value.screenshots.map(screenshot => /^https:\/\//.test(screenshot)
-      ? screenshot
-      : catalogScreenshotUrl(screenshot, file));
-  } else {
-    const packageDir = join(root, source.path);
-    if (!existsSync(join(packageDir, "package.json"))) fail(file, `bundled theme package is missing: ${source.path}/package.json`);
-    if ((source.repository === undefined) !== (source.commit === undefined)) {
-      fail(file, "bundled source repository and commit must be provided together");
-    }
-    commit = gitPathCommit(source.path);
-    if (!/^[0-9a-f]{40}$/.test(commit)) fail(file, `cannot resolve a commit for bundled theme path: ${source.path}`);
-    target = `github:${catalogRepository}#${commit}&path:${source.path}`;
-    repositoryUrl = source.repository ?? null;
-    screenshots = value.screenshots.map(value => {
-      const relativePath = localScreenshotPath(value, file);
-      const image = join(packageDir, relativePath);
-      if (!existsSync(image)) fail(file, `bundled screenshot is missing: ${source.path}/${relativePath}`);
-      return `https://raw.githubusercontent.com/${catalogRepository}/${commit}/${source.path}/${relativePath}`;
-    });
-  }
+  const repositoryUrl = source.repository;
+  const old = previousById.get(value.id);
+  const commit = source.commit ?? old?.install?.commit ?? (checkOnly && offline ? "0000000000000000000000000000000000000000" : null);
+  if (!commit) fail(file, "source commit is unresolved; run npm run sources:sync");
+  const resolvedValue = { ...value, source: { ...source, commit } };
+  const target = `github:${repositorySlug(source.repository)}#${commit}${source.subpath ? `&path:${source.subpath}` : ""}`;
+  const generatedPreview = existsSync(join(previewDir, `${value.id}.webp`));
+  const generatedPreviewUrl = `https://raw.githubusercontent.com/${catalogRepository}/main/previews/${value.id}.webp`;
+  const sourceScreenshots = value.screenshots?.length > 0
+    ? themeScreenshots(resolvedValue)
+    : generatedPreview ? [generatedPreviewUrl] : themeScreenshots(resolvedValue);
+  const screenshots = sourceScreenshots.map(screenshot => /^https:\/\//.test(screenshot)
+    ? screenshot
+    : catalogScreenshotUrl(screenshot, file));
 
   if (!/^[0-9a-f]{40}$/.test(commit)) fail(file, "source commit must be a 40-character lowercase SHA");
   if (screenshots.length === 0) fail(file, "at least one screenshot URL is required for the first catalog version");
-  const old = previousById.get(value.id);
-  const stars = source.kind === "external"
-    ? await githubStars(source.repository, old?.stars)
-    : source.repository ? await githubStars(source.repository, old?.stars) : null;
+  const stars = await githubStars(source.repository, old?.stars);
 
   themes.push({
     id: value.id,
     name: value.name,
     author: value.author,
     description: value.description,
-    ...(value.homepage ? { homepage: value.homepage } : {}),
     repositoryUrl,
     packageName: value.package,
     rowId: value.rowId,
-    version: value.version,
-    source,
     install: { target, commit, version: value.version },
     tags: value.tags,
     modes: value.modes,
     compatibility: value.compatibility,
     screenshots,
-    ...(existsSync(join(previewDir, `${value.id}.webp`))
-      ? { listScreenshot: `https://raw.githubusercontent.com/${catalogRepository}/main/previews/${value.id}.webp` }
+    ...(generatedPreview
+      ? { listScreenshot: generatedPreviewUrl }
       : {}),
-    ...(value.review ? { review: value.review } : {}),
+    ...(value.review ? {
+      review: value.screenshots?.length > 0
+        ? value.review
+        : { ...value.review, preview: "repository-card" }
+    } : {}),
     license: value.license,
     stars,
     ...(value.updatedAt ? { updatedAt: value.updatedAt } : {})

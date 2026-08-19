@@ -1,16 +1,11 @@
-## Contribution checklist
+## 主题
 
-- [ ] This PR adds or updates one theme entry only.
-- [ ] `data/catalog.json` was not edited manually.
-- [ ] The source commit is a complete immutable 40-character SHA.
-- [ ] The package, preview images, license, and DSH compatibility declaration were checked.
-- [ ] I understand that passing CI is structural validation, not a security certification.
+- 上游仓库：
+- 条目 ID：
 
-## Theme source
+## 检查
 
-- Original repository:
-- Package:
-- Version:
-- Commit:
-- License:
-- DSH compatibility:
+- [ ] 本 PR 只添加或修改一个主题条目。
+- [ ] 没有手工修改生成文件。
+- [ ] `npm run check` 已通过。
+- [ ] `npm run sources:check -- --entry <theme-id>` 已通过。

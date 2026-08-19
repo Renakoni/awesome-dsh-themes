@@ -1,8 +1,10 @@
-# Contributing a theme
+# 收录主题
 
-Create `entries/<theme-id>/theme.yml` and change no generated files. The directory name and `id` must match.
+<p><b>简体中文</b> · <a href="CONTRIBUTING.en.md">English</a></p>
 
-Example external entry:
+最简单的方式，是把 README 中的[收录话术](README.md#收录主题)和主题仓库地址一起发给 AI。
+
+想自己提交的话，新建 `entries/<theme-id>/theme.yml`，目录名和 `id` 保持一致。一个 Pull Request 只处理一个主题。
 
 ```yaml
 id: example.theme
@@ -17,7 +19,6 @@ version: 1.0.0
 source:
   kind: external
   repository: https://github.com/example/dsh-example-theme
-  commit: 0123456789abcdef0123456789abcdef01234567
 tags:
   - token-theme
 modes:
@@ -27,10 +28,31 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/example/dsh-example-theme/0123456789abcdef0123456789abcdef01234567/preview.png
+  - https://raw.githubusercontent.com/example/dsh-example-theme/main/preview.png
 license:
   code: MIT
   commercialUse: true
 ```
 
-The catalog workflow fetches the current Stars count for the declared original repository. A bundled theme has no original repository and therefore displays `-` for Stars.
+主题仓库必须公开。提交时不需要填写 `source.commit`，收录脚本会读取上游默认分支并记录完整的 commit SHA。`package`、`version` 和 `rowId` 需要与主题包一致；如果主题位于 monorepo 中，在 `source` 下增加 `subpath`。
+
+截图可以使用 HTTPS 地址，也可以放在条目目录中；同一上游仓库中的 GitHub 图片会由脚本固定到当前 commit。没有合适的截图时，可以省略 `screenshots`，生成脚本会使用 GitHub 仓库卡片。许可证和兼容性没有可靠信息时不要猜，先在 PR 中说明。
+
+不要修改这些生成文件：
+
+```text
+data/catalog.json
+THEMES.md
+THEMES.en.md
+previews/
+```
+
+提交前运行：
+
+```powershell
+npm ci
+npm run check
+npm run sources:check -- --entry <theme-id>
+```
+
+条目合并后，机器人每天检查一次上游默认分支。只要出现新提交，无论 Release 或版本号是否变化，都会更新 commit SHA、版本、更新时间、预览图和 Stars，并创建一个同步 PR。

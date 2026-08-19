@@ -1,15 +1,78 @@
-# DSH Appearance Catalog
+<h1 align="center">DSH Appearance Catalog</h1>
 
-The community-maintained appearance registry for DSH Desk.
+<p align="center">
+  <sub><b>简体中文</b> · <a href="README.en.md">English</a></sub>
+</p>
 
-This repository contains curated theme metadata and, when a contributor chooses to bundle a theme, a standard DSH client package under `themes/`. It does not contain the DSH Desk UI or the runtime manager. DSH Desk reads the generated `data/catalog.json`; the `dsh-appearance-manager` component in `dsh-desk-plugin` performs lifecycle operations.
+<p align="center">
+  <em>DeepSeek Harness 主题合集</em>
+</p>
 
-## Contribution flow
+<p align="center">
+  <img src="https://img.shields.io/badge/DeepSeek-Harness-4c8492?style=flat-square" alt="DeepSeek Harness">
+  &nbsp;
+  <img src="https://img.shields.io/badge/License-MIT-4c566a?style=flat-square" alt="License: MIT">
+</p>
 
-Submit one theme per pull request under `entries/<theme-id>/theme.yml`. Do not edit `data/catalog.json`; the main branch workflow regenerates it after merge.
+<p align="center">
+  <a href="THEMES.md"><b>浏览全部主题</b></a> ·
+  <a href="#收录主题">收录主题</a> ·
+  <a href="#仓库结构">仓库结构</a>
+</p>
 
-External themes must use a public GitHub repository and a complete 40-character commit SHA. Themes without an original repository may be bundled under `themes/<theme-id>` and must include a standard DSH client `package.json`.
+这是一个 DeepSeek Harness 主题归档库。
 
-GitHub Stars are recorded only for entries with an original repository. Bundled themes without an original repository display `-` in DSH Desk.
+它是 [DSH Desk](https://github.com/Renakoni/dsh-desk) 主题列表的上游数据源，也可以作为一个独立的主题合集浏览。
 
-All entries remain subject to maintainer review. Passing CI validates structure and packaging metadata; it is not a security certification.
+## 浏览主题
+
+<!-- theme-count:start -->
+本项目已收录 **134** 个主题，主题详情整理在单独的主题页中：
+<!-- theme-count:end -->
+
+### [查看全部主题 →](THEMES.md)
+
+## 收录主题
+
+发现了还没收录的主题？
+
+你只需要准备：
+
+- 主题对应的仓库或链接；
+- 如果有合适的 DSH 界面预览图，可以一起提供。
+
+没有预览图时，收录脚本会使用 GitHub 仓库卡片。
+
+之后，对你的 AI 说：
+
+```text
+把这个 DSH 主题[对应的主题仓库或链接]收录到 https://github.com/Renakoni/dsh-appearance-catalog：
+
+请检查上游仓库，找到真正的主题包目录、package.json 中的 name、version 和 dsh.client，确认主题的 rowId、预览图、许可证和兼容性；如果是 monorepo，请找到具体的主题包子目录。commit SHA 由收录脚本自动获取，不需要手动填写。
+
+然后按照 CONTRIBUTING.md 创建一个 entries/<theme-id>/theme.yml。一个 PR 只处理一个主题，不要修改 data/catalog.json、THEMES.md、THEMES.en.md 或 previews/ 下的生成文件。
+
+完成后运行 npm ci、npm run check 和 npm run sources:check -- --entry <theme-id>，提交 PR，并把检查结果和 PR 链接发给我。
+```
+
+也可以手动提交，字段示例和检查命令都在 [`CONTRIBUTING.md`](CONTRIBUTING.md) 中。
+
+## 仓库结构
+
+```text
+.
+├── entries/
+│   └── <theme-id>/
+│       └── theme.yml
+├── previews/
+├── data/
+│   ├── catalog.json
+│   └── schema.json
+├── scripts/
+├── THEMES.md
+└── THEMES.en.md
+```
+
+## 许可证
+
+本仓库以 [MIT License](LICENSE) 发布。主题仍由各自作者维护，并使用各自的许可证。

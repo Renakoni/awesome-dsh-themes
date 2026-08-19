@@ -1,8 +1,10 @@
-import { existsSync, readFileSync } from "node:fs";
+import { existsSync } from "node:fs";
 import { readFile, readdir } from "node:fs/promises";
 import { dirname, join, relative, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parse } from "yaml";
+import { isGitHubRepositoryCard } from "./theme-screenshots.mjs";
+import { latestGitHubSource } from "./github-source.mjs";
 
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const entriesDir = join(root, "entries");
@@ -11,6 +13,8 @@ const RATE_LIMIT_RETRY_DELAYS_MS = [2_000, 5_000, 10_000];
 const IMAGE_EXTENSIONS = /\.(?:apng|avif|bmp|gif|jpe?g|png|svg|tiff?|webp)(?:$|[?#])/i;
 const entryIndex = process.argv.indexOf("--entry");
 const requestedEntry = entryIndex >= 0 ? process.argv[entryIndex + 1] : undefined;
+const entriesIndex = process.argv.indexOf("--entries");
+const requestedEntries = entriesIndex >= 0 ? new Set((process.argv[entriesIndex + 1] ?? "").split(",").filter(Boolean)) : null;
 
 function fail(file, message) {
   throw new Error(`${relative(root, file)}: ${message}`);
@@ -51,48 +55,50 @@ async function entryFiles() {
   const files = (await readdir(entriesDir, { withFileTypes: true }))
     .filter(item => item.isDirectory())
     .map(item => join(entriesDir, item.name, "theme.yml"));
-  if (!requestedEntry) return files;
-  const selected = files.filter(file => file.split(/[\\/]/).at(-2) === requestedEntry);
-  if (selected.length !== 1) throw new Error(`entry not found: ${requestedEntry}`);
+  if (!requestedEntry && !requestedEntries) return files;
+  const selected = files.filter(file => requestedEntries
+    ? requestedEntries.has(file.split(/[\\/]/).at(-2))
+    : file.split(/[\\/]/).at(-2) === requestedEntry);
+  const expected = requestedEntries?.size ?? 1;
+  if (selected.length !== expected) throw new Error("one or more requested entries were not found");
   return selected;
 }
 
 for (const file of (await entryFiles()).sort()) {
   const value = parse(await readFile(file, "utf8"));
-  if (value.source.kind === "bundled") {
-    const packageDir = join(root, value.source.path);
-    const manifestPath = join(packageDir, "package.json");
-    if (!existsSync(manifestPath)) fail(file, `bundled theme package is missing: ${value.source.path}/package.json`);
-    let manifest;
-    try { manifest = JSON.parse(readFileSync(manifestPath, "utf8")); } catch { fail(file, "bundled package.json is not valid JSON"); }
-    if (manifest.name !== value.package) fail(file, `package name is ${String(manifest.name)}, expected ${value.package}`);
-    if (manifest.version !== value.version) fail(file, `package version is ${String(manifest.version)}, expected ${value.version}`);
-    if (!manifest.dsh || typeof manifest.dsh !== "object" || manifest.dsh.client === undefined) fail(file, "package must declare dsh.client");
-    for (const screenshot of value.screenshots) {
-      if (!/^[A-Za-z0-9._/-]+$/.test(screenshot) || screenshot.split("/").includes("..")) fail(file, `invalid bundled screenshot path: ${screenshot}`);
-      if (!existsSync(join(packageDir, screenshot))) fail(file, `bundled screenshot is missing: ${value.source.path}/${screenshot}`);
-    }
-    console.log(`verified bundled ${value.id}`);
-    continue;
-  }
   const slug = repositorySlug(value.source.repository);
   const subpath = value.source.subpath ? `${value.source.subpath}/` : "";
   if (value.source.subpath?.split("/").includes("..")) fail(file, "source.subpath must not contain parent traversal");
 
-  const packageResponse = await request(`https://raw.githubusercontent.com/${slug}/${value.source.commit}/${subpath}package.json`, file);
   let manifest;
-  try { manifest = await packageResponse.json(); } catch { fail(file, "source package.json is not valid JSON"); }
+  let commit = value.source.commit;
+  if (commit) {
+    const packageResponse = await request(`https://raw.githubusercontent.com/${slug}/${commit}/${subpath}package.json`, file);
+    try { manifest = await packageResponse.json(); } catch { fail(file, "source package.json is not valid JSON"); }
+  } else {
+    try {
+      const latest = await latestGitHubSource(value.source, {
+        token: process.env.GITHUB_TOKEN,
+        userAgent: "dsh-appearance-catalog-source-check"
+      });
+      commit = latest.commit;
+      manifest = latest.manifest;
+    } catch (error) {
+      fail(file, error instanceof Error ? error.message : String(error));
+    }
+  }
   if (manifest.name !== value.package) fail(file, `package name is ${String(manifest.name)}, expected ${value.package}`);
   if (manifest.version !== value.version) fail(file, `package version is ${String(manifest.version)}, expected ${value.version}`);
   if (!manifest.dsh || typeof manifest.dsh !== "object" || manifest.dsh.client === undefined) fail(file, "package must declare dsh.client");
 
-  for (const screenshot of value.screenshots) {
+  for (const screenshot of value.screenshots ?? []) {
     if (!/^https:\/\//.test(screenshot)) {
       if (screenshot.split("/").includes("..")) fail(file, `invalid local screenshot path: ${screenshot}`);
       const screenshotPath = join(dirname(file), screenshot);
       if (!existsSync(screenshotPath)) fail(file, `local screenshot is missing: ${screenshot}`);
       continue;
     }
+    if (isGitHubRepositoryCard(screenshot, value.source)) continue;
     const response = await request(screenshot, file);
     const length = Number(response.headers.get("content-length") ?? "0");
     const contentType = response.headers.get("content-type") ?? "";

@@ -14,8 +14,11 @@
   "scripts": {
     "previews": "node scripts/build-previews.mjs",
     "catalog": "node scripts/build-catalog.mjs",
+    "themes": "node scripts/build-theme-list.mjs",
+    "themes:check": "node scripts/build-theme-list.mjs --check",
     "catalog:check": "node scripts/build-catalog.mjs --check --offline",
     "sources:check": "node scripts/verify-sources.mjs",
+    "sources:sync": "node scripts/sync-sources.mjs",
     "test": "node --test",
     "check": "npm run catalog:check && npm test"
   },

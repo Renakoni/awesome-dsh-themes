@@ -19,8 +19,8 @@ jobs:
         shell: bash
         run: |
           changed="$(git diff --name-only "${{ github.event.pull_request.base.sha }}" "${{ github.event.pull_request.head.sha }}")"
-          if [ "${{ github.event.pull_request.head.ref }}" = "automation/catalog-sync" ]; then
-            unexpected="$(printf '%s\n' "$changed" | grep -Ev '^(data/catalog\.json|previews/[a-z0-9][a-z0-9.-]*\.webp)$' || true)"
+          if [ "${{ github.event.pull_request.head.ref }}" = "automation/catalog-sync" ] && [ "${{ github.event.pull_request.head.repo.full_name }}" = "${{ github.repository }}" ]; then
+            unexpected="$(printf '%s\n' "$changed" | grep -Ev '^(entries/[a-z0-9][a-z0-9.-]*/theme\.yml|data/catalog\.json|previews/[a-z0-9][a-z0-9.-]*\.webp|THEMES(\.en)?\.md|README(\.en)?\.md)$' || true)"
             if [ -n "$unexpected" ]; then
               echo 'Catalog automation PR contains unexpected files:'
               printf '%s\n' "$unexpected"
