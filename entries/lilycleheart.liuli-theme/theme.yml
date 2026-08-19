@@ -10,7 +10,7 @@ version: 0.1.0
 source:
   kind: external
   repository: https://github.com/LilycleHeart/liuli-theme
-  commit: 307eb04764a24ff8ba3f3bd7a2eb5e103fc772d6
+  commit: e3aeb562f29f04f03de8da55e46b90132ed0cc7b
 tags:
   - wallpaper
   - glass
@@ -26,11 +26,11 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/LilycleHeart/liuli-theme/307eb04764a24ff8ba3f3bd7a2eb5e103fc772d6/docs/preview-start-light.png
-  - https://raw.githubusercontent.com/LilycleHeart/liuli-theme/307eb04764a24ff8ba3f3bd7a2eb5e103fc772d6/docs/preview-start-dark.png
-  - https://raw.githubusercontent.com/LilycleHeart/liuli-theme/307eb04764a24ff8ba3f3bd7a2eb5e103fc772d6/docs/preview-color-light.png
-  - https://raw.githubusercontent.com/LilycleHeart/liuli-theme/307eb04764a24ff8ba3f3bd7a2eb5e103fc772d6/docs/preview-color-dark.png
-  - https://raw.githubusercontent.com/LilycleHeart/liuli-theme/307eb04764a24ff8ba3f3bd7a2eb5e103fc772d6/docs/preview-session-dark.png
+  - https://raw.githubusercontent.com/LilycleHeart/liuli-theme/e3aeb562f29f04f03de8da55e46b90132ed0cc7b/docs/preview-start-light.png
+  - https://raw.githubusercontent.com/LilycleHeart/liuli-theme/e3aeb562f29f04f03de8da55e46b90132ed0cc7b/docs/preview-start-dark.png
+  - https://raw.githubusercontent.com/LilycleHeart/liuli-theme/e3aeb562f29f04f03de8da55e46b90132ed0cc7b/docs/preview-color-light.png
+  - https://raw.githubusercontent.com/LilycleHeart/liuli-theme/e3aeb562f29f04f03de8da55e46b90132ed0cc7b/docs/preview-color-dark.png
+  - https://raw.githubusercontent.com/LilycleHeart/liuli-theme/e3aeb562f29f04f03de8da55e46b90132ed0cc7b/docs/preview-session-dark.png
 review:
   compatibility: unverified
   preview: verified
@@ -38,4 +38,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-18T10:32:35Z
+updatedAt: 2026-08-19T11:40:15Z

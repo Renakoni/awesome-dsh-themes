@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T12:44:40.614Z",
+  "generatedAt": "2026-08-19T12:54:00.231Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -976,7 +976,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 178,
+      "stars": 181,
       "updatedAt": "2026-08-19T03:29:13Z"
     },
     {
@@ -1710,7 +1710,7 @@
         "commercialUse": false,
         "notice": "插件代码声明为 MIT；壁纸与精灵表为第三方《鸣潮》爱弥斯素材，仓库说明仅供个人学习交流使用，版权归原权利人所有。"
       },
-      "stars": 3,
+      "stars": 4,
       "updatedAt": "2026-08-16T16:37:51Z"
     },
     {
@@ -2190,7 +2190,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 110,
+      "stars": 112,
       "updatedAt": "2026-08-18T11:34:16Z"
     },
     {
@@ -2735,8 +2735,8 @@
       "packageName": "@deepseek-ai/liuli-theme",
       "rowId": "liuli-theme",
       "install": {
-        "target": "github:LilycleHeart/liuli-theme#307eb04764a24ff8ba3f3bd7a2eb5e103fc772d6",
-        "commit": "307eb04764a24ff8ba3f3bd7a2eb5e103fc772d6",
+        "target": "github:LilycleHeart/liuli-theme#e3aeb562f29f04f03de8da55e46b90132ed0cc7b",
+        "commit": "e3aeb562f29f04f03de8da55e46b90132ed0cc7b",
         "version": "0.1.0"
       },
       "tags": [
@@ -2758,11 +2758,11 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/307eb04764a24ff8ba3f3bd7a2eb5e103fc772d6/docs/preview-start-light.png",
-        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/307eb04764a24ff8ba3f3bd7a2eb5e103fc772d6/docs/preview-start-dark.png",
-        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/307eb04764a24ff8ba3f3bd7a2eb5e103fc772d6/docs/preview-color-light.png",
-        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/307eb04764a24ff8ba3f3bd7a2eb5e103fc772d6/docs/preview-color-dark.png",
-        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/307eb04764a24ff8ba3f3bd7a2eb5e103fc772d6/docs/preview-session-dark.png"
+        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/e3aeb562f29f04f03de8da55e46b90132ed0cc7b/docs/preview-start-light.png",
+        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/e3aeb562f29f04f03de8da55e46b90132ed0cc7b/docs/preview-start-dark.png",
+        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/e3aeb562f29f04f03de8da55e46b90132ed0cc7b/docs/preview-color-light.png",
+        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/e3aeb562f29f04f03de8da55e46b90132ed0cc7b/docs/preview-color-dark.png",
+        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/e3aeb562f29f04f03de8da55e46b90132ed0cc7b/docs/preview-session-dark.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/lilycleheart.liuli-theme.webp",
       "review": {
@@ -2775,7 +2775,7 @@
         "commercialUse": true
       },
       "stars": 2,
-      "updatedAt": "2026-08-18T10:32:35Z"
+      "updatedAt": "2026-08-19T11:40:15Z"
     },
     {
       "id": "linkingoscar.dsh-billing-glass",
@@ -2837,8 +2837,8 @@
       "packageName": "dsh-skin-study",
       "rowId": "ui-skin-study",
       "install": {
-        "target": "github:linzhuoliSOC/dsh-skin-study#65c35fe23ee64a9fa8d8c2813b81a3fba8d218bf",
-        "commit": "65c35fe23ee64a9fa8d8c2813b81a3fba8d218bf",
+        "target": "github:linzhuoliSOC/dsh-skin-study#f37882361478ae9ac63f5d406e8f5e133df5590b",
+        "commit": "f37882361478ae9ac63f5d406e8f5e133df5590b",
         "version": "0.1.0"
       },
       "tags": [
@@ -2854,7 +2854,7 @@
         ]
       },
       "screenshots": [
-        "https://opengraph.githubassets.com/65c35fe23ee64a9fa8d8c2813b81a3fba8d218bf/linzhuoliSOC/dsh-skin-study"
+        "https://opengraph.githubassets.com/f37882361478ae9ac63f5d406e8f5e133df5590b/linzhuoliSOC/dsh-skin-study"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/linzhuolisoc.dsh-skin-study.webp",
       "review": {
@@ -2867,7 +2867,7 @@
         "commercialUse": true
       },
       "stars": 0,
-      "updatedAt": "2026-08-17T01:24:27Z"
+      "updatedAt": "2026-08-19T12:00:42Z"
     },
     {
       "id": "longyu065.dsh-theme-ti",
@@ -3976,7 +3976,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 63,
+      "stars": 64,
       "updatedAt": "2026-08-18T06:59:04Z"
     },
     {
@@ -4311,7 +4311,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1428,
+      "stars": 1439,
       "updatedAt": "2026-08-19T04:55:42Z"
     },
     {
@@ -4569,8 +4569,8 @@
       "packageName": "dsh-wallpaper-engine",
       "rowId": "wallpaper-engine",
       "install": {
-        "target": "github:TianYa-DAO/dsh-wallpaper-engine#45eb412553607a3ac69c73d85d04a943334e0d30&path:packages/dsh-wallpaper-engine",
-        "commit": "45eb412553607a3ac69c73d85d04a943334e0d30",
+        "target": "github:TianYa-DAO/dsh-wallpaper-engine#415a8f78228f8a20c5f1b023de2e31affed4948c&path:packages/dsh-wallpaper-engine",
+        "commit": "415a8f78228f8a20c5f1b023de2e31affed4948c",
         "version": "0.1.3"
       },
       "tags": [
@@ -4589,7 +4589,7 @@
         ]
       },
       "screenshots": [
-        "https://opengraph.githubassets.com/45eb412553607a3ac69c73d85d04a943334e0d30/TianYa-DAO/dsh-wallpaper-engine"
+        "https://opengraph.githubassets.com/415a8f78228f8a20c5f1b023de2e31affed4948c/TianYa-DAO/dsh-wallpaper-engine"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tianya-dao.dsh-wallpaper-engine.webp",
       "review": {
@@ -4602,7 +4602,7 @@
         "commercialUse": true
       },
       "stars": 3,
-      "updatedAt": "2026-08-18T12:49:48Z"
+      "updatedAt": "2026-08-19T12:15:44Z"
     },
     {
       "id": "tianyhjg-lab.dsh-font",
@@ -5206,9 +5206,9 @@
       "packageName": "@dsh-external/dsh-file-explorer-preview-code",
       "rowId": "file-explorer-preview-code",
       "install": {
-        "target": "github:wolfsonliu/dsh-file-explorer-preview-code#7a82582400e3b64f2f03487114446245fc2e3693",
-        "commit": "7a82582400e3b64f2f03487114446245fc2e3693",
-        "version": "0.2.0"
+        "target": "github:wolfsonliu/dsh-file-explorer-preview-code#2ef7412369db7fa382b00e03b25f122fd1d5e285",
+        "commit": "2ef7412369db7fa382b00e03b25f122fd1d5e285",
+        "version": "0.2.1"
       },
       "tags": [
         "retro",
@@ -5226,8 +5226,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/wolfsonliu/dsh-file-explorer-preview-code/7a82582400e3b64f2f03487114446245fc2e3693/assets/dsh-file-explorer-preview-code_dark.png",
-        "https://raw.githubusercontent.com/wolfsonliu/dsh-file-explorer-preview-code/7a82582400e3b64f2f03487114446245fc2e3693/assets/dsh-file-explorer-preview-code_light.png"
+        "https://raw.githubusercontent.com/wolfsonliu/dsh-file-explorer-preview-code/2ef7412369db7fa382b00e03b25f122fd1d5e285/assets/dsh-file-explorer-preview-code_dark.png",
+        "https://raw.githubusercontent.com/wolfsonliu/dsh-file-explorer-preview-code/2ef7412369db7fa382b00e03b25f122fd1d5e285/assets/dsh-file-explorer-preview-code_light.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/wolfsonliu.dsh-file-explorer-preview-code.webp",
       "review": {
@@ -5240,7 +5240,7 @@
         "commercialUse": true
       },
       "stars": 0,
-      "updatedAt": "2026-08-18T02:49:03Z"
+      "updatedAt": "2026-08-19T10:06:41Z"
     },
     {
       "id": "wsxwj123.dsh-appearance-gallery",
@@ -5435,7 +5435,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 309,
+      "stars": 317,
       "updatedAt": "2026-08-17T10:23:35Z"
     },
     {
