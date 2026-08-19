@@ -1,0 +1,34 @@
+id: seekerwxy.dsh-aurora-theme
+name:
+  zh: dsh-aurora-theme
+  en: dsh-aurora-theme
+author: seekerwxy
+description: DSH 双面插件：深黑冷色调主题 + 星网/极光背景 + 主题设置（开启/关闭、动态/静态）。同时提供动态版 client.js 与静态双面包（lib/index.js + lib/client.js）。
+package: dsh-aurora-theme
+rowId: aurora-theme
+version: 1.1.0
+source:
+  kind: external
+  repository: https://github.com/seekerwxy/dsh-aurora-theme
+  commit: 3b220e179812a81e60f2d32259bde9262808cd09
+tags:
+  - wallpaper
+  - motion
+  - token-theme
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/3b220e179812a81e60f2d32259bde9262808cd09/seekerwxy/dsh-aurora-theme
+review:
+  compatibility: unverified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:57:29.957Z

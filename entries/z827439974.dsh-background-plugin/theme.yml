@@ -1,0 +1,34 @@
+id: z827439974.dsh-background-plugin
+name:
+  zh: dsh-background-plugin
+  en: dsh-background-plugin
+author: z827439974
+description: "DSH WebUI background plugin: pick a local image as the webui background, overlaid with a theme-matched translucent mask so it never disturbs the UI. Persistence is browser-local (localStorage)."
+package: dsh-plugin-webui-bg
+rowId: webui-bg
+version: 0.3.0
+source:
+  kind: external
+  repository: https://github.com/z827439974/dsh-background-plugin
+  commit: 8077481d61ac9f838f5fba870c523e81176c467c
+tags:
+  - retro
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: ^0.1.0-rc.6
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/8077481d61ac9f838f5fba870c523e81176c467c/z827439974/dsh-background-plugin
+review:
+  compatibility: verified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:51:31.579Z

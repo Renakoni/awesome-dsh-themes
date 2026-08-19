@@ -1,0 +1,39 @@
+id: estellalee.dsh-outdoor-theme
+name:
+  zh: dsh-outdoor-theme
+  en: dsh-outdoor-theme
+author: Estellalee
+description: DSH 皮肤：山野向导（Trail Guide）· 户外徒步风换皮 + 右侧路标工作进度面板
+package: dsh-outdoor-theme
+rowId: ui-outdoor-theme
+version: 2.0.0
+source:
+  kind: external
+  repository: https://github.com/Estellalee/dsh-outdoor-theme
+  commit: 236e5426f9a833191dd57758caef1fcd076d51ad
+tags:
+  - wallpaper
+  - retro
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: ^0.1.0-rc.6
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/Estellalee/dsh-outdoor-theme/236e5426f9a833191dd57758caef1fcd076d51ad/screenshots/light-sunset.png
+  - https://raw.githubusercontent.com/Estellalee/dsh-outdoor-theme/236e5426f9a833191dd57758caef1fcd076d51ad/screenshots/light-moonrise.png
+  - https://raw.githubusercontent.com/Estellalee/dsh-outdoor-theme/236e5426f9a833191dd57758caef1fcd076d51ad/screenshots/dark-mode.png
+  - https://raw.githubusercontent.com/Estellalee/dsh-outdoor-theme/236e5426f9a833191dd57758caef1fcd076d51ad/screenshots/waypoints-panel.png
+  - https://raw.githubusercontent.com/Estellalee/dsh-outdoor-theme/236e5426f9a833191dd57758caef1fcd076d51ad/screenshots/waypoints-expanded.png
+review:
+  compatibility: verified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:48:50.122Z

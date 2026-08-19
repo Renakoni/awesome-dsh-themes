@@ -1,0 +1,34 @@
+id: jieice.dsh-wallpaper-rotator-enhanced
+name:
+  zh: dsh-wallpaper-rotator-enhanced
+  en: dsh-wallpaper-rotator-enhanced
+author: Jieice
+description: "Enhanced fork of dsh-wallpaper-rotator: video backgrounds, full-page wallpaper neutralization, dsh rc.6 compat"
+package: dsh-wallpaper-rotator
+rowId: wallpaper-rotator
+version: 1.0.0
+source:
+  kind: external
+  repository: https://github.com/Jieice/dsh-wallpaper-rotator-enhanced
+  commit: 48f5cee32eff7c91f2c6f1b4f1de719bc2f1750e
+tags:
+  - wallpaper
+  - glass
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/Jieice/dsh-wallpaper-rotator-enhanced/48f5cee32eff7c91f2c6f1b4f1de719bc2f1750e/docs/preview-1.png
+  - https://raw.githubusercontent.com/Jieice/dsh-wallpaper-rotator-enhanced/48f5cee32eff7c91f2c6f1b4f1de719bc2f1750e/docs/preview-2.png
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T14:25:23.482Z

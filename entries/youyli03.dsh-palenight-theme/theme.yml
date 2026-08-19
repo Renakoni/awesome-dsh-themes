@@ -1,0 +1,35 @@
+id: youyli03.dsh-palenight-theme
+name:
+  zh: dsh-palenight-theme
+  en: dsh-palenight-theme
+author: youyli03
+description: Persistent DeepSeek Palenight Theme for dsh — a dsh client bundle (survives restarts, unlike the dynamic-plugin form).
+package: dsh-palenight-theme
+rowId: dsh-palenight-theme
+version: 1.0.0
+source:
+  kind: external
+  repository: https://github.com/youyli03/dsh-palenight-theme
+  commit: 94d2f61a679c6760c58357f5a0f2bee7c9bca906
+tags:
+  - retro
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/youyli03/dsh-palenight-theme/94d2f61a679c6760c58357f5a0f2bee7c9bca906/screenshots/light.jpeg
+  - https://raw.githubusercontent.com/youyli03/dsh-palenight-theme/94d2f61a679c6760c58357f5a0f2bee7c9bca906/screenshots/dark.jpeg
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:58:24.026Z

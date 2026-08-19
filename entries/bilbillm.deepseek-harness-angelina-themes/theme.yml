@@ -1,0 +1,38 @@
+id: bilbillm.deepseek-harness-angelina-themes
+name:
+  zh: deepseek-harness-angelina-themes
+  en: deepseek-harness-angelina-themes
+author: bilbillm
+description: Angelina light and dark glass themes with restrained parallax for DeepSeek Harness
+package: dsh-angelina-themes
+rowId: dsh-angelina-themes
+version: 0.1.0
+source:
+  kind: external
+  repository: https://github.com/bilbillm/deepseek-harness-angelina-themes
+  commit: 0286059df24bbfbce01bcdc9746b3d04c678c28e
+tags:
+  - wallpaper
+  - glass
+  - motion
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: 0.1.0-rc.6
+  platform:
+    - web
+screenshots:
+  - screenshots/home.png
+  - screenshots/conversation.png
+  - screenshots/settings.png
+review:
+  compatibility: verified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:49:51.564Z

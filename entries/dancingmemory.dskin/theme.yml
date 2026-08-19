@@ -1,0 +1,40 @@
+id: dancingmemory.dskin
+name:
+  zh: dskin
+  en: dskin
+author: dancingmemory
+description: DSKIN · DeepSeek Harness（DSH）卡通像素皮肤插件 / Cartoon pixel skin plugin for DSH Web GUI — 原始界面不动，像素宠物会散步、眨眼、跳跃 / living pixel pets that stroll, blink and hop
+package: dskin
+rowId: ui-skin-dskin
+version: 1.0.13
+source:
+  kind: external
+  repository: https://github.com/dancingmemory/dskin
+  commit: f24cf34bd21d23845a8b9bdaf3dbf46d01a952ed
+tags:
+  - wallpaper
+  - token-theme
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - screenshots/home.png
+  - screenshots/conversation.png
+  - screenshots/settings.png
+  - https://raw.githubusercontent.com/dancingmemory/dskin/f24cf34bd21d23845a8b9bdaf3dbf46d01a952ed/assets/banner.jpg
+  - https://raw.githubusercontent.com/dancingmemory/dskin/f24cf34bd21d23845a8b9bdaf3dbf46d01a952ed/assets/shot-bigorange.png
+  - https://raw.githubusercontent.com/dancingmemory/dskin/f24cf34bd21d23845a8b9bdaf3dbf46d01a952ed/assets/shot-white.png
+  - https://raw.githubusercontent.com/dancingmemory/dskin/f24cf34bd21d23845a8b9bdaf3dbf46d01a952ed/assets/shot-black.png
+  - https://raw.githubusercontent.com/dancingmemory/dskin/f24cf34bd21d23845a8b9bdaf3dbf46d01a952ed/assets/shot-tuxedo.png
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:46:39.411Z

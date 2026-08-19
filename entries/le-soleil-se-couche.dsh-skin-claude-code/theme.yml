@@ -1,0 +1,33 @@
+id: le-soleil-se-couche.dsh-skin-claude-code
+name:
+  zh: dsh-skin-claude-code
+  en: dsh-skin-claude-code
+author: le-soleil-se-couche
+description: "Hot-pluggable Claude Code terminal skin for the dsh web GUI: charcoal terminal surfaces, amber accent, monospace type, terminal-window title bar."
+package: "@deepseek-ai/dsh-client-ui-skin-claude-code"
+rowId: ui-skin-claude-code
+version: 0.0.1
+source:
+  kind: external
+  repository: https://github.com/le-soleil-se-couche/dsh-skin-claude-code
+  commit: 8590170e1c37eca3176469ade61998fd3d5088d4
+tags:
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/le-soleil-se-couche/dsh-skin-claude-code/8590170e1c37eca3176469ade61998fd3d5088d4/docs/codex-config.png
+  - https://raw.githubusercontent.com/le-soleil-se-couche/dsh-skin-claude-code/8590170e1c37eca3176469ade61998fd3d5088d4/preview/light.png
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: BSD-3-Clause
+  commercialUse: true
+updatedAt: 2026-08-16T13:49:00.442Z

@@ -1,0 +1,35 @@
+id: vlantech.dsh-glassic-mist-theme
+name:
+  zh: dsh-glassic-mist-theme
+  en: dsh-glassic-mist-theme
+author: VlanTech
+description: Glassic Mist 雾蓝主题：极浅雾蓝界面 + 云端动效背景 + 全弹窗毛玻璃质感；设置持久化开关 + /misttheme 命令
+package: dsh-mistblue
+rowId: mistblue
+version: 1.0.0
+source:
+  kind: external
+  repository: https://github.com/VlanTech/dsh-glassic-mist-theme
+  commit: af4e9c3967df0fbeeead25b4f1426e30382d1a90
+tags:
+  - glass
+  - motion
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/af4e9c3967df0fbeeead25b4f1426e30382d1a90/VlanTech/dsh-glassic-mist-theme
+review:
+  compatibility: unverified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:57:56.238Z

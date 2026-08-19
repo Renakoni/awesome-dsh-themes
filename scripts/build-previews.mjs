@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs";
 import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
-import { join, resolve } from "node:path";
+import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import sharp from "sharp";
 import { parse } from "yaml";
@@ -14,8 +14,10 @@ const HEIGHT = 540;
 
 async function sourceBuffer(entry, file) {
   const source = entry.screenshots[0];
-  if (entry.source.kind === "bundled") {
-    const path = join(root, entry.source.path, source);
+  if (!/^https:\/\//.test(source)) {
+    const path = entry.source.kind === "bundled"
+      ? join(root, entry.source.path, source)
+      : join(dirname(file), source);
     if (!existsSync(path)) throw new Error(`${file}: screenshot not found: ${path}`);
     return readFile(path);
   }

@@ -1,0 +1,38 @@
+id: i1j.dsh-krill-theme
+name:
+  zh: dsh-krill-theme
+  en: dsh-krill-theme
+author: i1j
+description: Deep Sea (深海世界) + Shallow Sea (浅海世界) 双模式主题插件 —— 一个插件覆盖 DSH 深/亮两套外观：深海深色（亮度编码信息层级）+ 浅海亮色（清澈度编码），含浮游生物动画背景、深潜工作态增强、水母参数入口。
+package: dsh-krill-theme
+rowId: krill-theme
+version: 1.0.0
+source:
+  kind: external
+  repository: https://github.com/i1j/dsh-krill-theme
+  commit: 8711e44fd5e9ae94c1913a2bda09be28162432d3
+tags:
+  - wallpaper
+  - glass
+  - motion
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/i1j/dsh-krill-theme/8711e44fd5e9ae94c1913a2bda09be28162432d3/assets/theme-dark-1.0.png
+  - https://raw.githubusercontent.com/i1j/dsh-krill-theme/8711e44fd5e9ae94c1913a2bda09be28162432d3/assets/theme-light-1.0.png
+  - https://raw.githubusercontent.com/i1j/dsh-krill-theme/8711e44fd5e9ae94c1913a2bda09be28162432d3/assets/plankton-1.0.apng
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:52:26.766Z

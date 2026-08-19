@@ -1,0 +1,36 @@
+id: gooosie.dsh-whale-bg
+name:
+  zh: dsh-whale-bg
+  en: dsh-whale-bg
+author: gooosie
+description: Unofficial DeepSeek Harness Web UI particle-whale background with cursor lighting, idle swimming, and scroll-aware fade.
+package: dsh-whale-bg
+rowId: whale-bg
+version: 0.1.0
+source:
+  kind: external
+  repository: https://github.com/gooosie/dsh-whale-bg
+  commit: 2746a7eacba5c0dde28e29d00b6b15f1f2894164
+tags:
+  - wallpaper
+  - retro
+  - motion
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: 0.1.0-rc.6
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/gooosie/dsh-whale-bg/2746a7eacba5c0dde28e29d00b6b15f1f2894164/docs/assets/dsh-whale-bg-preview.gif
+review:
+  compatibility: verified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:55:34.455Z

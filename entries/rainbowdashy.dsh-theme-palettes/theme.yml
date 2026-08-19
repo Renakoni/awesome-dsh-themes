@@ -1,0 +1,34 @@
+id: rainbowdashy.dsh-theme-palettes
+name:
+  zh: dsh-theme-palettes
+  en: dsh-theme-palettes
+author: RainbowDashy
+description: "Palette infrastructure for DeepSeek Harness: scheme-mapped theme palettes with built-in VSCode Red, Solarized Dark, and Solarized Light, plus a third-party registration API"
+package: dsh-theme-palettes
+rowId: theme-palettes
+version: 0.1.0
+source:
+  kind: external
+  repository: https://github.com/RainbowDashy/dsh-theme-palettes
+  commit: f295de20d97c1d9296ea3f45f64ab4d042b4cb1d
+tags:
+  - retro
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/f295de20d97c1d9296ea3f45f64ab4d042b4cb1d/RainbowDashy/dsh-theme-palettes
+review:
+  compatibility: unverified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+updatedAt: 2026-08-16T13:53:39.460Z
