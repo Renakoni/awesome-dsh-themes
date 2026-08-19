@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T08:51:44.963Z",
+  "generatedAt": "2026-08-19T09:14:31.602Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -744,8 +744,8 @@
       "packageName": "@cdxdnrf/dsh-client-ui-skin-wishadel",
       "rowId": "ui-skin-wishadel",
       "install": {
-        "target": "github:cdxDNRF/wishadel-theme#af3537597b97e8989c2518c25cfdabebddd2c1ee",
-        "commit": "af3537597b97e8989c2518c25cfdabebddd2c1ee",
+        "target": "github:cdxDNRF/wishadel-theme#02cb6818155dc4816e4de5824a6d6d756b0ba87b",
+        "commit": "02cb6818155dc4816e4de5824a6d6d756b0ba87b",
         "version": "0.6.0"
       },
       "tags": [
@@ -764,8 +764,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/af3537597b97e8989c2518c25cfdabebddd2c1ee/docs/screenshots/conversation.png",
-        "https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/af3537597b97e8989c2518c25cfdabebddd2c1ee/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/02cb6818155dc4816e4de5824a6d6d756b0ba87b/docs/screenshots/conversation.png",
+        "https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/02cb6818155dc4816e4de5824a6d6d756b0ba87b/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/dsh-appearance-catalog/main/previews/cdxdnrf.wishadel-theme.webp",
       "review": {
@@ -778,7 +778,7 @@
         "commercialUse": false
       },
       "stars": 0,
-      "updatedAt": "2026-08-19T08:49:06Z"
+      "updatedAt": "2026-08-19T08:53:38Z"
     },
     {
       "id": "chajiuqqq.dsh-claude-theme",
@@ -4022,7 +4022,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 62,
+      "stars": 63,
       "updatedAt": "2026-08-18T06:59:04Z"
     },
     {
@@ -4357,7 +4357,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1421,
+      "stars": 1423,
       "updatedAt": "2026-08-19T04:55:42Z"
     },
     {
@@ -5525,7 +5525,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 307,
+      "stars": 308,
       "updatedAt": "2026-08-17T10:23:35Z"
     },
     {
