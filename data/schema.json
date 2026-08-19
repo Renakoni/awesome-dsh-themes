@@ -23,7 +23,7 @@
     "source": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["kind", "repository", "commit"],
+      "required": ["kind", "repository"],
       "properties": {
         "kind": { "const": "external" },
         "repository": { "type": "string", "pattern": "^https://github\\.com/[^/]+/[^/]+/?$" },

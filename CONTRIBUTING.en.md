@@ -19,7 +19,6 @@ version: 1.0.0
 source:
   kind: external
   repository: https://github.com/example/dsh-example-theme
-  commit: 0123456789abcdef0123456789abcdef01234567
 tags:
   - token-theme
 modes:
@@ -29,15 +28,15 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/example/dsh-example-theme/0123456789abcdef0123456789abcdef01234567/preview.png
+  - https://raw.githubusercontent.com/example/dsh-example-theme/main/preview.png
 license:
   code: MIT
   commercialUse: true
 ```
 
-The theme repository must be public and pinned to a complete 40-character commit SHA. `package`, `version`, and `rowId` must match the theme package at that commit. Add `subpath` under `source` when the theme is inside a monorepo.
+The theme repository must be public. Do not add `source.commit` when submitting a theme; the catalog scripts resolve the upstream default branch and record the full commit SHA. `package`, `version`, and `rowId` must match the theme package. Add `subpath` under `source` when the theme is inside a monorepo.
 
-Screenshots may use HTTPS URLs pinned to that commit or files stored in the entry directory. If no suitable screenshot exists, omit `screenshots`; the build scripts will use the GitHub repository card. Do not guess the license or compatibility when the upstream repository does not provide reliable information; explain the gap in the pull request.
+Screenshots may use HTTPS URLs or files stored in the entry directory. GitHub images from the same upstream repository are pinned to the current commit by the scripts. If no suitable screenshot exists, omit `screenshots`; the build scripts will use the GitHub repository card. Do not guess the license or compatibility when the upstream repository does not provide reliable information; explain the gap in the pull request.
 
 Do not edit these generated files:
 
@@ -56,4 +55,4 @@ npm run check
 npm run sources:check -- --entry <theme-id>
 ```
 
-Stars and preview images are updated automatically after the entry is merged.
+After an entry is merged, a bot checks the upstream default branch once a day. Any new commit is followed, whether or not a Release or version change exists, and a synchronization PR updates the commit SHA, version, update time, previews, and Stars.

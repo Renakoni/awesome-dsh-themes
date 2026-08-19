@@ -33,9 +33,12 @@ for (const directory of (await readdir(entriesDir, { withFileTypes: true }))
   const normalized = catalogById.get(entry.id);
   const repository = entry.source.repository;
   if (!repository) throw new Error(`${entry.id}: theme list requires an upstream repository`);
+  const resolvedEntry = entry.source.commit || !normalized?.install?.commit
+    ? entry
+    : { ...entry, source: { ...entry.source, commit: normalized.install.commit } };
   const preview = existsSync(join(root, "previews", `${entry.id}.webp`))
     ? `previews/${entry.id}.webp`
-    : themeScreenshots(entry)[0];
+    : themeScreenshots(resolvedEntry)[0];
   if (!preview) throw new Error(`${entry.id}: theme list requires a preview`);
   entries.push({
     id: entry.id,

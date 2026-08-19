@@ -48,7 +48,7 @@ Then tell your AI:
 ```text
 Add this DSH theme [theme repository or link] to https://github.com/Renakoni/dsh-appearance-catalog:
 
-Inspect the upstream repository and find the actual theme package directory, name, version, and dsh.client in package.json. Confirm the rowId, complete commit SHA, preview images, license, and compatibility. If it is a monorepo, find the specific theme package subdirectory.
+Inspect the upstream repository and find the actual theme package directory, name, version, and dsh.client in package.json. Confirm the rowId, preview images, license, and compatibility. If it is a monorepo, find the specific theme package subdirectory. The catalog scripts resolve the commit SHA automatically, so do not add it by hand.
 
 Then follow CONTRIBUTING.en.md and create one entries/<theme-id>/theme.yml. Keep the PR to one theme. Do not edit generated files under data/catalog.json, THEMES.md, THEMES.en.md, or previews/.
 

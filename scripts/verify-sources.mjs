@@ -4,6 +4,7 @@ import { dirname, join, relative, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parse } from "yaml";
 import { isGitHubRepositoryCard } from "./theme-screenshots.mjs";
+import { latestGitHubSource } from "./github-source.mjs";
 
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const entriesDir = join(root, "entries");
@@ -12,6 +13,8 @@ const RATE_LIMIT_RETRY_DELAYS_MS = [2_000, 5_000, 10_000];
 const IMAGE_EXTENSIONS = /\.(?:apng|avif|bmp|gif|jpe?g|png|svg|tiff?|webp)(?:$|[?#])/i;
 const entryIndex = process.argv.indexOf("--entry");
 const requestedEntry = entryIndex >= 0 ? process.argv[entryIndex + 1] : undefined;
+const entriesIndex = process.argv.indexOf("--entries");
+const requestedEntries = entriesIndex >= 0 ? new Set((process.argv[entriesIndex + 1] ?? "").split(",").filter(Boolean)) : null;
 
 function fail(file, message) {
   throw new Error(`${relative(root, file)}: ${message}`);
@@ -52,9 +55,12 @@ async function entryFiles() {
   const files = (await readdir(entriesDir, { withFileTypes: true }))
     .filter(item => item.isDirectory())
     .map(item => join(entriesDir, item.name, "theme.yml"));
-  if (!requestedEntry) return files;
-  const selected = files.filter(file => file.split(/[\\/]/).at(-2) === requestedEntry);
-  if (selected.length !== 1) throw new Error(`entry not found: ${requestedEntry}`);
+  if (!requestedEntry && !requestedEntries) return files;
+  const selected = files.filter(file => requestedEntries
+    ? requestedEntries.has(file.split(/[\\/]/).at(-2))
+    : file.split(/[\\/]/).at(-2) === requestedEntry);
+  const expected = requestedEntries?.size ?? 1;
+  if (selected.length !== expected) throw new Error("one or more requested entries were not found");
   return selected;
 }
 
@@ -64,9 +70,23 @@ for (const file of (await entryFiles()).sort()) {
   const subpath = value.source.subpath ? `${value.source.subpath}/` : "";
   if (value.source.subpath?.split("/").includes("..")) fail(file, "source.subpath must not contain parent traversal");
 
-  const packageResponse = await request(`https://raw.githubusercontent.com/${slug}/${value.source.commit}/${subpath}package.json`, file);
   let manifest;
-  try { manifest = await packageResponse.json(); } catch { fail(file, "source package.json is not valid JSON"); }
+  let commit = value.source.commit;
+  if (commit) {
+    const packageResponse = await request(`https://raw.githubusercontent.com/${slug}/${commit}/${subpath}package.json`, file);
+    try { manifest = await packageResponse.json(); } catch { fail(file, "source package.json is not valid JSON"); }
+  } else {
+    try {
+      const latest = await latestGitHubSource(value.source, {
+        token: process.env.GITHUB_TOKEN,
+        userAgent: "dsh-appearance-catalog-source-check"
+      });
+      commit = latest.commit;
+      manifest = latest.manifest;
+    } catch (error) {
+      fail(file, error instanceof Error ? error.message : String(error));
+    }
+  }
   if (manifest.name !== value.package) fail(file, `package name is ${String(manifest.name)}, expected ${value.package}`);
   if (manifest.version !== value.version) fail(file, `package version is ${String(manifest.version)}, expected ${value.version}`);
   if (!manifest.dsh || typeof manifest.dsh !== "object" || manifest.dsh.client === undefined) fail(file, "package must declare dsh.client");

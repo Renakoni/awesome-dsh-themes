@@ -108,20 +108,22 @@ for (const file of (await entryFiles()).sort()) {
 
   const source = value.source;
   const repositoryUrl = source.repository;
-  const commit = source.commit;
+  const old = previousById.get(value.id);
+  const commit = source.commit ?? old?.install?.commit ?? (checkOnly && offline ? "0000000000000000000000000000000000000000" : null);
+  if (!commit) fail(file, "source commit is unresolved; run npm run sources:sync");
+  const resolvedValue = { ...value, source: { ...source, commit } };
   const target = `github:${repositorySlug(source.repository)}#${commit}${source.subpath ? `&path:${source.subpath}` : ""}`;
   const generatedPreview = existsSync(join(previewDir, `${value.id}.webp`));
   const generatedPreviewUrl = `https://raw.githubusercontent.com/${catalogRepository}/main/previews/${value.id}.webp`;
   const sourceScreenshots = value.screenshots?.length > 0
-    ? themeScreenshots(value)
-    : generatedPreview ? [generatedPreviewUrl] : themeScreenshots(value);
+    ? themeScreenshots(resolvedValue)
+    : generatedPreview ? [generatedPreviewUrl] : themeScreenshots(resolvedValue);
   const screenshots = sourceScreenshots.map(screenshot => /^https:\/\//.test(screenshot)
     ? screenshot
     : catalogScreenshotUrl(screenshot, file));
 
   if (!/^[0-9a-f]{40}$/.test(commit)) fail(file, "source commit must be a 40-character lowercase SHA");
   if (screenshots.length === 0) fail(file, "at least one screenshot URL is required for the first catalog version");
-  const old = previousById.get(value.id);
   const stars = await githubStars(source.repository, old?.stars);
 
   themes.push({

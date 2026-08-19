@@ -48,7 +48,7 @@
 ```text
 把这个 DSH 主题[对应的主题仓库或链接]收录到 https://github.com/Renakoni/dsh-appearance-catalog：
 
-请检查上游仓库，找到真正的主题包目录、package.json 中的 name、version 和 dsh.client，确认主题的 rowId、完整的 commit SHA、预览图、许可证和兼容性；如果是 monorepo，请找到具体的主题包子目录。
+请检查上游仓库，找到真正的主题包目录、package.json 中的 name、version 和 dsh.client，确认主题的 rowId、预览图、许可证和兼容性；如果是 monorepo，请找到具体的主题包子目录。commit SHA 由收录脚本自动获取，不需要手动填写。
 
 然后按照 CONTRIBUTING.md 创建一个 entries/<theme-id>/theme.yml。一个 PR 只处理一个主题，不要修改 data/catalog.json、THEMES.md、THEMES.en.md 或 previews/ 下的生成文件。
 

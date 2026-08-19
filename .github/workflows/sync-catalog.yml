@@ -11,7 +11,7 @@ on:
       - "package.json"
       - "package-lock.json"
   schedule:
-    - cron: "17 */12 * * *"
+    - cron: "17 4 * * *"
   workflow_dispatch:
 
 permissions:
@@ -33,8 +33,13 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - name: Sync upstream theme commits
+        id: sources
+        run: npm run sources:sync
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Build previews
-        if: github.event_name != 'schedule'
+        if: github.event_name != 'schedule' || steps.sources.outputs.changed == 'true'
         run: npm run previews
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -46,10 +51,11 @@ jobs:
         with:
           branch: automation/catalog-sync
           delete-branch: true
-          commit-message: "chore(catalog): refresh generated catalog data"
-          title: "chore(catalog): refresh generated catalog data"
-          body: "Automated refresh of Stars, catalog data, theme pages, and previews when needed."
+          commit-message: "chore(catalog): sync upstream themes"
+          title: "chore(catalog): sync upstream themes"
+          body: "Daily upstream commit, version, preview, Stars, and catalog refresh. Theme installs remain pinned to the full commit SHA recorded in this pull request."
           add-paths: |
+            entries/*/theme.yml
             data/catalog.json
             previews/*.webp
             THEMES.md
