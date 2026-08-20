@@ -11,7 +11,7 @@ version: 0.2.4
 source:
   kind: external
   repository: https://github.com/laoduu/DeepSeek-Harness-yizi-themes
-  commit: 8964dc67fd77447d450afafc134c8d7421ac6735
+  commit: 377676424e0e45f919ab5e8ee54cb1ab0f96da73
 tags:
   - wallpaper
   - glass
@@ -26,7 +26,7 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/laoduu/DeepSeek-Harness-yizi-themes/8964dc67fd77447d450afafc134c8d7421ac6735/assets/dsh-yizi-themes.png
+  - https://raw.githubusercontent.com/laoduu/DeepSeek-Harness-yizi-themes/377676424e0e45f919ab5e8ee54cb1ab0f96da73/assets/dsh-yizi-themes.png
 review:
   compatibility: unverified
   preview: verified
@@ -34,4 +34,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-16T18:45:04Z
+updatedAt: 2026-08-19T23:21:51Z

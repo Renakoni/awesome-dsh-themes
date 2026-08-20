@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T16:46:03.285Z",
+  "generatedAt": "2026-08-20T04:52:08.543Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -1559,7 +1559,7 @@
         "commercialUse": false,
         "notice": "角色、美术和商标权利归原权利人所有；仓库声明为非官方同人作品并禁止商业使用。"
       },
-      "stars": 21,
+      "stars": 22,
       "updatedAt": "2026-08-17T21:15:26Z"
     },
     {
@@ -1710,7 +1710,7 @@
         "commercialUse": false,
         "notice": "插件代码声明为 MIT；壁纸与精灵表为第三方《鸣潮》爱弥斯素材，仓库说明仅供个人学习交流使用，版权归原权利人所有。"
       },
-      "stars": 4,
+      "stars": 5,
       "updatedAt": "2026-08-16T16:37:51Z"
     },
     {
@@ -2190,7 +2190,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 115,
+      "stars": 116,
       "updatedAt": "2026-08-18T11:34:16Z"
     },
     {
@@ -2347,8 +2347,8 @@
       "packageName": "dsh-yizi-themes",
       "rowId": "yizi-themes",
       "install": {
-        "target": "github:laoduu/DeepSeek-Harness-yizi-themes#8964dc67fd77447d450afafc134c8d7421ac6735",
-        "commit": "8964dc67fd77447d450afafc134c8d7421ac6735",
+        "target": "github:laoduu/DeepSeek-Harness-yizi-themes#377676424e0e45f919ab5e8ee54cb1ab0f96da73",
+        "commit": "377676424e0e45f919ab5e8ee54cb1ab0f96da73",
         "version": "0.2.4"
       },
       "tags": [
@@ -2369,7 +2369,7 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/laoduu/DeepSeek-Harness-yizi-themes/8964dc67fd77447d450afafc134c8d7421ac6735/assets/dsh-yizi-themes.png"
+        "https://raw.githubusercontent.com/laoduu/DeepSeek-Harness-yizi-themes/377676424e0e45f919ab5e8ee54cb1ab0f96da73/assets/dsh-yizi-themes.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/laoduu.deepseek-harness-yizi-themes.webp",
       "review": {
@@ -2382,7 +2382,7 @@
         "commercialUse": true
       },
       "stars": 1,
-      "updatedAt": "2026-08-16T18:45:04Z"
+      "updatedAt": "2026-08-19T23:21:51Z"
     },
     {
       "id": "laplaceyoung.dsh-qq2006",
@@ -2735,8 +2735,8 @@
       "packageName": "@deepseek-ai/liuli-theme",
       "rowId": "liuli-theme",
       "install": {
-        "target": "github:LilycleHeart/liuli-theme#e3aeb562f29f04f03de8da55e46b90132ed0cc7b",
-        "commit": "e3aeb562f29f04f03de8da55e46b90132ed0cc7b",
+        "target": "github:LilycleHeart/liuli-theme#776d01d0fbcda91922af2ffda9f213ff400023b5",
+        "commit": "776d01d0fbcda91922af2ffda9f213ff400023b5",
         "version": "0.1.0"
       },
       "tags": [
@@ -2758,11 +2758,11 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/e3aeb562f29f04f03de8da55e46b90132ed0cc7b/docs/preview-start-light.png",
-        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/e3aeb562f29f04f03de8da55e46b90132ed0cc7b/docs/preview-start-dark.png",
-        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/e3aeb562f29f04f03de8da55e46b90132ed0cc7b/docs/preview-color-light.png",
-        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/e3aeb562f29f04f03de8da55e46b90132ed0cc7b/docs/preview-color-dark.png",
-        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/e3aeb562f29f04f03de8da55e46b90132ed0cc7b/docs/preview-session-dark.png"
+        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/776d01d0fbcda91922af2ffda9f213ff400023b5/docs/preview-start-light.png",
+        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/776d01d0fbcda91922af2ffda9f213ff400023b5/docs/preview-start-dark.png",
+        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/776d01d0fbcda91922af2ffda9f213ff400023b5/docs/preview-color-light.png",
+        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/776d01d0fbcda91922af2ffda9f213ff400023b5/docs/preview-color-dark.png",
+        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/776d01d0fbcda91922af2ffda9f213ff400023b5/docs/preview-session-dark.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/lilycleheart.liuli-theme.webp",
       "review": {
@@ -2775,7 +2775,7 @@
         "commercialUse": true
       },
       "stars": 2,
-      "updatedAt": "2026-08-19T11:40:15Z"
+      "updatedAt": "2026-08-20T03:35:18Z"
     },
     {
       "id": "linkingoscar.dsh-billing-glass",
@@ -3072,9 +3072,9 @@
       "packageName": "dsh-client-ui-frosted-glass",
       "rowId": "ui-frosted-glass",
       "install": {
-        "target": "github:makuralymi/dsh-webUI-Glass-Theme#b76db9b1a96074a44eef0e87c2346a528065f1fe",
-        "commit": "b76db9b1a96074a44eef0e87c2346a528065f1fe",
-        "version": "0.2.0"
+        "target": "github:makuralymi/dsh-webUI-Glass-Theme#c2be1d9d171c533da441d560dc3411344dfc6ea4",
+        "commit": "c2be1d9d171c533da441d560dc3411344dfc6ea4",
+        "version": "0.5.0"
       },
       "tags": [
         "glass",
@@ -3093,8 +3093,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/makuralymi/dsh-webUI-Glass-Theme/b76db9b1a96074a44eef0e87c2346a528065f1fe/assets/sc.png",
-        "https://raw.githubusercontent.com/makuralymi/dsh-webUI-Glass-Theme/b76db9b1a96074a44eef0e87c2346a528065f1fe/assets/sc2.png"
+        "https://raw.githubusercontent.com/makuralymi/dsh-webUI-Glass-Theme/c2be1d9d171c533da441d560dc3411344dfc6ea4/assets/sc.png",
+        "https://raw.githubusercontent.com/makuralymi/dsh-webUI-Glass-Theme/c2be1d9d171c533da441d560dc3411344dfc6ea4/assets/sc2.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/makuralymi.dsh-webui-glass-theme.webp",
       "review": {
@@ -3107,7 +3107,7 @@
         "commercialUse": true
       },
       "stars": 4,
-      "updatedAt": "2026-08-16T14:49:59Z"
+      "updatedAt": "2026-08-19T18:06:15Z"
     },
     {
       "id": "mangmax.dsh-themes",
@@ -3706,9 +3706,9 @@
       "packageName": "@pakiknowledge/dsh-client-ui-skin-claude",
       "rowId": "ui-skin-claude",
       "install": {
-        "target": "github:PAKIKNOWLEDGE/dsh-client-ui-skin-claude#78690f8449b61c0ea00e827c7427934810b9c554",
-        "commit": "78690f8449b61c0ea00e827c7427934810b9c554",
-        "version": "0.1.0"
+        "target": "github:PAKIKNOWLEDGE/dsh-client-ui-skin-claude#4d8fe6cfbff245b44bb8e0effc296ad2b513c9c5",
+        "commit": "4d8fe6cfbff245b44bb8e0effc296ad2b513c9c5",
+        "version": "0.2.0"
       },
       "tags": [
         "token-theme",
@@ -3725,8 +3725,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/PAKIKNOWLEDGE/dsh-client-ui-skin-claude/78690f8449b61c0ea00e827c7427934810b9c554/docs/dark.png",
-        "https://raw.githubusercontent.com/PAKIKNOWLEDGE/dsh-client-ui-skin-claude/78690f8449b61c0ea00e827c7427934810b9c554/docs/light.png"
+        "https://raw.githubusercontent.com/PAKIKNOWLEDGE/dsh-client-ui-skin-claude/4d8fe6cfbff245b44bb8e0effc296ad2b513c9c5/docs/dark.png",
+        "https://raw.githubusercontent.com/PAKIKNOWLEDGE/dsh-client-ui-skin-claude/4d8fe6cfbff245b44bb8e0effc296ad2b513c9c5/docs/light.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/pakiknowledge.dsh-client-ui-skin-claude.webp",
       "review": {
@@ -3739,7 +3739,7 @@
         "commercialUse": true
       },
       "stars": 7,
-      "updatedAt": "2026-08-16T12:15:53.427Z"
+      "updatedAt": "2026-08-20T04:31:27Z"
     },
     {
       "id": "rainbowdashy.dsh-theme-palettes",
@@ -3942,9 +3942,9 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#cb44e620126126061e8a0237280b4424464ecba7",
-        "commit": "cb44e620126126061e8a0237280b4424464ecba7",
-        "version": "0.3.0"
+        "target": "github:RevolutionLA/dsh-dream-skin#7334b77169cc3ffbfc7f052c7c883ae33b2f9446",
+        "commit": "7334b77169cc3ffbfc7f052c7c883ae33b2f9446",
+        "version": "0.4.1"
       },
       "tags": [
         "wallpaper",
@@ -3963,8 +3963,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/cb44e620126126061e8a0237280b4424464ecba7/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/cb44e620126126061e8a0237280b4424464ecba7/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/7334b77169cc3ffbfc7f052c7c883ae33b2f9446/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/7334b77169cc3ffbfc7f052c7c883ae33b2f9446/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3977,7 +3977,7 @@
         "commercialUse": true
       },
       "stars": 65,
-      "updatedAt": "2026-08-18T06:59:04Z"
+      "updatedAt": "2026-08-19T18:23:02Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4071,7 +4071,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 5,
+      "stars": 6,
       "updatedAt": "2026-08-16T12:16:17.062Z"
     },
     {
@@ -4274,8 +4274,8 @@
       "packageName": "@dsh-external/dsh-client-ui-skin-maid-atelier",
       "rowId": "ui-skin-maid-atelier",
       "install": {
-        "target": "github:Small-tailqwq/dsh-deep-whale#7514a13dbc35ce04ed851d284f7a2058c4c5873a&path:maid-atelier",
-        "commit": "7514a13dbc35ce04ed851d284f7a2058c4c5873a",
+        "target": "github:Small-tailqwq/dsh-deep-whale#d0419da95e51b6300de6b1c8205ee40f7644ca23&path:maid-atelier",
+        "commit": "d0419da95e51b6300de6b1c8205ee40f7644ca23",
         "version": "0.0.1"
       },
       "tags": [
@@ -4297,8 +4297,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/7514a13dbc35ce04ed851d284f7a2058c4c5873a/maid-atelier/preview/light.webp",
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/7514a13dbc35ce04ed851d284f7a2058c4c5873a/maid-atelier/preview/dark.webp"
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/d0419da95e51b6300de6b1c8205ee40f7644ca23/maid-atelier/preview/light.webp",
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/d0419da95e51b6300de6b1c8205ee40f7644ca23/maid-atelier/preview/dark.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/small-tailqwq.maid-atelier.webp",
       "review": {
@@ -4311,8 +4311,8 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1452,
-      "updatedAt": "2026-08-19T15:30:54Z"
+      "stars": 1470,
+      "updatedAt": "2026-08-20T04:16:02Z"
     },
     {
       "id": "starslittle.dsh-blue-whale",
@@ -4702,7 +4702,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 13,
+      "stars": 14,
       "updatedAt": "2026-08-19T16:12:00Z"
     },
     {
@@ -4816,8 +4816,8 @@
       "packageName": "dsh-ui-appearance",
       "rowId": "ui-appearance",
       "install": {
-        "target": "github:TQSY114514/dsh-ui-appearance#e9605869ddb38dd79d88ff7de191fea21da1db52",
-        "commit": "e9605869ddb38dd79d88ff7de191fea21da1db52",
+        "target": "github:TQSY114514/dsh-ui-appearance#0b47a643cd531ac4115867da7bee98588683f42e",
+        "commit": "0b47a643cd531ac4115867da7bee98588683f42e",
         "version": "0.1.3"
       },
       "tags": [
@@ -4836,8 +4836,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/e9605869ddb38dd79d88ff7de191fea21da1db52/docs/screenshot-settings.png",
-        "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/e9605869ddb38dd79d88ff7de191fea21da1db52/docs/screenshot-wallpaper.png"
+        "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/0b47a643cd531ac4115867da7bee98588683f42e/docs/screenshot-settings.png",
+        "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/0b47a643cd531ac4115867da7bee98588683f42e/docs/screenshot-wallpaper.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tqsy114514.dsh-ui-appearance.webp",
       "review": {
@@ -4850,7 +4850,7 @@
         "commercialUse": true
       },
       "stars": 8,
-      "updatedAt": "2026-08-19T05:39:54Z"
+      "updatedAt": "2026-08-20T04:05:50Z"
     },
     {
       "id": "tuogusa.dsh-whale-background",
@@ -5435,7 +5435,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 325,
+      "stars": 333,
       "updatedAt": "2026-08-17T10:23:35Z"
     },
     {
@@ -5808,8 +5808,8 @@
       "packageName": "dsh-wallpaper_share",
       "rowId": "we-sync",
       "install": {
-        "target": "github:YRN-playmaker/dsh-wallpaper_share#f7313c6764e921cd3e448d4dcbd02a44596f12bb",
-        "commit": "f7313c6764e921cd3e448d4dcbd02a44596f12bb",
+        "target": "github:YRN-playmaker/dsh-wallpaper_share#f6df0013a4b2bc4445ee509ed8addbbecfe66159",
+        "commit": "f6df0013a4b2bc4445ee509ed8addbbecfe66159",
         "version": "0.2.0"
       },
       "tags": [
@@ -5843,7 +5843,7 @@
         "commercialUse": true
       },
       "stars": 3,
-      "updatedAt": "2026-08-19T03:41:47Z"
+      "updatedAt": "2026-08-19T17:06:16Z"
     },
     {
       "id": "yunxiiqwq.maid-whale-webui",
