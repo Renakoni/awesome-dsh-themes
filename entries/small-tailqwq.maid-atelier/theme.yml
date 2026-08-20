@@ -10,7 +10,7 @@ version: 0.0.1
 source:
   kind: external
   repository: https://github.com/Small-tailqwq/dsh-deep-whale
-  commit: d0419da95e51b6300de6b1c8205ee40f7644ca23
+  commit: 0a3d03251d1e88a08de79e27fb884ed9200913ad
   subpath: maid-atelier
 tags:
   - anime
@@ -27,8 +27,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/d0419da95e51b6300de6b1c8205ee40f7644ca23/maid-atelier/preview/light.webp
-  - https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/d0419da95e51b6300de6b1c8205ee40f7644ca23/maid-atelier/preview/dark.webp
+  - https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/0a3d03251d1e88a08de79e27fb884ed9200913ad/maid-atelier/preview/light.webp
+  - https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/0a3d03251d1e88a08de79e27fb884ed9200913ad/maid-atelier/preview/dark.webp
 review:
   compatibility: verified
   preview: verified
@@ -37,4 +37,4 @@ license:
   code: CC-BY-NC-SA-4.0
   commercialUse: false
   notice: 仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。
-updatedAt: 2026-08-20T04:16:02Z
+updatedAt: 2026-08-20T08:18:05Z

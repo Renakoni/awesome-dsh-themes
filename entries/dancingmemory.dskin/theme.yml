@@ -8,11 +8,11 @@ description: DSKIN · DeepSeek Harness（DSH）卡通像素皮肤插件 / Cartoo
   and hop
 package: dskin
 rowId: ui-skin-dskin
-version: 1.0.15
+version: 1.0.16
 source:
   kind: external
   repository: https://github.com/dancingmemory/dskin
-  commit: 9ec8661b49bdf1a94250dcee9710cec22162a865
+  commit: 792064e6dbb022c5f9ce3529b9cf66efba2863c1
 tags:
   - wallpaper
   - token-theme
@@ -27,11 +27,11 @@ screenshots:
   - screenshots/home.png
   - screenshots/conversation.png
   - screenshots/settings.png
-  - https://raw.githubusercontent.com/dancingmemory/dskin/9ec8661b49bdf1a94250dcee9710cec22162a865/assets/banner.jpg
-  - https://raw.githubusercontent.com/dancingmemory/dskin/9ec8661b49bdf1a94250dcee9710cec22162a865/assets/shot-bigorange.png
-  - https://raw.githubusercontent.com/dancingmemory/dskin/9ec8661b49bdf1a94250dcee9710cec22162a865/assets/shot-white.png
-  - https://raw.githubusercontent.com/dancingmemory/dskin/9ec8661b49bdf1a94250dcee9710cec22162a865/assets/shot-black.png
-  - https://raw.githubusercontent.com/dancingmemory/dskin/9ec8661b49bdf1a94250dcee9710cec22162a865/assets/shot-tuxedo.png
+  - https://raw.githubusercontent.com/dancingmemory/dskin/792064e6dbb022c5f9ce3529b9cf66efba2863c1/assets/banner.jpg
+  - https://raw.githubusercontent.com/dancingmemory/dskin/792064e6dbb022c5f9ce3529b9cf66efba2863c1/assets/shot-bigorange.png
+  - https://raw.githubusercontent.com/dancingmemory/dskin/792064e6dbb022c5f9ce3529b9cf66efba2863c1/assets/shot-white.png
+  - https://raw.githubusercontent.com/dancingmemory/dskin/792064e6dbb022c5f9ce3529b9cf66efba2863c1/assets/shot-black.png
+  - https://raw.githubusercontent.com/dancingmemory/dskin/792064e6dbb022c5f9ce3529b9cf66efba2863c1/assets/shot-tuxedo.png
 review:
   compatibility: unverified
   preview: verified
@@ -39,4 +39,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-19T05:52:11Z
+updatedAt: 2026-08-20T06:34:39Z
