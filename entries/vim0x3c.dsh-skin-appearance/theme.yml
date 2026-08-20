@@ -3,14 +3,15 @@ name:
   zh: dsh-skin-appearance
   en: dsh-skin-appearance
 author: Vim0x3c
-description: DeepSeek Harness 外观定制插件：八套内置主题 + 自定义壁纸（透明度/模糊），Host 设置持久化 | Appearance plugin for dsh web
+description: DeepSeek Harness 外观定制插件：八套内置主题 + 自定义壁纸（透明度/模糊），Host 设置持久化 |
+  Appearance plugin for dsh web
 package: dsh-skin-appearance
 rowId: dsh-skin-appearance
 version: 0.1.0
 source:
   kind: external
   repository: https://github.com/Vim0x3c/dsh-skin-appearance
-  commit: be7b05776c1dee9e3d387e122c42005edf400837
+  commit: 7a58ae76e83cf97c78c22b0b0d48f0f2a48f039d
 tags:
   - wallpaper
   - glass
@@ -24,12 +25,12 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/Vim0x3c/dsh-skin-appearance/be7b05776c1dee9e3d387e122c42005edf400837/assets/screenshots/deepseek-chan.jpg
-  - https://raw.githubusercontent.com/Vim0x3c/dsh-skin-appearance/be7b05776c1dee9e3d387e122c42005edf400837/assets/screenshots/qq2008-crystal.jpg
-  - https://raw.githubusercontent.com/Vim0x3c/dsh-skin-appearance/be7b05776c1dee9e3d387e122c42005edf400837/assets/screenshots/cloud-lab.jpg
-  - https://raw.githubusercontent.com/Vim0x3c/dsh-skin-appearance/be7b05776c1dee9e3d387e122c42005edf400837/assets/screenshots/ink-algorithm.jpg
-  - https://raw.githubusercontent.com/Vim0x3c/dsh-skin-appearance/be7b05776c1dee9e3d387e122c42005edf400837/assets/screenshots/abyss-starport.jpg
-  - https://raw.githubusercontent.com/Vim0x3c/dsh-skin-appearance/be7b05776c1dee9e3d387e122c42005edf400837/assets/screenshots/deepsea-whale.jpg
+  - https://raw.githubusercontent.com/Vim0x3c/dsh-skin-appearance/7a58ae76e83cf97c78c22b0b0d48f0f2a48f039d/assets/screenshots/deepseek-chan.jpg
+  - https://raw.githubusercontent.com/Vim0x3c/dsh-skin-appearance/7a58ae76e83cf97c78c22b0b0d48f0f2a48f039d/assets/screenshots/qq2008-crystal.jpg
+  - https://raw.githubusercontent.com/Vim0x3c/dsh-skin-appearance/7a58ae76e83cf97c78c22b0b0d48f0f2a48f039d/assets/screenshots/cloud-lab.jpg
+  - https://raw.githubusercontent.com/Vim0x3c/dsh-skin-appearance/7a58ae76e83cf97c78c22b0b0d48f0f2a48f039d/assets/screenshots/ink-algorithm.jpg
+  - https://raw.githubusercontent.com/Vim0x3c/dsh-skin-appearance/7a58ae76e83cf97c78c22b0b0d48f0f2a48f039d/assets/screenshots/abyss-starport.jpg
+  - https://raw.githubusercontent.com/Vim0x3c/dsh-skin-appearance/7a58ae76e83cf97c78c22b0b0d48f0f2a48f039d/assets/screenshots/deepsea-whale.jpg
 review:
   compatibility: verified
   preview: verified
@@ -37,4 +38,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-16T13:48:16.554Z
+updatedAt: 2026-08-20T05:08:57Z
