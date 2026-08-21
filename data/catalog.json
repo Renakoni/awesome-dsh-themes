@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T09:02:16.804Z",
+  "generatedAt": "2026-08-21T09:53:05.861Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -5398,8 +5398,8 @@
       "packageName": "@deepseek-ai/dsh-client-ui-aqua",
       "rowId": "ui-aqua",
       "install": {
-        "target": "github:Renakoni/DSH-Transparent-UI-Plugin#75c3ed6d172c5c94a3d5c23dcf7876d3324ce1da",
-        "commit": "75c3ed6d172c5c94a3d5c23dcf7876d3324ce1da",
+        "target": "github:Renakoni/DSH-Transparent-UI-Plugin#816bd68ba5787631910bef21b854709ff78d61f8",
+        "commit": "816bd68ba5787631910bef21b854709ff78d61f8",
         "version": "1.3.1"
       },
       "tags": [
@@ -5435,7 +5435,7 @@
         "commercialUse": true
       },
       "stars": 347,
-      "updatedAt": "2026-08-20T09:08:55Z"
+      "updatedAt": "2026-08-21T09:52:41Z"
     },
     {
       "id": "x9wd09ncc.dsh-x9-theme",
