@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T16:50:57.483Z",
+  "generatedAt": "2026-08-21T08:54:16.636Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -244,7 +244,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 10,
+      "stars": 11,
       "updatedAt": "2026-08-17T16:32:05Z"
     },
     {
@@ -976,7 +976,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 184,
+      "stars": 185,
       "updatedAt": "2026-08-19T03:29:13Z"
     },
     {
@@ -2156,9 +2156,9 @@
       "packageName": "dsh-client-liang-intensity-skin",
       "rowId": "liang-intensity-skin",
       "install": {
-        "target": "github:kingOfSoySauce/dsh-liang-skin#f65bf387a4a3e3f4680dd6bb63e7f30d20455543",
-        "commit": "f65bf387a4a3e3f4680dd6bb63e7f30d20455543",
-        "version": "0.1.6"
+        "target": "github:kingOfSoySauce/dsh-liang-skin#976fcbf9b4a91b79f14b90c16cbe0d3f553c2bd3",
+        "commit": "976fcbf9b4a91b79f14b90c16cbe0d3f553c2bd3",
+        "version": "0.1.7"
       },
       "tags": [
         "black-gold",
@@ -2176,8 +2176,7 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/f65bf387a4a3e3f4680dd6bb63e7f30d20455543/docs/preview.png",
-        "https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/f65bf387a4a3e3f4680dd6bb63e7f30d20455543/docs/demo.gif"
+        "https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/976fcbf9b4a91b79f14b90c16cbe0d3f553c2bd3/docs/preview.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/king-of-soy-sauce.liang-intensity.webp",
       "review": {
@@ -2190,8 +2189,8 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 120,
-      "updatedAt": "2026-08-18T11:34:16Z"
+      "stars": 121,
+      "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
       "id": "kingao294.dsh-skin",
@@ -2381,7 +2380,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 2,
       "updatedAt": "2026-08-19T23:21:51Z"
     },
     {
@@ -2735,8 +2734,8 @@
       "packageName": "@deepseek-ai/liuli-theme",
       "rowId": "liuli-theme",
       "install": {
-        "target": "github:LilycleHeart/liuli-theme#c474b76687c3dbd155ea9c8769c743262934eb7d",
-        "commit": "c474b76687c3dbd155ea9c8769c743262934eb7d",
+        "target": "github:LilycleHeart/liuli-theme#9438feed825782319387c0f9f2c915c3f2db2641",
+        "commit": "9438feed825782319387c0f9f2c915c3f2db2641",
         "version": "0.1.0"
       },
       "tags": [
@@ -2758,11 +2757,11 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/c474b76687c3dbd155ea9c8769c743262934eb7d/docs/preview-start-light.png",
-        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/c474b76687c3dbd155ea9c8769c743262934eb7d/docs/preview-start-dark.png",
-        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/c474b76687c3dbd155ea9c8769c743262934eb7d/docs/preview-color-light.png",
-        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/c474b76687c3dbd155ea9c8769c743262934eb7d/docs/preview-color-dark.png",
-        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/c474b76687c3dbd155ea9c8769c743262934eb7d/docs/preview-session-dark.png"
+        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/9438feed825782319387c0f9f2c915c3f2db2641/docs/preview-start-light.png",
+        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/9438feed825782319387c0f9f2c915c3f2db2641/docs/preview-start-dark.png",
+        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/9438feed825782319387c0f9f2c915c3f2db2641/docs/preview-color-light.png",
+        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/9438feed825782319387c0f9f2c915c3f2db2641/docs/preview-color-dark.png",
+        "https://raw.githubusercontent.com/LilycleHeart/liuli-theme/9438feed825782319387c0f9f2c915c3f2db2641/docs/preview-session-dark.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/lilycleheart.liuli-theme.webp",
       "review": {
@@ -2775,7 +2774,7 @@
         "commercialUse": true
       },
       "stars": 2,
-      "updatedAt": "2026-08-20T16:41:23Z"
+      "updatedAt": "2026-08-20T21:36:36Z"
     },
     {
       "id": "linkingoscar.dsh-billing-glass",
@@ -2963,7 +2962,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 7,
+      "stars": 6,
       "updatedAt": "2026-08-16T13:47:45.102Z"
     },
     {
@@ -3942,8 +3941,8 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#7334b77169cc3ffbfc7f052c7c883ae33b2f9446",
-        "commit": "7334b77169cc3ffbfc7f052c7c883ae33b2f9446",
+        "target": "github:RevolutionLA/dsh-dream-skin#f04bdeae070998a5900ddae6d6ee82ee5725f074",
+        "commit": "f04bdeae070998a5900ddae6d6ee82ee5725f074",
         "version": "0.4.1"
       },
       "tags": [
@@ -3963,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/7334b77169cc3ffbfc7f052c7c883ae33b2f9446/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/7334b77169cc3ffbfc7f052c7c883ae33b2f9446/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/f04bdeae070998a5900ddae6d6ee82ee5725f074/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/f04bdeae070998a5900ddae6d6ee82ee5725f074/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3976,8 +3975,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 68,
-      "updatedAt": "2026-08-19T18:23:02Z"
+      "stars": 69,
+      "updatedAt": "2026-08-21T03:57:57Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -3991,9 +3990,9 @@
       "packageName": "dsh-skin-alphacoders",
       "rowId": "skin-alphacoders",
       "install": {
-        "target": "github:sakka6868/dsh-skin#802461800cfd20c640198c82df4d23a2c996c1bc",
-        "commit": "802461800cfd20c640198c82df4d23a2c996c1bc",
-        "version": "0.2.0"
+        "target": "github:sakka6868/dsh-skin#4629351a51d35ebfab69c061269dfa6e2678aab9",
+        "commit": "4629351a51d35ebfab69c061269dfa6e2678aab9",
+        "version": "0.3.0"
       },
       "tags": [
         "wallpaper",
@@ -4011,8 +4010,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/sakka6868/dsh-skin/802461800cfd20c640198c82df4d23a2c996c1bc/docs/preview-main.png",
-        "https://raw.githubusercontent.com/sakka6868/dsh-skin/802461800cfd20c640198c82df4d23a2c996c1bc/docs/preview-gallery.png"
+        "https://raw.githubusercontent.com/sakka6868/dsh-skin/4629351a51d35ebfab69c061269dfa6e2678aab9/docs/preview-main.png",
+        "https://raw.githubusercontent.com/sakka6868/dsh-skin/4629351a51d35ebfab69c061269dfa6e2678aab9/docs/preview-gallery.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/sakka6868.dsh-skin.webp",
       "review": {
@@ -4025,7 +4024,7 @@
         "commercialUse": true
       },
       "stars": 2,
-      "updatedAt": "2026-08-16T13:53:50.782Z"
+      "updatedAt": "2026-08-20T17:37:33Z"
     },
     {
       "id": "samizuhm.dsh-client-ui-theme-xp",
@@ -4071,7 +4070,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 6,
+      "stars": 7,
       "updatedAt": "2026-08-16T12:16:17.062Z"
     },
     {
@@ -4311,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1508,
+      "stars": 1518,
       "updatedAt": "2026-08-20T08:18:05Z"
     },
     {
@@ -4648,7 +4647,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 9,
+      "stars": 8,
       "updatedAt": "2026-08-16T12:15:41.349Z"
     },
     {
@@ -4750,7 +4749,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 17,
+      "stars": 18,
       "updatedAt": "2026-08-16T12:15:36.557Z"
     },
     {
@@ -4801,7 +4800,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 9,
+      "stars": 10,
       "updatedAt": "2026-08-20T05:11:02Z"
     },
     {
@@ -5435,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 342,
+      "stars": 347,
       "updatedAt": "2026-08-20T09:08:55Z"
     },
     {
@@ -5857,8 +5856,8 @@
       "packageName": "@dsh-external/dsh-client-ui-skin-maid-whale-webui",
       "rowId": "ui-skin-maid-whale-webui",
       "install": {
-        "target": "github:yunxiiQwQ/dsh-maid-whale-webUI#f574f151bdfde7e8569797962eb8ff6aad4b3bf1&path:maid-whale-webui",
-        "commit": "f574f151bdfde7e8569797962eb8ff6aad4b3bf1",
+        "target": "github:yunxiiQwQ/dsh-maid-whale-webUI#6ab5e7499ddf76c4fcf6d83421c08e967db1c2bc&path:maid-whale-webui",
+        "commit": "6ab5e7499ddf76c4fcf6d83421c08e967db1c2bc",
         "version": "0.1.0"
       },
       "tags": [
@@ -5878,8 +5877,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/yunxiiQwQ/dsh-maid-whale-webUI/f574f151bdfde7e8569797962eb8ff6aad4b3bf1/maid-whale-webui/preview/light.webp",
-        "https://raw.githubusercontent.com/yunxiiQwQ/dsh-maid-whale-webUI/f574f151bdfde7e8569797962eb8ff6aad4b3bf1/maid-whale-webui/preview/dark.webp"
+        "https://raw.githubusercontent.com/yunxiiQwQ/dsh-maid-whale-webUI/6ab5e7499ddf76c4fcf6d83421c08e967db1c2bc/maid-whale-webui/preview/light.webp",
+        "https://raw.githubusercontent.com/yunxiiQwQ/dsh-maid-whale-webUI/6ab5e7499ddf76c4fcf6d83421c08e967db1c2bc/maid-whale-webui/preview/dark.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/yunxiiqwq.maid-whale-webui.webp",
       "review": {
@@ -5892,7 +5891,7 @@
         "commercialUse": true
       },
       "stars": 19,
-      "updatedAt": "2026-08-16T12:48:35.081Z"
+      "updatedAt": "2026-08-21T03:53:53Z"
     },
     {
       "id": "yuqisun.dsh-theme-machine",
@@ -6236,7 +6235,7 @@
         "commercialUse": true,
         "notice": "Catppuccin palette 源自 catppuccin/palette，并按 MIT 许可证使用。"
       },
-      "stars": 10,
+      "stars": 11,
       "updatedAt": "2026-08-16T14:41:30Z"
     },
     {
@@ -6334,7 +6333,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 4,
       "updatedAt": "2026-08-16T12:32:51.434Z"
     },
     {
