@@ -18,7 +18,13 @@
 <td align="center" valign="middle">Abyssal Maid Atelier</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="Abyssal Maid Atelier" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">1,557</td>
+<td align="center" valign="middle">1,560</td>
+</tr>
+<tr>
+<td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
+<td align="center" valign="middle"><img src="previews/wyh66666666.dsh-transparent-ui-plugin.webp" alt="DSH-Transparent-UI-Plugin" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/WYH66666666/DSH-Transparent-UI-Plugin">WYH66666666/DSH-Transparent-UI-Plugin</a></td>
+<td align="center" valign="middle">359</td>
 </tr>
 <tr>
 <td align="center" valign="middle">Open Sea Skin</td>
@@ -36,7 +42,7 @@
 <td align="center" valign="middle">dsh-dream-skin</td>
 <td align="center" valign="middle"><img src="previews/revolutionla.dsh-dream-skin.webp" alt="dsh-dream-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></td>
-<td align="center" valign="middle">75</td>
+<td align="center" valign="middle">76</td>
 </tr>
 <tr>
 <td align="center" valign="middle">Denia · Void Bubble</td>
@@ -213,6 +219,12 @@
 <td align="center" valign="middle">5</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-wallpaper_share</td>
+<td align="center" valign="middle"><img src="previews/yrn-playmaker.dsh-wallpaper-share.webp" alt="dsh-wallpaper_share" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/YRN-playmaker/dsh-wallpaper_share">YRN-playmaker/dsh-wallpaper_share</a></td>
+<td align="center" valign="middle">5</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-naiwa-theme</td>
 <td align="center" valign="middle"><img src="previews/devourerm.dsh-naiwa-theme.webp" alt="dsh-naiwa-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/DevourerM/dsh-naiwa-theme">DevourerM/dsh-naiwa-theme</a></td>
@@ -240,12 +252,6 @@
 <td align="center" valign="middle">dsh-theme-neko</td>
 <td align="center" valign="middle"><img src="previews/drfccv.dsh-theme-neko.webp" alt="dsh-theme-neko" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/drfccv/dsh-theme-neko">drfccv/dsh-theme-neko</a></td>
-<td align="center" valign="middle">4</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-wallpaper_share</td>
-<td align="center" valign="middle"><img src="previews/yrn-playmaker.dsh-wallpaper-share.webp" alt="dsh-wallpaper_share" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/YRN-playmaker/dsh-wallpaper_share">YRN-playmaker/dsh-wallpaper_share</a></td>
 <td align="center" valign="middle">4</td>
 </tr>
 <tr>
@@ -762,12 +768,6 @@
 <td align="center" valign="middle">dsh-theme-machine</td>
 <td align="center" valign="middle"><img src="previews/yuqisun.dsh-theme-machine.webp" alt="dsh-theme-machine" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/yuqisun/dsh-theme-machine">yuqisun/dsh-theme-machine</a></td>
-<td align="center" valign="middle">0</td>
-</tr>
-<tr>
-<td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
-<td align="center" valign="middle"><img src="previews/wyh66666666.dsh-transparent-ui-plugin.webp" alt="DSH-Transparent-UI-Plugin" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/WYH66666666/DSH-Transparent-UI-Plugin">WYH66666666/DSH-Transparent-UI-Plugin</a></td>
 <td align="center" valign="middle">0</td>
 </tr>
 <tr>
