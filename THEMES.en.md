@@ -767,7 +767,7 @@
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
 <td align="center" valign="middle"><img src="previews/wyh66666666.dsh-transparent-ui-plugin.webp" alt="DSH-Transparent-UI-Plugin" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/Renakoni/DSH-Transparent-UI-Plugin">Renakoni/DSH-Transparent-UI-Plugin</a></td>
+<td align="center" valign="middle"><a href="https://github.com/WYH66666666/DSH-Transparent-UI-Plugin">WYH66666666/DSH-Transparent-UI-Plugin</a></td>
 <td align="center" valign="middle">0</td>
 </tr>
 <tr>
