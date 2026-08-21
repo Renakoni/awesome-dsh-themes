@@ -6,11 +6,11 @@ author: Andy294753951
 description: Unofficial Gouden Leeuw moonlit sanctuary theme for the DeepSeek Harness web UI
 package: dsh-plugin-gouden-leeuw-theme
 rowId: gouden-leeuw-theme
-version: 0.2.0
+version: 0.4.0
 source:
   kind: external
   repository: https://github.com/Andy294753951/dsh-plugin-gouden-leeuw-theme
-  commit: 3990dd397aec128553c7391b6d083c556483bc12
+  commit: 6ab4c2bc6fb88d41a02ad92c06aae6e46d05e078
 tags:
   - glass
   - retro
@@ -25,7 +25,7 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://opengraph.githubassets.com/3990dd397aec128553c7391b6d083c556483bc12/Andy294753951/dsh-plugin-gouden-leeuw-theme
+  - https://opengraph.githubassets.com/6ab4c2bc6fb88d41a02ad92c06aae6e46d05e078/Andy294753951/dsh-plugin-gouden-leeuw-theme
 review:
   compatibility: verified
   preview: repository-card
@@ -33,4 +33,4 @@ review:
 license:
   code: SEE LICENSE IN LICENSE
   commercialUse: false
-updatedAt: 2026-08-16T13:52:07.647Z
+updatedAt: 2026-08-21T15:34:54Z
