@@ -12,7 +12,7 @@ version: 1.3.1
 source:
   kind: external
   repository: https://github.com/Renakoni/DSH-Transparent-UI-Plugin
-  commit: 75c3ed6d172c5c94a3d5c23dcf7876d3324ce1da
+  commit: 816bd68ba5787631910bef21b854709ff78d61f8
 tags:
   - wallpaper
   - glass
@@ -37,4 +37,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-20T09:08:55Z
+updatedAt: 2026-08-21T09:52:41Z
