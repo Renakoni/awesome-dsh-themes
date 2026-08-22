@@ -10,7 +10,7 @@ version: 0.1.0
 source:
   kind: external
   repository: https://github.com/yunxiiQwQ/dsh-maid-whale-webUI
-  commit: 6ab5e7499ddf76c4fcf6d83421c08e967db1c2bc
+  commit: 4b46791a2eb868b8e081aab896d34dab124d4b62
   subpath: maid-whale-webui
 tags:
   - wallpaper
@@ -25,8 +25,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/yunxiiQwQ/dsh-maid-whale-webUI/6ab5e7499ddf76c4fcf6d83421c08e967db1c2bc/maid-whale-webui/preview/light.webp
-  - https://raw.githubusercontent.com/yunxiiQwQ/dsh-maid-whale-webUI/6ab5e7499ddf76c4fcf6d83421c08e967db1c2bc/maid-whale-webui/preview/dark.webp
+  - https://raw.githubusercontent.com/yunxiiQwQ/dsh-maid-whale-webUI/4b46791a2eb868b8e081aab896d34dab124d4b62/maid-whale-webui/preview/light.webp
+  - https://raw.githubusercontent.com/yunxiiQwQ/dsh-maid-whale-webUI/4b46791a2eb868b8e081aab896d34dab124d4b62/maid-whale-webui/preview/dark.webp
 review:
   compatibility: unverified
   preview: verified
@@ -34,4 +34,4 @@ review:
 license:
   code: BSD-3-Clause
   commercialUse: true
-updatedAt: 2026-08-21T03:53:53Z
+updatedAt: 2026-08-22T07:56:11Z

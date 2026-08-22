@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T04:48:51.029Z",
+  "generatedAt": "2026-08-22T16:40:00.798Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -95,7 +95,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:51:53.473Z"
     },
     {
@@ -976,7 +976,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 185,
+      "stars": 186,
       "updatedAt": "2026-08-19T03:29:13Z"
     },
     {
@@ -1559,7 +1559,7 @@
         "commercialUse": false,
         "notice": "角色、美术和商标权利归原权利人所有；仓库声明为非官方同人作品并禁止商业使用。"
       },
-      "stars": 24,
+      "stars": 25,
       "updatedAt": "2026-08-17T21:15:26Z"
     },
     {
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 124,
+      "stars": 129,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -2429,7 +2429,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 20,
+      "stars": 22,
       "updatedAt": "2026-08-16T13:47:05.463Z"
     },
     {
@@ -2962,7 +2962,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 6,
+      "stars": 7,
       "updatedAt": "2026-08-16T13:47:45.102Z"
     },
     {
@@ -3553,9 +3553,9 @@
       "packageName": "@nonamelego/dsh-catppuccin",
       "rowId": "dsh-catppuccin",
       "install": {
-        "target": "github:NoNameLeGo/dsh-catppuccin#61ad83c1542b562b12131dc8d8cde55e71e7b38a",
-        "commit": "61ad83c1542b562b12131dc8d8cde55e71e7b38a",
-        "version": "0.2.8"
+        "target": "github:NoNameLeGo/dsh-catppuccin#fc84074e810e4777468c2a95f4665e5b82420c3b",
+        "commit": "fc84074e810e4777468c2a95f4665e5b82420c3b",
+        "version": "0.2.9"
       },
       "tags": [
         "wallpaper",
@@ -3575,10 +3575,10 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/61ad83c1542b562b12131dc8d8cde55e71e7b38a/assets/previews/latte.png",
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/61ad83c1542b562b12131dc8d8cde55e71e7b38a/assets/previews/frappe.png",
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/61ad83c1542b562b12131dc8d8cde55e71e7b38a/assets/previews/macchiato.png",
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/61ad83c1542b562b12131dc8d8cde55e71e7b38a/assets/previews/mocha.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/fc84074e810e4777468c2a95f4665e5b82420c3b/assets/previews/latte.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/fc84074e810e4777468c2a95f4665e5b82420c3b/assets/previews/frappe.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/fc84074e810e4777468c2a95f4665e5b82420c3b/assets/previews/macchiato.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/fc84074e810e4777468c2a95f4665e5b82420c3b/assets/previews/mocha.png",
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png",
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png"
       ],
@@ -3592,8 +3592,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 15,
-      "updatedAt": "2026-08-21T15:45:58Z"
+      "stars": 16,
+      "updatedAt": "2026-08-22T08:27:46Z"
     },
     {
       "id": "oceanxuikun.dsh-eva-theme-plugin",
@@ -3975,7 +3975,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 78,
+      "stars": 83,
       "updatedAt": "2026-08-21T18:09:30Z"
     },
     {
@@ -4273,8 +4273,8 @@
       "packageName": "@dsh-external/dsh-client-ui-skin-maid-atelier",
       "rowId": "ui-skin-maid-atelier",
       "install": {
-        "target": "github:Small-tailqwq/dsh-deep-whale#51ff7b80ee163596672b98194d8877e196ac460b&path:maid-atelier",
-        "commit": "51ff7b80ee163596672b98194d8877e196ac460b",
+        "target": "github:Small-tailqwq/dsh-deep-whale#b693d2c224a0a6fb5b621e7cc1284f20d9849c1c&path:maid-atelier",
+        "commit": "b693d2c224a0a6fb5b621e7cc1284f20d9849c1c",
         "version": "0.0.1"
       },
       "tags": [
@@ -4296,8 +4296,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/51ff7b80ee163596672b98194d8877e196ac460b/maid-atelier/preview/light.webp",
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/51ff7b80ee163596672b98194d8877e196ac460b/maid-atelier/preview/dark.webp"
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/b693d2c224a0a6fb5b621e7cc1284f20d9849c1c/maid-atelier/preview/light.webp",
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/b693d2c224a0a6fb5b621e7cc1284f20d9849c1c/maid-atelier/preview/dark.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/small-tailqwq.maid-atelier.webp",
       "review": {
@@ -4310,8 +4310,8 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1571,
-      "updatedAt": "2026-08-21T14:28:26Z"
+      "stars": 1590,
+      "updatedAt": "2026-08-22T14:42:30Z"
     },
     {
       "id": "starslittle.dsh-blue-whale",
@@ -4815,8 +4815,8 @@
       "packageName": "dsh-ui-appearance",
       "rowId": "ui-appearance",
       "install": {
-        "target": "github:TQSY114514/dsh-ui-appearance#291759aaaef8c88d23cd80d877bc86bab90e34da",
-        "commit": "291759aaaef8c88d23cd80d877bc86bab90e34da",
+        "target": "github:TQSY114514/dsh-ui-appearance#bde396182cc53bb4f88c0fb69ac2b4daead43072",
+        "commit": "bde396182cc53bb4f88c0fb69ac2b4daead43072",
         "version": "0.1.4"
       },
       "tags": [
@@ -4835,8 +4835,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/291759aaaef8c88d23cd80d877bc86bab90e34da/docs/screenshot-settings.png",
-        "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/291759aaaef8c88d23cd80d877bc86bab90e34da/docs/screenshot-wallpaper.png"
+        "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/bde396182cc53bb4f88c0fb69ac2b4daead43072/docs/screenshot-settings.png",
+        "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/bde396182cc53bb4f88c0fb69ac2b4daead43072/docs/screenshot-wallpaper.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tqsy114514.dsh-ui-appearance.webp",
       "review": {
@@ -4849,7 +4849,7 @@
         "commercialUse": true
       },
       "stars": 10,
-      "updatedAt": "2026-08-21T14:26:31Z"
+      "updatedAt": "2026-08-22T12:42:31Z"
     },
     {
       "id": "tuogusa.dsh-whale-background",
@@ -5141,7 +5141,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 3,
       "updatedAt": "2026-08-19T03:17:46Z"
     },
     {
@@ -5434,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 360,
+      "stars": 364,
       "updatedAt": "2026-08-22T02:10:09Z"
     },
     {
@@ -5856,8 +5856,8 @@
       "packageName": "@dsh-external/dsh-client-ui-skin-maid-whale-webui",
       "rowId": "ui-skin-maid-whale-webui",
       "install": {
-        "target": "github:yunxiiQwQ/dsh-maid-whale-webUI#6ab5e7499ddf76c4fcf6d83421c08e967db1c2bc&path:maid-whale-webui",
-        "commit": "6ab5e7499ddf76c4fcf6d83421c08e967db1c2bc",
+        "target": "github:yunxiiQwQ/dsh-maid-whale-webUI#4b46791a2eb868b8e081aab896d34dab124d4b62&path:maid-whale-webui",
+        "commit": "4b46791a2eb868b8e081aab896d34dab124d4b62",
         "version": "0.1.0"
       },
       "tags": [
@@ -5877,8 +5877,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/yunxiiQwQ/dsh-maid-whale-webUI/6ab5e7499ddf76c4fcf6d83421c08e967db1c2bc/maid-whale-webui/preview/light.webp",
-        "https://raw.githubusercontent.com/yunxiiQwQ/dsh-maid-whale-webUI/6ab5e7499ddf76c4fcf6d83421c08e967db1c2bc/maid-whale-webui/preview/dark.webp"
+        "https://raw.githubusercontent.com/yunxiiQwQ/dsh-maid-whale-webUI/4b46791a2eb868b8e081aab896d34dab124d4b62/maid-whale-webui/preview/light.webp",
+        "https://raw.githubusercontent.com/yunxiiQwQ/dsh-maid-whale-webUI/4b46791a2eb868b8e081aab896d34dab124d4b62/maid-whale-webui/preview/dark.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/yunxiiqwq.maid-whale-webui.webp",
       "review": {
@@ -5890,8 +5890,8 @@
         "code": "BSD-3-Clause",
         "commercialUse": true
       },
-      "stars": 20,
-      "updatedAt": "2026-08-21T03:53:53Z"
+      "stars": 23,
+      "updatedAt": "2026-08-22T07:56:11Z"
     },
     {
       "id": "yuqisun.dsh-theme-machine",
@@ -6235,7 +6235,7 @@
         "commercialUse": true,
         "notice": "Catppuccin palette 源自 catppuccin/palette，并按 MIT 许可证使用。"
       },
-      "stars": 11,
+      "stars": 10,
       "updatedAt": "2026-08-16T14:41:30Z"
     },
     {
