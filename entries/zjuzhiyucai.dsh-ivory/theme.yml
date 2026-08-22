@@ -11,7 +11,7 @@ version: 0.2.6
 source:
   kind: external
   repository: https://github.com/ZJUZhiyuCai/dsh-ivory
-  commit: bffb4d263473bdada4a9f5bccfcf4275a3f2e7c5
+  commit: ac0c8d8f2b9734670ffe7acd891a4cb8f5325741
 tags:
   - motion
   - token-theme
@@ -24,9 +24,9 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/bffb4d263473bdada4a9f5bccfcf4275a3f2e7c5/assets/hero-light.png
-  - https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/bffb4d263473bdada4a9f5bccfcf4275a3f2e7c5/assets/conversation-light.png
-  - https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/bffb4d263473bdada4a9f5bccfcf4275a3f2e7c5/assets/mobile-light.png
+  - https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/ac0c8d8f2b9734670ffe7acd891a4cb8f5325741/assets/hero-light.png
+  - https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/ac0c8d8f2b9734670ffe7acd891a4cb8f5325741/assets/conversation-light.png
+  - https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/ac0c8d8f2b9734670ffe7acd891a4cb8f5325741/assets/mobile-light.png
 review:
   compatibility: unverified
   preview: verified
@@ -34,4 +34,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-20T12:02:23Z
+updatedAt: 2026-08-22T00:51:51Z
