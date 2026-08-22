@@ -18,13 +18,13 @@
 <td align="center" valign="middle">Abyssal Maid Atelier</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="Abyssal Maid Atelier" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">1,560</td>
+<td align="center" valign="middle">1,571</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
 <td align="center" valign="middle"><img src="previews/wyh66666666.dsh-transparent-ui-plugin.webp" alt="DSH-Transparent-UI-Plugin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/WYH66666666/DSH-Transparent-UI-Plugin">WYH66666666/DSH-Transparent-UI-Plugin</a></td>
-<td align="center" valign="middle">359</td>
+<td align="center" valign="middle">360</td>
 </tr>
 <tr>
 <td align="center" valign="middle">Open Sea Skin</td>
@@ -42,19 +42,19 @@
 <td align="center" valign="middle">dsh-dream-skin</td>
 <td align="center" valign="middle"><img src="previews/revolutionla.dsh-dream-skin.webp" alt="dsh-dream-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></td>
-<td align="center" valign="middle">76</td>
+<td align="center" valign="middle">78</td>
 </tr>
 <tr>
 <td align="center" valign="middle">Denia · Void Bubble</td>
 <td align="center" valign="middle"><img src="previews/ewnscat-ya.dsh-client-ui-skin-denia.webp" alt="Denia · Void Bubble" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Ewnscat-ya/dsh-client-ui-skin-denia">Ewnscat-ya/dsh-client-ui-skin-denia</a></td>
-<td align="center" valign="middle">23</td>
+<td align="center" valign="middle">24</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-theme-cyberpunk2077</td>
 <td align="center" valign="middle"><img src="previews/tommy00748.dsh-theme-cyberpunk2077.webp" alt="dsh-theme-cyberpunk2077" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Tommy00748/dsh-theme-cyberpunk2077">Tommy00748/dsh-theme-cyberpunk2077</a></td>
-<td align="center" valign="middle">21</td>
+<td align="center" valign="middle">22</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-qq2006</td>
@@ -171,6 +171,12 @@
 <td align="center" valign="middle">7</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-wallpaper_share</td>
+<td align="center" valign="middle"><img src="previews/yrn-playmaker.dsh-wallpaper-share.webp" alt="dsh-wallpaper_share" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/YRN-playmaker/dsh-wallpaper_share">YRN-playmaker/dsh-wallpaper_share</a></td>
+<td align="center" valign="middle">7</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dskin</td>
 <td align="center" valign="middle"><img src="previews/dancingmemory.dskin.webp" alt="dskin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/dancingmemory/dskin">dancingmemory/dskin</a></td>
@@ -219,10 +225,10 @@
 <td align="center" valign="middle">5</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-wallpaper_share</td>
-<td align="center" valign="middle"><img src="previews/yrn-playmaker.dsh-wallpaper-share.webp" alt="dsh-wallpaper_share" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/YRN-playmaker/dsh-wallpaper_share">YRN-playmaker/dsh-wallpaper_share</a></td>
-<td align="center" valign="middle">5</td>
+<td align="center" valign="middle">deepseek-harness-angelina-themes</td>
+<td align="center" valign="middle"><img src="previews/bilbillm.deepseek-harness-angelina-themes.webp" alt="deepseek-harness-angelina-themes" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/bilbillm/deepseek-harness-angelina-themes">bilbillm/deepseek-harness-angelina-themes</a></td>
+<td align="center" valign="middle">4</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-naiwa-theme</td>
@@ -271,12 +277,6 @@
 <td align="center" valign="middle"><img src="previews/zhijun-dai.solarized-dsh-theme.webp" alt="Solarized-dsh-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/zhijun-dai/Solarized-dsh-theme">zhijun-dai/Solarized-dsh-theme</a></td>
 <td align="center" valign="middle">4</td>
-</tr>
-<tr>
-<td align="center" valign="middle">deepseek-harness-angelina-themes</td>
-<td align="center" valign="middle"><img src="previews/bilbillm.deepseek-harness-angelina-themes.webp" alt="deepseek-harness-angelina-themes" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/bilbillm/deepseek-harness-angelina-themes">bilbillm/deepseek-harness-angelina-themes</a></td>
-<td align="center" valign="middle">3</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-background</td>
