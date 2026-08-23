@@ -7,11 +7,11 @@ description: CodeMirror 6 code preview and editor for DSH Web, overriding
   dsh-file-explorer's plain-text preview with per-language syntax highlighting
 package: "@dsh-external/dsh-file-explorer-preview-code"
 rowId: file-explorer-preview-code
-version: 0.2.1
+version: 0.3.0
 source:
   kind: external
   repository: https://github.com/wolfsonliu/dsh-file-explorer-preview-code
-  commit: 2ef7412369db7fa382b00e03b25f122fd1d5e285
+  commit: 86a66189dd626a8e1e0860d79e21b581724fe02f
 tags:
   - retro
   - token-theme
@@ -24,8 +24,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/wolfsonliu/dsh-file-explorer-preview-code/2ef7412369db7fa382b00e03b25f122fd1d5e285/assets/dsh-file-explorer-preview-code_dark.png
-  - https://raw.githubusercontent.com/wolfsonliu/dsh-file-explorer-preview-code/2ef7412369db7fa382b00e03b25f122fd1d5e285/assets/dsh-file-explorer-preview-code_light.png
+  - https://raw.githubusercontent.com/wolfsonliu/dsh-file-explorer-preview-code/86a66189dd626a8e1e0860d79e21b581724fe02f/assets/dsh-file-explorer-preview-code_dark.png
+  - https://raw.githubusercontent.com/wolfsonliu/dsh-file-explorer-preview-code/86a66189dd626a8e1e0860d79e21b581724fe02f/assets/dsh-file-explorer-preview-code_light.png
 review:
   compatibility: unverified
   preview: verified
@@ -33,4 +33,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-19T10:06:41Z
+updatedAt: 2026-08-23T13:03:02Z

@@ -7,11 +7,11 @@ description: DSH Web GUI 的 Catppuccin 主题插件：Latte、Frappé、Macchia
   四套主题接入原生主题系统，一键切换并记住选择。
 package: "@nonamelego/dsh-catppuccin"
 rowId: dsh-catppuccin
-version: 0.2.9
+version: 0.3.1
 source:
   kind: external
   repository: https://github.com/NoNameLeGo/dsh-catppuccin
-  commit: fc84074e810e4777468c2a95f4665e5b82420c3b
+  commit: 4c2b1448a9869a7deaf6687027244f8258431bc7
 tags:
   - wallpaper
   - glass
@@ -26,10 +26,10 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/fc84074e810e4777468c2a95f4665e5b82420c3b/assets/previews/latte.png
-  - https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/fc84074e810e4777468c2a95f4665e5b82420c3b/assets/previews/frappe.png
-  - https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/fc84074e810e4777468c2a95f4665e5b82420c3b/assets/previews/macchiato.png
-  - https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/fc84074e810e4777468c2a95f4665e5b82420c3b/assets/previews/mocha.png
+  - https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/4c2b1448a9869a7deaf6687027244f8258431bc7/assets/previews/latte.png
+  - https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/4c2b1448a9869a7deaf6687027244f8258431bc7/assets/previews/frappe.png
+  - https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/4c2b1448a9869a7deaf6687027244f8258431bc7/assets/previews/macchiato.png
+  - https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/4c2b1448a9869a7deaf6687027244f8258431bc7/assets/previews/mocha.png
   - https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png
   - https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png
 review:
@@ -39,4 +39,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-22T08:27:46Z
+updatedAt: 2026-08-23T14:47:48Z
