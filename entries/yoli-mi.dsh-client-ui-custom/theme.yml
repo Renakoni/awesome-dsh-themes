@@ -8,11 +8,11 @@ description: "Configurable DSH web-surface plugin: wallpaper & frosted-glass
   strip, message Markdown — zero shell edits."
 package: "@ha-na-bi/dsh-client-ui-custom"
 rowId: ui-custom
-version: 0.1.0-rc.5
+version: 0.1.0-rc.6
 source:
   kind: external
   repository: https://github.com/yoli-mi/dsh-client-ui-custom
-  commit: 26c239f5c2d930c30b9b0a83dbc7b2171b87b2d7
+  commit: 61e2aed78b2880d3a8640808b83f3f42082067df
 tags:
   - wallpaper
   - glass
@@ -39,4 +39,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-17T05:54:32Z
+updatedAt: 2026-08-23T11:43:48Z
