@@ -11,7 +11,7 @@ source:
   kind: external
   repository: https://github.com/wsxwj123/dsh-plugins
   subpath: packages/dsh-appearance-gallery
-  commit: b2877ec638fca9777e549210d3578330f2049f9a
+  commit: d7aaacfe9f001d91c05c5d212405d9dde9f98740
 tags:
   - retro
   - token-theme
@@ -24,8 +24,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/wsxwj123/dsh-plugins/b2877ec638fca9777e549210d3578330f2049f9a/assets/screenshots/appearance-gallery.png
-  - https://raw.githubusercontent.com/wsxwj123/dsh-plugins/b2877ec638fca9777e549210d3578330f2049f9a/assets/screenshots/appearance-gallery-skin.png
+  - https://raw.githubusercontent.com/wsxwj123/dsh-plugins/d7aaacfe9f001d91c05c5d212405d9dde9f98740/assets/screenshots/appearance-gallery.png
+  - https://raw.githubusercontent.com/wsxwj123/dsh-plugins/d7aaacfe9f001d91c05c5d212405d9dde9f98740/assets/screenshots/appearance-gallery-skin.png
 review:
   compatibility: verified
   preview: verified
@@ -34,4 +34,4 @@ license:
   code: MIT
   commercialUse: true
   notice: 各皮肤保留原作者的许可和署名，详见上游 skins/NOTICE.md。
-updatedAt: 2026-08-21T10:38:22Z
+updatedAt: 2026-08-24T01:51:16Z

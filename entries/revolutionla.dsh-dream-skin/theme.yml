@@ -11,7 +11,7 @@ version: 0.4.10
 source:
   kind: external
   repository: https://github.com/RevolutionLA/dsh-dream-skin
-  commit: eacb2a5e885dd2c75940cbb27df1a3bf661fe441
+  commit: b42be50474e605b76e1a9a1e7631cd80d2f93a56
 tags:
   - wallpaper
   - glass
@@ -25,8 +25,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/eacb2a5e885dd2c75940cbb27df1a3bf661fe441/docs/screenshots/preview.png
-  - https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/eacb2a5e885dd2c75940cbb27df1a3bf661fe441/docs/screenshots/settings.png
+  - https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/b42be50474e605b76e1a9a1e7631cd80d2f93a56/docs/screenshots/preview.png
+  - https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/b42be50474e605b76e1a9a1e7631cd80d2f93a56/docs/screenshots/settings.png
 review:
   compatibility: verified
   preview: verified
@@ -34,4 +34,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-22T17:43:13Z
+updatedAt: 2026-08-24T04:04:33Z
