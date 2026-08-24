@@ -12,7 +12,7 @@ version: 0.1.0-rc.6
 source:
   kind: external
   repository: https://github.com/yoli-mi/dsh-client-ui-custom
-  commit: 61e2aed78b2880d3a8640808b83f3f42082067df
+  commit: 3f19e4d3e8c907e698ea5f1458f2209f69137bdf
 tags:
   - wallpaper
   - glass
@@ -39,4 +39,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-23T11:43:48Z
+updatedAt: 2026-08-24T12:59:18Z
