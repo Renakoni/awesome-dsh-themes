@@ -6,12 +6,12 @@ author: wsxwj123
 description: 15 个主题家族和 9 款完整界面皮肤合并在一个设置入口中，支持自定义主题和皮肤导入。
 package: dsh-appearance-gallery
 rowId: appearance-gallery
-version: 1.0.0
+version: 1.0.1
 source:
   kind: external
   repository: https://github.com/wsxwj123/dsh-plugins
   subpath: packages/dsh-appearance-gallery
-  commit: d7aaacfe9f001d91c05c5d212405d9dde9f98740
+  commit: 45dc72916cece79ab6cfb00381b9939a9f7a0a83
 tags:
   - retro
   - token-theme
@@ -24,8 +24,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/wsxwj123/dsh-plugins/d7aaacfe9f001d91c05c5d212405d9dde9f98740/assets/screenshots/appearance-gallery.png
-  - https://raw.githubusercontent.com/wsxwj123/dsh-plugins/d7aaacfe9f001d91c05c5d212405d9dde9f98740/assets/screenshots/appearance-gallery-skin.png
+  - https://raw.githubusercontent.com/wsxwj123/dsh-plugins/45dc72916cece79ab6cfb00381b9939a9f7a0a83/assets/screenshots/appearance-gallery.png
+  - https://raw.githubusercontent.com/wsxwj123/dsh-plugins/45dc72916cece79ab6cfb00381b9939a9f7a0a83/assets/screenshots/appearance-gallery-skin.png
 review:
   compatibility: verified
   preview: verified
@@ -34,4 +34,4 @@ license:
   code: MIT
   commercialUse: true
   notice: 各皮肤保留原作者的许可和署名，详见上游 skins/NOTICE.md。
-updatedAt: 2026-08-24T01:51:16Z
+updatedAt: 2026-08-24T13:52:09Z

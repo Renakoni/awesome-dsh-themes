@@ -18,31 +18,31 @@
 <td align="center" valign="middle">Abyssal Maid Atelier</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="Abyssal Maid Atelier" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">1,638</td>
+<td align="center" valign="middle">1,671</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
 <td align="center" valign="middle"><img src="previews/wyh66666666.dsh-transparent-ui-plugin.webp" alt="DSH-Transparent-UI-Plugin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/WYH66666666/DSH-Transparent-UI-Plugin">WYH66666666/DSH-Transparent-UI-Plugin</a></td>
-<td align="center" valign="middle">370</td>
+<td align="center" valign="middle">380</td>
 </tr>
 <tr>
 <td align="center" valign="middle">Open Sea Skin</td>
 <td align="center" valign="middle"><img src="previews/d-dev0101.open-sea-skin.webp" alt="Open Sea Skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/d-dev0101/open-sea-skin">d-dev0101/open-sea-skin</a></td>
-<td align="center" valign="middle">187</td>
+<td align="center" valign="middle">188</td>
 </tr>
 <tr>
 <td align="center" valign="middle">Liang Intensity Skin</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="Liang Intensity Skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">135</td>
+<td align="center" valign="middle">139</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
 <td align="center" valign="middle"><img src="previews/revolutionla.dsh-dream-skin.webp" alt="dsh-dream-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></td>
-<td align="center" valign="middle">95</td>
+<td align="center" valign="middle">97</td>
 </tr>
 <tr>
 <td align="center" valign="middle">Denia · Void Bubble</td>
@@ -51,22 +51,22 @@
 <td align="center" valign="middle">28</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-theme-cyberpunk2077</td>
+<td align="center" valign="middle"><img src="previews/tommy00748.dsh-theme-cyberpunk2077.webp" alt="dsh-theme-cyberpunk2077" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/Tommy00748/dsh-theme-cyberpunk2077">Tommy00748/dsh-theme-cyberpunk2077</a></td>
+<td align="center" valign="middle">24</td>
+</tr>
+<tr>
 <td align="center" valign="middle">maid-whale-webui</td>
 <td align="center" valign="middle"><img src="previews/yunxiiqwq.maid-whale-webui.webp" alt="maid-whale-webui" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/yunxiiQwQ/dsh-maid-whale-webUI">yunxiiQwQ/dsh-maid-whale-webUI</a></td>
 <td align="center" valign="middle">24</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-theme-cyberpunk2077</td>
-<td align="center" valign="middle"><img src="previews/tommy00748.dsh-theme-cyberpunk2077.webp" alt="dsh-theme-cyberpunk2077" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/Tommy00748/dsh-theme-cyberpunk2077">Tommy00748/dsh-theme-cyberpunk2077</a></td>
-<td align="center" valign="middle">23</td>
-</tr>
-<tr>
 <td align="center" valign="middle">dsh-qq2006</td>
 <td align="center" valign="middle"><img src="previews/laplaceyoung.dsh-qq2006.webp" alt="dsh-qq2006" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/LaplaceYoung/dsh-qq2006">LaplaceYoung/dsh-qq2006</a></td>
-<td align="center" valign="middle">22</td>
+<td align="center" valign="middle">23</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-skin</td>
@@ -81,6 +81,12 @@
 <td align="center" valign="middle">18</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-client-ui-custom</td>
+<td align="center" valign="middle"><img src="previews/yoli-mi.dsh-client-ui-custom.webp" alt="dsh-client-ui-custom" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/yoli-mi/dsh-client-ui-custom">yoli-mi/dsh-client-ui-custom</a></td>
+<td align="center" valign="middle">18</td>
+</tr>
+<tr>
 <td align="center" valign="middle">touhou-hakurei</td>
 <td align="center" valign="middle"><img src="previews/xiake595.touhou-hakurei.webp" alt="touhou-hakurei" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/xiake595/touhou-hakurei">xiake595/touhou-hakurei</a></td>
@@ -91,12 +97,6 @@
 <td align="center" valign="middle"><img src="previews/tkingxiao.dsh-any-background.webp" alt="dsh-any-background" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Tkingxiao/dsh-any-background">Tkingxiao/dsh-any-background</a></td>
 <td align="center" valign="middle">16</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-client-ui-custom</td>
-<td align="center" valign="middle"><img src="previews/yoli-mi.dsh-client-ui-custom.webp" alt="dsh-client-ui-custom" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/yoli-mi/dsh-client-ui-custom">yoli-mi/dsh-client-ui-custom</a></td>
-<td align="center" valign="middle">14</td>
 </tr>
 <tr>
 <td align="center" valign="middle">freestyle-dsh-theme</td>
@@ -231,6 +231,12 @@
 <td align="center" valign="middle">5</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-outdoor-theme</td>
+<td align="center" valign="middle"><img src="previews/estellalee.dsh-outdoor-theme.webp" alt="dsh-outdoor-theme" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/Estellalee/dsh-outdoor-theme">Estellalee/dsh-outdoor-theme</a></td>
+<td align="center" valign="middle">5</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-skin-appearance</td>
 <td align="center" valign="middle"><img src="previews/vim0x3c.dsh-skin-appearance.webp" alt="dsh-skin-appearance" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Vim0x3c/dsh-skin-appearance">Vim0x3c/dsh-skin-appearance</a></td>
@@ -246,12 +252,6 @@
 <td align="center" valign="middle">dsh-neu-theme</td>
 <td align="center" valign="middle"><img src="previews/lhy723.dsh-neu-theme.webp" alt="dsh-neu-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Lhy723/dsh-neu-theme">Lhy723/dsh-neu-theme</a></td>
-<td align="center" valign="middle">4</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-outdoor-theme</td>
-<td align="center" valign="middle"><img src="previews/estellalee.dsh-outdoor-theme.webp" alt="dsh-outdoor-theme" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/Estellalee/dsh-outdoor-theme">Estellalee/dsh-outdoor-theme</a></td>
 <td align="center" valign="middle">4</td>
 </tr>
 <tr>
@@ -639,6 +639,12 @@
 <td align="center" valign="middle">1</td>
 </tr>
 <tr>
+<td align="center" valign="middle">wishadel-theme</td>
+<td align="center" valign="middle"><img src="previews/cdxdnrf.wishadel-theme.webp" alt="wishadel-theme" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/cdxDNRF/wishadel-theme">cdxDNRF/wishadel-theme</a></td>
+<td align="center" valign="middle">1</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh_Rhine_Lab_themo</td>
 <td align="center" valign="middle"><img src="previews/reluckylucy.dsh-rhine-lab-themo.webp" alt="dsh_Rhine_Lab_themo" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/ReLuckyLucy/dsh_Rhine_Lab_themo">ReLuckyLucy/dsh_Rhine_Lab_themo</a></td>
@@ -798,12 +804,6 @@
 <td align="center" valign="middle">shuimo-skin</td>
 <td align="center" valign="middle"><img src="previews/cnskycn.shuimo-skin.webp" alt="shuimo-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/cnskycn/shuimo-skin">cnskycn/shuimo-skin</a></td>
-<td align="center" valign="middle">0</td>
-</tr>
-<tr>
-<td align="center" valign="middle">wishadel-theme</td>
-<td align="center" valign="middle"><img src="previews/cdxdnrf.wishadel-theme.webp" alt="wishadel-theme" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/cdxDNRF/wishadel-theme">cdxDNRF/wishadel-theme</a></td>
 <td align="center" valign="middle">0</td>
 </tr>
 </tbody>
