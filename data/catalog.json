@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T16:42:34.671Z",
+  "generatedAt": "2026-08-24T05:00:41.352Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -976,7 +976,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 186,
+      "stars": 187,
       "updatedAt": "2026-08-19T03:29:13Z"
     },
     {
@@ -1411,7 +1411,7 @@
         "code": "BSD-3-Clause",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 3,
       "updatedAt": "2026-08-19T16:20:15Z"
     },
     {
@@ -1523,9 +1523,9 @@
       "packageName": "@dsh-external/dsh-client-ui-skin-denia",
       "rowId": "ui-skin-denia",
       "install": {
-        "target": "github:Ewnscat-ya/dsh-client-ui-skin-denia#1b846939864137123203f1cc8db628e1331df62a",
-        "commit": "1b846939864137123203f1cc8db628e1331df62a",
-        "version": "0.0.4"
+        "target": "github:Ewnscat-ya/dsh-client-ui-skin-denia#be39c4861376c12c94fa1c1ca25055a53e6f60f7",
+        "commit": "be39c4861376c12c94fa1c1ca25055a53e6f60f7",
+        "version": "0.0.5"
       },
       "tags": [
         "wallpaper",
@@ -1545,8 +1545,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Ewnscat-ya/dsh-client-ui-skin-denia/1b846939864137123203f1cc8db628e1331df62a/preview/light.webp",
-        "https://raw.githubusercontent.com/Ewnscat-ya/dsh-client-ui-skin-denia/1b846939864137123203f1cc8db628e1331df62a/preview/dark.webp"
+        "https://raw.githubusercontent.com/Ewnscat-ya/dsh-client-ui-skin-denia/be39c4861376c12c94fa1c1ca25055a53e6f60f7/preview/light.webp",
+        "https://raw.githubusercontent.com/Ewnscat-ya/dsh-client-ui-skin-denia/be39c4861376c12c94fa1c1ca25055a53e6f60f7/preview/dark.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/ewnscat-ya.dsh-client-ui-skin-denia.webp",
       "review": {
@@ -1560,7 +1560,7 @@
         "notice": "角色、美术和商标权利归原权利人所有；仓库声明为非官方同人作品并禁止商业使用。"
       },
       "stars": 28,
-      "updatedAt": "2026-08-17T21:15:26Z"
+      "updatedAt": "2026-08-23T20:39:16Z"
     },
     {
       "id": "gooosie.dsh-whale-bg",
@@ -1907,7 +1907,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:52:31.430Z"
     },
     {
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 132,
+      "stars": 135,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -3941,8 +3941,8 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#eacb2a5e885dd2c75940cbb27df1a3bf661fe441",
-        "commit": "eacb2a5e885dd2c75940cbb27df1a3bf661fe441",
+        "target": "github:RevolutionLA/dsh-dream-skin#b42be50474e605b76e1a9a1e7631cd80d2f93a56",
+        "commit": "b42be50474e605b76e1a9a1e7631cd80d2f93a56",
         "version": "0.4.10"
       },
       "tags": [
@@ -3962,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/eacb2a5e885dd2c75940cbb27df1a3bf661fe441/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/eacb2a5e885dd2c75940cbb27df1a3bf661fe441/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/b42be50474e605b76e1a9a1e7631cd80d2f93a56/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/b42be50474e605b76e1a9a1e7631cd80d2f93a56/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3975,8 +3975,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 90,
-      "updatedAt": "2026-08-22T17:43:13Z"
+      "stars": 95,
+      "updatedAt": "2026-08-24T04:04:33Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1628,
+      "stars": 1638,
       "updatedAt": "2026-08-23T06:39:08Z"
     },
     {
@@ -4647,7 +4647,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 10,
+      "stars": 11,
       "updatedAt": "2026-08-16T12:15:41.349Z"
     },
     {
@@ -5253,8 +5253,8 @@
       "packageName": "dsh-appearance-gallery",
       "rowId": "appearance-gallery",
       "install": {
-        "target": "github:wsxwj123/dsh-plugins#b2877ec638fca9777e549210d3578330f2049f9a&path:packages/dsh-appearance-gallery",
-        "commit": "b2877ec638fca9777e549210d3578330f2049f9a",
+        "target": "github:wsxwj123/dsh-plugins#d7aaacfe9f001d91c05c5d212405d9dde9f98740&path:packages/dsh-appearance-gallery",
+        "commit": "d7aaacfe9f001d91c05c5d212405d9dde9f98740",
         "version": "1.0.0"
       },
       "tags": [
@@ -5273,8 +5273,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/wsxwj123/dsh-plugins/b2877ec638fca9777e549210d3578330f2049f9a/assets/screenshots/appearance-gallery.png",
-        "https://raw.githubusercontent.com/wsxwj123/dsh-plugins/b2877ec638fca9777e549210d3578330f2049f9a/assets/screenshots/appearance-gallery-skin.png"
+        "https://raw.githubusercontent.com/wsxwj123/dsh-plugins/d7aaacfe9f001d91c05c5d212405d9dde9f98740/assets/screenshots/appearance-gallery.png",
+        "https://raw.githubusercontent.com/wsxwj123/dsh-plugins/d7aaacfe9f001d91c05c5d212405d9dde9f98740/assets/screenshots/appearance-gallery-skin.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/wsxwj123.dsh-appearance-gallery.webp",
       "review": {
@@ -5288,7 +5288,7 @@
         "notice": "各皮肤保留原作者的许可和署名，详见上游 skins/NOTICE.md。"
       },
       "stars": 8,
-      "updatedAt": "2026-08-21T10:38:22Z"
+      "updatedAt": "2026-08-24T01:51:16Z"
     },
     {
       "id": "wuwl-98.dsh-theme-paper",
@@ -5434,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 371,
+      "stars": 370,
       "updatedAt": "2026-08-22T02:10:09Z"
     },
     {
@@ -5696,7 +5696,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 11,
+      "stars": 14,
       "updatedAt": "2026-08-23T11:43:48Z"
     },
     {
@@ -5890,7 +5890,7 @@
         "code": "BSD-3-Clause",
         "commercialUse": true
       },
-      "stars": 23,
+      "stars": 24,
       "updatedAt": "2026-08-23T13:08:25Z"
     },
     {
@@ -6398,8 +6398,8 @@
       "packageName": "dsh-ivory",
       "rowId": "dsh-ivory",
       "install": {
-        "target": "github:ZJUZhiyuCai/dsh-ivory#ac0c8d8f2b9734670ffe7acd891a4cb8f5325741",
-        "commit": "ac0c8d8f2b9734670ffe7acd891a4cb8f5325741",
+        "target": "github:ZJUZhiyuCai/dsh-ivory#88e3cdca0b9eb0f328974dd55359aa63e064948d",
+        "commit": "88e3cdca0b9eb0f328974dd55359aa63e064948d",
         "version": "0.2.6"
       },
       "tags": [
@@ -6418,9 +6418,9 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/ac0c8d8f2b9734670ffe7acd891a4cb8f5325741/assets/hero-light.png",
-        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/ac0c8d8f2b9734670ffe7acd891a4cb8f5325741/assets/conversation-light.png",
-        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/ac0c8d8f2b9734670ffe7acd891a4cb8f5325741/assets/mobile-light.png"
+        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/88e3cdca0b9eb0f328974dd55359aa63e064948d/assets/hero-light.png",
+        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/88e3cdca0b9eb0f328974dd55359aa63e064948d/assets/conversation-light.png",
+        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/88e3cdca0b9eb0f328974dd55359aa63e064948d/assets/mobile-light.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/zjuzhiyucai.dsh-ivory.webp",
       "review": {
@@ -6433,7 +6433,7 @@
         "commercialUse": true
       },
       "stars": 1,
-      "updatedAt": "2026-08-22T00:51:51Z"
+      "updatedAt": "2026-08-24T02:46:26Z"
     }
   ]
 }
