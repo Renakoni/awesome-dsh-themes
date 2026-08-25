@@ -10,7 +10,7 @@ version: 0.1.5
 source:
   kind: external
   repository: https://github.com/TQSY114514/dsh-ui-appearance
-  commit: fa4789bca46b981b83a7354da1c0861d31644be3
+  commit: 6776b32b845cad0a996f421385de594aa944fbd6
 tags:
   - wallpaper
   - glass
@@ -23,8 +23,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/fa4789bca46b981b83a7354da1c0861d31644be3/docs/screenshot-settings.png
-  - https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/fa4789bca46b981b83a7354da1c0861d31644be3/docs/screenshot-wallpaper.png
+  - https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/6776b32b845cad0a996f421385de594aa944fbd6/docs/screenshot-settings.png
+  - https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/6776b32b845cad0a996f421385de594aa944fbd6/docs/screenshot-wallpaper.png
 review:
   compatibility: unverified
   preview: verified
@@ -32,4 +32,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-24T13:35:56Z
+updatedAt: 2026-08-25T03:41:31Z
