@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T16:55:10.483Z",
+  "generatedAt": "2026-08-26T04:55:28.940Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -540,7 +540,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 6,
+      "stars": 7,
       "updatedAt": "2026-08-17T07:40:52Z"
     },
     {
@@ -635,7 +635,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 8,
+      "stars": 9,
       "updatedAt": "2026-08-20T12:05:02Z"
     },
     {
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 140,
+      "stars": 139,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -2673,7 +2673,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 5,
+      "stars": 6,
       "updatedAt": "2026-08-16T14:31:02Z"
     },
     {
@@ -3643,7 +3643,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 4,
       "updatedAt": "2026-08-16T13:53:35.278Z"
     },
     {
@@ -3941,9 +3941,9 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#a90377e87e93a0b1d7359509399b9dd848f07f1f",
-        "commit": "a90377e87e93a0b1d7359509399b9dd848f07f1f",
-        "version": "0.4.14"
+        "target": "github:RevolutionLA/dsh-dream-skin#847d711083f08fb89246c9e3e831dad0dcbcabe2",
+        "commit": "847d711083f08fb89246c9e3e831dad0dcbcabe2",
+        "version": "0.4.15"
       },
       "tags": [
         "wallpaper",
@@ -3962,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/a90377e87e93a0b1d7359509399b9dd848f07f1f/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/a90377e87e93a0b1d7359509399b9dd848f07f1f/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/847d711083f08fb89246c9e3e831dad0dcbcabe2/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/847d711083f08fb89246c9e3e831dad0dcbcabe2/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3975,8 +3975,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 111,
-      "updatedAt": "2026-08-25T10:59:43Z"
+      "stars": 112,
+      "updatedAt": "2026-08-26T04:13:51Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1710,
+      "stars": 1723,
       "updatedAt": "2026-08-25T14:10:55Z"
     },
     {
@@ -5434,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 383,
+      "stars": 385,
       "updatedAt": "2026-08-22T02:10:09Z"
     },
     {
@@ -5696,7 +5696,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 21,
+      "stars": 22,
       "updatedAt": "2026-08-24T12:59:18Z"
     },
     {
@@ -6181,7 +6181,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:49:28.860Z"
     },
     {
@@ -6196,8 +6196,8 @@
       "packageName": "dsh-catppuccin",
       "rowId": "catppuccin",
       "install": {
-        "target": "github:zhijun-dai/Catppuccin-dsh-theme#9885d3e7ee93ad4c972e92be4b6f301105e73eb4",
-        "commit": "9885d3e7ee93ad4c972e92be4b6f301105e73eb4",
+        "target": "github:zhijun-dai/Catppuccin-dsh-theme#e66bc66d4fdd35f4ded808a9bffdee185f5bae76",
+        "commit": "e66bc66d4fdd35f4ded808a9bffdee185f5bae76",
         "version": "0.2.1"
       },
       "tags": [
@@ -6219,10 +6219,10 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/9885d3e7ee93ad4c972e92be4b6f301105e73eb4/assets/preview.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/9885d3e7ee93ad4c972e92be4b6f301105e73eb4/assets/latte.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/9885d3e7ee93ad4c972e92be4b6f301105e73eb4/assets/frappe.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/9885d3e7ee93ad4c972e92be4b6f301105e73eb4/assets/macchiato.webp"
+        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/e66bc66d4fdd35f4ded808a9bffdee185f5bae76/assets/preview.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/e66bc66d4fdd35f4ded808a9bffdee185f5bae76/assets/latte.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/e66bc66d4fdd35f4ded808a9bffdee185f5bae76/assets/frappe.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/e66bc66d4fdd35f4ded808a9bffdee185f5bae76/assets/macchiato.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/zhijun-dai.catppuccin.webp",
       "review": {
@@ -6236,7 +6236,7 @@
         "notice": "Catppuccin palette 源自 catppuccin/palette，并按 MIT 许可证使用。"
       },
       "stars": 11,
-      "updatedAt": "2026-08-16T14:41:30Z"
+      "updatedAt": "2026-08-26T03:25:05Z"
     },
     {
       "id": "zhijun-dai.dsh-fonts",
