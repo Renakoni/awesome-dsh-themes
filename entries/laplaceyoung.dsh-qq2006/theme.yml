@@ -3,14 +3,15 @@ name:
   zh: dsh-qq2006
   en: dsh-qq2006
 author: LaplaceYoung
-description: DSH (DeepSeek Harness) 的 QQ2006 皮肤插件：注册 qq2006 主题、镜像 body[data-ds-skin]、全局皮肤表与完整素材
+description: DSH (DeepSeek Harness) 的 QQ2006 皮肤插件：注册 qq2006 主题、镜像
+  body[data-ds-skin]、全局皮肤表与完整素材
 package: "@dsh-external/dsh-qq2006"
 rowId: ui-skin-qq2006
-version: 0.1.0
+version: 0.1.1
 source:
   kind: external
   repository: https://github.com/LaplaceYoung/dsh-qq2006
-  commit: fa3493ceb748171728113aba1aaf606d733790a0
+  commit: aa2859a3c1ba78d34fd5d6a6677cd8a051fcf096
 tags:
   - retro
   - motion
@@ -23,9 +24,9 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/LaplaceYoung/dsh-qq2006/fa3493ceb748171728113aba1aaf606d733790a0/assets/screenshots/qq2006-window-view.webp
-  - https://raw.githubusercontent.com/LaplaceYoung/dsh-qq2006/fa3493ceb748171728113aba1aaf606d733790a0/assets/screenshots/qq2006-window-chrome.webp
-  - https://raw.githubusercontent.com/LaplaceYoung/dsh-qq2006/fa3493ceb748171728113aba1aaf606d733790a0/assets/screenshots/qq2006-message-flow.webp
+  - https://raw.githubusercontent.com/LaplaceYoung/dsh-qq2006/aa2859a3c1ba78d34fd5d6a6677cd8a051fcf096/assets/screenshots/qq2006-window-view.webp
+  - https://raw.githubusercontent.com/LaplaceYoung/dsh-qq2006/aa2859a3c1ba78d34fd5d6a6677cd8a051fcf096/assets/screenshots/qq2006-window-chrome.webp
+  - https://raw.githubusercontent.com/LaplaceYoung/dsh-qq2006/aa2859a3c1ba78d34fd5d6a6677cd8a051fcf096/assets/screenshots/qq2006-message-flow.webp
 review:
   compatibility: verified
   preview: verified
@@ -33,4 +34,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-16T13:47:05.463Z
+updatedAt: 2026-08-26T18:20:50Z

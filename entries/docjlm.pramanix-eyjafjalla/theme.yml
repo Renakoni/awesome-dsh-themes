@@ -10,7 +10,7 @@ version: 0.1.0
 source:
   kind: external
   repository: https://github.com/DocJlm/dsh-arknights
-  commit: 87116ed1536c61dbb287addd9e4830cf3e8e0f36
+  commit: 75b3203864ca6bc4c987734e8a4e6bf600c2d85c
   subpath: skins/pramanix-eyjafjalla
 tags:
   - wallpaper
@@ -25,7 +25,7 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/DocJlm/dsh-arknights/87116ed1536c61dbb287addd9e4830cf3e8e0f36/skins/pramanix-eyjafjalla/preview/cover.webp
+  - https://raw.githubusercontent.com/DocJlm/dsh-arknights/75b3203864ca6bc4c987734e8a4e6bf600c2d85c/skins/pramanix-eyjafjalla/preview/cover.webp
 review:
   compatibility: verified
   preview: verified
@@ -33,4 +33,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-19T13:51:53Z
+updatedAt: 2026-08-26T08:40:01Z
