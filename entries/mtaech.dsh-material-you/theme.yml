@@ -3,14 +3,15 @@ name:
   zh: dsh-material-you
   en: dsh-material-you
 author: mtaech
-description: "Material You (Material 3) skin for DeepSeek Harness: HCT tonal palette + Maple Mono NF CN typography"
+description: "Material You (Material 3) skin for DeepSeek Harness: HCT tonal
+  palette + Maple Mono NF CN typography"
 package: "@deepseek-ai/dsh-skin-material-you"
 rowId: ui-skin-material-you
 version: 0.1.0-rc.2
 source:
   kind: external
   repository: https://github.com/mtaech/dsh-material-you
-  commit: ed551a54dbf7f666e96b85f650cf01870117aba1
+  commit: 2fe098280dffb65c53224a1f6a90f5d27e032545
 tags:
   - wallpaper
   - motion
@@ -24,7 +25,7 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/mtaech/dsh-material-you/ed551a54dbf7f666e96b85f650cf01870117aba1/demo.png
+  - https://raw.githubusercontent.com/mtaech/dsh-material-you/2fe098280dffb65c53224a1f6a90f5d27e032545/demo.png
 review:
   compatibility: verified
   preview: verified
@@ -32,4 +33,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-16T13:53:28.039Z
+updatedAt: 2026-08-26T06:17:39Z
