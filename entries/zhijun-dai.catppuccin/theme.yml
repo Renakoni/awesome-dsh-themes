@@ -6,11 +6,11 @@ author: zhijun-dai
 description: Catppuccin 主题插件：为 DSH Web 主题运行时提供 Latte、Frappé、Macchiato、Mocha 四套皮肤。
 package: dsh-catppuccin
 rowId: catppuccin
-version: 0.2.1
+version: 0.2.2
 source:
   kind: external
   repository: https://github.com/zhijun-dai/Catppuccin-dsh-theme
-  commit: e66bc66d4fdd35f4ded808a9bffdee185f5bae76
+  commit: 2179b5973d5ca6503a34b5c83224eb63c43f56e7
 tags:
   - catppuccin
   - pastel
@@ -26,10 +26,10 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/e66bc66d4fdd35f4ded808a9bffdee185f5bae76/assets/preview.webp
-  - https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/e66bc66d4fdd35f4ded808a9bffdee185f5bae76/assets/latte.webp
-  - https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/e66bc66d4fdd35f4ded808a9bffdee185f5bae76/assets/frappe.webp
-  - https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/e66bc66d4fdd35f4ded808a9bffdee185f5bae76/assets/macchiato.webp
+  - https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/2179b5973d5ca6503a34b5c83224eb63c43f56e7/assets/preview.webp
+  - https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/2179b5973d5ca6503a34b5c83224eb63c43f56e7/assets/latte.webp
+  - https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/2179b5973d5ca6503a34b5c83224eb63c43f56e7/assets/frappe.webp
+  - https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/2179b5973d5ca6503a34b5c83224eb63c43f56e7/assets/macchiato.webp
 review:
   compatibility: verified
   preview: verified
@@ -38,4 +38,4 @@ license:
   code: MIT
   commercialUse: true
   notice: Catppuccin palette 源自 catppuccin/palette，并按 MIT 许可证使用。
-updatedAt: 2026-08-26T03:25:05Z
+updatedAt: 2026-08-28T14:52:45Z
