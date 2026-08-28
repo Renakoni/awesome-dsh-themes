@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T15:14:42.845Z",
+  "generatedAt": "2026-08-28T00:55:30.398Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -602,9 +602,9 @@
       "packageName": "dsh-client-ui-skins",
       "rowId": "ui-skins",
       "install": {
-        "target": "github:caoyiwei850/dsh-client-ui-skins#a393ef5ded7b37ea87a45ba660b28a951a54f2cb",
-        "commit": "a393ef5ded7b37ea87a45ba660b28a951a54f2cb",
-        "version": "0.1.12"
+        "target": "github:caoyiwei850/dsh-client-ui-skins#77da6aac97e1deab35efd9e1c0277f809b967614",
+        "commit": "77da6aac97e1deab35efd9e1c0277f809b967614",
+        "version": "0.1.13"
       },
       "tags": [
         "wallpaper",
@@ -621,9 +621,9 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/caoyiwei850/dsh-client-ui-skins/a393ef5ded7b37ea87a45ba660b28a951a54f2cb/assets/screenshots/mint-forest-dsh.jpg",
-        "https://raw.githubusercontent.com/caoyiwei850/dsh-client-ui-skins/a393ef5ded7b37ea87a45ba660b28a951a54f2cb/assets/screenshots/ocean-guardian-dsh.jpg",
-        "https://raw.githubusercontent.com/caoyiwei850/dsh-client-ui-skins/a393ef5ded7b37ea87a45ba660b28a951a54f2cb/assets/screenshots/crimson-moon-dsh.jpg"
+        "https://raw.githubusercontent.com/caoyiwei850/dsh-client-ui-skins/77da6aac97e1deab35efd9e1c0277f809b967614/assets/screenshots/mint-forest-dsh.jpg",
+        "https://raw.githubusercontent.com/caoyiwei850/dsh-client-ui-skins/77da6aac97e1deab35efd9e1c0277f809b967614/assets/screenshots/ocean-guardian-dsh.jpg",
+        "https://raw.githubusercontent.com/caoyiwei850/dsh-client-ui-skins/77da6aac97e1deab35efd9e1c0277f809b967614/assets/screenshots/crimson-moon-dsh.jpg"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/caoyiwei850.dsh-client-ui-skins.webp",
       "review": {
@@ -636,7 +636,7 @@
         "commercialUse": true
       },
       "stars": 9,
-      "updatedAt": "2026-08-27T14:59:34Z"
+      "updatedAt": "2026-08-27T15:31:22Z"
     },
     {
       "id": "carpon39038.dsh-image-theme",
@@ -976,7 +976,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 193,
+      "stars": 192,
       "updatedAt": "2026-08-19T03:29:13Z"
     },
     {
@@ -2395,9 +2395,9 @@
       "packageName": "@dsh-external/dsh-qq2006",
       "rowId": "ui-skin-qq2006",
       "install": {
-        "target": "github:LaplaceYoung/dsh-qq2006#aa2859a3c1ba78d34fd5d6a6677cd8a051fcf096",
-        "commit": "aa2859a3c1ba78d34fd5d6a6677cd8a051fcf096",
-        "version": "0.1.1"
+        "target": "github:LaplaceYoung/dsh-qq2006#ddde58e2cb8d1ff62543cc195f58a507605b7845",
+        "commit": "ddde58e2cb8d1ff62543cc195f58a507605b7845",
+        "version": "0.1.2"
       },
       "tags": [
         "retro",
@@ -2415,9 +2415,9 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/LaplaceYoung/dsh-qq2006/aa2859a3c1ba78d34fd5d6a6677cd8a051fcf096/assets/screenshots/qq2006-window-view.webp",
-        "https://raw.githubusercontent.com/LaplaceYoung/dsh-qq2006/aa2859a3c1ba78d34fd5d6a6677cd8a051fcf096/assets/screenshots/qq2006-window-chrome.webp",
-        "https://raw.githubusercontent.com/LaplaceYoung/dsh-qq2006/aa2859a3c1ba78d34fd5d6a6677cd8a051fcf096/assets/screenshots/qq2006-message-flow.webp"
+        "https://raw.githubusercontent.com/LaplaceYoung/dsh-qq2006/ddde58e2cb8d1ff62543cc195f58a507605b7845/assets/screenshots/qq2006-window-view.webp",
+        "https://raw.githubusercontent.com/LaplaceYoung/dsh-qq2006/ddde58e2cb8d1ff62543cc195f58a507605b7845/assets/screenshots/qq2006-window-chrome.webp",
+        "https://raw.githubusercontent.com/LaplaceYoung/dsh-qq2006/ddde58e2cb8d1ff62543cc195f58a507605b7845/assets/screenshots/qq2006-message-flow.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/laplaceyoung.dsh-qq2006.webp",
       "review": {
@@ -2430,7 +2430,7 @@
         "commercialUse": true
       },
       "stars": 24,
-      "updatedAt": "2026-08-26T18:20:50Z"
+      "updatedAt": "2026-08-27T17:59:54Z"
     },
     {
       "id": "le-soleil-se-couche.dsh-skin-claude-code",
@@ -2788,9 +2788,9 @@
       "packageName": "dsh-billing-glass",
       "rowId": "billing-glass",
       "install": {
-        "target": "github:linkingoscar/dsh-billing-glass#d495f2ab9f6ece3fed7a9c8eaca9a75da723e3c1",
-        "commit": "d495f2ab9f6ece3fed7a9c8eaca9a75da723e3c1",
-        "version": "0.4.1"
+        "target": "github:linkingoscar/dsh-billing-glass#1db2706ed1c165a3ded2490bd83a85b5d115edf5",
+        "commit": "1db2706ed1c165a3ded2490bd83a85b5d115edf5",
+        "version": "0.5.0"
       },
       "tags": [
         "glass",
@@ -2809,7 +2809,7 @@
         ]
       },
       "screenshots": [
-        "https://opengraph.githubassets.com/d495f2ab9f6ece3fed7a9c8eaca9a75da723e3c1/linkingoscar/dsh-billing-glass"
+        "https://opengraph.githubassets.com/1db2706ed1c165a3ded2490bd83a85b5d115edf5/linkingoscar/dsh-billing-glass"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/linkingoscar.dsh-billing-glass.webp",
       "review": {
@@ -2822,7 +2822,7 @@
         "commercialUse": true
       },
       "stars": 3,
-      "updatedAt": "2026-08-23T10:25:15Z"
+      "updatedAt": "2026-08-27T21:02:59Z"
     },
     {
       "id": "linzhuolisoc.dsh-skin-study",
@@ -3941,9 +3941,9 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#a21422fcc7c99755923339d543e90619de63c0d0",
-        "commit": "a21422fcc7c99755923339d543e90619de63c0d0",
-        "version": "0.4.15"
+        "target": "github:RevolutionLA/dsh-dream-skin#919b76dd9b0ed7d3848619b978f4631fb849fb9c",
+        "commit": "919b76dd9b0ed7d3848619b978f4631fb849fb9c",
+        "version": "8.28.0"
       },
       "tags": [
         "wallpaper",
@@ -3962,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/a21422fcc7c99755923339d543e90619de63c0d0/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/a21422fcc7c99755923339d543e90619de63c0d0/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/919b76dd9b0ed7d3848619b978f4631fb849fb9c/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/919b76dd9b0ed7d3848619b978f4631fb849fb9c/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3976,7 +3976,7 @@
         "commercialUse": true
       },
       "stars": 121,
-      "updatedAt": "2026-08-27T14:10:04Z"
+      "updatedAt": "2026-08-27T17:23:03Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1768,
+      "stars": 1770,
       "updatedAt": "2026-08-25T14:10:55Z"
     },
     {
@@ -4701,7 +4701,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 18,
+      "stars": 19,
       "updatedAt": "2026-08-24T21:52:57Z"
     },
     {
@@ -5696,7 +5696,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 22,
+      "stars": 23,
       "updatedAt": "2026-08-24T12:59:18Z"
     },
     {
