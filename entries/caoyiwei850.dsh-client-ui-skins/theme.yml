@@ -6,11 +6,11 @@ author: caoyiwei850
 description: DSH Web 换肤插件：4 套内置皮肤 + 自定义图片皮肤，图片作为全界面背景，配色自动跟随图片主色调。
 package: dsh-client-ui-skins
 rowId: ui-skins
-version: 0.1.14
+version: 0.1.16
 source:
   kind: external
   repository: https://github.com/caoyiwei850/dsh-client-ui-skins
-  commit: 2151d83dc5b20639fae3b78502be2fbabf4c2135
+  commit: f4bc4ef36a04751aca7404d7c0e3275dea31764f
 tags:
   - wallpaper
   - token-theme
@@ -22,9 +22,9 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/caoyiwei850/dsh-client-ui-skins/2151d83dc5b20639fae3b78502be2fbabf4c2135/assets/screenshots/mint-forest-dsh.jpg
-  - https://raw.githubusercontent.com/caoyiwei850/dsh-client-ui-skins/2151d83dc5b20639fae3b78502be2fbabf4c2135/assets/screenshots/ocean-guardian-dsh.jpg
-  - https://raw.githubusercontent.com/caoyiwei850/dsh-client-ui-skins/2151d83dc5b20639fae3b78502be2fbabf4c2135/assets/screenshots/crimson-moon-dsh.jpg
+  - https://raw.githubusercontent.com/caoyiwei850/dsh-client-ui-skins/f4bc4ef36a04751aca7404d7c0e3275dea31764f/assets/screenshots/mint-forest-dsh.jpg
+  - https://raw.githubusercontent.com/caoyiwei850/dsh-client-ui-skins/f4bc4ef36a04751aca7404d7c0e3275dea31764f/assets/screenshots/ocean-guardian-dsh.jpg
+  - https://raw.githubusercontent.com/caoyiwei850/dsh-client-ui-skins/f4bc4ef36a04751aca7404d7c0e3275dea31764f/assets/screenshots/crimson-moon-dsh.jpg
 review:
   compatibility: verified
   preview: verified
@@ -32,4 +32,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-28T11:24:50Z
+updatedAt: 2026-08-29T14:53:38Z
