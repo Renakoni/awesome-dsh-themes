@@ -7,11 +7,11 @@ description: An unofficial Claude-inspired light/dark theme for DeepSeek Harness
   with responsive layout, safe Markdown preview, and zero telemetry.
 package: dsh-ivory
 rowId: dsh-ivory
-version: 0.2.6
+version: 0.2.7
 source:
   kind: external
   repository: https://github.com/ZJUZhiyuCai/dsh-ivory
-  commit: 88e3cdca0b9eb0f328974dd55359aa63e064948d
+  commit: 6da0020d145213ce10433f28983e69cc598508c7
 tags:
   - motion
   - token-theme
@@ -24,9 +24,9 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/88e3cdca0b9eb0f328974dd55359aa63e064948d/assets/hero-light.png
-  - https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/88e3cdca0b9eb0f328974dd55359aa63e064948d/assets/conversation-light.png
-  - https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/88e3cdca0b9eb0f328974dd55359aa63e064948d/assets/mobile-light.png
+  - https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/6da0020d145213ce10433f28983e69cc598508c7/assets/hero-light.png
+  - https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/6da0020d145213ce10433f28983e69cc598508c7/assets/conversation-light.png
+  - https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/6da0020d145213ce10433f28983e69cc598508c7/assets/mobile-light.png
 review:
   compatibility: unverified
   preview: verified
@@ -34,4 +34,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-24T02:46:26Z
+updatedAt: 2026-08-29T08:15:35Z
