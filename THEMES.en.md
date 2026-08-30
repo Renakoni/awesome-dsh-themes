@@ -18,7 +18,7 @@
 <td align="center" valign="middle">Abyssal Maid Atelier</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="Abyssal Maid Atelier" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">1,819</td>
+<td align="center" valign="middle">1,829</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
@@ -36,7 +36,7 @@
 <td align="center" valign="middle">Liang Intensity Skin</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="Liang Intensity Skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">148</td>
+<td align="center" valign="middle">149</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
