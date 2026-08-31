@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T10:50:52.834Z",
+  "generatedAt": "2026-08-31T21:29:21.210Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 151,
+      "stars": 152,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -2429,7 +2429,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 24,
+      "stars": 27,
       "updatedAt": "2026-08-27T17:59:54Z"
     },
     {
@@ -2544,9 +2544,9 @@
       "packageName": "dsh-whale-companion",
       "rowId": "whale-companion",
       "install": {
-        "target": "github:LeemanCheung/dsh-whale-companion#73f34d140f7dab832b580835ccb721eaa6591f17",
-        "commit": "73f34d140f7dab832b580835ccb721eaa6591f17",
-        "version": "2.3.0"
+        "target": "github:LeemanCheung/dsh-whale-companion#b3b7aefcbce17de275b2684e8892e2d9da75669c",
+        "commit": "b3b7aefcbce17de275b2684e8892e2d9da75669c",
+        "version": "2.4.0"
       },
       "tags": [
         "retro",
@@ -2564,7 +2564,7 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/LeemanCheung/dsh-whale-companion/73f34d140f7dab832b580835ccb721eaa6591f17/assets/screenshots/overview.png"
+        "https://raw.githubusercontent.com/LeemanCheung/dsh-whale-companion/b3b7aefcbce17de275b2684e8892e2d9da75669c/assets/screenshots/overview.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/leemancheung.dsh-whale-companion.webp",
       "review": {
@@ -2577,7 +2577,7 @@
         "commercialUse": true
       },
       "stars": 2,
-      "updatedAt": "2026-08-31T03:04:32Z"
+      "updatedAt": "2026-08-31T12:59:48Z"
     },
     {
       "id": "lengduan.dsh-815-skin",
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1847,
+      "stars": 1860,
       "updatedAt": "2026-08-31T04:58:44Z"
     },
     {
@@ -4553,7 +4553,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 4,
+      "stars": 5,
       "updatedAt": "2026-08-17T06:11:46Z"
     },
     {

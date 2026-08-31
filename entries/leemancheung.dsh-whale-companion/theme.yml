@@ -7,11 +7,11 @@ description: A native DSH desktop whale with growth, achievements, skins, and
   privacy-safe progress tracking
 package: dsh-whale-companion
 rowId: whale-companion
-version: 2.3.0
+version: 2.4.0
 source:
   kind: external
   repository: https://github.com/LeemanCheung/dsh-whale-companion
-  commit: 73f34d140f7dab832b580835ccb721eaa6591f17
+  commit: b3b7aefcbce17de275b2684e8892e2d9da75669c
 tags:
   - retro
   - motion
@@ -24,7 +24,7 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/LeemanCheung/dsh-whale-companion/73f34d140f7dab832b580835ccb721eaa6591f17/assets/screenshots/overview.png
+  - https://raw.githubusercontent.com/LeemanCheung/dsh-whale-companion/b3b7aefcbce17de275b2684e8892e2d9da75669c/assets/screenshots/overview.png
 review:
   compatibility: verified
   preview: verified
@@ -32,4 +32,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-31T03:04:32Z
+updatedAt: 2026-08-31T12:59:48Z
