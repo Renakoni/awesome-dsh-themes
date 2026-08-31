@@ -18,7 +18,7 @@
 <td align="center" valign="middle">深海女仆工坊</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="深海女仆工坊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">1,847</td>
+<td align="center" valign="middle">1,860</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
@@ -36,7 +36,7 @@
 <td align="center" valign="middle">滑动变祖</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="滑动变祖" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">151</td>
+<td align="center" valign="middle">152</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
@@ -51,6 +51,12 @@
 <td align="center" valign="middle">32</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-qq2006</td>
+<td align="center" valign="middle"><img src="previews/laplaceyoung.dsh-qq2006.webp" alt="dsh-qq2006" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/LaplaceYoung/dsh-qq2006">LaplaceYoung/dsh-qq2006</a></td>
+<td align="center" valign="middle">27</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-theme-cyberpunk2077</td>
 <td align="center" valign="middle"><img src="previews/tommy00748.dsh-theme-cyberpunk2077.webp" alt="dsh-theme-cyberpunk2077" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Tommy00748/dsh-theme-cyberpunk2077">Tommy00748/dsh-theme-cyberpunk2077</a></td>
@@ -61,12 +67,6 @@
 <td align="center" valign="middle"><img src="previews/yunxiiqwq.maid-whale-webui.webp" alt="maid-whale-webui" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/yunxiiQwQ/dsh-maid-whale-webUI">yunxiiQwQ/dsh-maid-whale-webUI</a></td>
 <td align="center" valign="middle">25</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-qq2006</td>
-<td align="center" valign="middle"><img src="previews/laplaceyoung.dsh-qq2006.webp" alt="dsh-qq2006" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/LaplaceYoung/dsh-qq2006">LaplaceYoung/dsh-qq2006</a></td>
-<td align="center" valign="middle">24</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-client-ui-custom</td>
@@ -267,6 +267,12 @@
 <td align="center" valign="middle">5</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-skin-toggle</td>
+<td align="center" valign="middle"><img src="previews/tiantyu.dsh-skin-toggle.webp" alt="dsh-skin-toggle" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/tiantyu/dsh-skin-toggle">tiantyu/dsh-skin-toggle</a></td>
+<td align="center" valign="middle">5</td>
+</tr>
+<tr>
 <td align="center" valign="middle">silk-background</td>
 <td align="center" valign="middle"><img src="previews/z21for99.silk-background.webp" alt="silk-background" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/z21for99/silk-background">z21for99/silk-background</a></td>
@@ -312,12 +318,6 @@
 <td align="center" valign="middle">dsh-qq2007-skin</td>
 <td align="center" valign="middle"><img src="previews/leemancheung.dsh-qq2007-skin.webp" alt="dsh-qq2007-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/LeemanCheung/dsh-qq2007-skin">LeemanCheung/dsh-qq2007-skin</a></td>
-<td align="center" valign="middle">4</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-skin-toggle</td>
-<td align="center" valign="middle"><img src="previews/tiantyu.dsh-skin-toggle.webp" alt="dsh-skin-toggle" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/tiantyu/dsh-skin-toggle">tiantyu/dsh-skin-toggle</a></td>
 <td align="center" valign="middle">4</td>
 </tr>
 <tr>
