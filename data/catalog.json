@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T19:19:35.272Z",
+  "generatedAt": "2026-08-31T10:50:52.834Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -922,7 +922,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:55:01.116Z"
     },
     {
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 150,
+      "stars": 151,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -2544,9 +2544,9 @@
       "packageName": "dsh-whale-companion",
       "rowId": "whale-companion",
       "install": {
-        "target": "github:LeemanCheung/dsh-whale-companion#fdfb6e6707901ed6a1980fd56b630af64f49d287",
-        "commit": "fdfb6e6707901ed6a1980fd56b630af64f49d287",
-        "version": "2.2.0"
+        "target": "github:LeemanCheung/dsh-whale-companion#73f34d140f7dab832b580835ccb721eaa6591f17",
+        "commit": "73f34d140f7dab832b580835ccb721eaa6591f17",
+        "version": "2.3.0"
       },
       "tags": [
         "retro",
@@ -2564,7 +2564,7 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/LeemanCheung/dsh-whale-companion/fdfb6e6707901ed6a1980fd56b630af64f49d287/assets/screenshots/overview.png"
+        "https://raw.githubusercontent.com/LeemanCheung/dsh-whale-companion/73f34d140f7dab832b580835ccb721eaa6591f17/assets/screenshots/overview.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/leemancheung.dsh-whale-companion.webp",
       "review": {
@@ -2577,7 +2577,7 @@
         "commercialUse": true
       },
       "stars": 2,
-      "updatedAt": "2026-08-27T06:27:58Z"
+      "updatedAt": "2026-08-31T03:04:32Z"
     },
     {
       "id": "lengduan.dsh-815-skin",
@@ -3941,8 +3941,8 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#4ff28f9a94dd8c5f3ef9452fa034ca124dcc8ce9",
-        "commit": "4ff28f9a94dd8c5f3ef9452fa034ca124dcc8ce9",
+        "target": "github:RevolutionLA/dsh-dream-skin#3a0be7854eb1c52e5d52f474958706daa9f4bce9",
+        "commit": "3a0be7854eb1c52e5d52f474958706daa9f4bce9",
         "version": "8.30.1"
       },
       "tags": [
@@ -3962,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/4ff28f9a94dd8c5f3ef9452fa034ca124dcc8ce9/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/4ff28f9a94dd8c5f3ef9452fa034ca124dcc8ce9/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/3a0be7854eb1c52e5d52f474958706daa9f4bce9/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/3a0be7854eb1c52e5d52f474958706daa9f4bce9/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3975,8 +3975,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 132,
-      "updatedAt": "2026-08-30T09:12:32Z"
+      "stars": 133,
+      "updatedAt": "2026-08-31T09:42:11Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4273,8 +4273,8 @@
       "packageName": "@dsh-external/dsh-client-ui-skin-maid-atelier",
       "rowId": "ui-skin-maid-atelier",
       "install": {
-        "target": "github:Small-tailqwq/dsh-deep-whale#e0c5f27048906ab79c738d8a3d429942d031c081&path:maid-atelier",
-        "commit": "e0c5f27048906ab79c738d8a3d429942d031c081",
+        "target": "github:Small-tailqwq/dsh-deep-whale#4803ea62dfd0ae3f4a0b97d33fdc0c2fff4805df&path:maid-atelier",
+        "commit": "4803ea62dfd0ae3f4a0b97d33fdc0c2fff4805df",
         "version": "0.0.1"
       },
       "tags": [
@@ -4296,8 +4296,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/e0c5f27048906ab79c738d8a3d429942d031c081/maid-atelier/preview/light.webp",
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/e0c5f27048906ab79c738d8a3d429942d031c081/maid-atelier/preview/dark.webp"
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/4803ea62dfd0ae3f4a0b97d33fdc0c2fff4805df/maid-atelier/preview/light.webp",
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/4803ea62dfd0ae3f4a0b97d33fdc0c2fff4805df/maid-atelier/preview/dark.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/small-tailqwq.maid-atelier.webp",
       "review": {
@@ -4310,8 +4310,8 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1833,
-      "updatedAt": "2026-08-30T04:45:40Z"
+      "stars": 1847,
+      "updatedAt": "2026-08-31T04:58:44Z"
     },
     {
       "id": "starslittle.dsh-blue-whale",
@@ -4662,9 +4662,9 @@
       "packageName": "dsh-any-background",
       "rowId": "dsh-any-background",
       "install": {
-        "target": "github:Tkingxiao/dsh-any-background#e68455ab004cf15c803a0a3b826ddbc7e9c2cc97",
-        "commit": "e68455ab004cf15c803a0a3b826ddbc7e9c2cc97",
-        "version": "0.2.1"
+        "target": "github:Tkingxiao/dsh-any-background#d70e55fea26597d9bbf4c555f2c9824e1bfd3f12",
+        "commit": "d70e55fea26597d9bbf4c555f2c9824e1bfd3f12",
+        "version": "0.2.2"
       },
       "tags": [
         "wallpaper",
@@ -4684,12 +4684,12 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/e68455ab004cf15c803a0a3b826ddbc7e9c2cc97/example_img/image-6.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/e68455ab004cf15c803a0a3b826ddbc7e9c2cc97/example_img/image-9.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/e68455ab004cf15c803a0a3b826ddbc7e9c2cc97/example_img/image.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/e68455ab004cf15c803a0a3b826ddbc7e9c2cc97/example_img/image-2.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/e68455ab004cf15c803a0a3b826ddbc7e9c2cc97/example_img/image-3.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/e68455ab004cf15c803a0a3b826ddbc7e9c2cc97/example_img/image-4.png"
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/d70e55fea26597d9bbf4c555f2c9824e1bfd3f12/example_img/image-6.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/d70e55fea26597d9bbf4c555f2c9824e1bfd3f12/example_img/image-9.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/d70e55fea26597d9bbf4c555f2c9824e1bfd3f12/example_img/image.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/d70e55fea26597d9bbf4c555f2c9824e1bfd3f12/example_img/image-2.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/d70e55fea26597d9bbf4c555f2c9824e1bfd3f12/example_img/image-3.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/d70e55fea26597d9bbf4c555f2c9824e1bfd3f12/example_img/image-4.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tkingxiao.dsh-any-background.webp",
       "review": {
@@ -4702,7 +4702,7 @@
         "commercialUse": true
       },
       "stars": 20,
-      "updatedAt": "2026-08-24T21:52:57Z"
+      "updatedAt": "2026-08-31T10:11:37Z"
     },
     {
       "id": "tommy00748.dsh-theme-cyberpunk2077",
@@ -5434,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 393,
+      "stars": 396,
       "updatedAt": "2026-08-22T02:10:09Z"
     },
     {
