@@ -18,13 +18,13 @@
 <td align="center" valign="middle">Abyssal Maid Atelier</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="Abyssal Maid Atelier" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">1,833</td>
+<td align="center" valign="middle">1,847</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
 <td align="center" valign="middle"><img src="previews/wyh66666666.dsh-transparent-ui-plugin.webp" alt="DSH-Transparent-UI-Plugin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/WYH66666666/DSH-Transparent-UI-Plugin">WYH66666666/DSH-Transparent-UI-Plugin</a></td>
-<td align="center" valign="middle">393</td>
+<td align="center" valign="middle">396</td>
 </tr>
 <tr>
 <td align="center" valign="middle">Open Sea Skin</td>
@@ -36,13 +36,13 @@
 <td align="center" valign="middle">Liang Intensity Skin</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="Liang Intensity Skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">150</td>
+<td align="center" valign="middle">151</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
 <td align="center" valign="middle"><img src="previews/revolutionla.dsh-dream-skin.webp" alt="dsh-dream-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></td>
-<td align="center" valign="middle">132</td>
+<td align="center" valign="middle">133</td>
 </tr>
 <tr>
 <td align="center" valign="middle">Denia · Void Bubble</td>
@@ -651,6 +651,12 @@
 <td align="center" valign="middle">2</td>
 </tr>
 <tr>
+<td align="center" valign="middle">shuimo-skin</td>
+<td align="center" valign="middle"><img src="previews/cnskycn.shuimo-skin.webp" alt="shuimo-skin" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/cnskycn/shuimo-skin">cnskycn/shuimo-skin</a></td>
+<td align="center" valign="middle">2</td>
+</tr>
+<tr>
 <td align="center" valign="middle">wishadel-theme</td>
 <td align="center" valign="middle"><img src="previews/cdxdnrf.wishadel-theme.webp" alt="wishadel-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/cdxDNRF/wishadel-theme">cdxDNRF/wishadel-theme</a></td>
@@ -780,12 +786,6 @@
 <td align="center" valign="middle">dsh-whale-bg</td>
 <td align="center" valign="middle"><img src="previews/gooosie.dsh-whale-bg.webp" alt="dsh-whale-bg" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/gooosie/dsh-whale-bg">gooosie/dsh-whale-bg</a></td>
-<td align="center" valign="middle">1</td>
-</tr>
-<tr>
-<td align="center" valign="middle">shuimo-skin</td>
-<td align="center" valign="middle"><img src="previews/cnskycn.shuimo-skin.webp" alt="shuimo-skin" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/cnskycn/shuimo-skin">cnskycn/shuimo-skin</a></td>
 <td align="center" valign="middle">1</td>
 </tr>
 <tr>
