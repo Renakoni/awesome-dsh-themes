@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T09:24:35.934Z",
+  "generatedAt": "2026-09-01T19:24:09.220Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -937,9 +937,9 @@
       "packageName": "open-sea-skin",
       "rowId": "open-sea-skin",
       "install": {
-        "target": "github:d-dev0101/open-sea-skin#2437d80a96de4124c54fbe89872fa7090103f025",
-        "commit": "2437d80a96de4124c54fbe89872fa7090103f025",
-        "version": "1.2.1"
+        "target": "github:d-dev0101/open-sea-skin#07507a4e7b43e1c9b9006ad8af97406330adb2ea",
+        "commit": "07507a4e7b43e1c9b9006ad8af97406330adb2ea",
+        "version": "1.2.2"
       },
       "tags": [
         "ocean",
@@ -959,11 +959,11 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/2437d80a96de4124c54fbe89872fa7090103f025/docs/marketplace/open-sea-harness-cover.png",
-        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/2437d80a96de4124c54fbe89872fa7090103f025/docs/screenshots/harness-dark-overview-40.gif",
-        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/2437d80a96de4124c54fbe89872fa7090103f025/docs/screenshots/harness-light-overview-40.gif",
-        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/2437d80a96de4124c54fbe89872fa7090103f025/docs/screenshots/harness-wave-control-40.gif",
-        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/2437d80a96de4124c54fbe89872fa7090103f025/docs/screenshots/harness-daylight-sunset-40.gif"
+        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/07507a4e7b43e1c9b9006ad8af97406330adb2ea/docs/marketplace/open-sea-harness-cover.png",
+        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/07507a4e7b43e1c9b9006ad8af97406330adb2ea/docs/screenshots/harness-dark-overview-40.gif",
+        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/07507a4e7b43e1c9b9006ad8af97406330adb2ea/docs/screenshots/harness-light-overview-40.gif",
+        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/07507a4e7b43e1c9b9006ad8af97406330adb2ea/docs/screenshots/harness-wave-control-40.gif",
+        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/07507a4e7b43e1c9b9006ad8af97406330adb2ea/docs/screenshots/harness-daylight-sunset-40.gif"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/d-dev0101.open-sea-skin.webp",
       "review": {
@@ -977,7 +977,7 @@
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
       "stars": 194,
-      "updatedAt": "2026-08-19T03:29:13Z"
+      "updatedAt": "2026-09-01T13:31:28Z"
     },
     {
       "id": "dac114514.dsh-theme-center",
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 157,
+      "stars": 158,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -3705,9 +3705,9 @@
       "packageName": "@pakiknowledge/dsh-client-ui-skin-claude",
       "rowId": "ui-skin-claude",
       "install": {
-        "target": "github:PAKIKNOWLEDGE/dsh-client-ui-skin-claude#4d8fe6cfbff245b44bb8e0effc296ad2b513c9c5",
-        "commit": "4d8fe6cfbff245b44bb8e0effc296ad2b513c9c5",
-        "version": "0.2.0"
+        "target": "github:PAKIKNOWLEDGE/dsh-client-ui-skin-claude#a240ab43bd15fd4b2cc853d20bee2c749299134a",
+        "commit": "a240ab43bd15fd4b2cc853d20bee2c749299134a",
+        "version": "0.2.1"
       },
       "tags": [
         "token-theme",
@@ -3724,8 +3724,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/PAKIKNOWLEDGE/dsh-client-ui-skin-claude/4d8fe6cfbff245b44bb8e0effc296ad2b513c9c5/docs/dark.png",
-        "https://raw.githubusercontent.com/PAKIKNOWLEDGE/dsh-client-ui-skin-claude/4d8fe6cfbff245b44bb8e0effc296ad2b513c9c5/docs/light.png"
+        "https://raw.githubusercontent.com/PAKIKNOWLEDGE/dsh-client-ui-skin-claude/a240ab43bd15fd4b2cc853d20bee2c749299134a/docs/dark.png",
+        "https://raw.githubusercontent.com/PAKIKNOWLEDGE/dsh-client-ui-skin-claude/a240ab43bd15fd4b2cc853d20bee2c749299134a/docs/light.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/pakiknowledge.dsh-client-ui-skin-claude.webp",
       "review": {
@@ -3738,7 +3738,7 @@
         "commercialUse": true
       },
       "stars": 10,
-      "updatedAt": "2026-08-20T04:31:27Z"
+      "updatedAt": "2026-09-01T15:05:55Z"
     },
     {
       "id": "rainbowdashy.dsh-theme-palettes",
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1868,
+      "stars": 1876,
       "updatedAt": "2026-08-31T04:58:44Z"
     },
     {
@@ -5434,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 397,
+      "stars": 398,
       "updatedAt": "2026-08-22T02:10:09Z"
     },
     {
