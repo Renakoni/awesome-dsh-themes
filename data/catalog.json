@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T19:24:09.220Z",
+  "generatedAt": "2026-09-02T08:46:53.514Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -976,7 +976,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 194,
+      "stars": 195,
       "updatedAt": "2026-09-01T13:31:28Z"
     },
     {
@@ -1559,7 +1559,7 @@
         "commercialUse": false,
         "notice": "角色、美术和商标权利归原权利人所有；仓库声明为非官方同人作品并禁止商业使用。"
       },
-      "stars": 32,
+      "stars": 33,
       "updatedAt": "2026-08-23T20:39:16Z"
     },
     {
@@ -3592,7 +3592,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 25,
+      "stars": 26,
       "updatedAt": "2026-08-29T04:07:16Z"
     },
     {
@@ -3941,8 +3941,8 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#0000f4bb704b244ae4ea5edd15b3da98d2ac3d5a",
-        "commit": "0000f4bb704b244ae4ea5edd15b3da98d2ac3d5a",
+        "target": "github:RevolutionLA/dsh-dream-skin#7366df740bb7534e3c92647c6c296da62d2c9860",
+        "commit": "7366df740bb7534e3c92647c6c296da62d2c9860",
         "version": "8.30.1"
       },
       "tags": [
@@ -3962,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/0000f4bb704b244ae4ea5edd15b3da98d2ac3d5a/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/0000f4bb704b244ae4ea5edd15b3da98d2ac3d5a/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/7366df740bb7534e3c92647c6c296da62d2c9860/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/7366df740bb7534e3c92647c6c296da62d2c9860/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3975,8 +3975,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 134,
-      "updatedAt": "2026-09-01T08:38:06Z"
+      "stars": 135,
+      "updatedAt": "2026-09-02T07:53:28Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1876,
+      "stars": 1880,
       "updatedAt": "2026-08-31T04:58:44Z"
     },
     {
@@ -4701,7 +4701,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 20,
+      "stars": 21,
       "updatedAt": "2026-08-31T10:11:37Z"
     },
     {
@@ -4848,7 +4848,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 13,
+      "stars": 12,
       "updatedAt": "2026-08-30T09:04:27Z"
     },
     {
@@ -5434,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 398,
+      "stars": 397,
       "updatedAt": "2026-08-22T02:10:09Z"
     },
     {
@@ -5841,7 +5841,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 11,
+      "stars": 13,
       "updatedAt": "2026-09-01T06:18:14Z"
     },
     {
@@ -6235,7 +6235,7 @@
         "commercialUse": true,
         "notice": "Catppuccin palette 源自 catppuccin/palette，并按 MIT 许可证使用。"
       },
-      "stars": 11,
+      "stars": 10,
       "updatedAt": "2026-08-29T15:15:07Z"
     },
     {
