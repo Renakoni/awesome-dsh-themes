@@ -18,19 +18,19 @@
 <td align="center" valign="middle">深海女仆工坊</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="深海女仆工坊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">1,876</td>
+<td align="center" valign="middle">1,880</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
 <td align="center" valign="middle"><img src="previews/wyh66666666.dsh-transparent-ui-plugin.webp" alt="DSH-Transparent-UI-Plugin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/WYH66666666/DSH-Transparent-UI-Plugin">WYH66666666/DSH-Transparent-UI-Plugin</a></td>
-<td align="center" valign="middle">398</td>
+<td align="center" valign="middle">397</td>
 </tr>
 <tr>
 <td align="center" valign="middle">Open Sea 海洋皮肤</td>
 <td align="center" valign="middle"><img src="previews/d-dev0101.open-sea-skin.webp" alt="Open Sea 海洋皮肤" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/d-dev0101/open-sea-skin">d-dev0101/open-sea-skin</a></td>
-<td align="center" valign="middle">194</td>
+<td align="center" valign="middle">195</td>
 </tr>
 <tr>
 <td align="center" valign="middle">滑动变祖</td>
@@ -42,13 +42,13 @@
 <td align="center" valign="middle">dsh-dream-skin</td>
 <td align="center" valign="middle"><img src="previews/revolutionla.dsh-dream-skin.webp" alt="dsh-dream-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></td>
-<td align="center" valign="middle">134</td>
+<td align="center" valign="middle">135</td>
 </tr>
 <tr>
 <td align="center" valign="middle">达妮娅 · 虚无之泡</td>
 <td align="center" valign="middle"><img src="previews/ewnscat-ya.dsh-client-ui-skin-denia.webp" alt="达妮娅 · 虚无之泡" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Ewnscat-ya/dsh-client-ui-skin-denia">Ewnscat-ya/dsh-client-ui-skin-denia</a></td>
-<td align="center" valign="middle">32</td>
+<td align="center" valign="middle">33</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-qq2006</td>
@@ -66,7 +66,7 @@
 <td align="center" valign="middle">dsh-catppuccin</td>
 <td align="center" valign="middle"><img src="previews/nonamelego.dsh-catppuccin.webp" alt="dsh-catppuccin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/NoNameLeGo/dsh-catppuccin">NoNameLeGo/dsh-catppuccin</a></td>
-<td align="center" valign="middle">25</td>
+<td align="center" valign="middle">26</td>
 </tr>
 <tr>
 <td align="center" valign="middle">maid-whale-webui</td>
@@ -84,7 +84,7 @@
 <td align="center" valign="middle">dsh-any-background</td>
 <td align="center" valign="middle"><img src="previews/tkingxiao.dsh-any-background.webp" alt="dsh-any-background" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Tkingxiao/dsh-any-background">Tkingxiao/dsh-any-background</a></td>
-<td align="center" valign="middle">20</td>
+<td align="center" valign="middle">21</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-skin</td>
@@ -111,9 +111,9 @@
 <td align="center" valign="middle">14</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-ui-appearance</td>
-<td align="center" valign="middle"><img src="previews/tqsy114514.dsh-ui-appearance.webp" alt="dsh-ui-appearance" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/TQSY114514/dsh-ui-appearance">TQSY114514/dsh-ui-appearance</a></td>
+<td align="center" valign="middle">dsh-wallpaper_share</td>
+<td align="center" valign="middle"><img src="previews/yrn-playmaker.dsh-wallpaper-share.webp" alt="dsh-wallpaper_share" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/YRN-playmaker/dsh-wallpaper_share">YRN-playmaker/dsh-wallpaper_share</a></td>
 <td align="center" valign="middle">13</td>
 </tr>
 <tr>
@@ -129,16 +129,16 @@
 <td align="center" valign="middle">12</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-ui-appearance</td>
+<td align="center" valign="middle"><img src="previews/tqsy114514.dsh-ui-appearance.webp" alt="dsh-ui-appearance" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/TQSY114514/dsh-ui-appearance">TQSY114514/dsh-ui-appearance</a></td>
+<td align="center" valign="middle">12</td>
+</tr>
+<tr>
 <td align="center" valign="middle">freestyle-dsh-theme</td>
 <td align="center" valign="middle"><img src="previews/suzike.freestyle-dsh-theme.webp" alt="freestyle-dsh-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/suzike/freestyle-dsh-theme">suzike/freestyle-dsh-theme</a></td>
 <td align="center" valign="middle">12</td>
-</tr>
-<tr>
-<td align="center" valign="middle">Catppuccin 四味主题</td>
-<td align="center" valign="middle"><img src="previews/zhijun-dai.catppuccin.webp" alt="Catppuccin 四味主题" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/zhijun-dai/Catppuccin-dsh-theme">zhijun-dai/Catppuccin-dsh-theme</a></td>
-<td align="center" valign="middle">11</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-client-ui-skins</td>
@@ -147,10 +147,10 @@
 <td align="center" valign="middle">11</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-wallpaper_share</td>
-<td align="center" valign="middle"><img src="previews/yrn-playmaker.dsh-wallpaper-share.webp" alt="dsh-wallpaper_share" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/YRN-playmaker/dsh-wallpaper_share">YRN-playmaker/dsh-wallpaper_share</a></td>
-<td align="center" valign="middle">11</td>
+<td align="center" valign="middle">Catppuccin 四味主题</td>
+<td align="center" valign="middle"><img src="previews/zhijun-dai.catppuccin.webp" alt="Catppuccin 四味主题" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/zhijun-dai/Catppuccin-dsh-theme">zhijun-dai/Catppuccin-dsh-theme</a></td>
+<td align="center" valign="middle">10</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-client-ui-skin-claude</td>
