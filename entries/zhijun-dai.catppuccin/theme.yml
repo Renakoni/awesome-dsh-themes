@@ -10,7 +10,7 @@ version: 0.2.3
 source:
   kind: external
   repository: https://github.com/zhijun-dai/Catppuccin-dsh-theme
-  commit: 3101af92f2f16e0e32458a269cb154b6aeaeb005
+  commit: d3e85a27bb8aa7e46953f61dca31bdda55aff2cb
 tags:
   - catppuccin
   - pastel
@@ -26,10 +26,10 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/3101af92f2f16e0e32458a269cb154b6aeaeb005/assets/preview.webp
-  - https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/3101af92f2f16e0e32458a269cb154b6aeaeb005/assets/latte.webp
-  - https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/3101af92f2f16e0e32458a269cb154b6aeaeb005/assets/frappe.webp
-  - https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/3101af92f2f16e0e32458a269cb154b6aeaeb005/assets/macchiato.webp
+  - https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/d3e85a27bb8aa7e46953f61dca31bdda55aff2cb/assets/preview.webp
+  - https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/d3e85a27bb8aa7e46953f61dca31bdda55aff2cb/assets/latte.webp
+  - https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/d3e85a27bb8aa7e46953f61dca31bdda55aff2cb/assets/frappe.webp
+  - https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/d3e85a27bb8aa7e46953f61dca31bdda55aff2cb/assets/macchiato.webp
 review:
   compatibility: verified
   preview: verified
@@ -38,4 +38,4 @@ license:
   code: MIT
   commercialUse: true
   notice: Catppuccin palette 源自 catppuccin/palette，并按 MIT 许可证使用。
-updatedAt: 2026-08-29T15:15:07Z
+updatedAt: 2026-09-02T16:41:17Z
