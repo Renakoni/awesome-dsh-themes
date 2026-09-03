@@ -6,11 +6,11 @@ author: dsh-plugins
 description: 在「Deep diving...」状态提示前，放一只动态小伙伴——GrokBot 风格动画头像，状态文字还会同步打字机变换。
 package: "@dsh-plugin/dsh-thought-buddy"
 rowId: thought-buddy
-version: 0.3.2
+version: 0.3.3
 source:
   kind: external
   repository: https://github.com/dsh-plugins/dsh-thought-buddy
-  commit: e42b4032d71b9b85cde61d49b4154ed8e9e7cfdb
+  commit: 72cf83e291d369a134fb0127cffc8f1573cf7dfa
 tags:
   - retro
   - motion
@@ -23,9 +23,9 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/e42b4032d71b9b85cde61d49b4154ed8e9e7cfdb/docs/banner.png
-  - https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/e42b4032d71b9b85cde61d49b4154ed8e9e7cfdb/docs/effect.gif
-  - https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/e42b4032d71b9b85cde61d49b4154ed8e9e7cfdb/docs/img.png
+  - https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/72cf83e291d369a134fb0127cffc8f1573cf7dfa/docs/banner.png
+  - https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/72cf83e291d369a134fb0127cffc8f1573cf7dfa/docs/effect.gif
+  - https://raw.githubusercontent.com/dsh-plugins/dsh-thought-buddy/72cf83e291d369a134fb0127cffc8f1573cf7dfa/docs/img.png
 review:
   compatibility: unverified
   preview: verified
@@ -33,4 +33,4 @@ review:
 license:
   code: BSD-3-Clause
   commercialUse: true
-updatedAt: 2026-08-28T23:01:59Z
+updatedAt: 2026-09-03T06:49:54Z
