@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T08:55:58.697Z",
+  "generatedAt": "2026-09-03T19:18:52.528Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -405,9 +405,9 @@
       "packageName": "@anionex/dsh-eye-care",
       "rowId": "dsh-eye-care",
       "install": {
-        "target": "github:Anionex/dsh-eye-care#4f87acff00135317134e61a580c86198dad907c2",
-        "commit": "4f87acff00135317134e61a580c86198dad907c2",
-        "version": "0.1.0"
+        "target": "github:Anionex/dsh-eye-care#a1e64b8cf3aa3f8919d292217e3aa5def196604b",
+        "commit": "a1e64b8cf3aa3f8919d292217e3aa5def196604b",
+        "version": "0.1.1"
       },
       "tags": [
         "wallpaper",
@@ -427,8 +427,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Anionex/dsh-eye-care/4f87acff00135317134e61a580c86198dad907c2/assets/eye-care-light.png",
-        "https://raw.githubusercontent.com/Anionex/dsh-eye-care/4f87acff00135317134e61a580c86198dad907c2/assets/eye-care-dark.png"
+        "https://raw.githubusercontent.com/Anionex/dsh-eye-care/a1e64b8cf3aa3f8919d292217e3aa5def196604b/assets/eye-care-light.png",
+        "https://raw.githubusercontent.com/Anionex/dsh-eye-care/a1e64b8cf3aa3f8919d292217e3aa5def196604b/assets/eye-care-dark.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/anionex.dsh-eye-care.webp",
       "review": {
@@ -441,7 +441,7 @@
         "commercialUse": true
       },
       "stars": 2,
-      "updatedAt": "2026-08-16T13:49:43.768Z"
+      "updatedAt": "2026-09-03T10:43:50Z"
     },
     {
       "id": "beizi6.dsh-theme-plugin",
@@ -1559,7 +1559,7 @@
         "commercialUse": false,
         "notice": "角色、美术和商标权利归原权利人所有；仓库声明为非官方同人作品并禁止商业使用。"
       },
-      "stars": 33,
+      "stars": 34,
       "updatedAt": "2026-08-23T20:39:16Z"
     },
     {
@@ -2591,9 +2591,9 @@
       "packageName": "@lengduan/dsh-client-ui-skin-815",
       "rowId": "ui-skin-815",
       "install": {
-        "target": "github:lengduan/dsh-815-skin#e069a50803927c00ffd30ec3feb3501bcddb48fd",
-        "commit": "e069a50803927c00ffd30ec3feb3501bcddb48fd",
-        "version": "0.1.9"
+        "target": "github:lengduan/dsh-815-skin#82fba2dfca4586e6c29ad39816f228b066619946",
+        "commit": "82fba2dfca4586e6c29ad39816f228b066619946",
+        "version": "0.1.10"
       },
       "tags": [
         "wallpaper",
@@ -2610,8 +2610,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/lengduan/dsh-815-skin/e069a50803927c00ffd30ec3feb3501bcddb48fd/assets/nanjing-surrender-chen-jian.jpg",
-        "https://raw.githubusercontent.com/lengduan/dsh-815-skin/e069a50803927c00ffd30ec3feb3501bcddb48fd/docs/preview.png"
+        "https://raw.githubusercontent.com/lengduan/dsh-815-skin/82fba2dfca4586e6c29ad39816f228b066619946/assets/nanjing-surrender-chen-jian.jpg",
+        "https://raw.githubusercontent.com/lengduan/dsh-815-skin/82fba2dfca4586e6c29ad39816f228b066619946/docs/preview.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/lengduan.dsh-815-skin.webp",
       "review": {
@@ -2624,7 +2624,7 @@
         "commercialUse": true
       },
       "stars": 1,
-      "updatedAt": "2026-08-21T17:44:10Z"
+      "updatedAt": "2026-09-03T16:21:21Z"
     },
     {
       "id": "lhy723.dsh-neu-theme",
@@ -3592,7 +3592,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 27,
+      "stars": 29,
       "updatedAt": "2026-08-29T04:07:16Z"
     },
     {
@@ -3975,7 +3975,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 138,
+      "stars": 140,
       "updatedAt": "2026-09-03T08:01:18Z"
     },
     {
@@ -4273,8 +4273,8 @@
       "packageName": "@dsh-external/dsh-client-ui-skin-maid-atelier",
       "rowId": "ui-skin-maid-atelier",
       "install": {
-        "target": "github:Small-tailqwq/dsh-deep-whale#4803ea62dfd0ae3f4a0b97d33fdc0c2fff4805df&path:maid-atelier",
-        "commit": "4803ea62dfd0ae3f4a0b97d33fdc0c2fff4805df",
+        "target": "github:Small-tailqwq/dsh-deep-whale#d7cfec228ce96fccf052a1ccee717b6b5e721e4d&path:maid-atelier",
+        "commit": "d7cfec228ce96fccf052a1ccee717b6b5e721e4d",
         "version": "0.0.1"
       },
       "tags": [
@@ -4296,8 +4296,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/4803ea62dfd0ae3f4a0b97d33fdc0c2fff4805df/maid-atelier/preview/light.webp",
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/4803ea62dfd0ae3f4a0b97d33fdc0c2fff4805df/maid-atelier/preview/dark.webp"
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/d7cfec228ce96fccf052a1ccee717b6b5e721e4d/maid-atelier/preview/light.webp",
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/d7cfec228ce96fccf052a1ccee717b6b5e721e4d/maid-atelier/preview/dark.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/small-tailqwq.maid-atelier.webp",
       "review": {
@@ -4310,8 +4310,8 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1897,
-      "updatedAt": "2026-08-31T04:58:44Z"
+      "stars": 1904,
+      "updatedAt": "2026-09-03T14:42:00Z"
     },
     {
       "id": "starslittle.dsh-blue-whale",
@@ -5807,8 +5807,8 @@
       "packageName": "dsh-wallpaper_share",
       "rowId": "we-sync",
       "install": {
-        "target": "github:YRN-playmaker/dsh-wallpaper_share#9e4f0cd6761e411703f34b9daf20bf00c060f42b",
-        "commit": "9e4f0cd6761e411703f34b9daf20bf00c060f42b",
+        "target": "github:YRN-playmaker/dsh-wallpaper_share#41b442cbb0fc92c3ad647c1decf2c447219255a7",
+        "commit": "41b442cbb0fc92c3ad647c1decf2c447219255a7",
         "version": "26.9.3-rc"
       },
       "tags": [
@@ -5841,8 +5841,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 24,
-      "updatedAt": "2026-09-03T08:43:42Z"
+      "stars": 26,
+      "updatedAt": "2026-09-03T10:30:09Z"
     },
     {
       "id": "yunxiiqwq.maid-whale-webui",
@@ -6196,9 +6196,9 @@
       "packageName": "dsh-catppuccin",
       "rowId": "catppuccin",
       "install": {
-        "target": "github:zhijun-dai/Catppuccin-dsh-theme#d3e85a27bb8aa7e46953f61dca31bdda55aff2cb",
-        "commit": "d3e85a27bb8aa7e46953f61dca31bdda55aff2cb",
-        "version": "0.2.3"
+        "target": "github:zhijun-dai/Catppuccin-dsh-theme#f00241842e94c2a659aa0af47b3f1070c60f7a15",
+        "commit": "f00241842e94c2a659aa0af47b3f1070c60f7a15",
+        "version": "0.2.4"
       },
       "tags": [
         "catppuccin",
@@ -6219,10 +6219,10 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/d3e85a27bb8aa7e46953f61dca31bdda55aff2cb/assets/preview.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/d3e85a27bb8aa7e46953f61dca31bdda55aff2cb/assets/latte.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/d3e85a27bb8aa7e46953f61dca31bdda55aff2cb/assets/frappe.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/d3e85a27bb8aa7e46953f61dca31bdda55aff2cb/assets/macchiato.webp"
+        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/f00241842e94c2a659aa0af47b3f1070c60f7a15/assets/preview.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/f00241842e94c2a659aa0af47b3f1070c60f7a15/assets/latte.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/f00241842e94c2a659aa0af47b3f1070c60f7a15/assets/frappe.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/f00241842e94c2a659aa0af47b3f1070c60f7a15/assets/macchiato.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/zhijun-dai.catppuccin.webp",
       "review": {
@@ -6236,7 +6236,7 @@
         "notice": "Catppuccin palette 源自 catppuccin/palette，并按 MIT 许可证使用。"
       },
       "stars": 10,
-      "updatedAt": "2026-09-02T16:41:17Z"
+      "updatedAt": "2026-09-03T13:26:17Z"
     },
     {
       "id": "zhijun-dai.dsh-fonts",
@@ -6296,9 +6296,9 @@
       "packageName": "@yuquexianzhou/solarized-dsh-theme",
       "rowId": "solarized",
       "install": {
-        "target": "github:zhijun-dai/Solarized-dsh-theme#5884baa70c68509c0119cad836d20f505b0f8756",
-        "commit": "5884baa70c68509c0119cad836d20f505b0f8756",
-        "version": "0.2.1"
+        "target": "github:zhijun-dai/Solarized-dsh-theme#1480701b224708eaf098dc5aa2d05ababee667ab",
+        "commit": "1480701b224708eaf098dc5aa2d05ababee667ab",
+        "version": "0.2.2"
       },
       "tags": [
         "pastel",
@@ -6316,11 +6316,11 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/5884baa70c68509c0119cad836d20f505b0f8756/assets/preview.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/5884baa70c68509c0119cad836d20f505b0f8756/assets/solarized-dark.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/5884baa70c68509c0119cad836d20f505b0f8756/assets/solarized-light.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/5884baa70c68509c0119cad836d20f505b0f8756/assets/selenized-dark.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/5884baa70c68509c0119cad836d20f505b0f8756/assets/selenized-light.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/1480701b224708eaf098dc5aa2d05ababee667ab/assets/preview.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/1480701b224708eaf098dc5aa2d05ababee667ab/assets/solarized-dark.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/1480701b224708eaf098dc5aa2d05ababee667ab/assets/solarized-light.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/1480701b224708eaf098dc5aa2d05ababee667ab/assets/selenized-dark.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/1480701b224708eaf098dc5aa2d05ababee667ab/assets/selenized-light.webp",
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/zhijun-dai.solarized-dsh-theme.webp",
@@ -6334,7 +6334,7 @@
         "commercialUse": true
       },
       "stars": 7,
-      "updatedAt": "2026-09-02T11:03:56Z"
+      "updatedAt": "2026-09-03T11:18:04Z"
     },
     {
       "id": "zhxqc.dsh-oh-my-theme",
