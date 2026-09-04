@@ -18,7 +18,7 @@
 <td align="center" valign="middle">深海女仆工坊</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="深海女仆工坊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">1,914</td>
+<td align="center" valign="middle">1,923</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
@@ -36,7 +36,7 @@
 <td align="center" valign="middle">滑动变祖</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="滑动变祖" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">160</td>
+<td align="center" valign="middle">161</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
@@ -75,16 +75,16 @@
 <td align="center" valign="middle">27</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-client-ui-custom</td>
+<td align="center" valign="middle"><img src="previews/yoli-mi.dsh-client-ui-custom.webp" alt="dsh-client-ui-custom" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/yoli-mi/dsh-client-ui-custom">yoli-mi/dsh-client-ui-custom</a></td>
+<td align="center" valign="middle">26</td>
+</tr>
+<tr>
 <td align="center" valign="middle">maid-whale-webui</td>
 <td align="center" valign="middle"><img src="previews/yunxiiqwq.maid-whale-webui.webp" alt="maid-whale-webui" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/yunxiiQwQ/dsh-maid-whale-webUI">yunxiiQwQ/dsh-maid-whale-webUI</a></td>
 <td align="center" valign="middle">26</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-client-ui-custom</td>
-<td align="center" valign="middle"><img src="previews/yoli-mi.dsh-client-ui-custom.webp" alt="dsh-client-ui-custom" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/yoli-mi/dsh-client-ui-custom">yoli-mi/dsh-client-ui-custom</a></td>
-<td align="center" valign="middle">25</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-any-background</td>
@@ -117,6 +117,12 @@
 <td align="center" valign="middle">14</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-ui-appearance</td>
+<td align="center" valign="middle"><img src="previews/tqsy114514.dsh-ui-appearance.webp" alt="dsh-ui-appearance" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/TQSY114514/dsh-ui-appearance">TQSY114514/dsh-ui-appearance</a></td>
+<td align="center" valign="middle">13</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-cyber-particle</td>
 <td align="center" valign="middle"><img src="previews/aks1st.dsh-cyber-particle.webp" alt="dsh-cyber-particle" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/AKS1st/dsh-cyber-particle">AKS1st/dsh-cyber-particle</a></td>
@@ -126,12 +132,6 @@
 <td align="center" valign="middle">dsh-font</td>
 <td align="center" valign="middle"><img src="previews/tianyhjg-lab.dsh-font.webp" alt="dsh-font" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/tianyhjg-lab/dsh-font">tianyhjg-lab/dsh-font</a></td>
-<td align="center" valign="middle">12</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-ui-appearance</td>
-<td align="center" valign="middle"><img src="previews/tqsy114514.dsh-ui-appearance.webp" alt="dsh-ui-appearance" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/TQSY114514/dsh-ui-appearance">TQSY114514/dsh-ui-appearance</a></td>
 <td align="center" valign="middle">12</td>
 </tr>
 <tr>
@@ -399,6 +399,12 @@
 <td align="center" valign="middle">3</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-eye-care</td>
+<td align="center" valign="middle"><img src="previews/anionex.dsh-eye-care.webp" alt="dsh-eye-care" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/Anionex/dsh-eye-care">Anionex/dsh-eye-care</a></td>
+<td align="center" valign="middle">3</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-fun-weather</td>
 <td align="center" valign="middle"><img src="previews/omdsh-dev.dsh-fun-weather.webp" alt="dsh-fun-weather" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/omdsh-dev/dsh-fun-weather">omdsh-dev/dsh-fun-weather</a></td>
@@ -510,12 +516,6 @@
 <td align="center" valign="middle">dsh-extensions-wallpaperskin</td>
 <td align="center" valign="middle"><img src="previews/haibala-aii.dsh-extensions-wallpaperskin.webp" alt="dsh-extensions-wallpaperskin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/haibala-aii/dsh-extensions-wallpaperskin">haibala-aii/dsh-extensions-wallpaperskin</a></td>
-<td align="center" valign="middle">2</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-eye-care</td>
-<td align="center" valign="middle"><img src="previews/anionex.dsh-eye-care.webp" alt="dsh-eye-care" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/Anionex/dsh-eye-care">Anionex/dsh-eye-care</a></td>
 <td align="center" valign="middle">2</td>
 </tr>
 <tr>
