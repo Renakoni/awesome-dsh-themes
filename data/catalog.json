@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T08:57:52.740Z",
+  "generatedAt": "2026-09-04T19:00:01.462Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -440,7 +440,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 3,
       "updatedAt": "2026-09-03T10:43:50Z"
     },
     {
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 160,
+      "stars": 161,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1914,
+      "stars": 1923,
       "updatedAt": "2026-09-04T06:36:40Z"
     },
     {
@@ -4815,9 +4815,9 @@
       "packageName": "dsh-ui-appearance",
       "rowId": "ui-appearance",
       "install": {
-        "target": "github:TQSY114514/dsh-ui-appearance#4b665e85287c167ddc12fbdb8d7dee20adb75d77",
-        "commit": "4b665e85287c167ddc12fbdb8d7dee20adb75d77",
-        "version": "0.1.6"
+        "target": "github:TQSY114514/dsh-ui-appearance#2ed86db7266941cc1c50709d813095b81eb0b2a3",
+        "commit": "2ed86db7266941cc1c50709d813095b81eb0b2a3",
+        "version": "0.1.7"
       },
       "tags": [
         "wallpaper",
@@ -4835,8 +4835,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/4b665e85287c167ddc12fbdb8d7dee20adb75d77/docs/screenshot-settings.png",
-        "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/4b665e85287c167ddc12fbdb8d7dee20adb75d77/docs/screenshot-wallpaper.png"
+        "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/2ed86db7266941cc1c50709d813095b81eb0b2a3/docs/screenshot-settings.png",
+        "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/2ed86db7266941cc1c50709d813095b81eb0b2a3/docs/screenshot-wallpaper.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tqsy114514.dsh-ui-appearance.webp",
       "review": {
@@ -4848,8 +4848,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 12,
-      "updatedAt": "2026-08-30T09:04:27Z"
+      "stars": 13,
+      "updatedAt": "2026-09-04T15:49:49Z"
     },
     {
       "id": "tuogusa.dsh-whale-background",
@@ -5696,7 +5696,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 25,
+      "stars": 26,
       "updatedAt": "2026-08-24T12:59:18Z"
     },
     {
@@ -5952,9 +5952,9 @@
       "packageName": "dsh-homepage-skin",
       "rowId": "homepage-skin",
       "install": {
-        "target": "github:yushi-xxh/dsh-homepage-skin#44933213da11f82caefd609ad1bdfe84ac95b3e0",
-        "commit": "44933213da11f82caefd609ad1bdfe84ac95b3e0",
-        "version": "0.1.12"
+        "target": "github:yushi-xxh/dsh-homepage-skin#329f9e0b12cab223b00b3e75e2f73453d9a46ed5",
+        "commit": "329f9e0b12cab223b00b3e75e2f73453d9a46ed5",
+        "version": "0.1.13"
       },
       "tags": [
         "wallpaper",
@@ -5974,8 +5974,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/yushi-xxh/dsh-homepage-skin/44933213da11f82caefd609ad1bdfe84ac95b3e0/docs/compare-dark.png",
-        "https://raw.githubusercontent.com/yushi-xxh/dsh-homepage-skin/44933213da11f82caefd609ad1bdfe84ac95b3e0/docs/compare-light.png"
+        "https://raw.githubusercontent.com/yushi-xxh/dsh-homepage-skin/329f9e0b12cab223b00b3e75e2f73453d9a46ed5/docs/compare-dark.png",
+        "https://raw.githubusercontent.com/yushi-xxh/dsh-homepage-skin/329f9e0b12cab223b00b3e75e2f73453d9a46ed5/docs/compare-light.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/yushi-xxh.dsh-homepage-skin.webp",
       "review": {
@@ -5988,7 +5988,7 @@
         "commercialUse": true
       },
       "stars": 4,
-      "updatedAt": "2026-08-16T12:34:09.222Z"
+      "updatedAt": "2026-09-04T16:45:15Z"
     },
     {
       "id": "z21for99.silk-background",

@@ -6,11 +6,11 @@ author: yushi-xxh
 description: 给 dsh web 铺上 DeepSeek Harness 首页同款背景：WebGL 流体光效、点线网格与数字点云鲸鱼，深色/亮色两套配色。
 package: dsh-homepage-skin
 rowId: homepage-skin
-version: 0.1.12
+version: 0.1.13
 source:
   kind: external
   repository: https://github.com/yushi-xxh/dsh-homepage-skin
-  commit: 44933213da11f82caefd609ad1bdfe84ac95b3e0
+  commit: 329f9e0b12cab223b00b3e75e2f73453d9a46ed5
 tags:
   - wallpaper
   - glass
@@ -25,8 +25,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/yushi-xxh/dsh-homepage-skin/44933213da11f82caefd609ad1bdfe84ac95b3e0/docs/compare-dark.png
-  - https://raw.githubusercontent.com/yushi-xxh/dsh-homepage-skin/44933213da11f82caefd609ad1bdfe84ac95b3e0/docs/compare-light.png
+  - https://raw.githubusercontent.com/yushi-xxh/dsh-homepage-skin/329f9e0b12cab223b00b3e75e2f73453d9a46ed5/docs/compare-dark.png
+  - https://raw.githubusercontent.com/yushi-xxh/dsh-homepage-skin/329f9e0b12cab223b00b3e75e2f73453d9a46ed5/docs/compare-light.png
 review:
   compatibility: verified
   preview: verified
@@ -34,4 +34,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-16T12:34:09.222Z
+updatedAt: 2026-09-04T16:45:15Z
