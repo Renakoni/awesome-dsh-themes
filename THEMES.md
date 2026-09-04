@@ -18,13 +18,13 @@
 <td align="center" valign="middle">深海女仆工坊</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="深海女仆工坊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">1,904</td>
+<td align="center" valign="middle">1,914</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
 <td align="center" valign="middle"><img src="previews/wyh66666666.dsh-transparent-ui-plugin.webp" alt="DSH-Transparent-UI-Plugin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/WYH66666666/DSH-Transparent-UI-Plugin">WYH66666666/DSH-Transparent-UI-Plugin</a></td>
-<td align="center" valign="middle">398</td>
+<td align="center" valign="middle">401</td>
 </tr>
 <tr>
 <td align="center" valign="middle">Open Sea 海洋皮肤</td>
@@ -36,13 +36,13 @@
 <td align="center" valign="middle">滑动变祖</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="滑动变祖" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">159</td>
+<td align="center" valign="middle">160</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
 <td align="center" valign="middle"><img src="previews/revolutionla.dsh-dream-skin.webp" alt="dsh-dream-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></td>
-<td align="center" valign="middle">140</td>
+<td align="center" valign="middle">141</td>
 </tr>
 <tr>
 <td align="center" valign="middle">达妮娅 · 虚无之泡</td>
@@ -54,7 +54,7 @@
 <td align="center" valign="middle">dsh-catppuccin</td>
 <td align="center" valign="middle"><img src="previews/nonamelego.dsh-catppuccin.webp" alt="dsh-catppuccin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/NoNameLeGo/dsh-catppuccin">NoNameLeGo/dsh-catppuccin</a></td>
-<td align="center" valign="middle">29</td>
+<td align="center" valign="middle">30</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-qq2006</td>
@@ -72,7 +72,7 @@
 <td align="center" valign="middle">dsh-wallpaper_share</td>
 <td align="center" valign="middle"><img src="previews/yrn-playmaker.dsh-wallpaper-share.webp" alt="dsh-wallpaper_share" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/YRN-playmaker/dsh-wallpaper_share">YRN-playmaker/dsh-wallpaper_share</a></td>
-<td align="center" valign="middle">26</td>
+<td align="center" valign="middle">27</td>
 </tr>
 <tr>
 <td align="center" valign="middle">maid-whale-webui</td>
@@ -108,7 +108,7 @@
 <td align="center" valign="middle">dsh-joi-channel-theme</td>
 <td align="center" valign="middle"><img src="previews/tpmoonchefryan.dsh-joi-channel-theme.webp" alt="dsh-joi-channel-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/tpmoonchefryan/dsh-joi-channel-theme">tpmoonchefryan/dsh-joi-channel-theme</a></td>
-<td align="center" valign="middle">16</td>
+<td align="center" valign="middle">17</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-liquid-glass</td>
@@ -315,6 +315,12 @@
 <td align="center" valign="middle">4</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-homepage-skin</td>
+<td align="center" valign="middle"><img src="previews/yushi-xxh.dsh-homepage-skin.webp" alt="dsh-homepage-skin" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/yushi-xxh/dsh-homepage-skin">yushi-xxh/dsh-homepage-skin</a></td>
+<td align="center" valign="middle">4</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-pet</td>
 <td align="center" valign="middle"><img src="previews/zealot00.dsh-pet.webp" alt="dsh-pet" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/zealot00/dsh-pet">zealot00/dsh-pet</a></td>
@@ -396,12 +402,6 @@
 <td align="center" valign="middle">dsh-fun-weather</td>
 <td align="center" valign="middle"><img src="previews/omdsh-dev.dsh-fun-weather.webp" alt="dsh-fun-weather" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/omdsh-dev/dsh-fun-weather">omdsh-dev/dsh-fun-weather</a></td>
-<td align="center" valign="middle">3</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-homepage-skin</td>
-<td align="center" valign="middle"><img src="previews/yushi-xxh.dsh-homepage-skin.webp" alt="dsh-homepage-skin" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/yushi-xxh/dsh-homepage-skin">yushi-xxh/dsh-homepage-skin</a></td>
 <td align="center" valign="middle">3</td>
 </tr>
 <tr>
