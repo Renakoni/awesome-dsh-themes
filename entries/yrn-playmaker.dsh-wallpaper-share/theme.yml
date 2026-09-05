@@ -11,7 +11,7 @@ version: 26.9.4
 source:
   kind: external
   repository: https://github.com/YRN-playmaker/dsh-wallpaper_share
-  commit: acc5048a125e347ef98bdf051639dc5f2595b575
+  commit: d4b74efd028fbd50da3d8f476590febb24f7cebc
 tags:
   - wallpaper
   - glass
@@ -34,4 +34,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-09-04T02:35:38Z
+updatedAt: 2026-09-05T17:57:45Z
