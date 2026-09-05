@@ -18,7 +18,7 @@
 <td align="center" valign="middle">深海女仆工坊</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="深海女仆工坊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">1,923</td>
+<td align="center" valign="middle">1,931</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
@@ -30,19 +30,19 @@
 <td align="center" valign="middle">Open Sea 海洋皮肤</td>
 <td align="center" valign="middle"><img src="previews/d-dev0101.open-sea-skin.webp" alt="Open Sea 海洋皮肤" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/d-dev0101/open-sea-skin">d-dev0101/open-sea-skin</a></td>
-<td align="center" valign="middle">195</td>
+<td align="center" valign="middle">196</td>
 </tr>
 <tr>
 <td align="center" valign="middle">滑动变祖</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="滑动变祖" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">161</td>
+<td align="center" valign="middle">162</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
 <td align="center" valign="middle"><img src="previews/revolutionla.dsh-dream-skin.webp" alt="dsh-dream-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></td>
-<td align="center" valign="middle">141</td>
+<td align="center" valign="middle">142</td>
 </tr>
 <tr>
 <td align="center" valign="middle">达妮娅 · 虚无之泡</td>
@@ -57,6 +57,12 @@
 <td align="center" valign="middle">30</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-wallpaper_share</td>
+<td align="center" valign="middle"><img src="previews/yrn-playmaker.dsh-wallpaper-share.webp" alt="dsh-wallpaper_share" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/YRN-playmaker/dsh-wallpaper_share">YRN-playmaker/dsh-wallpaper_share</a></td>
+<td align="center" valign="middle">29</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-qq2006</td>
 <td align="center" valign="middle"><img src="previews/laplaceyoung.dsh-qq2006.webp" alt="dsh-qq2006" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/LaplaceYoung/dsh-qq2006">LaplaceYoung/dsh-qq2006</a></td>
@@ -66,12 +72,6 @@
 <td align="center" valign="middle">dsh-theme-cyberpunk2077</td>
 <td align="center" valign="middle"><img src="previews/tommy00748.dsh-theme-cyberpunk2077.webp" alt="dsh-theme-cyberpunk2077" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Tommy00748/dsh-theme-cyberpunk2077">Tommy00748/dsh-theme-cyberpunk2077</a></td>
-<td align="center" valign="middle">27</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-wallpaper_share</td>
-<td align="center" valign="middle"><img src="previews/yrn-playmaker.dsh-wallpaper-share.webp" alt="dsh-wallpaper_share" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/YRN-playmaker/dsh-wallpaper_share">YRN-playmaker/dsh-wallpaper_share</a></td>
 <td align="center" valign="middle">27</td>
 </tr>
 <tr>
@@ -501,12 +501,6 @@
 <td align="center" valign="middle">2</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-client-ui-m3-theme</td>
-<td align="center" valign="middle"><img src="previews/darkskyx15.dsh-client-ui-m3-theme.webp" alt="dsh-client-ui-m3-theme" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/DarkskyX15/dsh-client-ui-m3-theme">DarkskyX15/dsh-client-ui-m3-theme</a></td>
-<td align="center" valign="middle">2</td>
-</tr>
-<tr>
 <td align="center" valign="middle">dsh-dracula</td>
 <td align="center" valign="middle"><img src="previews/lzylyd.dsh-dracula.webp" alt="dsh-dracula" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/lzylyd/dsh-dracula">lzylyd/dsh-dracula</a></td>
@@ -678,6 +672,12 @@
 <td align="center" valign="middle">dsh-aurora-theme</td>
 <td align="center" valign="middle"><img src="previews/seekerwxy.dsh-aurora-theme.webp" alt="dsh-aurora-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/seekerwxy/dsh-aurora-theme">seekerwxy/dsh-aurora-theme</a></td>
+<td align="center" valign="middle">1</td>
+</tr>
+<tr>
+<td align="center" valign="middle">dsh-client-ui-m3-theme</td>
+<td align="center" valign="middle"><img src="previews/darkskyx15.dsh-client-ui-m3-theme.webp" alt="dsh-client-ui-m3-theme" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/DarkskyX15/dsh-client-ui-m3-theme">DarkskyX15/dsh-client-ui-m3-theme</a></td>
 <td align="center" valign="middle">1</td>
 </tr>
 <tr>
