@@ -8,11 +8,11 @@ description: "DSH skin plugin: Alphacoders popular wallpapers as the DeepSeek
   mask"
 package: dsh-skin-alphacoders
 rowId: skin-alphacoders
-version: 0.4.0
+version: 0.4.1
 source:
   kind: external
   repository: https://github.com/sakka6868/dsh-skin
-  commit: daa2c20da789e39493b116512bad0f326cc3c2d7
+  commit: f65c03f57fece55a8ff18518f1f4b4d32fd28c76
 tags:
   - wallpaper
   - token-theme
@@ -25,8 +25,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/sakka6868/dsh-skin/daa2c20da789e39493b116512bad0f326cc3c2d7/docs/preview-main.png
-  - https://raw.githubusercontent.com/sakka6868/dsh-skin/daa2c20da789e39493b116512bad0f326cc3c2d7/docs/preview-gallery.png
+  - https://raw.githubusercontent.com/sakka6868/dsh-skin/f65c03f57fece55a8ff18518f1f4b4d32fd28c76/docs/preview-main.png
+  - https://raw.githubusercontent.com/sakka6868/dsh-skin/f65c03f57fece55a8ff18518f1f4b4d32fd28c76/docs/preview-gallery.png
 review:
   compatibility: verified
   preview: verified
@@ -34,4 +34,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-30T07:51:08Z
+updatedAt: 2026-09-05T03:08:55Z

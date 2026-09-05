@@ -6,11 +6,11 @@ author: TQSY114514
 description: DeepSeek Harness 外观自定义:主题调色、壁纸与视频背景、半透明与毛玻璃。
 package: dsh-ui-appearance
 rowId: ui-appearance
-version: 0.1.7
+version: 0.1.8
 source:
   kind: external
   repository: https://github.com/TQSY114514/dsh-ui-appearance
-  commit: 2ed86db7266941cc1c50709d813095b81eb0b2a3
+  commit: 51731bb050faefb210d78c22f0addb216364f1d7
 tags:
   - wallpaper
   - glass
@@ -23,8 +23,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/2ed86db7266941cc1c50709d813095b81eb0b2a3/docs/screenshot-settings.png
-  - https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/2ed86db7266941cc1c50709d813095b81eb0b2a3/docs/screenshot-wallpaper.png
+  - https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/51731bb050faefb210d78c22f0addb216364f1d7/docs/screenshot-settings.png
+  - https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/51731bb050faefb210d78c22f0addb216364f1d7/docs/screenshot-wallpaper.png
 review:
   compatibility: unverified
   preview: verified
@@ -32,4 +32,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-09-04T15:49:49Z
+updatedAt: 2026-09-05T06:39:54Z
