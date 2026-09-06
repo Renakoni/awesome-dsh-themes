@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T18:16:48.822Z",
+  "generatedAt": "2026-09-06T08:39:25.756Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -698,8 +698,8 @@
       "packageName": "@cdxdnrf/dsh-client-ui-skin-wishadel",
       "rowId": "ui-skin-wishadel",
       "install": {
-        "target": "github:cdxDNRF/wishadel-theme#1639d6cccc0109a519e06c6d5cb1f99be9a59ee0",
-        "commit": "1639d6cccc0109a519e06c6d5cb1f99be9a59ee0",
+        "target": "github:cdxDNRF/wishadel-theme#148fa19094acdbeab6893b28176bd23999bd7031",
+        "commit": "148fa19094acdbeab6893b28176bd23999bd7031",
         "version": "0.7.0"
       },
       "tags": [
@@ -718,8 +718,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/1639d6cccc0109a519e06c6d5cb1f99be9a59ee0/docs/screenshots/conversation.png",
-        "https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/1639d6cccc0109a519e06c6d5cb1f99be9a59ee0/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/148fa19094acdbeab6893b28176bd23999bd7031/docs/screenshots/conversation.png",
+        "https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/148fa19094acdbeab6893b28176bd23999bd7031/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/cdxdnrf.wishadel-theme.webp",
       "review": {
@@ -732,7 +732,7 @@
         "commercialUse": false
       },
       "stars": 2,
-      "updatedAt": "2026-09-05T16:07:43Z"
+      "updatedAt": "2026-09-06T04:05:56Z"
     },
     {
       "id": "chajiuqqq.dsh-claude-theme",
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 163,
+      "stars": 167,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -2788,9 +2788,9 @@
       "packageName": "dsh-billing-glass",
       "rowId": "billing-glass",
       "install": {
-        "target": "github:linkingoscar/dsh-billing-glass#1db2706ed1c165a3ded2490bd83a85b5d115edf5",
-        "commit": "1db2706ed1c165a3ded2490bd83a85b5d115edf5",
-        "version": "0.5.0"
+        "target": "github:linkingoscar/dsh-billing-glass#4ce72e2d2f5d0f79e49eba9c614f3ca667d75781",
+        "commit": "4ce72e2d2f5d0f79e49eba9c614f3ca667d75781",
+        "version": "0.5.1"
       },
       "tags": [
         "glass",
@@ -2809,7 +2809,7 @@
         ]
       },
       "screenshots": [
-        "https://opengraph.githubassets.com/1db2706ed1c165a3ded2490bd83a85b5d115edf5/linkingoscar/dsh-billing-glass"
+        "https://opengraph.githubassets.com/4ce72e2d2f5d0f79e49eba9c614f3ca667d75781/linkingoscar/dsh-billing-glass"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/linkingoscar.dsh-billing-glass.webp",
       "review": {
@@ -2822,7 +2822,7 @@
         "commercialUse": true
       },
       "stars": 3,
-      "updatedAt": "2026-08-27T21:02:59Z"
+      "updatedAt": "2026-09-06T04:00:21Z"
     },
     {
       "id": "linzhuolisoc.dsh-skin-study",
@@ -3592,7 +3592,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 30,
+      "stars": 31,
       "updatedAt": "2026-09-05T09:07:48Z"
     },
     {
@@ -3941,8 +3941,8 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#4226e1ef38eb10ea296580ab4b9e2e2de48801d0",
-        "commit": "4226e1ef38eb10ea296580ab4b9e2e2de48801d0",
+        "target": "github:RevolutionLA/dsh-dream-skin#afea9ec5400324cbc33e9ba9d218ea7bc21a54e8",
+        "commit": "afea9ec5400324cbc33e9ba9d218ea7bc21a54e8",
         "version": "8.30.1"
       },
       "tags": [
@@ -3962,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/4226e1ef38eb10ea296580ab4b9e2e2de48801d0/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/4226e1ef38eb10ea296580ab4b9e2e2de48801d0/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/afea9ec5400324cbc33e9ba9d218ea7bc21a54e8/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/afea9ec5400324cbc33e9ba9d218ea7bc21a54e8/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3975,8 +3975,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 147,
-      "updatedAt": "2026-09-05T07:39:13Z"
+      "stars": 149,
+      "updatedAt": "2026-09-06T07:53:23Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4273,8 +4273,8 @@
       "packageName": "@dsh-external/dsh-client-ui-skin-maid-atelier",
       "rowId": "ui-skin-maid-atelier",
       "install": {
-        "target": "github:Small-tailqwq/dsh-deep-whale#78722ef75b0563623f3bb05524d5bb4f0e303233&path:maid-atelier",
-        "commit": "78722ef75b0563623f3bb05524d5bb4f0e303233",
+        "target": "github:Small-tailqwq/dsh-deep-whale#92bf64673a580935cf3ea832acd635bc9f3242d8&path:maid-atelier",
+        "commit": "92bf64673a580935cf3ea832acd635bc9f3242d8",
         "version": "0.0.1"
       },
       "tags": [
@@ -4296,8 +4296,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/78722ef75b0563623f3bb05524d5bb4f0e303233/maid-atelier/preview/light.webp",
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/78722ef75b0563623f3bb05524d5bb4f0e303233/maid-atelier/preview/dark.webp"
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/92bf64673a580935cf3ea832acd635bc9f3242d8/maid-atelier/preview/light.webp",
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/92bf64673a580935cf3ea832acd635bc9f3242d8/maid-atelier/preview/dark.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/small-tailqwq.maid-atelier.webp",
       "review": {
@@ -4310,8 +4310,8 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1935,
-      "updatedAt": "2026-09-05T13:30:21Z"
+      "stars": 1937,
+      "updatedAt": "2026-09-06T07:40:07Z"
     },
     {
       "id": "starslittle.dsh-blue-whale",
@@ -5434,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 402,
+      "stars": 403,
       "updatedAt": "2026-08-22T02:10:09Z"
     },
     {
@@ -5696,7 +5696,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 26,
+      "stars": 27,
       "updatedAt": "2026-08-24T12:59:18Z"
     },
     {
