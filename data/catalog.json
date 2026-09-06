@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T08:39:25.756Z",
+  "generatedAt": "2026-09-06T18:16:31.130Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -976,7 +976,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 197,
+      "stars": 198,
       "updatedAt": "2026-09-01T13:31:28Z"
     },
     {
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 167,
+      "stars": 168,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -2429,7 +2429,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 27,
+      "stars": 26,
       "updatedAt": "2026-08-27T17:59:54Z"
     },
     {
@@ -3592,7 +3592,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 31,
+      "stars": 32,
       "updatedAt": "2026-09-05T09:07:48Z"
     },
     {
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1937,
+      "stars": 1943,
       "updatedAt": "2026-09-06T07:40:07Z"
     },
     {
@@ -4749,7 +4749,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 27,
+      "stars": 28,
       "updatedAt": "2026-08-16T12:15:36.557Z"
     },
     {

@@ -18,7 +18,7 @@
 <td align="center" valign="middle">深海女仆工坊</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="深海女仆工坊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">1,937</td>
+<td align="center" valign="middle">1,943</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
@@ -30,13 +30,13 @@
 <td align="center" valign="middle">Open Sea 海洋皮肤</td>
 <td align="center" valign="middle"><img src="previews/d-dev0101.open-sea-skin.webp" alt="Open Sea 海洋皮肤" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/d-dev0101/open-sea-skin">d-dev0101/open-sea-skin</a></td>
-<td align="center" valign="middle">197</td>
+<td align="center" valign="middle">198</td>
 </tr>
 <tr>
 <td align="center" valign="middle">滑动变祖</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="滑动变祖" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">167</td>
+<td align="center" valign="middle">168</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
@@ -54,13 +54,19 @@
 <td align="center" valign="middle">dsh-catppuccin</td>
 <td align="center" valign="middle"><img src="previews/nonamelego.dsh-catppuccin.webp" alt="dsh-catppuccin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/NoNameLeGo/dsh-catppuccin">NoNameLeGo/dsh-catppuccin</a></td>
-<td align="center" valign="middle">31</td>
+<td align="center" valign="middle">32</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-wallpaper_share</td>
 <td align="center" valign="middle"><img src="previews/yrn-playmaker.dsh-wallpaper-share.webp" alt="dsh-wallpaper_share" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/YRN-playmaker/dsh-wallpaper_share">YRN-playmaker/dsh-wallpaper_share</a></td>
 <td align="center" valign="middle">30</td>
+</tr>
+<tr>
+<td align="center" valign="middle">dsh-theme-cyberpunk2077</td>
+<td align="center" valign="middle"><img src="previews/tommy00748.dsh-theme-cyberpunk2077.webp" alt="dsh-theme-cyberpunk2077" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/Tommy00748/dsh-theme-cyberpunk2077">Tommy00748/dsh-theme-cyberpunk2077</a></td>
+<td align="center" valign="middle">28</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-client-ui-custom</td>
@@ -72,13 +78,7 @@
 <td align="center" valign="middle">dsh-qq2006</td>
 <td align="center" valign="middle"><img src="previews/laplaceyoung.dsh-qq2006.webp" alt="dsh-qq2006" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/LaplaceYoung/dsh-qq2006">LaplaceYoung/dsh-qq2006</a></td>
-<td align="center" valign="middle">27</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-theme-cyberpunk2077</td>
-<td align="center" valign="middle"><img src="previews/tommy00748.dsh-theme-cyberpunk2077.webp" alt="dsh-theme-cyberpunk2077" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/Tommy00748/dsh-theme-cyberpunk2077">Tommy00748/dsh-theme-cyberpunk2077</a></td>
-<td align="center" valign="middle">27</td>
+<td align="center" valign="middle">26</td>
 </tr>
 <tr>
 <td align="center" valign="middle">maid-whale-webui</td>
