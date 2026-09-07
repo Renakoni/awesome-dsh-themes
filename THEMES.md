@@ -18,7 +18,7 @@
 <td align="center" valign="middle">深海女仆工坊</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="深海女仆工坊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">1,954</td>
+<td align="center" valign="middle">1,964</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
@@ -42,7 +42,7 @@
 <td align="center" valign="middle">dsh-dream-skin</td>
 <td align="center" valign="middle"><img src="previews/revolutionla.dsh-dream-skin.webp" alt="dsh-dream-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></td>
-<td align="center" valign="middle">150</td>
+<td align="center" valign="middle">152</td>
 </tr>
 <tr>
 <td align="center" valign="middle">达妮娅 · 虚无之泡</td>
@@ -72,7 +72,7 @@
 <td align="center" valign="middle">dsh-client-ui-custom</td>
 <td align="center" valign="middle"><img src="previews/yoli-mi.dsh-client-ui-custom.webp" alt="dsh-client-ui-custom" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/yoli-mi/dsh-client-ui-custom">yoli-mi/dsh-client-ui-custom</a></td>
-<td align="center" valign="middle">27</td>
+<td align="center" valign="middle">26</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-qq2006</td>

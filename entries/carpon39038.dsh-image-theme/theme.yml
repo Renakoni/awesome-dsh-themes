@@ -6,11 +6,11 @@ author: Carpon39038
 description: Warp-inspired image-to-theme plugin for the DeepSeek Harness web client.
 package: "@cabeta/dsh-image-theme"
 rowId: image-theme
-version: 0.1.0
+version: 0.1.1
 source:
   kind: external
   repository: https://github.com/Carpon39038/dsh-image-theme
-  commit: d522281fcdf81fb08984650800294b0058b89301
+  commit: 25c70fcd31b0cf36f8a0ff57b0413223daaf5d27
 tags:
   - glass
   - motion
@@ -24,7 +24,7 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/Carpon39038/dsh-image-theme/d522281fcdf81fb08984650800294b0058b89301/docs/preview.png
+  - https://raw.githubusercontent.com/Carpon39038/dsh-image-theme/25c70fcd31b0cf36f8a0ff57b0413223daaf5d27/docs/preview.png
 review:
   compatibility: verified
   preview: verified
@@ -32,4 +32,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-08-16T13:50:02.941Z
+updatedAt: 2026-09-07T15:58:02Z

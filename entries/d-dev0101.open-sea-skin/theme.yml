@@ -6,11 +6,11 @@ author: d-dev0101
 description: 为 DeepSeek Harness Web UI 提供实时 WebGPU 海洋背景，支持左下角调节波浪、日光、玻璃不透明度和自动昼夜循环。
 package: open-sea-skin
 rowId: open-sea-skin
-version: 1.2.2
+version: 1.2.3
 source:
   kind: external
   repository: https://github.com/d-dev0101/open-sea-skin
-  commit: 07507a4e7b43e1c9b9006ad8af97406330adb2ea
+  commit: 5dd47e7c7b53fa6be410accc39d0d2ec8778194e
 tags:
   - ocean
   - webgpu
@@ -25,11 +25,11 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/07507a4e7b43e1c9b9006ad8af97406330adb2ea/docs/marketplace/open-sea-harness-cover.png
-  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/07507a4e7b43e1c9b9006ad8af97406330adb2ea/docs/screenshots/harness-dark-overview-40.gif
-  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/07507a4e7b43e1c9b9006ad8af97406330adb2ea/docs/screenshots/harness-light-overview-40.gif
-  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/07507a4e7b43e1c9b9006ad8af97406330adb2ea/docs/screenshots/harness-wave-control-40.gif
-  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/07507a4e7b43e1c9b9006ad8af97406330adb2ea/docs/screenshots/harness-daylight-sunset-40.gif
+  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/5dd47e7c7b53fa6be410accc39d0d2ec8778194e/docs/marketplace/open-sea-harness-cover.png
+  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/5dd47e7c7b53fa6be410accc39d0d2ec8778194e/docs/screenshots/harness-dark-overview-40.gif
+  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/5dd47e7c7b53fa6be410accc39d0d2ec8778194e/docs/screenshots/harness-light-overview-40.gif
+  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/5dd47e7c7b53fa6be410accc39d0d2ec8778194e/docs/screenshots/harness-wave-control-40.gif
+  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/5dd47e7c7b53fa6be410accc39d0d2ec8778194e/docs/screenshots/harness-daylight-sunset-40.gif
 review:
   compatibility: verified
   preview: verified
@@ -38,4 +38,4 @@ license:
   code: MIT
   commercialUse: true
   notice: Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1.
-updatedAt: 2026-09-01T13:31:28Z
+updatedAt: 2026-09-07T11:58:22Z
