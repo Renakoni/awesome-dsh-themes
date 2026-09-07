@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T18:16:31.130Z",
+  "generatedAt": "2026-09-07T09:19:20.726Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -244,7 +244,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 12,
+      "stars": 13,
       "updatedAt": "2026-08-17T16:32:05Z"
     },
     {
@@ -489,7 +489,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 4,
+      "stars": 5,
       "updatedAt": "2026-08-16T12:16:08.600Z"
     },
     {
@@ -1411,7 +1411,7 @@
         "code": "BSD-3-Clause",
         "commercialUse": true
       },
-      "stars": 4,
+      "stars": 5,
       "updatedAt": "2026-09-03T06:49:54Z"
     },
     {
@@ -1952,7 +1952,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 4,
+      "stars": 5,
       "updatedAt": "2026-08-16T12:16:47.899Z"
     },
     {
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 168,
+      "stars": 171,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -3737,7 +3737,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 10,
+      "stars": 11,
       "updatedAt": "2026-09-01T15:05:55Z"
     },
     {
@@ -3941,8 +3941,8 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#afea9ec5400324cbc33e9ba9d218ea7bc21a54e8",
-        "commit": "afea9ec5400324cbc33e9ba9d218ea7bc21a54e8",
+        "target": "github:RevolutionLA/dsh-dream-skin#26946012b7e0473933d3fee05f8f5d5befaf283d",
+        "commit": "26946012b7e0473933d3fee05f8f5d5befaf283d",
         "version": "8.30.1"
       },
       "tags": [
@@ -3962,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/afea9ec5400324cbc33e9ba9d218ea7bc21a54e8/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/afea9ec5400324cbc33e9ba9d218ea7bc21a54e8/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/26946012b7e0473933d3fee05f8f5d5befaf283d/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/26946012b7e0473933d3fee05f8f5d5befaf283d/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3975,8 +3975,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 149,
-      "updatedAt": "2026-09-06T07:53:23Z"
+      "stars": 150,
+      "updatedAt": "2026-09-07T08:15:38Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4165,7 +4165,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 3,
       "updatedAt": "2026-08-16T12:16:30.062Z"
     },
     {
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1943,
+      "stars": 1954,
       "updatedAt": "2026-09-06T07:40:07Z"
     },
     {
@@ -5434,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 403,
+      "stars": 405,
       "updatedAt": "2026-08-22T02:10:09Z"
     },
     {
