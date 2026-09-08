@@ -18,7 +18,7 @@
 <td align="center" valign="middle">深海女仆工坊</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="深海女仆工坊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">1,964</td>
+<td align="center" valign="middle">1,974</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
@@ -36,13 +36,13 @@
 <td align="center" valign="middle">滑动变祖</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="滑动变祖" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">171</td>
+<td align="center" valign="middle">172</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
 <td align="center" valign="middle"><img src="previews/revolutionla.dsh-dream-skin.webp" alt="dsh-dream-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></td>
-<td align="center" valign="middle">152</td>
+<td align="center" valign="middle">153</td>
 </tr>
 <tr>
 <td align="center" valign="middle">达妮娅 · 虚无之泡</td>
@@ -54,7 +54,7 @@
 <td align="center" valign="middle">dsh-catppuccin</td>
 <td align="center" valign="middle"><img src="previews/nonamelego.dsh-catppuccin.webp" alt="dsh-catppuccin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/NoNameLeGo/dsh-catppuccin">NoNameLeGo/dsh-catppuccin</a></td>
-<td align="center" valign="middle">32</td>
+<td align="center" valign="middle">33</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-wallpaper_share</td>
@@ -72,13 +72,13 @@
 <td align="center" valign="middle">dsh-client-ui-custom</td>
 <td align="center" valign="middle"><img src="previews/yoli-mi.dsh-client-ui-custom.webp" alt="dsh-client-ui-custom" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/yoli-mi/dsh-client-ui-custom">yoli-mi/dsh-client-ui-custom</a></td>
-<td align="center" valign="middle">26</td>
+<td align="center" valign="middle">27</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-qq2006</td>
 <td align="center" valign="middle"><img src="previews/laplaceyoung.dsh-qq2006.webp" alt="dsh-qq2006" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/LaplaceYoung/dsh-qq2006">LaplaceYoung/dsh-qq2006</a></td>
-<td align="center" valign="middle">26</td>
+<td align="center" valign="middle">27</td>
 </tr>
 <tr>
 <td align="center" valign="middle">maid-whale-webui</td>
@@ -177,6 +177,12 @@
 <td align="center" valign="middle">8</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-client-ui-theme-xp</td>
+<td align="center" valign="middle"><img src="previews/samizuhm.dsh-client-ui-theme-xp.webp" alt="dsh-client-ui-theme-xp" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/SamizuHM/dsh-client-ui-theme-xp">SamizuHM/dsh-client-ui-theme-xp</a></td>
+<td align="center" valign="middle">8</td>
+</tr>
+<tr>
 <td align="center" valign="middle">ikun-theme-skin</td>
 <td align="center" valign="middle"><img src="previews/aks1st.ikun-theme-skin.webp" alt="ikun-theme-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/AKS1st/ikun-theme-skin">AKS1st/ikun-theme-skin</a></td>
@@ -189,9 +195,9 @@
 <td align="center" valign="middle">7</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-client-ui-theme-xp</td>
-<td align="center" valign="middle"><img src="previews/samizuhm.dsh-client-ui-theme-xp.webp" alt="dsh-client-ui-theme-xp" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/SamizuHM/dsh-client-ui-theme-xp">SamizuHM/dsh-client-ui-theme-xp</a></td>
+<td align="center" valign="middle">dsh-neu-theme</td>
+<td align="center" valign="middle"><img src="previews/lhy723.dsh-neu-theme.webp" alt="dsh-neu-theme" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/Lhy723/dsh-neu-theme">Lhy723/dsh-neu-theme</a></td>
 <td align="center" valign="middle">7</td>
 </tr>
 <tr>
@@ -225,12 +231,6 @@
 <td align="center" valign="middle">6</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-neu-theme</td>
-<td align="center" valign="middle"><img src="previews/lhy723.dsh-neu-theme.webp" alt="dsh-neu-theme" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/Lhy723/dsh-neu-theme">Lhy723/dsh-neu-theme</a></td>
-<td align="center" valign="middle">6</td>
-</tr>
-<tr>
 <td align="center" valign="middle">dsh-oh-my-theme</td>
 <td align="center" valign="middle"><img src="previews/zhxqc.dsh-oh-my-theme.webp" alt="dsh-oh-my-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/zhxqc/dsh-oh-my-theme">zhxqc/dsh-oh-my-theme</a></td>
@@ -247,6 +247,12 @@
 <td align="center" valign="middle"><img src="previews/tianya-dao.dsh-wallpaper-engine.webp" alt="dsh-wallpaper-engine" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/TianYa-DAO/dsh-wallpaper-engine">TianYa-DAO/dsh-wallpaper-engine</a></td>
 <td align="center" valign="middle">6</td>
+</tr>
+<tr>
+<td align="center" valign="middle">DeepSeek-Harness-yizi-themes</td>
+<td align="center" valign="middle"><img src="previews/laoduu.deepseek-harness-yizi-themes.webp" alt="DeepSeek-Harness-yizi-themes" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/laoduu/DeepSeek-Harness-yizi-themes">laoduu/DeepSeek-Harness-yizi-themes</a></td>
+<td align="center" valign="middle">5</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-anthropic-fonts</td>
@@ -301,12 +307,6 @@
 <td align="center" valign="middle"><img src="previews/z21for99.silk-background.webp" alt="silk-background" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/z21for99/silk-background">z21for99/silk-background</a></td>
 <td align="center" valign="middle">5</td>
-</tr>
-<tr>
-<td align="center" valign="middle">DeepSeek-Harness-yizi-themes</td>
-<td align="center" valign="middle"><img src="previews/laoduu.deepseek-harness-yizi-themes.webp" alt="DeepSeek-Harness-yizi-themes" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/laoduu/DeepSeek-Harness-yizi-themes">laoduu/DeepSeek-Harness-yizi-themes</a></td>
-<td align="center" valign="middle">4</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dph-endfield-theme</td>
