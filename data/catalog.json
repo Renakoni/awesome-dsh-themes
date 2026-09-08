@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T08:51:47.793Z",
+  "generatedAt": "2026-09-08T19:26:56.008Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -244,7 +244,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 13,
+      "stars": 14,
       "updatedAt": "2026-08-17T16:32:05Z"
     },
     {
@@ -976,7 +976,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 198,
+      "stars": 273,
       "updatedAt": "2026-09-07T11:58:22Z"
     },
     {
@@ -1523,9 +1523,9 @@
       "packageName": "@dsh-external/dsh-client-ui-skin-denia",
       "rowId": "ui-skin-denia",
       "install": {
-        "target": "github:Ewnscat-ya/dsh-client-ui-skin-denia#be39c4861376c12c94fa1c1ca25055a53e6f60f7",
-        "commit": "be39c4861376c12c94fa1c1ca25055a53e6f60f7",
-        "version": "0.0.5"
+        "target": "github:Ewnscat-ya/dsh-client-ui-skin-denia#52b803c8b7c827f1f7d1183b91fb2e36f972c7fd",
+        "commit": "52b803c8b7c827f1f7d1183b91fb2e36f972c7fd",
+        "version": "0.0.6"
       },
       "tags": [
         "wallpaper",
@@ -1545,8 +1545,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Ewnscat-ya/dsh-client-ui-skin-denia/be39c4861376c12c94fa1c1ca25055a53e6f60f7/preview/light.webp",
-        "https://raw.githubusercontent.com/Ewnscat-ya/dsh-client-ui-skin-denia/be39c4861376c12c94fa1c1ca25055a53e6f60f7/preview/dark.webp"
+        "https://raw.githubusercontent.com/Ewnscat-ya/dsh-client-ui-skin-denia/52b803c8b7c827f1f7d1183b91fb2e36f972c7fd/preview/light.webp",
+        "https://raw.githubusercontent.com/Ewnscat-ya/dsh-client-ui-skin-denia/52b803c8b7c827f1f7d1183b91fb2e36f972c7fd/preview/dark.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/ewnscat-ya.dsh-client-ui-skin-denia.webp",
       "review": {
@@ -1560,7 +1560,7 @@
         "notice": "角色、美术和商标权利归原权利人所有；仓库声明为非官方同人作品并禁止商业使用。"
       },
       "stars": 34,
-      "updatedAt": "2026-08-23T20:39:16Z"
+      "updatedAt": "2026-09-08T08:57:58Z"
     },
     {
       "id": "gooosie.dsh-whale-bg",
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 172,
+      "stars": 174,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -2673,7 +2673,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 7,
+      "stars": 6,
       "updatedAt": "2026-08-26T14:46:53Z"
     },
     {
@@ -3592,7 +3592,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 33,
+      "stars": 35,
       "updatedAt": "2026-09-07T13:56:53Z"
     },
     {
@@ -3975,7 +3975,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 153,
+      "stars": 152,
       "updatedAt": "2026-09-08T08:03:42Z"
     },
     {
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1974,
+      "stars": 1976,
       "updatedAt": "2026-09-07T17:11:32Z"
     },
     {
@@ -4701,7 +4701,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 21,
+      "stars": 22,
       "updatedAt": "2026-09-05T16:38:44Z"
     },
     {
@@ -4800,7 +4800,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 17,
+      "stars": 18,
       "updatedAt": "2026-08-20T05:11:02Z"
     },
     {
@@ -4848,7 +4848,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 13,
+      "stars": 14,
       "updatedAt": "2026-09-05T11:47:58Z"
     },
     {
@@ -5434,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 405,
+      "stars": 406,
       "updatedAt": "2026-08-22T02:10:09Z"
     },
     {
@@ -5696,7 +5696,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 27,
+      "stars": 28,
       "updatedAt": "2026-08-24T12:59:18Z"
     },
     {
@@ -5807,8 +5807,8 @@
       "packageName": "dsh-wallpaper_share",
       "rowId": "we-sync",
       "install": {
-        "target": "github:YRN-playmaker/dsh-wallpaper_share#daccbad455bb9dda5e582ca01950c1ad1d46f1d5",
-        "commit": "daccbad455bb9dda5e582ca01950c1ad1d46f1d5",
+        "target": "github:YRN-playmaker/dsh-wallpaper_share#46e7096719118a35ed04f5ff7949d2423246d6c3",
+        "commit": "46e7096719118a35ed04f5ff7949d2423246d6c3",
         "version": "26.9.8"
       },
       "tags": [
@@ -5842,7 +5842,7 @@
         "commercialUse": true
       },
       "stars": 30,
-      "updatedAt": "2026-09-08T05:56:30Z"
+      "updatedAt": "2026-09-08T15:40:01Z"
     },
     {
       "id": "yunxiiqwq.maid-whale-webui",
@@ -5890,7 +5890,7 @@
         "code": "BSD-3-Clause",
         "commercialUse": true
       },
-      "stars": 26,
+      "stars": 27,
       "updatedAt": "2026-08-30T14:30:44Z"
     },
     {
