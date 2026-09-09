@@ -7,11 +7,11 @@ description: A "wallpaper engine" synchronization plugin mounted on the deepseek
   harness can synchronize static wallpapers
 package: dsh-wallpaper_share
 rowId: we-sync
-version: 26.9.8
+version: 26.9.10
 source:
   kind: external
   repository: https://github.com/YRN-playmaker/dsh-wallpaper_share
-  commit: 46e7096719118a35ed04f5ff7949d2423246d6c3
+  commit: f13efcd6960d0729e07ea7ef1cb2a8e4e504c3ce
 tags:
   - wallpaper
   - glass
@@ -34,4 +34,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-09-08T15:40:01Z
+updatedAt: 2026-09-09T18:55:42Z
