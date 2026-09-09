@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T08:58:27.183Z",
+  "generatedAt": "2026-09-09T19:16:55.870Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -48,7 +48,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 5,
+      "stars": 4,
       "updatedAt": "2026-08-16T13:51:42.695Z"
     },
     {
@@ -146,7 +146,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-18T04:24:54Z"
     },
     {
@@ -194,7 +194,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 4,
+      "stars": 3,
       "updatedAt": "2026-08-16T13:48:35.219Z"
     },
     {
@@ -341,7 +341,7 @@
         "code": "Apache-2.0",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 1,
       "updatedAt": "2026-08-18T05:16:01Z"
     },
     {
@@ -390,7 +390,7 @@
         "code": "SEE LICENSE IN LICENSE",
         "commercialUse": false
       },
-      "stars": 2,
+      "stars": 1,
       "updatedAt": "2026-08-21T15:34:54Z"
     },
     {
@@ -587,7 +587,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:49:58.682Z"
     },
     {
@@ -635,7 +635,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 12,
+      "stars": 11,
       "updatedAt": "2026-08-29T14:53:38Z"
     },
     {
@@ -731,7 +731,7 @@
         "code": "CC-BY-NC-SA-4.0",
         "commercialUse": false
       },
-      "stars": 2,
+      "stars": 1,
       "updatedAt": "2026-09-06T04:05:56Z"
     },
     {
@@ -828,7 +828,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:54:57.394Z"
     },
     {
@@ -876,7 +876,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 4,
+      "stars": 3,
       "updatedAt": "2026-08-16T12:16:12.637Z"
     },
     {
@@ -922,7 +922,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:55:01.116Z"
     },
     {
@@ -937,9 +937,9 @@
       "packageName": "open-sea-skin",
       "rowId": "open-sea-skin",
       "install": {
-        "target": "github:d-dev0101/open-sea-skin#5dd47e7c7b53fa6be410accc39d0d2ec8778194e",
-        "commit": "5dd47e7c7b53fa6be410accc39d0d2ec8778194e",
-        "version": "1.2.3"
+        "target": "github:d-dev0101/open-sea-skin#58a1f490ca9af55febcbb5095908d5ca35db4248",
+        "commit": "58a1f490ca9af55febcbb5095908d5ca35db4248",
+        "version": "1.2.4"
       },
       "tags": [
         "ocean",
@@ -959,11 +959,11 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/5dd47e7c7b53fa6be410accc39d0d2ec8778194e/docs/marketplace/open-sea-harness-cover.png",
-        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/5dd47e7c7b53fa6be410accc39d0d2ec8778194e/docs/screenshots/harness-dark-overview-40.gif",
-        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/5dd47e7c7b53fa6be410accc39d0d2ec8778194e/docs/screenshots/harness-light-overview-40.gif",
-        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/5dd47e7c7b53fa6be410accc39d0d2ec8778194e/docs/screenshots/harness-wave-control-40.gif",
-        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/5dd47e7c7b53fa6be410accc39d0d2ec8778194e/docs/screenshots/harness-daylight-sunset-40.gif"
+        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/58a1f490ca9af55febcbb5095908d5ca35db4248/docs/marketplace/open-sea-harness-cover.png",
+        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/58a1f490ca9af55febcbb5095908d5ca35db4248/docs/screenshots/harness-dark-overview-40.gif",
+        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/58a1f490ca9af55febcbb5095908d5ca35db4248/docs/screenshots/harness-light-overview-40.gif",
+        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/58a1f490ca9af55febcbb5095908d5ca35db4248/docs/screenshots/harness-wave-control-40.gif",
+        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/58a1f490ca9af55febcbb5095908d5ca35db4248/docs/screenshots/harness-daylight-sunset-40.gif"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/d-dev0101.open-sea-skin.webp",
       "review": {
@@ -976,8 +976,8 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 314,
-      "updatedAt": "2026-09-07T11:58:22Z"
+      "stars": 341,
+      "updatedAt": "2026-09-09T13:53:45Z"
     },
     {
       "id": "dac114514.dsh-theme-center",
@@ -1026,7 +1026,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:55:05.474Z"
     },
     {
@@ -1124,7 +1124,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:55:09.178Z"
     },
     {
@@ -1218,7 +1218,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 6,
+      "stars": 5,
       "updatedAt": "2026-08-16T13:50:16.726Z"
     },
     {
@@ -1315,7 +1315,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 2,
       "updatedAt": "2026-08-26T08:40:01Z"
     },
     {
@@ -1362,7 +1362,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 4,
+      "stars": 3,
       "updatedAt": "2026-08-16T13:48:19.998Z"
     },
     {
@@ -1661,7 +1661,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-16T15:16:45Z"
     },
     {
@@ -1710,7 +1710,7 @@
         "commercialUse": false,
         "notice": "插件代码声明为 MIT；壁纸与精灵表为第三方《鸣潮》爱弥斯素材，仓库说明仅供个人学习交流使用，版权归原权利人所有。"
       },
-      "stars": 6,
+      "stars": 5,
       "updatedAt": "2026-08-16T16:37:51Z"
     },
     {
@@ -1755,7 +1755,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:55:44.428Z"
     },
     {
@@ -1853,7 +1853,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:52:26.766Z"
     },
     {
@@ -1907,7 +1907,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:52:31.430Z"
     },
     {
@@ -1952,7 +1952,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 5,
+      "stars": 4,
       "updatedAt": "2026-08-16T12:16:47.899Z"
     },
     {
@@ -1999,7 +1999,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 1,
       "updatedAt": "2026-08-17T15:07:20Z"
     },
     {
@@ -2048,7 +2048,7 @@
         "code": "SEE LICENSE IN NOTICE.md",
         "commercialUse": false
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:55:59.921Z"
     },
     {
@@ -2094,7 +2094,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:56:03.838Z"
     },
     {
@@ -2141,7 +2141,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-16T14:25:23.482Z"
     },
     {
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 177,
+      "stars": 178,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -2331,7 +2331,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:52:44.893Z"
     },
     {
@@ -2380,7 +2380,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 5,
+      "stars": 4,
       "updatedAt": "2026-08-28T07:27:57Z"
     },
     {
@@ -2529,7 +2529,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 4,
+      "stars": 3,
       "updatedAt": "2026-09-05T05:01:06Z"
     },
     {
@@ -2719,7 +2719,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:56:36.780Z"
     },
     {
@@ -2773,7 +2773,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 2,
       "updatedAt": "2026-08-20T21:36:36Z"
     },
     {
@@ -2865,7 +2865,7 @@
         "code": "Apache-2.0",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-19T12:00:42Z"
     },
     {
@@ -2914,7 +2914,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 1,
       "updatedAt": "2026-08-18T15:55:54Z"
     },
     {
@@ -3010,7 +3010,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:49:06.693Z"
     },
     {
@@ -3056,7 +3056,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:53:10.751Z"
     },
     {
@@ -3152,7 +3152,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 1,
       "updatedAt": "2026-08-17T05:51:20Z"
     },
     {
@@ -3203,7 +3203,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 6,
+      "stars": 5,
       "updatedAt": "2026-08-16T13:48:03.686Z"
     },
     {
@@ -3346,7 +3346,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:50:42.859Z"
     },
     {
@@ -3394,7 +3394,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:56:51.169Z"
     },
     {
@@ -3538,7 +3538,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:56:56.643Z"
     },
     {
@@ -3737,7 +3737,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 11,
+      "stars": 10,
       "updatedAt": "2026-09-01T15:05:55Z"
     },
     {
@@ -3784,7 +3784,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 1,
       "updatedAt": "2026-08-19T03:46:43Z"
     },
     {
@@ -3831,7 +3831,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:53:45.052Z"
     },
     {
@@ -3878,7 +3878,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 2,
       "updatedAt": "2026-08-21T06:46:59Z"
     },
     {
@@ -3926,7 +3926,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-27T14:41:29Z"
     },
     {
@@ -3975,7 +3975,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 153,
+      "stars": 152,
       "updatedAt": "2026-09-09T08:07:03Z"
     },
     {
@@ -4023,7 +4023,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 2,
       "updatedAt": "2026-09-05T03:08:55Z"
     },
     {
@@ -4117,7 +4117,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:57:29.957Z"
     },
     {
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1976,
+      "stars": 1980,
       "updatedAt": "2026-09-07T17:11:32Z"
     },
     {
@@ -4454,7 +4454,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:53:58.612Z"
     },
     {
@@ -4764,9 +4764,9 @@
       "packageName": "dsh-joi-channel-theme",
       "rowId": "joi-channel-theme",
       "install": {
-        "target": "github:tpmoonchefryan/dsh-joi-channel-theme#3c12a2706759104a94b51013d19bb3e9c3f2bef1",
-        "commit": "3c12a2706759104a94b51013d19bb3e9c3f2bef1",
-        "version": "0.1.10"
+        "target": "github:tpmoonchefryan/dsh-joi-channel-theme#70b3a240f822e4a2408133ebf93bda14c396213c",
+        "commit": "70b3a240f822e4a2408133ebf93bda14c396213c",
+        "version": "0.1.11"
       },
       "tags": [
         "token-theme",
@@ -4783,12 +4783,12 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/3c12a2706759104a94b51013d19bb3e9c3f2bef1/docs/new-chat-flowers.png",
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/3c12a2706759104a94b51013d19bb3e9c3f2bef1/docs/new-chat-library.png",
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/3c12a2706759104a94b51013d19bb3e9c3f2bef1/docs/new-chat-flowers-dark.png",
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/3c12a2706759104a94b51013d19bb3e9c3f2bef1/docs/new-chat-library-dark.png",
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/3c12a2706759104a94b51013d19bb3e9c3f2bef1/docs/app-logo-library.png",
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/3c12a2706759104a94b51013d19bb3e9c3f2bef1/docs/app-logo-flowers.png"
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/new-chat-flowers.png",
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/new-chat-library.png",
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/new-chat-flowers-dark.png",
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/new-chat-library-dark.png",
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/app-logo-library.png",
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/app-logo-flowers.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tpmoonchefryan.dsh-joi-channel-theme.webp",
       "review": {
@@ -4801,7 +4801,7 @@
         "commercialUse": true
       },
       "stars": 18,
-      "updatedAt": "2026-08-20T05:11:02Z"
+      "updatedAt": "2026-09-09T18:46:38Z"
     },
     {
       "id": "tqsy114514.dsh-ui-appearance",
@@ -4896,7 +4896,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 4,
+      "stars": 3,
       "updatedAt": "2026-08-19T03:22:02Z"
     },
     {
@@ -4944,7 +4944,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:49:24.908Z"
     },
     {
@@ -5045,7 +5045,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-16T13:57:56.238Z"
     },
     {
@@ -5287,7 +5287,7 @@
         "commercialUse": true,
         "notice": "各皮肤保留原作者的许可和署名，详见上游 skins/NOTICE.md。"
       },
-      "stars": 8,
+      "stars": 7,
       "updatedAt": "2026-08-24T13:52:09Z"
     },
     {
@@ -5383,7 +5383,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 2,
+      "stars": 1,
       "updatedAt": "2026-08-16T13:54:27.004Z"
     },
     {
@@ -5540,7 +5540,7 @@
         "code": "CC-BY-NC-SA-4.0",
         "commercialUse": false
       },
-      "stars": 18,
+      "stars": 19,
       "updatedAt": "2026-08-16T13:47:01.836Z"
     },
     {
@@ -5807,9 +5807,9 @@
       "packageName": "dsh-wallpaper_share",
       "rowId": "we-sync",
       "install": {
-        "target": "github:YRN-playmaker/dsh-wallpaper_share#46e7096719118a35ed04f5ff7949d2423246d6c3",
-        "commit": "46e7096719118a35ed04f5ff7949d2423246d6c3",
-        "version": "26.9.8"
+        "target": "github:YRN-playmaker/dsh-wallpaper_share#f13efcd6960d0729e07ea7ef1cb2a8e4e504c3ce",
+        "commit": "f13efcd6960d0729e07ea7ef1cb2a8e4e504c3ce",
+        "version": "26.9.10"
       },
       "tags": [
         "wallpaper",
@@ -5842,7 +5842,7 @@
         "commercialUse": true
       },
       "stars": 30,
-      "updatedAt": "2026-09-08T15:40:01Z"
+      "updatedAt": "2026-09-09T18:55:42Z"
     },
     {
       "id": "yunxiiqwq.maid-whale-webui",
@@ -5890,7 +5890,7 @@
         "code": "BSD-3-Clause",
         "commercialUse": true
       },
-      "stars": 27,
+      "stars": 28,
       "updatedAt": "2026-08-30T14:30:44Z"
     },
     {
@@ -5937,7 +5937,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-17T15:37:35Z"
     },
     {
@@ -5987,7 +5987,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 4,
+      "stars": 3,
       "updatedAt": "2026-09-04T16:45:15Z"
     },
     {
@@ -6084,7 +6084,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 2,
       "updatedAt": "2026-08-16T13:51:31.579Z"
     },
     {
@@ -6281,7 +6281,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 0,
       "updatedAt": "2026-08-16T12:34:13.620Z"
     },
     {
@@ -6333,7 +6333,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 7,
+      "stars": 6,
       "updatedAt": "2026-09-03T11:18:04Z"
     },
     {
