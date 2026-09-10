@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T08:57:17.556Z",
+  "generatedAt": "2026-09-10T19:08:03.830Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -976,7 +976,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 350,
+      "stars": 369,
       "updatedAt": "2026-09-09T13:53:45Z"
     },
     {
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 179,
+      "stars": 180,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -3941,9 +3941,9 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#c3fed08bbb68f3429ba88cc0124fc180a7aea743",
-        "commit": "c3fed08bbb68f3429ba88cc0124fc180a7aea743",
-        "version": "8.30.1"
+        "target": "github:RevolutionLA/dsh-dream-skin#6e02ebdc61b2d8628452f96aa9044b14374726c3",
+        "commit": "6e02ebdc61b2d8628452f96aa9044b14374726c3",
+        "version": "9.10.0"
       },
       "tags": [
         "wallpaper",
@@ -3962,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/c3fed08bbb68f3429ba88cc0124fc180a7aea743/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/c3fed08bbb68f3429ba88cc0124fc180a7aea743/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/6e02ebdc61b2d8628452f96aa9044b14374726c3/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/6e02ebdc61b2d8628452f96aa9044b14374726c3/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3975,8 +3975,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 154,
-      "updatedAt": "2026-09-10T08:06:31Z"
+      "stars": 158,
+      "updatedAt": "2026-09-10T15:54:29Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1983,
+      "stars": 1997,
       "updatedAt": "2026-09-10T08:15:48Z"
     },
     {
@@ -4701,7 +4701,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 23,
+      "stars": 24,
       "updatedAt": "2026-09-05T16:38:44Z"
     },
     {
@@ -4749,7 +4749,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 28,
+      "stars": 29,
       "updatedAt": "2026-08-16T12:15:36.557Z"
     },
     {
@@ -5696,7 +5696,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 30,
+      "stars": 31,
       "updatedAt": "2026-08-24T12:59:18Z"
     },
     {
@@ -6398,9 +6398,9 @@
       "packageName": "dsh-ivory",
       "rowId": "dsh-ivory",
       "install": {
-        "target": "github:ZJUZhiyuCai/dsh-ivory#6da0020d145213ce10433f28983e69cc598508c7",
-        "commit": "6da0020d145213ce10433f28983e69cc598508c7",
-        "version": "0.2.7"
+        "target": "github:ZJUZhiyuCai/dsh-ivory#1613f0dc4bf91bf25d5d138899fd03609c78953e",
+        "commit": "1613f0dc4bf91bf25d5d138899fd03609c78953e",
+        "version": "0.2.11"
       },
       "tags": [
         "motion",
@@ -6418,9 +6418,9 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/6da0020d145213ce10433f28983e69cc598508c7/assets/hero-light.png",
-        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/6da0020d145213ce10433f28983e69cc598508c7/assets/conversation-light.png",
-        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/6da0020d145213ce10433f28983e69cc598508c7/assets/mobile-light.png"
+        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/1613f0dc4bf91bf25d5d138899fd03609c78953e/assets/hero-light.png",
+        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/1613f0dc4bf91bf25d5d138899fd03609c78953e/assets/conversation-light.png",
+        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/1613f0dc4bf91bf25d5d138899fd03609c78953e/assets/mobile-light.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/zjuzhiyucai.dsh-ivory.webp",
       "review": {
@@ -6433,7 +6433,7 @@
         "commercialUse": true
       },
       "stars": 2,
-      "updatedAt": "2026-08-29T08:15:35Z"
+      "updatedAt": "2026-09-10T14:49:06Z"
     }
   ]
 }
