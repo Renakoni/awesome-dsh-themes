@@ -11,7 +11,7 @@ version: 0.1.11
 source:
   kind: external
   repository: https://github.com/tpmoonchefryan/dsh-joi-channel-theme
-  commit: 70b3a240f822e4a2408133ebf93bda14c396213c
+  commit: 2df174ba43fced995bc0fb7a24535db470e7dbc2
 tags:
   - token-theme
   - light-dark
@@ -23,12 +23,12 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/new-chat-flowers.png
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/new-chat-library.png
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/new-chat-flowers-dark.png
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/new-chat-library-dark.png
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/app-logo-library.png
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/app-logo-flowers.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/new-chat-flowers.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/new-chat-library.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/new-chat-flowers-dark.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/new-chat-library-dark.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/app-logo-library.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/app-logo-flowers.png
 review:
   compatibility: verified
   preview: verified
@@ -36,4 +36,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-09-09T18:46:38Z
+updatedAt: 2026-09-09T19:36:53Z

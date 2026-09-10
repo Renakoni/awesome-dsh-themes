@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T19:16:55.870Z",
+  "generatedAt": "2026-09-10T08:57:17.556Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -976,7 +976,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 341,
+      "stars": 350,
       "updatedAt": "2026-09-09T13:53:45Z"
     },
     {
@@ -1139,9 +1139,9 @@
       "packageName": "dsh-client-ui-m3-theme",
       "rowId": "ui-m3-theme",
       "install": {
-        "target": "github:DarkskyX15/dsh-client-ui-m3-theme#5b167b8e1b544aa6224c1bb32bbb4d9a149e5f34",
-        "commit": "5b167b8e1b544aa6224c1bb32bbb4d9a149e5f34",
-        "version": "0.2.0"
+        "target": "github:DarkskyX15/dsh-client-ui-m3-theme#609570faa10357251b0e809c42cbf82d0b40e67a",
+        "commit": "609570faa10357251b0e809c42cbf82d0b40e67a",
+        "version": "0.3.0"
       },
       "tags": [
         "retro",
@@ -1159,7 +1159,7 @@
         ]
       },
       "screenshots": [
-        "https://opengraph.githubassets.com/5b167b8e1b544aa6224c1bb32bbb4d9a149e5f34/DarkskyX15/dsh-client-ui-m3-theme"
+        "https://opengraph.githubassets.com/609570faa10357251b0e809c42cbf82d0b40e67a/DarkskyX15/dsh-client-ui-m3-theme"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/darkskyx15.dsh-client-ui-m3-theme.webp",
       "review": {
@@ -1172,7 +1172,7 @@
         "commercialUse": true
       },
       "stars": 1,
-      "updatedAt": "2026-08-16T13:52:11.206Z"
+      "updatedAt": "2026-09-10T06:50:09Z"
     },
     {
       "id": "devourerm.dsh-naiwa-theme",
@@ -1559,7 +1559,7 @@
         "commercialUse": false,
         "notice": "角色、美术和商标权利归原权利人所有；仓库声明为非官方同人作品并禁止商业使用。"
       },
-      "stars": 34,
+      "stars": 35,
       "updatedAt": "2026-09-08T21:05:42Z"
     },
     {
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 178,
+      "stars": 179,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -3592,7 +3592,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 35,
+      "stars": 37,
       "updatedAt": "2026-09-07T13:56:53Z"
     },
     {
@@ -3941,8 +3941,8 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#12b420a5da5d0592717b2460cc80278a0ec57ae7",
-        "commit": "12b420a5da5d0592717b2460cc80278a0ec57ae7",
+        "target": "github:RevolutionLA/dsh-dream-skin#c3fed08bbb68f3429ba88cc0124fc180a7aea743",
+        "commit": "c3fed08bbb68f3429ba88cc0124fc180a7aea743",
         "version": "8.30.1"
       },
       "tags": [
@@ -3962,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/12b420a5da5d0592717b2460cc80278a0ec57ae7/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/12b420a5da5d0592717b2460cc80278a0ec57ae7/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/c3fed08bbb68f3429ba88cc0124fc180a7aea743/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/c3fed08bbb68f3429ba88cc0124fc180a7aea743/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3975,8 +3975,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 152,
-      "updatedAt": "2026-09-09T08:07:03Z"
+      "stars": 154,
+      "updatedAt": "2026-09-10T08:06:31Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4273,8 +4273,8 @@
       "packageName": "@dsh-external/dsh-client-ui-skin-maid-atelier",
       "rowId": "ui-skin-maid-atelier",
       "install": {
-        "target": "github:Small-tailqwq/dsh-deep-whale#42163810f6950dcfdb0e29f0d5359131a2a90790&path:maid-atelier",
-        "commit": "42163810f6950dcfdb0e29f0d5359131a2a90790",
+        "target": "github:Small-tailqwq/dsh-deep-whale#ca18958341fd6dc334e0a18b1e7d9404aeed4f9b&path:maid-atelier",
+        "commit": "ca18958341fd6dc334e0a18b1e7d9404aeed4f9b",
         "version": "0.0.1"
       },
       "tags": [
@@ -4296,8 +4296,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/42163810f6950dcfdb0e29f0d5359131a2a90790/maid-atelier/preview/light.webp",
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/42163810f6950dcfdb0e29f0d5359131a2a90790/maid-atelier/preview/dark.webp"
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/ca18958341fd6dc334e0a18b1e7d9404aeed4f9b/maid-atelier/preview/light.webp",
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/ca18958341fd6dc334e0a18b1e7d9404aeed4f9b/maid-atelier/preview/dark.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/small-tailqwq.maid-atelier.webp",
       "review": {
@@ -4310,8 +4310,8 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1980,
-      "updatedAt": "2026-09-07T17:11:32Z"
+      "stars": 1983,
+      "updatedAt": "2026-09-10T08:15:48Z"
     },
     {
       "id": "starslittle.dsh-blue-whale",
@@ -4647,7 +4647,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 12,
+      "stars": 13,
       "updatedAt": "2026-08-16T12:15:41.349Z"
     },
     {
@@ -4701,7 +4701,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 22,
+      "stars": 23,
       "updatedAt": "2026-09-05T16:38:44Z"
     },
     {
@@ -4764,8 +4764,8 @@
       "packageName": "dsh-joi-channel-theme",
       "rowId": "joi-channel-theme",
       "install": {
-        "target": "github:tpmoonchefryan/dsh-joi-channel-theme#70b3a240f822e4a2408133ebf93bda14c396213c",
-        "commit": "70b3a240f822e4a2408133ebf93bda14c396213c",
+        "target": "github:tpmoonchefryan/dsh-joi-channel-theme#2df174ba43fced995bc0fb7a24535db470e7dbc2",
+        "commit": "2df174ba43fced995bc0fb7a24535db470e7dbc2",
         "version": "0.1.11"
       },
       "tags": [
@@ -4783,12 +4783,12 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/new-chat-flowers.png",
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/new-chat-library.png",
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/new-chat-flowers-dark.png",
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/new-chat-library-dark.png",
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/app-logo-library.png",
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/70b3a240f822e4a2408133ebf93bda14c396213c/docs/app-logo-flowers.png"
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/new-chat-flowers.png",
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/new-chat-library.png",
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/new-chat-flowers-dark.png",
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/new-chat-library-dark.png",
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/app-logo-library.png",
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/app-logo-flowers.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tpmoonchefryan.dsh-joi-channel-theme.webp",
       "review": {
@@ -4801,7 +4801,7 @@
         "commercialUse": true
       },
       "stars": 18,
-      "updatedAt": "2026-09-09T18:46:38Z"
+      "updatedAt": "2026-09-09T19:36:53Z"
     },
     {
       "id": "tqsy114514.dsh-ui-appearance",
@@ -5434,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 407,
+      "stars": 406,
       "updatedAt": "2026-08-22T02:10:09Z"
     },
     {
@@ -5540,7 +5540,7 @@
         "code": "CC-BY-NC-SA-4.0",
         "commercialUse": false
       },
-      "stars": 19,
+      "stars": 20,
       "updatedAt": "2026-08-16T13:47:01.836Z"
     },
     {
@@ -5696,7 +5696,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 29,
+      "stars": 30,
       "updatedAt": "2026-08-24T12:59:18Z"
     },
     {
@@ -5807,8 +5807,8 @@
       "packageName": "dsh-wallpaper_share",
       "rowId": "we-sync",
       "install": {
-        "target": "github:YRN-playmaker/dsh-wallpaper_share#f13efcd6960d0729e07ea7ef1cb2a8e4e504c3ce",
-        "commit": "f13efcd6960d0729e07ea7ef1cb2a8e4e504c3ce",
+        "target": "github:YRN-playmaker/dsh-wallpaper_share#36ee1775be95445b5f2532902911e4b2fb33fea7",
+        "commit": "36ee1775be95445b5f2532902911e4b2fb33fea7",
         "version": "26.9.10"
       },
       "tags": [
@@ -5842,7 +5842,7 @@
         "commercialUse": true
       },
       "stars": 30,
-      "updatedAt": "2026-09-09T18:55:42Z"
+      "updatedAt": "2026-09-09T19:41:30Z"
     },
     {
       "id": "yunxiiqwq.maid-whale-webui",
