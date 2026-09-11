@@ -10,7 +10,7 @@ version: 1.2.4
 source:
   kind: external
   repository: https://github.com/d-dev0101/open-sea-skin
-  commit: 58a1f490ca9af55febcbb5095908d5ca35db4248
+  commit: 6a7d93ecd33a159cdf6c72c4c4282403f6d0c17b
 tags:
   - ocean
   - webgpu
@@ -25,11 +25,11 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/58a1f490ca9af55febcbb5095908d5ca35db4248/docs/marketplace/open-sea-harness-cover.png
-  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/58a1f490ca9af55febcbb5095908d5ca35db4248/docs/screenshots/harness-dark-overview-40.gif
-  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/58a1f490ca9af55febcbb5095908d5ca35db4248/docs/screenshots/harness-light-overview-40.gif
-  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/58a1f490ca9af55febcbb5095908d5ca35db4248/docs/screenshots/harness-wave-control-40.gif
-  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/58a1f490ca9af55febcbb5095908d5ca35db4248/docs/screenshots/harness-daylight-sunset-40.gif
+  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/6a7d93ecd33a159cdf6c72c4c4282403f6d0c17b/docs/marketplace/open-sea-harness-cover.png
+  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/6a7d93ecd33a159cdf6c72c4c4282403f6d0c17b/docs/screenshots/harness-dark-overview-40.gif
+  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/6a7d93ecd33a159cdf6c72c4c4282403f6d0c17b/docs/screenshots/harness-light-overview-40.gif
+  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/6a7d93ecd33a159cdf6c72c4c4282403f6d0c17b/docs/screenshots/harness-wave-control-40.gif
+  - https://raw.githubusercontent.com/d-dev0101/open-sea-skin/6a7d93ecd33a159cdf6c72c4c4282403f6d0c17b/docs/screenshots/harness-daylight-sunset-40.gif
 review:
   compatibility: verified
   preview: verified
@@ -38,4 +38,4 @@ license:
   code: MIT
   commercialUse: true
   notice: Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1.
-updatedAt: 2026-09-09T13:53:45Z
+updatedAt: 2026-09-11T18:41:47Z
