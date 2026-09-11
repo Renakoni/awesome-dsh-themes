@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T19:08:03.830Z",
+  "generatedAt": "2026-09-11T08:55:22.102Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -976,7 +976,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 369,
+      "stars": 373,
       "updatedAt": "2026-09-09T13:53:45Z"
     },
     {
@@ -1411,7 +1411,7 @@
         "code": "BSD-3-Clause",
         "commercialUse": true
       },
-      "stars": 5,
+      "stars": 6,
       "updatedAt": "2026-09-03T06:49:54Z"
     },
     {
@@ -1710,7 +1710,7 @@
         "commercialUse": false,
         "notice": "插件代码声明为 MIT；壁纸与精灵表为第三方《鸣潮》爱弥斯素材，仓库说明仅供个人学习交流使用，版权归原权利人所有。"
       },
-      "stars": 5,
+      "stars": 6,
       "updatedAt": "2026-08-16T16:37:51Z"
     },
     {
@@ -1770,9 +1770,9 @@
       "packageName": "dsh-task-console",
       "rowId": "task-console",
       "install": {
-        "target": "github:He2way/dsh-task-console#a3f130852db0b7d86a819a22586b3f37029ae360",
-        "commit": "a3f130852db0b7d86a819a22586b3f37029ae360",
-        "version": "0.1.0"
+        "target": "github:He2way/dsh-task-console#747396050c62f5b9c4b1530d81ff370fc5868409",
+        "commit": "747396050c62f5b9c4b1530d81ff370fc5868409",
+        "version": "0.8.2"
       },
       "tags": [
         "glass",
@@ -1790,7 +1790,7 @@
         ]
       },
       "screenshots": [
-        "https://opengraph.githubassets.com/a3f130852db0b7d86a819a22586b3f37029ae360/He2way/dsh-task-console"
+        "https://opengraph.githubassets.com/747396050c62f5b9c4b1530d81ff370fc5868409/He2way/dsh-task-console"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/he2way.dsh-task-console.webp",
       "review": {
@@ -1803,7 +1803,7 @@
         "commercialUse": true
       },
       "stars": 0,
-      "updatedAt": "2026-08-16T13:55:53.334Z"
+      "updatedAt": "2026-09-11T05:06:50Z"
     },
     {
       "id": "i1j.dsh-krill-theme",
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 180,
+      "stars": 181,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -3592,7 +3592,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 37,
+      "stars": 38,
       "updatedAt": "2026-09-07T13:56:53Z"
     },
     {
@@ -3941,8 +3941,8 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#6e02ebdc61b2d8628452f96aa9044b14374726c3",
-        "commit": "6e02ebdc61b2d8628452f96aa9044b14374726c3",
+        "target": "github:RevolutionLA/dsh-dream-skin#d9ad8a3a694610ca9c6b30605f088f825ec43956",
+        "commit": "d9ad8a3a694610ca9c6b30605f088f825ec43956",
         "version": "9.10.0"
       },
       "tags": [
@@ -3962,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/6e02ebdc61b2d8628452f96aa9044b14374726c3/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/6e02ebdc61b2d8628452f96aa9044b14374726c3/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/d9ad8a3a694610ca9c6b30605f088f825ec43956/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/d9ad8a3a694610ca9c6b30605f088f825ec43956/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3976,7 +3976,7 @@
         "commercialUse": true
       },
       "stars": 158,
-      "updatedAt": "2026-09-10T15:54:29Z"
+      "updatedAt": "2026-09-11T08:02:00Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 1997,
+      "stars": 2009,
       "updatedAt": "2026-09-10T08:15:48Z"
     },
     {
@@ -4701,7 +4701,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 24,
+      "stars": 25,
       "updatedAt": "2026-09-05T16:38:44Z"
     },
     {
@@ -5253,8 +5253,8 @@
       "packageName": "dsh-appearance-gallery",
       "rowId": "appearance-gallery",
       "install": {
-        "target": "github:wsxwj123/dsh-plugins#45dc72916cece79ab6cfb00381b9939a9f7a0a83&path:packages/dsh-appearance-gallery",
-        "commit": "45dc72916cece79ab6cfb00381b9939a9f7a0a83",
+        "target": "github:wsxwj123/dsh-plugins#efef69ec34ed7aed35567e99b4de00c3613daea2&path:packages/dsh-appearance-gallery",
+        "commit": "efef69ec34ed7aed35567e99b4de00c3613daea2",
         "version": "1.0.1"
       },
       "tags": [
@@ -5273,8 +5273,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/wsxwj123/dsh-plugins/45dc72916cece79ab6cfb00381b9939a9f7a0a83/assets/screenshots/appearance-gallery.png",
-        "https://raw.githubusercontent.com/wsxwj123/dsh-plugins/45dc72916cece79ab6cfb00381b9939a9f7a0a83/assets/screenshots/appearance-gallery-skin.png"
+        "https://raw.githubusercontent.com/wsxwj123/dsh-plugins/efef69ec34ed7aed35567e99b4de00c3613daea2/assets/screenshots/appearance-gallery.png",
+        "https://raw.githubusercontent.com/wsxwj123/dsh-plugins/efef69ec34ed7aed35567e99b4de00c3613daea2/assets/screenshots/appearance-gallery-skin.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/wsxwj123.dsh-appearance-gallery.webp",
       "review": {
@@ -5288,7 +5288,7 @@
         "notice": "各皮肤保留原作者的许可和署名，详见上游 skins/NOTICE.md。"
       },
       "stars": 7,
-      "updatedAt": "2026-08-24T13:52:09Z"
+      "updatedAt": "2026-09-11T07:19:34Z"
     },
     {
       "id": "wuwl-98.dsh-theme-paper",
@@ -5434,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 406,
+      "stars": 405,
       "updatedAt": "2026-08-22T02:10:09Z"
     },
     {
@@ -5696,7 +5696,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 31,
+      "stars": 32,
       "updatedAt": "2026-08-24T12:59:18Z"
     },
     {
@@ -6383,7 +6383,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 6,
+      "stars": 7,
       "updatedAt": "2026-08-17T01:57:39Z"
     },
     {
