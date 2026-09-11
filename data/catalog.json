@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T08:55:22.102Z",
+  "generatedAt": "2026-09-11T19:10:15.649Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -937,8 +937,8 @@
       "packageName": "open-sea-skin",
       "rowId": "open-sea-skin",
       "install": {
-        "target": "github:d-dev0101/open-sea-skin#58a1f490ca9af55febcbb5095908d5ca35db4248",
-        "commit": "58a1f490ca9af55febcbb5095908d5ca35db4248",
+        "target": "github:d-dev0101/open-sea-skin#6a7d93ecd33a159cdf6c72c4c4282403f6d0c17b",
+        "commit": "6a7d93ecd33a159cdf6c72c4c4282403f6d0c17b",
         "version": "1.2.4"
       },
       "tags": [
@@ -959,11 +959,11 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/58a1f490ca9af55febcbb5095908d5ca35db4248/docs/marketplace/open-sea-harness-cover.png",
-        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/58a1f490ca9af55febcbb5095908d5ca35db4248/docs/screenshots/harness-dark-overview-40.gif",
-        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/58a1f490ca9af55febcbb5095908d5ca35db4248/docs/screenshots/harness-light-overview-40.gif",
-        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/58a1f490ca9af55febcbb5095908d5ca35db4248/docs/screenshots/harness-wave-control-40.gif",
-        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/58a1f490ca9af55febcbb5095908d5ca35db4248/docs/screenshots/harness-daylight-sunset-40.gif"
+        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/6a7d93ecd33a159cdf6c72c4c4282403f6d0c17b/docs/marketplace/open-sea-harness-cover.png",
+        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/6a7d93ecd33a159cdf6c72c4c4282403f6d0c17b/docs/screenshots/harness-dark-overview-40.gif",
+        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/6a7d93ecd33a159cdf6c72c4c4282403f6d0c17b/docs/screenshots/harness-light-overview-40.gif",
+        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/6a7d93ecd33a159cdf6c72c4c4282403f6d0c17b/docs/screenshots/harness-wave-control-40.gif",
+        "https://raw.githubusercontent.com/d-dev0101/open-sea-skin/6a7d93ecd33a159cdf6c72c4c4282403f6d0c17b/docs/screenshots/harness-daylight-sunset-40.gif"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/d-dev0101.open-sea-skin.webp",
       "review": {
@@ -977,7 +977,7 @@
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
       "stars": 373,
-      "updatedAt": "2026-09-09T13:53:45Z"
+      "updatedAt": "2026-09-11T18:41:47Z"
     },
     {
       "id": "dac114514.dsh-theme-center",
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 181,
+      "stars": 185,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -2788,9 +2788,9 @@
       "packageName": "dsh-billing-glass",
       "rowId": "billing-glass",
       "install": {
-        "target": "github:linkingoscar/dsh-billing-glass#4ce72e2d2f5d0f79e49eba9c614f3ca667d75781",
-        "commit": "4ce72e2d2f5d0f79e49eba9c614f3ca667d75781",
-        "version": "0.5.1"
+        "target": "github:linkingoscar/dsh-billing-glass#0aeeff661a093d33e1f83ad0a67f252f0077fe33",
+        "commit": "0aeeff661a093d33e1f83ad0a67f252f0077fe33",
+        "version": "0.5.2"
       },
       "tags": [
         "glass",
@@ -2809,7 +2809,7 @@
         ]
       },
       "screenshots": [
-        "https://opengraph.githubassets.com/4ce72e2d2f5d0f79e49eba9c614f3ca667d75781/linkingoscar/dsh-billing-glass"
+        "https://opengraph.githubassets.com/0aeeff661a093d33e1f83ad0a67f252f0077fe33/linkingoscar/dsh-billing-glass"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/linkingoscar.dsh-billing-glass.webp",
       "review": {
@@ -2822,7 +2822,7 @@
         "commercialUse": true
       },
       "stars": 3,
-      "updatedAt": "2026-09-06T04:00:21Z"
+      "updatedAt": "2026-09-11T14:53:23Z"
     },
     {
       "id": "linzhuolisoc.dsh-skin-study",
@@ -3975,7 +3975,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 158,
+      "stars": 159,
       "updatedAt": "2026-09-11T08:02:00Z"
     },
     {
@@ -4273,8 +4273,8 @@
       "packageName": "@dsh-external/dsh-client-ui-skin-maid-atelier",
       "rowId": "ui-skin-maid-atelier",
       "install": {
-        "target": "github:Small-tailqwq/dsh-deep-whale#ca18958341fd6dc334e0a18b1e7d9404aeed4f9b&path:maid-atelier",
-        "commit": "ca18958341fd6dc334e0a18b1e7d9404aeed4f9b",
+        "target": "github:Small-tailqwq/dsh-deep-whale#daa6c698cf493e8405a3469bf669b85d9c6ed40f&path:maid-atelier",
+        "commit": "daa6c698cf493e8405a3469bf669b85d9c6ed40f",
         "version": "0.0.1"
       },
       "tags": [
@@ -4296,8 +4296,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/ca18958341fd6dc334e0a18b1e7d9404aeed4f9b/maid-atelier/preview/light.webp",
-        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/ca18958341fd6dc334e0a18b1e7d9404aeed4f9b/maid-atelier/preview/dark.webp"
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/daa6c698cf493e8405a3469bf669b85d9c6ed40f/maid-atelier/preview/light.webp",
+        "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/daa6c698cf493e8405a3469bf669b85d9c6ed40f/maid-atelier/preview/dark.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/small-tailqwq.maid-atelier.webp",
       "review": {
@@ -4310,8 +4310,8 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 2009,
-      "updatedAt": "2026-09-10T08:15:48Z"
+      "stars": 2025,
+      "updatedAt": "2026-09-11T13:54:43Z"
     },
     {
       "id": "starslittle.dsh-blue-whale",
@@ -4662,9 +4662,9 @@
       "packageName": "dsh-any-background",
       "rowId": "dsh-any-background",
       "install": {
-        "target": "github:Tkingxiao/dsh-any-background#1bd99953228b4854065ba2b69027e6bcf9a64a9c",
-        "commit": "1bd99953228b4854065ba2b69027e6bcf9a64a9c",
-        "version": "0.2.3"
+        "target": "github:Tkingxiao/dsh-any-background#d30370e2bdf428e6e68e43391302477c60b9a5a8",
+        "commit": "d30370e2bdf428e6e68e43391302477c60b9a5a8",
+        "version": "0.2.4"
       },
       "tags": [
         "wallpaper",
@@ -4684,12 +4684,12 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/1bd99953228b4854065ba2b69027e6bcf9a64a9c/example_img/image-6.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/1bd99953228b4854065ba2b69027e6bcf9a64a9c/example_img/image-9.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/1bd99953228b4854065ba2b69027e6bcf9a64a9c/example_img/image.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/1bd99953228b4854065ba2b69027e6bcf9a64a9c/example_img/image-2.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/1bd99953228b4854065ba2b69027e6bcf9a64a9c/example_img/image-3.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/1bd99953228b4854065ba2b69027e6bcf9a64a9c/example_img/image-4.png"
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/d30370e2bdf428e6e68e43391302477c60b9a5a8/example_img/image-6.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/d30370e2bdf428e6e68e43391302477c60b9a5a8/example_img/image-9.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/d30370e2bdf428e6e68e43391302477c60b9a5a8/example_img/image.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/d30370e2bdf428e6e68e43391302477c60b9a5a8/example_img/image-2.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/d30370e2bdf428e6e68e43391302477c60b9a5a8/example_img/image-3.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/d30370e2bdf428e6e68e43391302477c60b9a5a8/example_img/image-4.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tkingxiao.dsh-any-background.webp",
       "review": {
@@ -4701,8 +4701,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 25,
-      "updatedAt": "2026-09-05T16:38:44Z"
+      "stars": 26,
+      "updatedAt": "2026-09-11T14:30:27Z"
     },
     {
       "id": "tommy00748.dsh-theme-cyberpunk2077",
@@ -5434,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 405,
+      "stars": 406,
       "updatedAt": "2026-08-22T02:10:09Z"
     },
     {
@@ -6398,9 +6398,9 @@
       "packageName": "dsh-ivory",
       "rowId": "dsh-ivory",
       "install": {
-        "target": "github:ZJUZhiyuCai/dsh-ivory#1613f0dc4bf91bf25d5d138899fd03609c78953e",
-        "commit": "1613f0dc4bf91bf25d5d138899fd03609c78953e",
-        "version": "0.2.11"
+        "target": "github:ZJUZhiyuCai/dsh-ivory#ecb4b4c2680b2261137f421ccbb72f946fee4dba",
+        "commit": "ecb4b4c2680b2261137f421ccbb72f946fee4dba",
+        "version": "0.2.12"
       },
       "tags": [
         "motion",
@@ -6418,9 +6418,9 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/1613f0dc4bf91bf25d5d138899fd03609c78953e/assets/hero-light.png",
-        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/1613f0dc4bf91bf25d5d138899fd03609c78953e/assets/conversation-light.png",
-        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/1613f0dc4bf91bf25d5d138899fd03609c78953e/assets/mobile-light.png"
+        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/ecb4b4c2680b2261137f421ccbb72f946fee4dba/assets/hero-light.png",
+        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/ecb4b4c2680b2261137f421ccbb72f946fee4dba/assets/conversation-light.png",
+        "https://raw.githubusercontent.com/ZJUZhiyuCai/dsh-ivory/ecb4b4c2680b2261137f421ccbb72f946fee4dba/assets/mobile-light.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/zjuzhiyucai.dsh-ivory.webp",
       "review": {
@@ -6433,7 +6433,7 @@
         "commercialUse": true
       },
       "stars": 2,
-      "updatedAt": "2026-09-10T14:49:06Z"
+      "updatedAt": "2026-09-11T09:36:28Z"
     }
   ]
 }

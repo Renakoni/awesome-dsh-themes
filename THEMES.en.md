@@ -18,13 +18,13 @@
 <td align="center" valign="middle">Abyssal Maid Atelier</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="Abyssal Maid Atelier" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">2,009</td>
+<td align="center" valign="middle">2,025</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
 <td align="center" valign="middle"><img src="previews/wyh66666666.dsh-transparent-ui-plugin.webp" alt="DSH-Transparent-UI-Plugin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/WYH66666666/DSH-Transparent-UI-Plugin">WYH66666666/DSH-Transparent-UI-Plugin</a></td>
-<td align="center" valign="middle">405</td>
+<td align="center" valign="middle">406</td>
 </tr>
 <tr>
 <td align="center" valign="middle">Open Sea Skin</td>
@@ -36,13 +36,13 @@
 <td align="center" valign="middle">Liang Intensity Skin</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="Liang Intensity Skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">181</td>
+<td align="center" valign="middle">185</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
 <td align="center" valign="middle"><img src="previews/revolutionla.dsh-dream-skin.webp" alt="dsh-dream-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></td>
-<td align="center" valign="middle">158</td>
+<td align="center" valign="middle">159</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-catppuccin</td>
@@ -90,7 +90,7 @@
 <td align="center" valign="middle">dsh-any-background</td>
 <td align="center" valign="middle"><img src="previews/tkingxiao.dsh-any-background.webp" alt="dsh-any-background" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Tkingxiao/dsh-any-background">Tkingxiao/dsh-any-background</a></td>
-<td align="center" valign="middle">25</td>
+<td align="center" valign="middle">26</td>
 </tr>
 <tr>
 <td align="center" valign="middle">touhou-hakurei</td>
