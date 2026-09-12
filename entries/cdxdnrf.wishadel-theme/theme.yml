@@ -7,11 +7,11 @@ description: Wishadel demolition-terminal skin + task board, git graph, project
   panel and settings center for DeepSeek Harness Web GUI
 package: "@cdxdnrf/dsh-client-ui-skin-wishadel"
 rowId: ui-skin-wishadel
-version: 0.7.0
+version: 0.8.0
 source:
   kind: external
   repository: https://github.com/cdxDNRF/wishadel-theme
-  commit: 148fa19094acdbeab6893b28176bd23999bd7031
+  commit: 8fef0e953e77b93421f36f7e4ceb7522d2fae6c2
 tags:
   - wallpaper
   - motion
@@ -24,8 +24,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/148fa19094acdbeab6893b28176bd23999bd7031/docs/screenshots/conversation.png
-  - https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/148fa19094acdbeab6893b28176bd23999bd7031/docs/screenshots/settings.png
+  - https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/8fef0e953e77b93421f36f7e4ceb7522d2fae6c2/docs/screenshots/conversation.png
+  - https://raw.githubusercontent.com/cdxDNRF/wishadel-theme/8fef0e953e77b93421f36f7e4ceb7522d2fae6c2/docs/screenshots/settings.png
 review:
   compatibility: verified
   preview: verified
@@ -33,4 +33,4 @@ review:
 license:
   code: CC-BY-NC-SA-4.0
   commercialUse: false
-updatedAt: 2026-09-06T04:05:56Z
+updatedAt: 2026-09-12T03:13:08Z
