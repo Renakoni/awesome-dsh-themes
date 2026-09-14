@@ -12,7 +12,7 @@ version: 0.8.2
 source:
   kind: external
   repository: https://github.com/He2way/dsh-task-console
-  commit: 747396050c62f5b9c4b1530d81ff370fc5868409
+  commit: 76fcfd32615d065c4ebe76513fa1b09b518eba4f
 tags:
   - glass
   - motion
@@ -25,7 +25,7 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://opengraph.githubassets.com/747396050c62f5b9c4b1530d81ff370fc5868409/He2way/dsh-task-console
+  - https://opengraph.githubassets.com/76fcfd32615d065c4ebe76513fa1b09b518eba4f/He2way/dsh-task-console
 review:
   compatibility: unverified
   preview: repository-card
@@ -33,4 +33,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-09-11T05:06:50Z
+updatedAt: 2026-09-14T06:38:50Z

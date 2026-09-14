@@ -11,7 +11,7 @@ version: 0.5.1
 source:
   kind: external
   repository: https://github.com/NoNameLeGo/dsh-catppuccin
-  commit: 9a5ca3d60d85f2c13fa32df89e1bebca14dfc4b1
+  commit: 2ee77279b9b68758ac99f553e1f4f1c973152abb
 tags:
   - wallpaper
   - glass
@@ -26,10 +26,10 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/9a5ca3d60d85f2c13fa32df89e1bebca14dfc4b1/assets/previews/latte.png
-  - https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/9a5ca3d60d85f2c13fa32df89e1bebca14dfc4b1/assets/previews/frappe.png
-  - https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/9a5ca3d60d85f2c13fa32df89e1bebca14dfc4b1/assets/previews/macchiato.png
-  - https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/9a5ca3d60d85f2c13fa32df89e1bebca14dfc4b1/assets/previews/mocha.png
+  - https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/2ee77279b9b68758ac99f553e1f4f1c973152abb/assets/previews/latte.png
+  - https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/2ee77279b9b68758ac99f553e1f4f1c973152abb/assets/previews/frappe.png
+  - https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/2ee77279b9b68758ac99f553e1f4f1c973152abb/assets/previews/macchiato.png
+  - https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/2ee77279b9b68758ac99f553e1f4f1c973152abb/assets/previews/mocha.png
   - https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png
   - https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png
 review:
@@ -39,4 +39,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-09-13T07:47:49Z
+updatedAt: 2026-09-14T08:08:25Z
