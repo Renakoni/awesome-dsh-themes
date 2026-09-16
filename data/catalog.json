@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T19:42:38.146Z",
+  "generatedAt": "2026-09-16T09:17:41.223Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -976,7 +976,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 378,
+      "stars": 379,
       "updatedAt": "2026-09-11T18:41:47Z"
     },
     {
@@ -1559,7 +1559,7 @@
         "commercialUse": false,
         "notice": "角色、美术和商标权利归原权利人所有；仓库声明为非官方同人作品并禁止商业使用。"
       },
-      "stars": 35,
+      "stars": 36,
       "updatedAt": "2026-09-08T21:05:42Z"
     },
     {
@@ -1770,9 +1770,9 @@
       "packageName": "dsh-task-console",
       "rowId": "task-console",
       "install": {
-        "target": "github:He2way/dsh-task-console#b82ad5c4aacd60c151133e670be1a3dd79589005",
-        "commit": "b82ad5c4aacd60c151133e670be1a3dd79589005",
-        "version": "0.9.3"
+        "target": "github:He2way/dsh-task-console#be95faaee51ffcaf48ccd9d59acfe011483f9024",
+        "commit": "be95faaee51ffcaf48ccd9d59acfe011483f9024",
+        "version": "0.11.0"
       },
       "tags": [
         "glass",
@@ -1790,7 +1790,7 @@
         ]
       },
       "screenshots": [
-        "https://opengraph.githubassets.com/b82ad5c4aacd60c151133e670be1a3dd79589005/He2way/dsh-task-console"
+        "https://opengraph.githubassets.com/be95faaee51ffcaf48ccd9d59acfe011483f9024/He2way/dsh-task-console"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/he2way.dsh-task-console.webp",
       "review": {
@@ -1803,7 +1803,7 @@
         "commercialUse": true
       },
       "stars": 0,
-      "updatedAt": "2026-09-15T08:47:19Z"
+      "updatedAt": "2026-09-16T08:52:16Z"
     },
     {
       "id": "i1j.dsh-krill-theme",
@@ -2591,9 +2591,9 @@
       "packageName": "@lengduan/dsh-client-ui-skin-815",
       "rowId": "ui-skin-815",
       "install": {
-        "target": "github:lengduan/dsh-815-skin#c7f73af9fe44de8e453aa68ec046fdd06f9fff69",
-        "commit": "c7f73af9fe44de8e453aa68ec046fdd06f9fff69",
-        "version": "0.1.19"
+        "target": "github:lengduan/dsh-815-skin#cd4ebc26c39d8703dc63c88d6496070b5c6b04c2",
+        "commit": "cd4ebc26c39d8703dc63c88d6496070b5c6b04c2",
+        "version": "0.1.22"
       },
       "tags": [
         "wallpaper",
@@ -2610,8 +2610,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/lengduan/dsh-815-skin/c7f73af9fe44de8e453aa68ec046fdd06f9fff69/assets/nanjing-surrender-chen-jian.jpg",
-        "https://raw.githubusercontent.com/lengduan/dsh-815-skin/c7f73af9fe44de8e453aa68ec046fdd06f9fff69/docs/preview.png"
+        "https://raw.githubusercontent.com/lengduan/dsh-815-skin/cd4ebc26c39d8703dc63c88d6496070b5c6b04c2/assets/nanjing-surrender-chen-jian.jpg",
+        "https://raw.githubusercontent.com/lengduan/dsh-815-skin/cd4ebc26c39d8703dc63c88d6496070b5c6b04c2/docs/preview.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/lengduan.dsh-815-skin.webp",
       "review": {
@@ -2624,7 +2624,7 @@
         "commercialUse": true
       },
       "stars": 1,
-      "updatedAt": "2026-09-14T06:28:51Z"
+      "updatedAt": "2026-09-16T08:32:04Z"
     },
     {
       "id": "lhy723.dsh-neu-theme",
@@ -2962,7 +2962,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 7,
+      "stars": 6,
       "updatedAt": "2026-08-16T13:47:45.102Z"
     },
     {
@@ -3553,9 +3553,9 @@
       "packageName": "@nonamelego/dsh-catppuccin",
       "rowId": "dsh-catppuccin",
       "install": {
-        "target": "github:NoNameLeGo/dsh-catppuccin#57cdae33fcc107de2f1e610a4b1df13969ca2b0e",
-        "commit": "57cdae33fcc107de2f1e610a4b1df13969ca2b0e",
-        "version": "0.5.2"
+        "target": "github:NoNameLeGo/dsh-catppuccin#cf823de89adee0e8c54024ba329d79169b15c1e0",
+        "commit": "cf823de89adee0e8c54024ba329d79169b15c1e0",
+        "version": "0.5.3-beta.0"
       },
       "tags": [
         "wallpaper",
@@ -3575,10 +3575,10 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/57cdae33fcc107de2f1e610a4b1df13969ca2b0e/assets/previews/latte.png",
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/57cdae33fcc107de2f1e610a4b1df13969ca2b0e/assets/previews/frappe.png",
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/57cdae33fcc107de2f1e610a4b1df13969ca2b0e/assets/previews/macchiato.png",
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/57cdae33fcc107de2f1e610a4b1df13969ca2b0e/assets/previews/mocha.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/cf823de89adee0e8c54024ba329d79169b15c1e0/assets/previews/latte.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/cf823de89adee0e8c54024ba329d79169b15c1e0/assets/previews/frappe.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/cf823de89adee0e8c54024ba329d79169b15c1e0/assets/previews/macchiato.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/cf823de89adee0e8c54024ba329d79169b15c1e0/assets/previews/mocha.png",
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png",
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png"
       ],
@@ -3592,8 +3592,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 38,
-      "updatedAt": "2026-09-15T06:52:28Z"
+      "stars": 39,
+      "updatedAt": "2026-09-16T04:19:33Z"
     },
     {
       "id": "oceanxuikun.dsh-eva-theme-plugin",
@@ -3941,8 +3941,8 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#0d8c0c4f6e4a4c7cbbbe6fbd95b28781d966d47a",
-        "commit": "0d8c0c4f6e4a4c7cbbbe6fbd95b28781d966d47a",
+        "target": "github:RevolutionLA/dsh-dream-skin#227c6358e3e90df836315117e283508ae55f301b",
+        "commit": "227c6358e3e90df836315117e283508ae55f301b",
         "version": "9.15.2"
       },
       "tags": [
@@ -3962,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/0d8c0c4f6e4a4c7cbbbe6fbd95b28781d966d47a/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/0d8c0c4f6e4a4c7cbbbe6fbd95b28781d966d47a/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/227c6358e3e90df836315117e283508ae55f301b/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/227c6358e3e90df836315117e283508ae55f301b/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3975,8 +3975,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 165,
-      "updatedAt": "2026-09-15T08:39:14Z"
+      "stars": 166,
+      "updatedAt": "2026-09-16T08:33:31Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4165,7 +4165,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 4,
       "updatedAt": "2026-08-16T12:16:30.062Z"
     },
     {
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 2087,
+      "stars": 2094,
       "updatedAt": "2026-09-13T10:19:03Z"
     },
     {
@@ -4662,9 +4662,9 @@
       "packageName": "dsh-any-background",
       "rowId": "dsh-any-background",
       "install": {
-        "target": "github:Tkingxiao/dsh-any-background#bff274b8f71bb7efb3b46dad63dd985823d9af31",
-        "commit": "bff274b8f71bb7efb3b46dad63dd985823d9af31",
-        "version": "0.2.8"
+        "target": "github:Tkingxiao/dsh-any-background#13f5803164c28bc426d03cf1e22ef258545ee11c",
+        "commit": "13f5803164c28bc426d03cf1e22ef258545ee11c",
+        "version": "0.2.9"
       },
       "tags": [
         "wallpaper",
@@ -4684,12 +4684,12 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/bff274b8f71bb7efb3b46dad63dd985823d9af31/example_img/image-6.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/bff274b8f71bb7efb3b46dad63dd985823d9af31/example_img/image-9.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/bff274b8f71bb7efb3b46dad63dd985823d9af31/example_img/image.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/bff274b8f71bb7efb3b46dad63dd985823d9af31/example_img/image-2.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/bff274b8f71bb7efb3b46dad63dd985823d9af31/example_img/image-3.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/bff274b8f71bb7efb3b46dad63dd985823d9af31/example_img/image-4.png"
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13f5803164c28bc426d03cf1e22ef258545ee11c/example_img/image-6.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13f5803164c28bc426d03cf1e22ef258545ee11c/example_img/image-9.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13f5803164c28bc426d03cf1e22ef258545ee11c/example_img/image.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13f5803164c28bc426d03cf1e22ef258545ee11c/example_img/image-2.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13f5803164c28bc426d03cf1e22ef258545ee11c/example_img/image-3.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13f5803164c28bc426d03cf1e22ef258545ee11c/example_img/image-4.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tkingxiao.dsh-any-background.webp",
       "review": {
@@ -4702,7 +4702,7 @@
         "commercialUse": true
       },
       "stars": 30,
-      "updatedAt": "2026-09-14T08:46:48Z"
+      "updatedAt": "2026-09-16T09:07:10Z"
     },
     {
       "id": "tommy00748.dsh-theme-cyberpunk2077",
@@ -5434,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 405,
+      "stars": 404,
       "updatedAt": "2026-08-22T02:10:09Z"
     },
     {
