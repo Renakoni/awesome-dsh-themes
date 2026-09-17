@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T09:26:10.944Z",
+  "generatedAt": "2026-09-17T19:44:13.855Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -1770,9 +1770,9 @@
       "packageName": "dsh-task-console",
       "rowId": "task-console",
       "install": {
-        "target": "github:He2way/dsh-task-console#7a5f2ca4ace059340288c11cf83d71c4d1b7f59d",
-        "commit": "7a5f2ca4ace059340288c11cf83d71c4d1b7f59d",
-        "version": "0.22.0"
+        "target": "github:He2way/dsh-task-console#8887de37f7eefe03d0d8409d2e5f728516d21841",
+        "commit": "8887de37f7eefe03d0d8409d2e5f728516d21841",
+        "version": "0.23.0"
       },
       "tags": [
         "glass",
@@ -1790,7 +1790,7 @@
         ]
       },
       "screenshots": [
-        "https://opengraph.githubassets.com/7a5f2ca4ace059340288c11cf83d71c4d1b7f59d/He2way/dsh-task-console"
+        "https://opengraph.githubassets.com/8887de37f7eefe03d0d8409d2e5f728516d21841/He2way/dsh-task-console"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/he2way.dsh-task-console.webp",
       "review": {
@@ -1803,7 +1803,7 @@
         "commercialUse": true
       },
       "stars": 0,
-      "updatedAt": "2026-09-17T09:06:23Z"
+      "updatedAt": "2026-09-17T11:43:07Z"
     },
     {
       "id": "i1j.dsh-krill-theme",
@@ -3941,8 +3941,8 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#5387893cfa5433b6a4f4947d93591108f4bb707d",
-        "commit": "5387893cfa5433b6a4f4947d93591108f4bb707d",
+        "target": "github:RevolutionLA/dsh-dream-skin#3092c84105d50341176f60d0fbba0279f780e19a",
+        "commit": "3092c84105d50341176f60d0fbba0279f780e19a",
         "version": "9.16.0"
       },
       "tags": [
@@ -3962,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/5387893cfa5433b6a4f4947d93591108f4bb707d/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/5387893cfa5433b6a4f4947d93591108f4bb707d/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/3092c84105d50341176f60d0fbba0279f780e19a/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/3092c84105d50341176f60d0fbba0279f780e19a/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3975,8 +3975,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 171,
-      "updatedAt": "2026-09-17T08:37:52Z"
+      "stars": 174,
+      "updatedAt": "2026-09-17T11:29:21Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 2111,
+      "stars": 2114,
       "updatedAt": "2026-09-13T10:19:03Z"
     },
     {
@@ -4662,9 +4662,9 @@
       "packageName": "dsh-any-background",
       "rowId": "dsh-any-background",
       "install": {
-        "target": "github:Tkingxiao/dsh-any-background#13f5803164c28bc426d03cf1e22ef258545ee11c",
-        "commit": "13f5803164c28bc426d03cf1e22ef258545ee11c",
-        "version": "0.2.9"
+        "target": "github:Tkingxiao/dsh-any-background#a5a8d8e31676dee6d7de108f88dcde043cb734e7",
+        "commit": "a5a8d8e31676dee6d7de108f88dcde043cb734e7",
+        "version": "0.2.10"
       },
       "tags": [
         "wallpaper",
@@ -4684,12 +4684,12 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13f5803164c28bc426d03cf1e22ef258545ee11c/example_img/image-6.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13f5803164c28bc426d03cf1e22ef258545ee11c/example_img/image-9.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13f5803164c28bc426d03cf1e22ef258545ee11c/example_img/image.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13f5803164c28bc426d03cf1e22ef258545ee11c/example_img/image-2.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13f5803164c28bc426d03cf1e22ef258545ee11c/example_img/image-3.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/13f5803164c28bc426d03cf1e22ef258545ee11c/example_img/image-4.png"
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/a5a8d8e31676dee6d7de108f88dcde043cb734e7/example_img/image-6.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/a5a8d8e31676dee6d7de108f88dcde043cb734e7/example_img/image-9.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/a5a8d8e31676dee6d7de108f88dcde043cb734e7/example_img/image.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/a5a8d8e31676dee6d7de108f88dcde043cb734e7/example_img/image-2.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/a5a8d8e31676dee6d7de108f88dcde043cb734e7/example_img/image-3.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/a5a8d8e31676dee6d7de108f88dcde043cb734e7/example_img/image-4.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tkingxiao.dsh-any-background.webp",
       "review": {
@@ -4702,7 +4702,7 @@
         "commercialUse": true
       },
       "stars": 32,
-      "updatedAt": "2026-09-16T09:07:10Z"
+      "updatedAt": "2026-09-17T15:27:36Z"
     },
     {
       "id": "tommy00748.dsh-theme-cyberpunk2077",
@@ -5696,7 +5696,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 34,
+      "stars": 35,
       "updatedAt": "2026-08-24T12:59:18Z"
     },
     {
