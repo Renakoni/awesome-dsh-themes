@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T09:00:20.372Z",
+  "generatedAt": "2026-09-18T19:02:32.342Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -976,7 +976,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 379,
+      "stars": 378,
       "updatedAt": "2026-09-11T18:41:47Z"
     },
     {
@@ -1770,9 +1770,9 @@
       "packageName": "dsh-task-console",
       "rowId": "task-console",
       "install": {
-        "target": "github:He2way/dsh-task-console#203fb2412de6f814da0dee22f5db659fce0d7cc0",
-        "commit": "203fb2412de6f814da0dee22f5db659fce0d7cc0",
-        "version": "0.24.0"
+        "target": "github:He2way/dsh-task-console#0030a778da8d3d39b93e0a556de26b786435042c",
+        "commit": "0030a778da8d3d39b93e0a556de26b786435042c",
+        "version": "0.24.2"
       },
       "tags": [
         "glass",
@@ -1790,7 +1790,7 @@
         ]
       },
       "screenshots": [
-        "https://opengraph.githubassets.com/203fb2412de6f814da0dee22f5db659fce0d7cc0/He2way/dsh-task-console"
+        "https://opengraph.githubassets.com/0030a778da8d3d39b93e0a556de26b786435042c/He2way/dsh-task-console"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/he2way.dsh-task-console.webp",
       "review": {
@@ -1803,7 +1803,7 @@
         "commercialUse": true
       },
       "stars": 0,
-      "updatedAt": "2026-09-18T07:05:23Z"
+      "updatedAt": "2026-09-18T10:14:59Z"
     },
     {
       "id": "i1j.dsh-krill-theme",
@@ -1952,7 +1952,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 7,
+      "stars": 8,
       "updatedAt": "2026-09-14T14:25:33Z"
     },
     {
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 198,
+      "stars": 201,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -3553,9 +3553,9 @@
       "packageName": "@nonamelego/dsh-catppuccin",
       "rowId": "dsh-catppuccin",
       "install": {
-        "target": "github:NoNameLeGo/dsh-catppuccin#825aa56a55a433733d6eda7513794c7e24437157",
-        "commit": "825aa56a55a433733d6eda7513794c7e24437157",
-        "version": "0.5.3"
+        "target": "github:NoNameLeGo/dsh-catppuccin#d55ba9045a93ec3b37d00c13786e89e2051d61b3",
+        "commit": "d55ba9045a93ec3b37d00c13786e89e2051d61b3",
+        "version": "0.5.4-beta.0"
       },
       "tags": [
         "wallpaper",
@@ -3575,10 +3575,10 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/825aa56a55a433733d6eda7513794c7e24437157/assets/previews/latte.png",
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/825aa56a55a433733d6eda7513794c7e24437157/assets/previews/frappe.png",
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/825aa56a55a433733d6eda7513794c7e24437157/assets/previews/macchiato.png",
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/825aa56a55a433733d6eda7513794c7e24437157/assets/previews/mocha.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/d55ba9045a93ec3b37d00c13786e89e2051d61b3/assets/previews/latte.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/d55ba9045a93ec3b37d00c13786e89e2051d61b3/assets/previews/frappe.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/d55ba9045a93ec3b37d00c13786e89e2051d61b3/assets/previews/macchiato.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/d55ba9045a93ec3b37d00c13786e89e2051d61b3/assets/previews/mocha.png",
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png",
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png"
       ],
@@ -3593,7 +3593,7 @@
         "commercialUse": true
       },
       "stars": 41,
-      "updatedAt": "2026-09-16T11:35:18Z"
+      "updatedAt": "2026-09-18T11:34:58Z"
     },
     {
       "id": "oceanxuikun.dsh-eva-theme-plugin",
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 2122,
+      "stars": 2129,
       "updatedAt": "2026-09-13T10:19:03Z"
     },
     {
@@ -4815,8 +4815,8 @@
       "packageName": "dsh-ui-appearance",
       "rowId": "ui-appearance",
       "install": {
-        "target": "github:TQSY114514/dsh-ui-appearance#bc18837c99741f76c5f96b426e2cfefa01e065fd",
-        "commit": "bc18837c99741f76c5f96b426e2cfefa01e065fd",
+        "target": "github:TQSY114514/dsh-ui-appearance#f5a0deaa5c306ebe2de19a4550d1ba0d7f042273",
+        "commit": "f5a0deaa5c306ebe2de19a4550d1ba0d7f042273",
         "version": "0.1.10"
       },
       "tags": [
@@ -4835,8 +4835,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/bc18837c99741f76c5f96b426e2cfefa01e065fd/docs/screenshot-settings.png",
-        "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/bc18837c99741f76c5f96b426e2cfefa01e065fd/docs/screenshot-wallpaper.png"
+        "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/f5a0deaa5c306ebe2de19a4550d1ba0d7f042273/docs/screenshot-settings.png",
+        "https://raw.githubusercontent.com/TQSY114514/dsh-ui-appearance/f5a0deaa5c306ebe2de19a4550d1ba0d7f042273/docs/screenshot-wallpaper.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tqsy114514.dsh-ui-appearance.webp",
       "review": {
@@ -4849,7 +4849,7 @@
         "commercialUse": true
       },
       "stars": 14,
-      "updatedAt": "2026-09-12T10:05:32Z"
+      "updatedAt": "2026-09-18T15:31:50Z"
     },
     {
       "id": "tuogusa.dsh-whale-background",
@@ -6235,7 +6235,7 @@
         "commercialUse": true,
         "notice": "Catppuccin palette 源自 catppuccin/palette，并按 MIT 许可证使用。"
       },
-      "stars": 10,
+      "stars": 11,
       "updatedAt": "2026-09-03T13:26:17Z"
     },
     {

@@ -18,7 +18,7 @@
 <td align="center" valign="middle">深海女仆工坊</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="深海女仆工坊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">2,122</td>
+<td align="center" valign="middle">2,129</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
@@ -30,13 +30,13 @@
 <td align="center" valign="middle">Open Sea 海洋皮肤</td>
 <td align="center" valign="middle"><img src="previews/d-dev0101.open-sea-skin.webp" alt="Open Sea 海洋皮肤" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/d-dev0101/open-sea-skin">d-dev0101/open-sea-skin</a></td>
-<td align="center" valign="middle">379</td>
+<td align="center" valign="middle">378</td>
 </tr>
 <tr>
 <td align="center" valign="middle">滑动变祖</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="滑动变祖" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">198</td>
+<td align="center" valign="middle">201</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
@@ -141,6 +141,12 @@
 <td align="center" valign="middle">12</td>
 </tr>
 <tr>
+<td align="center" valign="middle">Catppuccin 四味主题</td>
+<td align="center" valign="middle"><img src="previews/zhijun-dai.catppuccin.webp" alt="Catppuccin 四味主题" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/zhijun-dai/Catppuccin-dsh-theme">zhijun-dai/Catppuccin-dsh-theme</a></td>
+<td align="center" valign="middle">11</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-client-ui-skin-claude</td>
 <td align="center" valign="middle"><img src="previews/pakiknowledge.dsh-client-ui-skin-claude.webp" alt="dsh-client-ui-skin-claude" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/PAKIKNOWLEDGE/dsh-client-ui-skin-claude">PAKIKNOWLEDGE/dsh-client-ui-skin-claude</a></td>
@@ -153,10 +159,10 @@
 <td align="center" valign="middle">11</td>
 </tr>
 <tr>
-<td align="center" valign="middle">Catppuccin 四味主题</td>
-<td align="center" valign="middle"><img src="previews/zhijun-dai.catppuccin.webp" alt="Catppuccin 四味主题" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/zhijun-dai/Catppuccin-dsh-theme">zhijun-dai/Catppuccin-dsh-theme</a></td>
-<td align="center" valign="middle">10</td>
+<td align="center" valign="middle">dsh-anthropic-fonts</td>
+<td align="center" valign="middle"><img src="previews/isilsolme.dsh-anthropic-fonts.webp" alt="dsh-anthropic-fonts" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/Isilsolme/dsh-anthropic-fonts">Isilsolme/dsh-anthropic-fonts</a></td>
+<td align="center" valign="middle">8</td>
 </tr>
 <tr>
 <td align="center" valign="middle">ikun-theme-skin</td>
@@ -174,12 +180,6 @@
 <td align="center" valign="middle">DSH 外观画廊</td>
 <td align="center" valign="middle"><img src="previews/wsxwj123.dsh-appearance-gallery.webp" alt="DSH 外观画廊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/wsxwj123/dsh-plugins">wsxwj123/dsh-plugins</a></td>
-<td align="center" valign="middle">7</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-anthropic-fonts</td>
-<td align="center" valign="middle"><img src="previews/isilsolme.dsh-anthropic-fonts.webp" alt="dsh-anthropic-fonts" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/Isilsolme/dsh-anthropic-fonts">Isilsolme/dsh-anthropic-fonts</a></td>
 <td align="center" valign="middle">7</td>
 </tr>
 <tr>
