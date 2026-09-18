@@ -18,7 +18,7 @@
 <td align="center" valign="middle">Abyssal Maid Atelier</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="Abyssal Maid Atelier" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">2,114</td>
+<td align="center" valign="middle">2,122</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
@@ -42,13 +42,13 @@
 <td align="center" valign="middle">dsh-dream-skin</td>
 <td align="center" valign="middle"><img src="previews/revolutionla.dsh-dream-skin.webp" alt="dsh-dream-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></td>
-<td align="center" valign="middle">174</td>
+<td align="center" valign="middle">175</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-catppuccin</td>
 <td align="center" valign="middle"><img src="previews/nonamelego.dsh-catppuccin.webp" alt="dsh-catppuccin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/NoNameLeGo/dsh-catppuccin">NoNameLeGo/dsh-catppuccin</a></td>
-<td align="center" valign="middle">40</td>
+<td align="center" valign="middle">41</td>
 </tr>
 <tr>
 <td align="center" valign="middle">Denia · Void Bubble</td>
@@ -60,13 +60,13 @@
 <td align="center" valign="middle">dsh-client-ui-custom</td>
 <td align="center" valign="middle"><img src="previews/yoli-mi.dsh-client-ui-custom.webp" alt="dsh-client-ui-custom" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/yoli-mi/dsh-client-ui-custom">yoli-mi/dsh-client-ui-custom</a></td>
-<td align="center" valign="middle">35</td>
+<td align="center" valign="middle">36</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-any-background</td>
 <td align="center" valign="middle"><img src="previews/tkingxiao.dsh-any-background.webp" alt="dsh-any-background" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Tkingxiao/dsh-any-background">Tkingxiao/dsh-any-background</a></td>
-<td align="center" valign="middle">32</td>
+<td align="center" valign="middle">33</td>
 </tr>
 <tr>
 <td align="center" valign="middle">maid-whale-webui</td>
@@ -126,7 +126,7 @@
 <td align="center" valign="middle">dsh-ui-appearance</td>
 <td align="center" valign="middle"><img src="previews/tqsy114514.dsh-ui-appearance.webp" alt="dsh-ui-appearance" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/TQSY114514/dsh-ui-appearance">TQSY114514/dsh-ui-appearance</a></td>
-<td align="center" valign="middle">13</td>
+<td align="center" valign="middle">14</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-client-ui-skins</td>
@@ -156,7 +156,7 @@
 <td align="center" valign="middle">Catppuccin for DSH</td>
 <td align="center" valign="middle"><img src="previews/zhijun-dai.catppuccin.webp" alt="Catppuccin for DSH" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/zhijun-dai/Catppuccin-dsh-theme">zhijun-dai/Catppuccin-dsh-theme</a></td>
-<td align="center" valign="middle">9</td>
+<td align="center" valign="middle">10</td>
 </tr>
 <tr>
 <td align="center" valign="middle">ikun-theme-skin</td>
@@ -177,15 +177,15 @@
 <td align="center" valign="middle">7</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-client-ui-theme-xp</td>
-<td align="center" valign="middle"><img src="previews/samizuhm.dsh-client-ui-theme-xp.webp" alt="dsh-client-ui-theme-xp" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/SamizuHM/dsh-client-ui-theme-xp">SamizuHM/dsh-client-ui-theme-xp</a></td>
+<td align="center" valign="middle">dsh-anthropic-fonts</td>
+<td align="center" valign="middle"><img src="previews/isilsolme.dsh-anthropic-fonts.webp" alt="dsh-anthropic-fonts" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/Isilsolme/dsh-anthropic-fonts">Isilsolme/dsh-anthropic-fonts</a></td>
 <td align="center" valign="middle">7</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-oh-my-theme</td>
-<td align="center" valign="middle"><img src="previews/zhxqc.dsh-oh-my-theme.webp" alt="dsh-oh-my-theme" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/zhxqc/dsh-oh-my-theme">zhxqc/dsh-oh-my-theme</a></td>
+<td align="center" valign="middle">dsh-client-ui-theme-xp</td>
+<td align="center" valign="middle"><img src="previews/samizuhm.dsh-client-ui-theme-xp.webp" alt="dsh-client-ui-theme-xp" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/SamizuHM/dsh-client-ui-theme-xp">SamizuHM/dsh-client-ui-theme-xp</a></td>
 <td align="center" valign="middle">7</td>
 </tr>
 <tr>
@@ -213,12 +213,6 @@
 <td align="center" valign="middle">6</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-anthropic-fonts</td>
-<td align="center" valign="middle"><img src="previews/isilsolme.dsh-anthropic-fonts.webp" alt="dsh-anthropic-fonts" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/Isilsolme/dsh-anthropic-fonts">Isilsolme/dsh-anthropic-fonts</a></td>
-<td align="center" valign="middle">6</td>
-</tr>
-<tr>
 <td align="center" valign="middle">dsh-blue-whale</td>
 <td align="center" valign="middle"><img src="previews/starslittle.dsh-blue-whale.webp" alt="dsh-blue-whale" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/starslittle/dsh-blue-whale">starslittle/dsh-blue-whale</a></td>
@@ -228,6 +222,12 @@
 <td align="center" valign="middle">dsh-neu-theme</td>
 <td align="center" valign="middle"><img src="previews/lhy723.dsh-neu-theme.webp" alt="dsh-neu-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Lhy723/dsh-neu-theme">Lhy723/dsh-neu-theme</a></td>
+<td align="center" valign="middle">6</td>
+</tr>
+<tr>
+<td align="center" valign="middle">dsh-oh-my-theme</td>
+<td align="center" valign="middle"><img src="previews/zhxqc.dsh-oh-my-theme.webp" alt="dsh-oh-my-theme" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/zhxqc/dsh-oh-my-theme">zhxqc/dsh-oh-my-theme</a></td>
 <td align="center" valign="middle">6</td>
 </tr>
 <tr>
@@ -246,24 +246,6 @@
 <td align="center" valign="middle">dsh-naiwa-theme</td>
 <td align="center" valign="middle"><img src="previews/devourerm.dsh-naiwa-theme.webp" alt="dsh-naiwa-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/DevourerM/dsh-naiwa-theme">DevourerM/dsh-naiwa-theme</a></td>
-<td align="center" valign="middle">5</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-skin-claude-code</td>
-<td align="center" valign="middle"><img src="previews/le-soleil-se-couche.dsh-skin-claude-code.webp" alt="dsh-skin-claude-code" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/le-soleil-se-couche/dsh-skin-claude-code">le-soleil-se-couche/dsh-skin-claude-code</a></td>
-<td align="center" valign="middle">5</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-skin-toggle</td>
-<td align="center" valign="middle"><img src="previews/tiantyu.dsh-skin-toggle.webp" alt="dsh-skin-toggle" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/tiantyu/dsh-skin-toggle">tiantyu/dsh-skin-toggle</a></td>
-<td align="center" valign="middle">5</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-theme-plugin</td>
-<td align="center" valign="middle"><img src="previews/beizi6.dsh-theme-plugin.webp" alt="dsh-theme-plugin" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/BeiZi6/dsh-theme-plugin">BeiZi6/dsh-theme-plugin</a></td>
 <td align="center" valign="middle">5</td>
 </tr>
 <tr>
@@ -291,9 +273,9 @@
 <td align="center" valign="middle">4</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-frosted-window</td>
-<td align="center" valign="middle"><img src="previews/senrylee.dsh-frosted-window.webp" alt="dsh-frosted-window" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/SenryLee/dsh-frosted-window">SenryLee/dsh-frosted-window</a></td>
+<td align="center" valign="middle">dsh-eva-theme-plugin</td>
+<td align="center" valign="middle"><img src="previews/oceanxuikun.dsh-eva-theme-plugin.webp" alt="dsh-eva-theme-plugin" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/oceanxuikun/dsh-eva-theme-plugin">oceanxuikun/dsh-eva-theme-plugin</a></td>
 <td align="center" valign="middle">4</td>
 </tr>
 <tr>
@@ -315,15 +297,21 @@
 <td align="center" valign="middle">4</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-webUI-Glass-Theme</td>
-<td align="center" valign="middle"><img src="previews/makuralymi.dsh-webui-glass-theme.webp" alt="dsh-webUI-Glass-Theme" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/makuralymi/dsh-webUI-Glass-Theme">makuralymi/dsh-webUI-Glass-Theme</a></td>
+<td align="center" valign="middle">dsh-skin-claude-code</td>
+<td align="center" valign="middle"><img src="previews/le-soleil-se-couche.dsh-skin-claude-code.webp" alt="dsh-skin-claude-code" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/le-soleil-se-couche/dsh-skin-claude-code">le-soleil-se-couche/dsh-skin-claude-code</a></td>
 <td align="center" valign="middle">4</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-wx-skin</td>
-<td align="center" valign="middle"><img src="previews/wangxilhy23.dsh-wx-skin.webp" alt="dsh-wx-skin" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/wangxilhy23/dsh-wx-skin">wangxilhy23/dsh-wx-skin</a></td>
+<td align="center" valign="middle">dsh-skin-toggle</td>
+<td align="center" valign="middle"><img src="previews/tiantyu.dsh-skin-toggle.webp" alt="dsh-skin-toggle" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/tiantyu/dsh-skin-toggle">tiantyu/dsh-skin-toggle</a></td>
+<td align="center" valign="middle">4</td>
+</tr>
+<tr>
+<td align="center" valign="middle">dsh-theme-plugin</td>
+<td align="center" valign="middle"><img src="previews/beizi6.dsh-theme-plugin.webp" alt="dsh-theme-plugin" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/BeiZi6/dsh-theme-plugin">BeiZi6/dsh-theme-plugin</a></td>
 <td align="center" valign="middle">4</td>
 </tr>
 <tr>
@@ -333,27 +321,15 @@
 <td align="center" valign="middle">4</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-arcaea-theme</td>
-<td align="center" valign="middle"><img src="previews/a1swg1159-pixel.dsh-arcaea-theme.webp" alt="dsh-arcaea-theme" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/a1swg1159-pixel/dsh-arcaea-theme">a1swg1159-pixel/dsh-arcaea-theme</a></td>
-<td align="center" valign="middle">3</td>
-</tr>
-<tr>
 <td align="center" valign="middle">dsh-cyberpunk-theme</td>
 <td align="center" valign="middle"><img src="previews/ai7603.dsh-cyberpunk-theme.webp" alt="dsh-cyberpunk-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/ai7603/dsh-cyberpunk-theme">ai7603/dsh-cyberpunk-theme</a></td>
 <td align="center" valign="middle">3</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-eva-theme-plugin</td>
-<td align="center" valign="middle"><img src="previews/oceanxuikun.dsh-eva-theme-plugin.webp" alt="dsh-eva-theme-plugin" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/oceanxuikun/dsh-eva-theme-plugin">oceanxuikun/dsh-eva-theme-plugin</a></td>
-<td align="center" valign="middle">3</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-eye-care</td>
-<td align="center" valign="middle"><img src="previews/anionex.dsh-eye-care.webp" alt="dsh-eye-care" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/Anionex/dsh-eye-care">Anionex/dsh-eye-care</a></td>
+<td align="center" valign="middle">dsh-frosted-window</td>
+<td align="center" valign="middle"><img src="previews/senrylee.dsh-frosted-window.webp" alt="dsh-frosted-window" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/SenryLee/dsh-frosted-window">SenryLee/dsh-frosted-window</a></td>
 <td align="center" valign="middle">3</td>
 </tr>
 <tr>
@@ -381,27 +357,27 @@
 <td align="center" valign="middle">3</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-theme-paper</td>
-<td align="center" valign="middle"><img src="previews/wuwl-98.dsh-theme-paper.webp" alt="dsh-theme-paper" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/WuWL-98/dsh-theme-paper">WuWL-98/dsh-theme-paper</a></td>
-<td align="center" valign="middle">3</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-ui-wallpaper</td>
-<td align="center" valign="middle"><img src="previews/youzhoujimrliu.dsh-ui-wallpaper.webp" alt="dsh-ui-wallpaper" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/youzhoujiMrLiu/dsh-ui-wallpaper">youzhoujiMrLiu/dsh-ui-wallpaper</a></td>
-<td align="center" valign="middle">3</td>
-</tr>
-<tr>
 <td align="center" valign="middle">dsh-wallpaper</td>
 <td align="center" valign="middle"><img src="previews/chinarxq.dsh-wallpaper.webp" alt="dsh-wallpaper" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/chinaRXQ/dsh-wallpaper">chinaRXQ/dsh-wallpaper</a></td>
 <td align="center" valign="middle">3</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-webUI-Glass-Theme</td>
+<td align="center" valign="middle"><img src="previews/makuralymi.dsh-webui-glass-theme.webp" alt="dsh-webUI-Glass-Theme" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/makuralymi/dsh-webUI-Glass-Theme">makuralymi/dsh-webUI-Glass-Theme</a></td>
+<td align="center" valign="middle">3</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-whale-background</td>
 <td align="center" valign="middle"><img src="previews/tuogusa.dsh-whale-background.webp" alt="dsh-whale-background" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/tuogusa/dsh-whale-background">tuogusa/dsh-whale-background</a></td>
+<td align="center" valign="middle">3</td>
+</tr>
+<tr>
+<td align="center" valign="middle">dsh-wx-skin</td>
+<td align="center" valign="middle"><img src="previews/wangxilhy23.dsh-wx-skin.webp" alt="dsh-wx-skin" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/wangxilhy23/dsh-wx-skin">wangxilhy23/dsh-wx-skin</a></td>
 <td align="center" valign="middle">3</td>
 </tr>
 <tr>
@@ -414,6 +390,12 @@
 <td align="center" valign="middle">chiral-pulse</td>
 <td align="center" valign="middle"><img src="previews/moonshadow1976.chiral-pulse.webp" alt="chiral-pulse" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/MoonShadow1976/chiral-pulse">MoonShadow1976/chiral-pulse</a></td>
+<td align="center" valign="middle">2</td>
+</tr>
+<tr>
+<td align="center" valign="middle">dsh-arcaea-theme</td>
+<td align="center" valign="middle"><img src="previews/a1swg1159-pixel.dsh-arcaea-theme.webp" alt="dsh-arcaea-theme" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/a1swg1159-pixel/dsh-arcaea-theme">a1swg1159-pixel/dsh-arcaea-theme</a></td>
 <td align="center" valign="middle">2</td>
 </tr>
 <tr>
@@ -435,33 +417,15 @@
 <td align="center" valign="middle">2</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-blue-archive-shiroko</td>
-<td align="center" valign="middle"><img src="previews/mldhao.dsh-blue-archive-shiroko.webp" alt="dsh-blue-archive-shiroko" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/mldhao/dsh-blue-archive-shiroko">mldhao/dsh-blue-archive-shiroko</a></td>
+<td align="center" valign="middle">dsh-eye-care</td>
+<td align="center" valign="middle"><img src="previews/anionex.dsh-eye-care.webp" alt="dsh-eye-care" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/Anionex/dsh-eye-care">Anionex/dsh-eye-care</a></td>
 <td align="center" valign="middle">2</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-fun-weather</td>
 <td align="center" valign="middle"><img src="previews/omdsh-dev.dsh-fun-weather.webp" alt="dsh-fun-weather" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/omdsh-dev/dsh-fun-weather">omdsh-dev/dsh-fun-weather</a></td>
-<td align="center" valign="middle">2</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-ivory</td>
-<td align="center" valign="middle"><img src="previews/zjuzhiyucai.dsh-ivory.webp" alt="dsh-ivory" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/ZJUZhiyuCai/dsh-ivory">ZJUZhiyuCai/dsh-ivory</a></td>
-<td align="center" valign="middle">2</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-material-you</td>
-<td align="center" valign="middle"><img src="previews/mtaech.dsh-material-you.webp" alt="dsh-material-you" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/mtaech/dsh-material-you">mtaech/dsh-material-you</a></td>
-<td align="center" valign="middle">2</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-nene-theme</td>
-<td align="center" valign="middle"><img src="previews/mizuhara37.dsh-nene-theme.webp" alt="dsh-nene-theme" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/mizuhara37/dsh-nene-theme">mizuhara37/dsh-nene-theme</a></td>
 <td align="center" valign="middle">2</td>
 </tr>
 <tr>
@@ -495,21 +459,21 @@
 <td align="center" valign="middle">2</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-vscode-theme</td>
-<td align="center" valign="middle"><img src="previews/sim-xia.dsh-vscode-theme.webp" alt="dsh-vscode-theme" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/Sim-xia/dsh-vscode-theme">Sim-xia/dsh-vscode-theme</a></td>
+<td align="center" valign="middle">dsh-theme-paper</td>
+<td align="center" valign="middle"><img src="previews/wuwl-98.dsh-theme-paper.webp" alt="dsh-theme-paper" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/WuWL-98/dsh-theme-paper">WuWL-98/dsh-theme-paper</a></td>
+<td align="center" valign="middle">2</td>
+</tr>
+<tr>
+<td align="center" valign="middle">dsh-ui-wallpaper</td>
+<td align="center" valign="middle"><img src="previews/youzhoujimrliu.dsh-ui-wallpaper.webp" alt="dsh-ui-wallpaper" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/youzhoujiMrLiu/dsh-ui-wallpaper">youzhoujiMrLiu/dsh-ui-wallpaper</a></td>
 <td align="center" valign="middle">2</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-web-theme-packs</td>
 <td align="center" valign="middle"><img src="previews/tzy168.dsh-web-theme-packs.webp" alt="dsh-web-theme-packs" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/tzy168/dsh-web-theme-packs">tzy168/dsh-web-theme-packs</a></td>
-<td align="center" valign="middle">2</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-x9-theme</td>
-<td align="center" valign="middle"><img src="previews/x9wd09ncc.dsh-x9-theme.webp" alt="dsh-x9-theme" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/X9wd09ncc/dsh-x9-theme">X9wd09ncc/dsh-x9-theme</a></td>
 <td align="center" valign="middle">2</td>
 </tr>
 <tr>
@@ -537,9 +501,9 @@
 <td align="center" valign="middle">1</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-815-skin</td>
-<td align="center" valign="middle"><img src="previews/lengduan.dsh-815-skin.webp" alt="dsh-815-skin" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/lengduan/dsh-815-skin">lengduan/dsh-815-skin</a></td>
+<td align="center" valign="middle">dsh-blue-archive-shiroko</td>
+<td align="center" valign="middle"><img src="previews/mldhao.dsh-blue-archive-shiroko.webp" alt="dsh-blue-archive-shiroko" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/mldhao/dsh-blue-archive-shiroko">mldhao/dsh-blue-archive-shiroko</a></td>
 <td align="center" valign="middle">1</td>
 </tr>
 <tr>
@@ -579,9 +543,21 @@
 <td align="center" valign="middle">1</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-ivory</td>
+<td align="center" valign="middle"><img src="previews/zjuzhiyucai.dsh-ivory.webp" alt="dsh-ivory" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/ZJUZhiyuCai/dsh-ivory">ZJUZhiyuCai/dsh-ivory</a></td>
+<td align="center" valign="middle">1</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-krill-theme</td>
 <td align="center" valign="middle"><img src="previews/i1j.dsh-krill-theme.webp" alt="dsh-krill-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/i1j/dsh-krill-theme">i1j/dsh-krill-theme</a></td>
+<td align="center" valign="middle">1</td>
+</tr>
+<tr>
+<td align="center" valign="middle">dsh-material-you</td>
+<td align="center" valign="middle"><img src="previews/mtaech.dsh-material-you.webp" alt="dsh-material-you" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/mtaech/dsh-material-you">mtaech/dsh-material-you</a></td>
 <td align="center" valign="middle">1</td>
 </tr>
 <tr>
@@ -591,21 +567,15 @@
 <td align="center" valign="middle">1</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-palenight-theme</td>
-<td align="center" valign="middle"><img src="previews/youyli03.dsh-palenight-theme.webp" alt="dsh-palenight-theme" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/youyli03/dsh-palenight-theme">youyli03/dsh-palenight-theme</a></td>
+<td align="center" valign="middle">dsh-nene-theme</td>
+<td align="center" valign="middle"><img src="previews/mizuhara37.dsh-nene-theme.webp" alt="dsh-nene-theme" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/mizuhara37/dsh-nene-theme">mizuhara37/dsh-nene-theme</a></td>
 <td align="center" valign="middle">1</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-plugin-gouden-leeuw-theme</td>
 <td align="center" valign="middle"><img src="previews/andy294753951.dsh-plugin-gouden-leeuw-theme.webp" alt="dsh-plugin-gouden-leeuw-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Andy294753951/dsh-plugin-gouden-leeuw-theme">Andy294753951/dsh-plugin-gouden-leeuw-theme</a></td>
-<td align="center" valign="middle">1</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-premium-themes</td>
-<td align="center" valign="middle"><img src="previews/xiaoyanzi191.dsh-premium-themes.webp" alt="dsh-premium-themes" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/xiaoyanzi191/dsh-premium-themes">xiaoyanzi191/dsh-premium-themes</a></td>
 <td align="center" valign="middle">1</td>
 </tr>
 <tr>
@@ -663,9 +633,21 @@
 <td align="center" valign="middle">1</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-vscode-theme</td>
+<td align="center" valign="middle"><img src="previews/sim-xia.dsh-vscode-theme.webp" alt="dsh-vscode-theme" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/Sim-xia/dsh-vscode-theme">Sim-xia/dsh-vscode-theme</a></td>
+<td align="center" valign="middle">1</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-whale-companion</td>
 <td align="center" valign="middle"><img src="previews/leemancheung.dsh-whale-companion.webp" alt="dsh-whale-companion" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/LeemanCheung/dsh-whale-companion">LeemanCheung/dsh-whale-companion</a></td>
+<td align="center" valign="middle">1</td>
+</tr>
+<tr>
+<td align="center" valign="middle">dsh-x9-theme</td>
+<td align="center" valign="middle"><img src="previews/x9wd09ncc.dsh-x9-theme.webp" alt="dsh-x9-theme" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/X9wd09ncc/dsh-x9-theme">X9wd09ncc/dsh-x9-theme</a></td>
 <td align="center" valign="middle">1</td>
 </tr>
 <tr>
@@ -684,6 +666,12 @@
 <td align="center" valign="middle">dsh_Rhine_Lab_themo</td>
 <td align="center" valign="middle"><img src="previews/reluckylucy.dsh-rhine-lab-themo.webp" alt="dsh_Rhine_Lab_themo" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/ReLuckyLucy/dsh_Rhine_Lab_themo">ReLuckyLucy/dsh_Rhine_Lab_themo</a></td>
+<td align="center" valign="middle">0</td>
+</tr>
+<tr>
+<td align="center" valign="middle">dsh-815-skin</td>
+<td align="center" valign="middle"><img src="previews/lengduan.dsh-815-skin.webp" alt="dsh-815-skin" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/lengduan/dsh-815-skin">lengduan/dsh-815-skin</a></td>
 <td align="center" valign="middle">0</td>
 </tr>
 <tr>
@@ -729,6 +717,12 @@
 <td align="center" valign="middle">0</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-palenight-theme</td>
+<td align="center" valign="middle"><img src="previews/youyli03.dsh-palenight-theme.webp" alt="dsh-palenight-theme" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/youyli03/dsh-palenight-theme">youyli03/dsh-palenight-theme</a></td>
+<td align="center" valign="middle">0</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-pixel-skin</td>
 <td align="center" valign="middle"><img src="previews/adaning.dsh-pixel-skin.webp" alt="dsh-pixel-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/ADAning/dsh-pixel-skin">ADAning/dsh-pixel-skin</a></td>
@@ -738,6 +732,12 @@
 <td align="center" valign="middle">dsh-pnc-theme</td>
 <td align="center" valign="middle"><img src="previews/morinissleeping.dsh-pnc-theme.webp" alt="dsh-pnc-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Morinissleeping/dsh-pnc-theme">Morinissleeping/dsh-pnc-theme</a></td>
+<td align="center" valign="middle">0</td>
+</tr>
+<tr>
+<td align="center" valign="middle">dsh-premium-themes</td>
+<td align="center" valign="middle"><img src="previews/xiaoyanzi191.dsh-premium-themes.webp" alt="dsh-premium-themes" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/xiaoyanzi191/dsh-premium-themes">xiaoyanzi191/dsh-premium-themes</a></td>
 <td align="center" valign="middle">0</td>
 </tr>
 <tr>

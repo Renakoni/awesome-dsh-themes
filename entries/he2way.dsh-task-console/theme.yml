@@ -8,11 +8,11 @@ description: "DSH client plugin — flip to the back of the page for a floating
   workspace of the current session, with mouse-draggable cards."
 package: dsh-task-console
 rowId: task-console
-version: 0.23.0
+version: 0.24.0
 source:
   kind: external
   repository: https://github.com/He2way/dsh-task-console
-  commit: 8887de37f7eefe03d0d8409d2e5f728516d21841
+  commit: 203fb2412de6f814da0dee22f5db659fce0d7cc0
 tags:
   - glass
   - motion
@@ -25,7 +25,7 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://opengraph.githubassets.com/8887de37f7eefe03d0d8409d2e5f728516d21841/He2way/dsh-task-console
+  - https://opengraph.githubassets.com/203fb2412de6f814da0dee22f5db659fce0d7cc0/He2way/dsh-task-console
 review:
   compatibility: unverified
   preview: repository-card
@@ -33,4 +33,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-09-17T11:43:07Z
+updatedAt: 2026-09-18T07:05:23Z
