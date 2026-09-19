@@ -18,7 +18,7 @@
 <td align="center" valign="middle">深海女仆工坊</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="深海女仆工坊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">2,142</td>
+<td align="center" valign="middle">2,145</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
@@ -54,7 +54,7 @@
 <td align="center" valign="middle">达妮娅 · 虚无之泡</td>
 <td align="center" valign="middle"><img src="previews/ewnscat-ya.dsh-client-ui-skin-denia.webp" alt="达妮娅 · 虚无之泡" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Ewnscat-ya/dsh-client-ui-skin-denia">Ewnscat-ya/dsh-client-ui-skin-denia</a></td>
-<td align="center" valign="middle">36</td>
+<td align="center" valign="middle">37</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-client-ui-custom</td>
@@ -66,7 +66,7 @@
 <td align="center" valign="middle">dsh-any-background</td>
 <td align="center" valign="middle"><img src="previews/tkingxiao.dsh-any-background.webp" alt="dsh-any-background" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Tkingxiao/dsh-any-background">Tkingxiao/dsh-any-background</a></td>
-<td align="center" valign="middle">33</td>
+<td align="center" valign="middle">32</td>
 </tr>
 <tr>
 <td align="center" valign="middle">maid-whale-webui</td>
@@ -501,6 +501,12 @@
 <td align="center" valign="middle">1</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh_Rhine_Lab_themo</td>
+<td align="center" valign="middle"><img src="previews/reluckylucy.dsh-rhine-lab-themo.webp" alt="dsh_Rhine_Lab_themo" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/ReLuckyLucy/dsh_Rhine_Lab_themo">ReLuckyLucy/dsh_Rhine_Lab_themo</a></td>
+<td align="center" valign="middle">1</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-blue-archive-shiroko</td>
 <td align="center" valign="middle"><img src="previews/mldhao.dsh-blue-archive-shiroko.webp" alt="dsh-blue-archive-shiroko" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/mldhao/dsh-blue-archive-shiroko">mldhao/dsh-blue-archive-shiroko</a></td>
@@ -661,12 +667,6 @@
 <td align="center" valign="middle"><img src="previews/cdxdnrf.wishadel-theme.webp" alt="wishadel-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/cdxDNRF/wishadel-theme">cdxDNRF/wishadel-theme</a></td>
 <td align="center" valign="middle">1</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh_Rhine_Lab_themo</td>
-<td align="center" valign="middle"><img src="previews/reluckylucy.dsh-rhine-lab-themo.webp" alt="dsh_Rhine_Lab_themo" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/ReLuckyLucy/dsh_Rhine_Lab_themo">ReLuckyLucy/dsh_Rhine_Lab_themo</a></td>
-<td align="center" valign="middle">0</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-815-skin</td>
