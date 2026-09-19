@@ -18,7 +18,7 @@
 <td align="center" valign="middle">Abyssal Maid Atelier</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="Abyssal Maid Atelier" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">2,129</td>
+<td align="center" valign="middle">2,142</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
@@ -36,13 +36,13 @@
 <td align="center" valign="middle">Liang Intensity Skin</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="Liang Intensity Skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">201</td>
+<td align="center" valign="middle">203</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
 <td align="center" valign="middle"><img src="previews/revolutionla.dsh-dream-skin.webp" alt="dsh-dream-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></td>
-<td align="center" valign="middle">175</td>
+<td align="center" valign="middle">176</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-catppuccin</td>
@@ -72,7 +72,7 @@
 <td align="center" valign="middle">maid-whale-webui</td>
 <td align="center" valign="middle"><img src="previews/yunxiiqwq.maid-whale-webui.webp" alt="maid-whale-webui" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/yunxiiQwQ/dsh-maid-whale-webUI">yunxiiQwQ/dsh-maid-whale-webUI</a></td>
-<td align="center" valign="middle">31</td>
+<td align="center" valign="middle">32</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-theme-cyberpunk2077</td>
@@ -90,13 +90,13 @@
 <td align="center" valign="middle">dsh-qq2006</td>
 <td align="center" valign="middle"><img src="previews/laplaceyoung.dsh-qq2006.webp" alt="dsh-qq2006" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/LaplaceYoung/dsh-qq2006">LaplaceYoung/dsh-qq2006</a></td>
-<td align="center" valign="middle">26</td>
+<td align="center" valign="middle">27</td>
 </tr>
 <tr>
 <td align="center" valign="middle">touhou-hakurei</td>
 <td align="center" valign="middle"><img src="previews/xiake595.touhou-hakurei.webp" alt="touhou-hakurei" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/xiake595/touhou-hakurei">xiake595/touhou-hakurei</a></td>
-<td align="center" valign="middle">19</td>
+<td align="center" valign="middle">20</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-joi-channel-theme</td>
@@ -159,6 +159,12 @@
 <td align="center" valign="middle">11</td>
 </tr>
 <tr>
+<td align="center" valign="middle">DSH Appearance Gallery</td>
+<td align="center" valign="middle"><img src="previews/wsxwj123.dsh-appearance-gallery.webp" alt="DSH Appearance Gallery" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/wsxwj123/dsh-plugins">wsxwj123/dsh-plugins</a></td>
+<td align="center" valign="middle">8</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-anthropic-fonts</td>
 <td align="center" valign="middle"><img src="previews/isilsolme.dsh-anthropic-fonts.webp" alt="dsh-anthropic-fonts" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Isilsolme/dsh-anthropic-fonts">Isilsolme/dsh-anthropic-fonts</a></td>
@@ -174,12 +180,6 @@
 <td align="center" valign="middle">dafy-whale-theme</td>
 <td align="center" valign="middle"><img src="previews/dviridescent.dafy-whale-theme.webp" alt="dafy-whale-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/DViridescent/dafy-whale-theme">DViridescent/dafy-whale-theme</a></td>
-<td align="center" valign="middle">7</td>
-</tr>
-<tr>
-<td align="center" valign="middle">DSH Appearance Gallery</td>
-<td align="center" valign="middle"><img src="previews/wsxwj123.dsh-appearance-gallery.webp" alt="DSH Appearance Gallery" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/wsxwj123/dsh-plugins">wsxwj123/dsh-plugins</a></td>
 <td align="center" valign="middle">7</td>
 </tr>
 <tr>
