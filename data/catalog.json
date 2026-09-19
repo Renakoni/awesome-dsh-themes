@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T08:48:01.363Z",
+  "generatedAt": "2026-09-19T18:36:25.284Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -1559,7 +1559,7 @@
         "commercialUse": false,
         "notice": "角色、美术和商标权利归原权利人所有；仓库声明为非官方同人作品并禁止商业使用。"
       },
-      "stars": 36,
+      "stars": 37,
       "updatedAt": "2026-09-08T21:05:42Z"
     },
     {
@@ -3926,7 +3926,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 0,
+      "stars": 1,
       "updatedAt": "2026-08-27T14:41:29Z"
     },
     {
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 2142,
+      "stars": 2145,
       "updatedAt": "2026-09-13T10:19:03Z"
     },
     {
@@ -4701,7 +4701,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 33,
+      "stars": 32,
       "updatedAt": "2026-09-17T15:27:36Z"
     },
     {
@@ -5807,9 +5807,9 @@
       "packageName": "dsh-wallpaper_share",
       "rowId": "we-sync",
       "install": {
-        "target": "github:YRN-playmaker/dsh-wallpaper_share#7c7389916bed9871ce85945043ed65b1d2f8e969",
-        "commit": "7c7389916bed9871ce85945043ed65b1d2f8e969",
-        "version": "26.9.13"
+        "target": "github:YRN-playmaker/dsh-wallpaper_share#2b27ae0ae986ce280fe9ac79d37df54db18211a6",
+        "commit": "2b27ae0ae986ce280fe9ac79d37df54db18211a6",
+        "version": "26.9.20-rc"
       },
       "tags": [
         "wallpaper",
@@ -5842,7 +5842,7 @@
         "commercialUse": true
       },
       "stars": 30,
-      "updatedAt": "2026-09-13T08:45:36Z"
+      "updatedAt": "2026-09-19T18:30:58Z"
     },
     {
       "id": "yunxiiqwq.maid-whale-webui",
