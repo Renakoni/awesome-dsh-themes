@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T18:36:25.284Z",
+  "generatedAt": "2026-09-20T09:16:53.323Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -1710,7 +1710,7 @@
         "commercialUse": false,
         "notice": "插件代码声明为 MIT；壁纸与精灵表为第三方《鸣潮》爱弥斯素材，仓库说明仅供个人学习交流使用，版权归原权利人所有。"
       },
-      "stars": 6,
+      "stars": 7,
       "updatedAt": "2026-08-16T16:37:51Z"
     },
     {
@@ -1770,9 +1770,9 @@
       "packageName": "dsh-task-console",
       "rowId": "task-console",
       "install": {
-        "target": "github:He2way/dsh-task-console#0030a778da8d3d39b93e0a556de26b786435042c",
-        "commit": "0030a778da8d3d39b93e0a556de26b786435042c",
-        "version": "0.24.2"
+        "target": "github:He2way/dsh-task-console#4ad0709aacfd58ce126c283f7d500a977d94c030",
+        "commit": "4ad0709aacfd58ce126c283f7d500a977d94c030",
+        "version": "0.25.0"
       },
       "tags": [
         "glass",
@@ -1790,7 +1790,7 @@
         ]
       },
       "screenshots": [
-        "https://opengraph.githubassets.com/0030a778da8d3d39b93e0a556de26b786435042c/He2way/dsh-task-console"
+        "https://opengraph.githubassets.com/4ad0709aacfd58ce126c283f7d500a977d94c030/He2way/dsh-task-console"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/he2way.dsh-task-console.webp",
       "review": {
@@ -1803,7 +1803,7 @@
         "commercialUse": true
       },
       "stars": 0,
-      "updatedAt": "2026-09-18T10:14:59Z"
+      "updatedAt": "2026-09-20T06:39:59Z"
     },
     {
       "id": "i1j.dsh-krill-theme",
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 203,
+      "stars": 209,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -3941,8 +3941,8 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#6a163fecd155c1a599947c2b0ff3c48f7c417dc2",
-        "commit": "6a163fecd155c1a599947c2b0ff3c48f7c417dc2",
+        "target": "github:RevolutionLA/dsh-dream-skin#8d04dc1234571e13b9408d6f9b92e3f80fb12023",
+        "commit": "8d04dc1234571e13b9408d6f9b92e3f80fb12023",
         "version": "9.16.0"
       },
       "tags": [
@@ -3962,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/6a163fecd155c1a599947c2b0ff3c48f7c417dc2/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/6a163fecd155c1a599947c2b0ff3c48f7c417dc2/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/8d04dc1234571e13b9408d6f9b92e3f80fb12023/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/8d04dc1234571e13b9408d6f9b92e3f80fb12023/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3975,8 +3975,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 176,
-      "updatedAt": "2026-09-19T08:00:59Z"
+      "stars": 177,
+      "updatedAt": "2026-09-20T08:33:28Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 2145,
+      "stars": 2151,
       "updatedAt": "2026-09-13T10:19:03Z"
     },
     {
@@ -4848,7 +4848,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 14,
+      "stars": 13,
       "updatedAt": "2026-09-19T07:41:35Z"
     },
     {
@@ -5434,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 405,
+      "stars": 406,
       "updatedAt": "2026-08-22T02:10:09Z"
     },
     {
@@ -5807,8 +5807,8 @@
       "packageName": "dsh-wallpaper_share",
       "rowId": "we-sync",
       "install": {
-        "target": "github:YRN-playmaker/dsh-wallpaper_share#2b27ae0ae986ce280fe9ac79d37df54db18211a6",
-        "commit": "2b27ae0ae986ce280fe9ac79d37df54db18211a6",
+        "target": "github:YRN-playmaker/dsh-wallpaper_share#3138ffa44e44e23a0646f75b0ea75bc228dc6dd2",
+        "commit": "3138ffa44e44e23a0646f75b0ea75bc228dc6dd2",
         "version": "26.9.20-rc"
       },
       "tags": [
@@ -5842,7 +5842,7 @@
         "commercialUse": true
       },
       "stars": 30,
-      "updatedAt": "2026-09-19T18:30:58Z"
+      "updatedAt": "2026-09-19T18:50:10Z"
     },
     {
       "id": "yunxiiqwq.maid-whale-webui",
@@ -5890,7 +5890,7 @@
         "code": "BSD-3-Clause",
         "commercialUse": true
       },
-      "stars": 32,
+      "stars": 33,
       "updatedAt": "2026-08-30T14:30:44Z"
     },
     {
