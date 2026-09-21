@@ -18,7 +18,7 @@
 <td align="center" valign="middle">深海女仆工坊</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="深海女仆工坊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">2,154</td>
+<td align="center" valign="middle">2,166</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
@@ -30,13 +30,13 @@
 <td align="center" valign="middle">Open Sea 海洋皮肤</td>
 <td align="center" valign="middle"><img src="previews/d-dev0101.open-sea-skin.webp" alt="Open Sea 海洋皮肤" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/d-dev0101/open-sea-skin">d-dev0101/open-sea-skin</a></td>
-<td align="center" valign="middle">378</td>
+<td align="center" valign="middle">381</td>
 </tr>
 <tr>
 <td align="center" valign="middle">滑动变祖</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="滑动变祖" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">211</td>
+<td align="center" valign="middle">213</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
@@ -48,7 +48,7 @@
 <td align="center" valign="middle">dsh-catppuccin</td>
 <td align="center" valign="middle"><img src="previews/nonamelego.dsh-catppuccin.webp" alt="dsh-catppuccin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/NoNameLeGo/dsh-catppuccin">NoNameLeGo/dsh-catppuccin</a></td>
-<td align="center" valign="middle">41</td>
+<td align="center" valign="middle">42</td>
 </tr>
 <tr>
 <td align="center" valign="middle">达妮娅 · 虚无之泡</td>
@@ -159,15 +159,15 @@
 <td align="center" valign="middle">11</td>
 </tr>
 <tr>
-<td align="center" valign="middle">DSH 外观画廊</td>
-<td align="center" valign="middle"><img src="previews/wsxwj123.dsh-appearance-gallery.webp" alt="DSH 外观画廊" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/wsxwj123/dsh-plugins">wsxwj123/dsh-plugins</a></td>
-<td align="center" valign="middle">8</td>
-</tr>
-<tr>
 <td align="center" valign="middle">dsh-anthropic-fonts</td>
 <td align="center" valign="middle"><img src="previews/isilsolme.dsh-anthropic-fonts.webp" alt="dsh-anthropic-fonts" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Isilsolme/dsh-anthropic-fonts">Isilsolme/dsh-anthropic-fonts</a></td>
+<td align="center" valign="middle">9</td>
+</tr>
+<tr>
+<td align="center" valign="middle">DSH 外观画廊</td>
+<td align="center" valign="middle"><img src="previews/wsxwj123.dsh-appearance-gallery.webp" alt="DSH 外观画廊" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/wsxwj123/dsh-plugins">wsxwj123/dsh-plugins</a></td>
 <td align="center" valign="middle">8</td>
 </tr>
 <tr>
