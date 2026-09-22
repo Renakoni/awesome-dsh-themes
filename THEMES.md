@@ -18,7 +18,7 @@
 <td align="center" valign="middle">深海女仆工坊</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="深海女仆工坊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">2,177</td>
+<td align="center" valign="middle">2,183</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
@@ -111,6 +111,12 @@
 <td align="center" valign="middle">18</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-ui-appearance</td>
+<td align="center" valign="middle"><img src="previews/tqsy114514.dsh-ui-appearance.webp" alt="dsh-ui-appearance" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/TQSY114514/dsh-ui-appearance">TQSY114514/dsh-ui-appearance</a></td>
+<td align="center" valign="middle">15</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-cyber-particle</td>
 <td align="center" valign="middle"><img src="previews/aks1st.dsh-cyber-particle.webp" alt="dsh-cyber-particle" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/AKS1st/dsh-cyber-particle">AKS1st/dsh-cyber-particle</a></td>
@@ -120,12 +126,6 @@
 <td align="center" valign="middle">dsh-liquid-glass</td>
 <td align="center" valign="middle"><img src="previews/xingyingyuzhui.dsh-liquid-glass.webp" alt="dsh-liquid-glass" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/xingyingyuzhui/dsh-liquid-glass">xingyingyuzhui/dsh-liquid-glass</a></td>
-<td align="center" valign="middle">14</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-ui-appearance</td>
-<td align="center" valign="middle"><img src="previews/tqsy114514.dsh-ui-appearance.webp" alt="dsh-ui-appearance" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/TQSY114514/dsh-ui-appearance">TQSY114514/dsh-ui-appearance</a></td>
 <td align="center" valign="middle">14</td>
 </tr>
 <tr>
@@ -213,12 +213,6 @@
 <td align="center" valign="middle">6</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-blue-whale</td>
-<td align="center" valign="middle"><img src="previews/starslittle.dsh-blue-whale.webp" alt="dsh-blue-whale" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/starslittle/dsh-blue-whale">starslittle/dsh-blue-whale</a></td>
-<td align="center" valign="middle">6</td>
-</tr>
-<tr>
 <td align="center" valign="middle">dsh-neu-theme</td>
 <td align="center" valign="middle"><img src="previews/lhy723.dsh-neu-theme.webp" alt="dsh-neu-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Lhy723/dsh-neu-theme">Lhy723/dsh-neu-theme</a></td>
@@ -241,6 +235,12 @@
 <td align="center" valign="middle"><img src="previews/dancingmemory.dskin.webp" alt="dskin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/dancingmemory/dskin">dancingmemory/dskin</a></td>
 <td align="center" valign="middle">6</td>
+</tr>
+<tr>
+<td align="center" valign="middle">dsh-blue-whale</td>
+<td align="center" valign="middle"><img src="previews/starslittle.dsh-blue-whale.webp" alt="dsh-blue-whale" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/starslittle/dsh-blue-whale">starslittle/dsh-blue-whale</a></td>
+<td align="center" valign="middle">5</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-naiwa-theme</td>
