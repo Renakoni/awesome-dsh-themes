@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T09:18:04.916Z",
+  "generatedAt": "2026-09-22T19:44:59.666Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -1770,9 +1770,9 @@
       "packageName": "dsh-task-console",
       "rowId": "task-console",
       "install": {
-        "target": "github:He2way/dsh-task-console#4ad0709aacfd58ce126c283f7d500a977d94c030",
-        "commit": "4ad0709aacfd58ce126c283f7d500a977d94c030",
-        "version": "0.25.0"
+        "target": "github:He2way/dsh-task-console#5157e3703f674902af3042d34bc8af9e39e2f085",
+        "commit": "5157e3703f674902af3042d34bc8af9e39e2f085",
+        "version": "0.26.1"
       },
       "tags": [
         "glass",
@@ -1790,7 +1790,7 @@
         ]
       },
       "screenshots": [
-        "https://opengraph.githubassets.com/4ad0709aacfd58ce126c283f7d500a977d94c030/He2way/dsh-task-console"
+        "https://opengraph.githubassets.com/5157e3703f674902af3042d34bc8af9e39e2f085/He2way/dsh-task-console"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/he2way.dsh-task-console.webp",
       "review": {
@@ -1803,7 +1803,7 @@
         "commercialUse": true
       },
       "stars": 0,
-      "updatedAt": "2026-09-20T06:39:59Z"
+      "updatedAt": "2026-09-22T11:52:20Z"
     },
     {
       "id": "i1j.dsh-krill-theme",
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 2177,
+      "stars": 2183,
       "updatedAt": "2026-09-13T10:19:03Z"
     },
     {
@@ -4358,7 +4358,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 6,
+      "stars": 5,
       "updatedAt": "2026-08-17T19:58:04Z"
     },
     {
@@ -4662,9 +4662,9 @@
       "packageName": "dsh-any-background",
       "rowId": "dsh-any-background",
       "install": {
-        "target": "github:Tkingxiao/dsh-any-background#a5a8d8e31676dee6d7de108f88dcde043cb734e7",
-        "commit": "a5a8d8e31676dee6d7de108f88dcde043cb734e7",
-        "version": "0.2.10"
+        "target": "github:Tkingxiao/dsh-any-background#61ae33ca0342e84a224836a74d8369539fde20f2",
+        "commit": "61ae33ca0342e84a224836a74d8369539fde20f2",
+        "version": "0.3.0"
       },
       "tags": [
         "wallpaper",
@@ -4684,12 +4684,12 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/a5a8d8e31676dee6d7de108f88dcde043cb734e7/example_img/image-6.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/a5a8d8e31676dee6d7de108f88dcde043cb734e7/example_img/image-9.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/a5a8d8e31676dee6d7de108f88dcde043cb734e7/example_img/image.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/a5a8d8e31676dee6d7de108f88dcde043cb734e7/example_img/image-2.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/a5a8d8e31676dee6d7de108f88dcde043cb734e7/example_img/image-3.png",
-        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/a5a8d8e31676dee6d7de108f88dcde043cb734e7/example_img/image-4.png"
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/61ae33ca0342e84a224836a74d8369539fde20f2/example_img/image-6.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/61ae33ca0342e84a224836a74d8369539fde20f2/example_img/image-9.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/61ae33ca0342e84a224836a74d8369539fde20f2/example_img/image.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/61ae33ca0342e84a224836a74d8369539fde20f2/example_img/image-2.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/61ae33ca0342e84a224836a74d8369539fde20f2/example_img/image-3.png",
+        "https://raw.githubusercontent.com/Tkingxiao/dsh-any-background/61ae33ca0342e84a224836a74d8369539fde20f2/example_img/image-4.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tkingxiao.dsh-any-background.webp",
       "review": {
@@ -4702,7 +4702,7 @@
         "commercialUse": true
       },
       "stars": 33,
-      "updatedAt": "2026-09-17T15:27:36Z"
+      "updatedAt": "2026-09-22T16:30:25Z"
     },
     {
       "id": "tommy00748.dsh-theme-cyberpunk2077",
@@ -4848,7 +4848,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 14,
+      "stars": 15,
       "updatedAt": "2026-09-19T07:41:35Z"
     },
     {
