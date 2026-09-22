@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T20:25:36.393Z",
+  "generatedAt": "2026-09-22T09:18:04.916Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -976,7 +976,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 381,
+      "stars": 382,
       "updatedAt": "2026-09-11T18:41:47Z"
     },
     {
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 214,
+      "stars": 215,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -3553,9 +3553,9 @@
       "packageName": "@nonamelego/dsh-catppuccin",
       "rowId": "dsh-catppuccin",
       "install": {
-        "target": "github:NoNameLeGo/dsh-catppuccin#02f0f70a967e537e279569b3fe6f8b727906641e",
-        "commit": "02f0f70a967e537e279569b3fe6f8b727906641e",
-        "version": "0.5.5"
+        "target": "github:NoNameLeGo/dsh-catppuccin#85e2eb2aa947625de5aa77d98c62148958b6cf75",
+        "commit": "85e2eb2aa947625de5aa77d98c62148958b6cf75",
+        "version": "0.5.6-beta.0"
       },
       "tags": [
         "wallpaper",
@@ -3575,10 +3575,10 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/02f0f70a967e537e279569b3fe6f8b727906641e/assets/previews/latte.png",
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/02f0f70a967e537e279569b3fe6f8b727906641e/assets/previews/frappe.png",
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/02f0f70a967e537e279569b3fe6f8b727906641e/assets/previews/macchiato.png",
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/02f0f70a967e537e279569b3fe6f8b727906641e/assets/previews/mocha.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/85e2eb2aa947625de5aa77d98c62148958b6cf75/assets/previews/latte.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/85e2eb2aa947625de5aa77d98c62148958b6cf75/assets/previews/frappe.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/85e2eb2aa947625de5aa77d98c62148958b6cf75/assets/previews/macchiato.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/85e2eb2aa947625de5aa77d98c62148958b6cf75/assets/previews/mocha.png",
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png",
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png"
       ],
@@ -3592,8 +3592,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 43,
-      "updatedAt": "2026-09-21T06:54:23Z"
+      "stars": 45,
+      "updatedAt": "2026-09-22T06:16:43Z"
     },
     {
       "id": "oceanxuikun.dsh-eva-theme-plugin",
@@ -3941,8 +3941,8 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#648ca0fe1df99402027aa8002cc09b7920c6b73a",
-        "commit": "648ca0fe1df99402027aa8002cc09b7920c6b73a",
+        "target": "github:RevolutionLA/dsh-dream-skin#dafb41a36f2efd015e8234579d16eec2f15f6b1e",
+        "commit": "dafb41a36f2efd015e8234579d16eec2f15f6b1e",
         "version": "9.16.0"
       },
       "tags": [
@@ -3962,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/648ca0fe1df99402027aa8002cc09b7920c6b73a/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/648ca0fe1df99402027aa8002cc09b7920c6b73a/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/dafb41a36f2efd015e8234579d16eec2f15f6b1e/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/dafb41a36f2efd015e8234579d16eec2f15f6b1e/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3975,8 +3975,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 178,
-      "updatedAt": "2026-09-21T08:54:06Z"
+      "stars": 179,
+      "updatedAt": "2026-09-22T08:30:40Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4165,7 +4165,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 2,
       "updatedAt": "2026-08-16T12:16:30.062Z"
     },
     {
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 2171,
+      "stars": 2177,
       "updatedAt": "2026-09-13T10:19:03Z"
     },
     {
@@ -4848,7 +4848,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 13,
+      "stars": 14,
       "updatedAt": "2026-09-19T07:41:35Z"
     },
     {
@@ -5287,7 +5287,7 @@
         "commercialUse": true,
         "notice": "各皮肤保留原作者的许可和署名，详见上游 skins/NOTICE.md。"
       },
-      "stars": 8,
+      "stars": 9,
       "updatedAt": "2026-09-12T03:41:46Z"
     },
     {
@@ -5434,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 407,
+      "stars": 406,
       "updatedAt": "2026-08-22T02:10:09Z"
     },
     {
@@ -5696,7 +5696,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 36,
+      "stars": 37,
       "updatedAt": "2026-08-24T12:59:18Z"
     },
     {
