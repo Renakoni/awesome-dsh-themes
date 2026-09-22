@@ -18,37 +18,37 @@
 <td align="center" valign="middle">深海女仆工坊</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="深海女仆工坊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">2,171</td>
+<td align="center" valign="middle">2,177</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
 <td align="center" valign="middle"><img src="previews/wyh66666666.dsh-transparent-ui-plugin.webp" alt="DSH-Transparent-UI-Plugin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/WYH66666666/DSH-Transparent-UI-Plugin">WYH66666666/DSH-Transparent-UI-Plugin</a></td>
-<td align="center" valign="middle">407</td>
+<td align="center" valign="middle">406</td>
 </tr>
 <tr>
 <td align="center" valign="middle">Open Sea 海洋皮肤</td>
 <td align="center" valign="middle"><img src="previews/d-dev0101.open-sea-skin.webp" alt="Open Sea 海洋皮肤" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/d-dev0101/open-sea-skin">d-dev0101/open-sea-skin</a></td>
-<td align="center" valign="middle">381</td>
+<td align="center" valign="middle">382</td>
 </tr>
 <tr>
 <td align="center" valign="middle">滑动变祖</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="滑动变祖" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">214</td>
+<td align="center" valign="middle">215</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
 <td align="center" valign="middle"><img src="previews/revolutionla.dsh-dream-skin.webp" alt="dsh-dream-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></td>
-<td align="center" valign="middle">178</td>
+<td align="center" valign="middle">179</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-catppuccin</td>
 <td align="center" valign="middle"><img src="previews/nonamelego.dsh-catppuccin.webp" alt="dsh-catppuccin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/NoNameLeGo/dsh-catppuccin">NoNameLeGo/dsh-catppuccin</a></td>
-<td align="center" valign="middle">43</td>
+<td align="center" valign="middle">45</td>
 </tr>
 <tr>
 <td align="center" valign="middle">达妮娅 · 虚无之泡</td>
@@ -60,7 +60,7 @@
 <td align="center" valign="middle">dsh-client-ui-custom</td>
 <td align="center" valign="middle"><img src="previews/yoli-mi.dsh-client-ui-custom.webp" alt="dsh-client-ui-custom" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/yoli-mi/dsh-client-ui-custom">yoli-mi/dsh-client-ui-custom</a></td>
-<td align="center" valign="middle">36</td>
+<td align="center" valign="middle">37</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-any-background</td>
@@ -123,15 +123,15 @@
 <td align="center" valign="middle">14</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-font</td>
-<td align="center" valign="middle"><img src="previews/tianyhjg-lab.dsh-font.webp" alt="dsh-font" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/tianyhjg-lab/dsh-font">tianyhjg-lab/dsh-font</a></td>
-<td align="center" valign="middle">13</td>
-</tr>
-<tr>
 <td align="center" valign="middle">dsh-ui-appearance</td>
 <td align="center" valign="middle"><img src="previews/tqsy114514.dsh-ui-appearance.webp" alt="dsh-ui-appearance" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/TQSY114514/dsh-ui-appearance">TQSY114514/dsh-ui-appearance</a></td>
+<td align="center" valign="middle">14</td>
+</tr>
+<tr>
+<td align="center" valign="middle">dsh-font</td>
+<td align="center" valign="middle"><img src="previews/tianyhjg-lab.dsh-font.webp" alt="dsh-font" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/tianyhjg-lab/dsh-font">tianyhjg-lab/dsh-font</a></td>
 <td align="center" valign="middle">13</td>
 </tr>
 <tr>
@@ -159,16 +159,16 @@
 <td align="center" valign="middle">11</td>
 </tr>
 <tr>
+<td align="center" valign="middle">DSH 外观画廊</td>
+<td align="center" valign="middle"><img src="previews/wsxwj123.dsh-appearance-gallery.webp" alt="DSH 外观画廊" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/wsxwj123/dsh-plugins">wsxwj123/dsh-plugins</a></td>
+<td align="center" valign="middle">9</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-anthropic-fonts</td>
 <td align="center" valign="middle"><img src="previews/isilsolme.dsh-anthropic-fonts.webp" alt="dsh-anthropic-fonts" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Isilsolme/dsh-anthropic-fonts">Isilsolme/dsh-anthropic-fonts</a></td>
 <td align="center" valign="middle">9</td>
-</tr>
-<tr>
-<td align="center" valign="middle">DSH 外观画廊</td>
-<td align="center" valign="middle"><img src="previews/wsxwj123.dsh-appearance-gallery.webp" alt="DSH 外观画廊" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/wsxwj123/dsh-plugins">wsxwj123/dsh-plugins</a></td>
-<td align="center" valign="middle">8</td>
 </tr>
 <tr>
 <td align="center" valign="middle">ikun-theme-skin</td>
@@ -327,12 +327,6 @@
 <td align="center" valign="middle">3</td>
 </tr>
 <tr>
-<td align="center" valign="middle">dsh-frosted-window</td>
-<td align="center" valign="middle"><img src="previews/senrylee.dsh-frosted-window.webp" alt="dsh-frosted-window" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/SenryLee/dsh-frosted-window">SenryLee/dsh-frosted-window</a></td>
-<td align="center" valign="middle">3</td>
-</tr>
-<tr>
 <td align="center" valign="middle">dsh-homepage-skin</td>
 <td align="center" valign="middle"><img src="previews/yushi-xxh.dsh-homepage-skin.webp" alt="dsh-homepage-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/yushi-xxh/dsh-homepage-skin">yushi-xxh/dsh-homepage-skin</a></td>
@@ -420,6 +414,12 @@
 <td align="center" valign="middle">dsh-eye-care</td>
 <td align="center" valign="middle"><img src="previews/anionex.dsh-eye-care.webp" alt="dsh-eye-care" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Anionex/dsh-eye-care">Anionex/dsh-eye-care</a></td>
+<td align="center" valign="middle">2</td>
+</tr>
+<tr>
+<td align="center" valign="middle">dsh-frosted-window</td>
+<td align="center" valign="middle"><img src="previews/senrylee.dsh-frosted-window.webp" alt="dsh-frosted-window" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/SenryLee/dsh-frosted-window">SenryLee/dsh-frosted-window</a></td>
 <td align="center" valign="middle">2</td>
 </tr>
 <tr>
