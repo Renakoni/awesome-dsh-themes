@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T19:44:59.666Z",
+  "generatedAt": "2026-09-23T09:18:22.889Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -976,7 +976,7 @@
         "commercialUse": true,
         "notice": "Includes vendored three.js under MIT and Geist fonts under SIL OFL 1.1."
       },
-      "stars": 382,
+      "stars": 380,
       "updatedAt": "2026-09-11T18:41:47Z"
     },
     {
@@ -3737,7 +3737,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 11,
+      "stars": 12,
       "updatedAt": "2026-09-01T15:05:55Z"
     },
     {
@@ -3941,8 +3941,8 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#dafb41a36f2efd015e8234579d16eec2f15f6b1e",
-        "commit": "dafb41a36f2efd015e8234579d16eec2f15f6b1e",
+        "target": "github:RevolutionLA/dsh-dream-skin#bdae59c61873a6491858d7ac780e8baadeb7a24e",
+        "commit": "bdae59c61873a6491858d7ac780e8baadeb7a24e",
         "version": "9.16.0"
       },
       "tags": [
@@ -3962,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/dafb41a36f2efd015e8234579d16eec2f15f6b1e/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/dafb41a36f2efd015e8234579d16eec2f15f6b1e/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/bdae59c61873a6491858d7ac780e8baadeb7a24e/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/bdae59c61873a6491858d7ac780e8baadeb7a24e/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3975,8 +3975,8 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 179,
-      "updatedAt": "2026-09-22T08:30:40Z"
+      "stars": 181,
+      "updatedAt": "2026-09-23T08:32:36Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 2183,
+      "stars": 2185,
       "updatedAt": "2026-09-13T10:19:03Z"
     },
     {
@@ -4600,7 +4600,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 5,
+      "stars": 6,
       "updatedAt": "2026-08-19T12:15:44Z"
     },
     {
@@ -4800,7 +4800,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 18,
+      "stars": 19,
       "updatedAt": "2026-09-09T19:36:53Z"
     },
     {
@@ -5109,9 +5109,9 @@
       "packageName": "dsh-wx-skin",
       "rowId": "ui-dsh-wx-skin",
       "install": {
-        "target": "github:wangxilhy23/dsh-wx-skin#9fc9c31e84552cbe9e6155125e5cea9aba3da303",
-        "commit": "9fc9c31e84552cbe9e6155125e5cea9aba3da303",
-        "version": "0.1.5"
+        "target": "github:wangxilhy23/dsh-wx-skin#b96df293125b234bd1027818a388173957a8aa35",
+        "commit": "b96df293125b234bd1027818a388173957a8aa35",
+        "version": "0.2.0"
       },
       "tags": [
         "wallpaper",
@@ -5129,7 +5129,7 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/wangxilhy23/dsh-wx-skin/9fc9c31e84552cbe9e6155125e5cea9aba3da303/assets/demo1.png"
+        "https://raw.githubusercontent.com/wangxilhy23/dsh-wx-skin/b96df293125b234bd1027818a388173957a8aa35/assets/demo1.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/wangxilhy23.dsh-wx-skin.webp",
       "review": {
@@ -5142,7 +5142,7 @@
         "commercialUse": true
       },
       "stars": 3,
-      "updatedAt": "2026-09-17T04:34:29Z"
+      "updatedAt": "2026-09-23T04:51:12Z"
     },
     {
       "id": "wanzhiwei5.dsh-skin-amis",
