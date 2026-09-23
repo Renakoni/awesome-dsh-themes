@@ -7,11 +7,11 @@ description: 🐳 一键换肤：8 套原创主题 + 壁纸 + 强调色 + 主题
   add dsh-dream-skin）。
 package: dsh-dream-skin
 rowId: dream-skin
-version: 9.16.0
+version: 9.23.0
 source:
   kind: external
   repository: https://github.com/RevolutionLA/dsh-dream-skin
-  commit: bdae59c61873a6491858d7ac780e8baadeb7a24e
+  commit: e45f5003a8af8c6cf65d988236c4fc59c95e5acb
 tags:
   - wallpaper
   - glass
@@ -25,8 +25,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/bdae59c61873a6491858d7ac780e8baadeb7a24e/docs/screenshots/preview.png
-  - https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/bdae59c61873a6491858d7ac780e8baadeb7a24e/docs/screenshots/settings.png
+  - https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/e45f5003a8af8c6cf65d988236c4fc59c95e5acb/docs/screenshots/preview.png
+  - https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/e45f5003a8af8c6cf65d988236c4fc59c95e5acb/docs/screenshots/settings.png
 review:
   compatibility: verified
   preview: verified
@@ -34,4 +34,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-09-23T08:32:36Z
+updatedAt: 2026-09-23T11:31:00Z
