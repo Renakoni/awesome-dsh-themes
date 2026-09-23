@@ -18,7 +18,7 @@
 <td align="center" valign="middle">深海女仆工坊</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="深海女仆工坊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">2,185</td>
+<td align="center" valign="middle">2,191</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
@@ -30,7 +30,7 @@
 <td align="center" valign="middle">Open Sea 海洋皮肤</td>
 <td align="center" valign="middle"><img src="previews/d-dev0101.open-sea-skin.webp" alt="Open Sea 海洋皮肤" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/d-dev0101/open-sea-skin">d-dev0101/open-sea-skin</a></td>
-<td align="center" valign="middle">380</td>
+<td align="center" valign="middle">379</td>
 </tr>
 <tr>
 <td align="center" valign="middle">滑动变祖</td>
@@ -42,7 +42,7 @@
 <td align="center" valign="middle">dsh-dream-skin</td>
 <td align="center" valign="middle"><img src="previews/revolutionla.dsh-dream-skin.webp" alt="dsh-dream-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></td>
-<td align="center" valign="middle">181</td>
+<td align="center" valign="middle">182</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-catppuccin</td>
@@ -54,7 +54,7 @@
 <td align="center" valign="middle">达妮娅 · 虚无之泡</td>
 <td align="center" valign="middle"><img src="previews/ewnscat-ya.dsh-client-ui-skin-denia.webp" alt="达妮娅 · 虚无之泡" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Ewnscat-ya/dsh-client-ui-skin-denia">Ewnscat-ya/dsh-client-ui-skin-denia</a></td>
-<td align="center" valign="middle">37</td>
+<td align="center" valign="middle">38</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-client-ui-custom</td>
@@ -447,6 +447,12 @@
 <td align="center" valign="middle">2</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-stylevault</td>
+<td align="center" valign="middle"><img src="previews/gptsapp.dsh-stylevault.webp" alt="dsh-stylevault" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/GptsApp/dsh-stylevault">GptsApp/dsh-stylevault</a></td>
+<td align="center" valign="middle">2</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-theme-colorizer</td>
 <td align="center" valign="middle"><img src="previews/realhacker.dsh-theme-colorizer.webp" alt="dsh-theme-colorizer" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RealHacker/dsh-theme-colorizer">RealHacker/dsh-theme-colorizer</a></td>
@@ -588,12 +594,6 @@
 <td align="center" valign="middle">dsh-skin-amis</td>
 <td align="center" valign="middle"><img src="previews/wanzhiwei5.dsh-skin-amis.webp" alt="dsh-skin-amis" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/wanzhiwei5/dsh-skin-amis">wanzhiwei5/dsh-skin-amis</a></td>
-<td align="center" valign="middle">1</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-stylevault</td>
-<td align="center" valign="middle"><img src="previews/gptsapp.dsh-stylevault.webp" alt="dsh-stylevault" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/GptsApp/dsh-stylevault">GptsApp/dsh-stylevault</a></td>
 <td align="center" valign="middle">1</td>
 </tr>
 <tr>
