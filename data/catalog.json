@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T09:17:49.185Z",
+  "generatedAt": "2026-09-24T20:00:00.661Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -244,7 +244,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 14,
+      "stars": 15,
       "updatedAt": "2026-08-17T16:32:05Z"
     },
     {
@@ -876,7 +876,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 3,
+      "stars": 4,
       "updatedAt": "2026-08-16T12:16:12.637Z"
     },
     {
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 216,
+      "stars": 217,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -2429,7 +2429,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 27,
+      "stars": 28,
       "updatedAt": "2026-08-27T17:59:54Z"
     },
     {
@@ -2591,9 +2591,9 @@
       "packageName": "@lengduan/dsh-client-ui-skin-815",
       "rowId": "ui-skin-815",
       "install": {
-        "target": "github:lengduan/dsh-815-skin#9573a8bf8615552be7d41646f2d9f0ddb858440f",
-        "commit": "9573a8bf8615552be7d41646f2d9f0ddb858440f",
-        "version": "0.1.27"
+        "target": "github:lengduan/dsh-815-skin#c99300683bf23a057d8313bc0d592d0989505b77",
+        "commit": "c99300683bf23a057d8313bc0d592d0989505b77",
+        "version": "0.1.28"
       },
       "tags": [
         "wallpaper",
@@ -2610,8 +2610,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/lengduan/dsh-815-skin/9573a8bf8615552be7d41646f2d9f0ddb858440f/assets/nanjing-surrender-chen-jian.jpg",
-        "https://raw.githubusercontent.com/lengduan/dsh-815-skin/9573a8bf8615552be7d41646f2d9f0ddb858440f/docs/preview.png"
+        "https://raw.githubusercontent.com/lengduan/dsh-815-skin/c99300683bf23a057d8313bc0d592d0989505b77/assets/nanjing-surrender-chen-jian.jpg",
+        "https://raw.githubusercontent.com/lengduan/dsh-815-skin/c99300683bf23a057d8313bc0d592d0989505b77/docs/preview.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/lengduan.dsh-815-skin.webp",
       "review": {
@@ -2624,7 +2624,7 @@
         "commercialUse": true
       },
       "stars": 0,
-      "updatedAt": "2026-09-24T09:06:43Z"
+      "updatedAt": "2026-09-24T10:05:25Z"
     },
     {
       "id": "lhy723.dsh-neu-theme",
@@ -3120,9 +3120,9 @@
       "packageName": "dsh-themes",
       "rowId": "dsh-themes",
       "install": {
-        "target": "github:MangMax/dsh-themes#85fe103cc2792da5eec2d57b045509256a5206d1",
-        "commit": "85fe103cc2792da5eec2d57b045509256a5206d1",
-        "version": "0.1.8"
+        "target": "github:MangMax/dsh-themes#5b319606f479ec85a18b6534779a3c98a0954fad",
+        "commit": "5b319606f479ec85a18b6534779a3c98a0954fad",
+        "version": "0.1.9"
       },
       "tags": [
         "motion",
@@ -3140,7 +3140,7 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/MangMax/dsh-themes/85fe103cc2792da5eec2d57b045509256a5206d1/assets/screenshot.png"
+        "https://raw.githubusercontent.com/MangMax/dsh-themes/5b319606f479ec85a18b6534779a3c98a0954fad/assets/screenshot.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/mangmax.dsh-themes.webp",
       "review": {
@@ -3153,7 +3153,7 @@
         "commercialUse": true
       },
       "stars": 1,
-      "updatedAt": "2026-08-17T05:51:20Z"
+      "updatedAt": "2026-09-24T17:37:53Z"
     },
     {
       "id": "misaki14987.dsh-theme-taffy",
@@ -3553,9 +3553,9 @@
       "packageName": "@nonamelego/dsh-catppuccin",
       "rowId": "dsh-catppuccin",
       "install": {
-        "target": "github:NoNameLeGo/dsh-catppuccin#012031ab98f63d0dbf29f352935058a5700b93c9",
-        "commit": "012031ab98f63d0dbf29f352935058a5700b93c9",
-        "version": "0.5.6-beta.1"
+        "target": "github:NoNameLeGo/dsh-catppuccin#fbbd4415bf7e5db6b34a3f120c00088312ba9178",
+        "commit": "fbbd4415bf7e5db6b34a3f120c00088312ba9178",
+        "version": "0.5.7-beta.0"
       },
       "tags": [
         "wallpaper",
@@ -3575,10 +3575,10 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/012031ab98f63d0dbf29f352935058a5700b93c9/assets/previews/latte.png",
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/012031ab98f63d0dbf29f352935058a5700b93c9/assets/previews/frappe.png",
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/012031ab98f63d0dbf29f352935058a5700b93c9/assets/previews/macchiato.png",
-        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/012031ab98f63d0dbf29f352935058a5700b93c9/assets/previews/mocha.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/fbbd4415bf7e5db6b34a3f120c00088312ba9178/assets/previews/latte.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/fbbd4415bf7e5db6b34a3f120c00088312ba9178/assets/previews/frappe.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/fbbd4415bf7e5db6b34a3f120c00088312ba9178/assets/previews/macchiato.png",
+        "https://raw.githubusercontent.com/NoNameLeGo/dsh-catppuccin/fbbd4415bf7e5db6b34a3f120c00088312ba9178/assets/previews/mocha.png",
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png",
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png"
       ],
@@ -3593,7 +3593,7 @@
         "commercialUse": true
       },
       "stars": 46,
-      "updatedAt": "2026-09-23T11:08:24Z"
+      "updatedAt": "2026-09-24T13:37:20Z"
     },
     {
       "id": "oceanxuikun.dsh-eva-theme-plugin",
@@ -3975,7 +3975,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 182,
+      "stars": 183,
       "updatedAt": "2026-09-24T08:25:21Z"
     },
     {
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 2196,
+      "stars": 2201,
       "updatedAt": "2026-09-13T10:19:03Z"
     },
     {
@@ -4764,9 +4764,9 @@
       "packageName": "dsh-joi-channel-theme",
       "rowId": "joi-channel-theme",
       "install": {
-        "target": "github:tpmoonchefryan/dsh-joi-channel-theme#2df174ba43fced995bc0fb7a24535db470e7dbc2",
-        "commit": "2df174ba43fced995bc0fb7a24535db470e7dbc2",
-        "version": "0.1.11"
+        "target": "github:tpmoonchefryan/dsh-joi-channel-theme#1b6db037e587c17f87a846d176c7de5e652a2afb",
+        "commit": "1b6db037e587c17f87a846d176c7de5e652a2afb",
+        "version": "0.1.12"
       },
       "tags": [
         "token-theme",
@@ -4783,12 +4783,12 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/new-chat-flowers.png",
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/new-chat-library.png",
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/new-chat-flowers-dark.png",
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/new-chat-library-dark.png",
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/app-logo-library.png",
-        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/app-logo-flowers.png"
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/1b6db037e587c17f87a846d176c7de5e652a2afb/docs/new-chat-flowers.png",
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/1b6db037e587c17f87a846d176c7de5e652a2afb/docs/new-chat-library.png",
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/1b6db037e587c17f87a846d176c7de5e652a2afb/docs/new-chat-flowers-dark.png",
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/1b6db037e587c17f87a846d176c7de5e652a2afb/docs/new-chat-library-dark.png",
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/1b6db037e587c17f87a846d176c7de5e652a2afb/docs/app-logo-library.png",
+        "https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/1b6db037e587c17f87a846d176c7de5e652a2afb/docs/app-logo-flowers.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/tpmoonchefryan.dsh-joi-channel-theme.webp",
       "review": {
@@ -4801,7 +4801,7 @@
         "commercialUse": true
       },
       "stars": 19,
-      "updatedAt": "2026-09-09T19:36:53Z"
+      "updatedAt": "2026-09-24T15:55:11Z"
     },
     {
       "id": "tqsy114514.dsh-ui-appearance",
@@ -5696,7 +5696,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 37,
+      "stars": 36,
       "updatedAt": "2026-08-24T12:59:18Z"
     },
     {
@@ -6196,9 +6196,9 @@
       "packageName": "dsh-catppuccin",
       "rowId": "catppuccin",
       "install": {
-        "target": "github:zhijun-dai/Catppuccin-dsh-theme#f00241842e94c2a659aa0af47b3f1070c60f7a15",
-        "commit": "f00241842e94c2a659aa0af47b3f1070c60f7a15",
-        "version": "0.2.4"
+        "target": "github:zhijun-dai/Catppuccin-dsh-theme#140ed3c3133ecb31761845224f4ec91d45ba747e",
+        "commit": "140ed3c3133ecb31761845224f4ec91d45ba747e",
+        "version": "0.2.5"
       },
       "tags": [
         "catppuccin",
@@ -6219,10 +6219,10 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/f00241842e94c2a659aa0af47b3f1070c60f7a15/assets/preview.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/f00241842e94c2a659aa0af47b3f1070c60f7a15/assets/latte.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/f00241842e94c2a659aa0af47b3f1070c60f7a15/assets/frappe.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/f00241842e94c2a659aa0af47b3f1070c60f7a15/assets/macchiato.webp"
+        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/140ed3c3133ecb31761845224f4ec91d45ba747e/assets/preview.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/140ed3c3133ecb31761845224f4ec91d45ba747e/assets/latte.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/140ed3c3133ecb31761845224f4ec91d45ba747e/assets/frappe.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/140ed3c3133ecb31761845224f4ec91d45ba747e/assets/macchiato.webp"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/zhijun-dai.catppuccin.webp",
       "review": {
@@ -6236,7 +6236,7 @@
         "notice": "Catppuccin palette 源自 catppuccin/palette，并按 MIT 许可证使用。"
       },
       "stars": 10,
-      "updatedAt": "2026-09-03T13:26:17Z"
+      "updatedAt": "2026-09-24T04:38:38Z"
     },
     {
       "id": "zhijun-dai.dsh-fonts",
@@ -6296,9 +6296,9 @@
       "packageName": "@yuquexianzhou/solarized-dsh-theme",
       "rowId": "solarized",
       "install": {
-        "target": "github:zhijun-dai/Solarized-dsh-theme#1480701b224708eaf098dc5aa2d05ababee667ab",
-        "commit": "1480701b224708eaf098dc5aa2d05ababee667ab",
-        "version": "0.2.2"
+        "target": "github:zhijun-dai/Solarized-dsh-theme#4eb4458d9c98220383dfc588a61cddb08c36fe6f",
+        "commit": "4eb4458d9c98220383dfc588a61cddb08c36fe6f",
+        "version": "0.2.3"
       },
       "tags": [
         "pastel",
@@ -6316,11 +6316,11 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/1480701b224708eaf098dc5aa2d05ababee667ab/assets/preview.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/1480701b224708eaf098dc5aa2d05ababee667ab/assets/solarized-dark.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/1480701b224708eaf098dc5aa2d05ababee667ab/assets/solarized-light.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/1480701b224708eaf098dc5aa2d05ababee667ab/assets/selenized-dark.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/1480701b224708eaf098dc5aa2d05ababee667ab/assets/selenized-light.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/4eb4458d9c98220383dfc588a61cddb08c36fe6f/assets/preview.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/4eb4458d9c98220383dfc588a61cddb08c36fe6f/assets/solarized-dark.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/4eb4458d9c98220383dfc588a61cddb08c36fe6f/assets/solarized-light.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/4eb4458d9c98220383dfc588a61cddb08c36fe6f/assets/selenized-dark.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/4eb4458d9c98220383dfc588a61cddb08c36fe6f/assets/selenized-light.webp",
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/zhijun-dai.solarized-dsh-theme.webp",
@@ -6334,7 +6334,7 @@
         "commercialUse": true
       },
       "stars": 7,
-      "updatedAt": "2026-09-03T11:18:04Z"
+      "updatedAt": "2026-09-24T04:48:45Z"
     },
     {
       "id": "zhxqc.dsh-oh-my-theme",
