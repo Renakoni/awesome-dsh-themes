@@ -6,11 +6,11 @@ author: lengduan
 description: 1945 终战皮肤：陈坚《公元一九四五年九月九日九时》作为 DeepSeek Harness Web 背景
 package: "@lengduan/dsh-client-ui-skin-815"
 rowId: ui-skin-815
-version: 0.1.27
+version: 0.1.28
 source:
   kind: external
   repository: https://github.com/lengduan/dsh-815-skin
-  commit: 9573a8bf8615552be7d41646f2d9f0ddb858440f
+  commit: c99300683bf23a057d8313bc0d592d0989505b77
 tags:
   - wallpaper
   - glass
@@ -22,8 +22,8 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/lengduan/dsh-815-skin/9573a8bf8615552be7d41646f2d9f0ddb858440f/assets/nanjing-surrender-chen-jian.jpg
-  - https://raw.githubusercontent.com/lengduan/dsh-815-skin/9573a8bf8615552be7d41646f2d9f0ddb858440f/docs/preview.png
+  - https://raw.githubusercontent.com/lengduan/dsh-815-skin/c99300683bf23a057d8313bc0d592d0989505b77/assets/nanjing-surrender-chen-jian.jpg
+  - https://raw.githubusercontent.com/lengduan/dsh-815-skin/c99300683bf23a057d8313bc0d592d0989505b77/docs/preview.png
 review:
   compatibility: unverified
   preview: verified
@@ -31,4 +31,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-09-24T09:06:43Z
+updatedAt: 2026-09-24T10:05:25Z

@@ -7,11 +7,11 @@ description: 轴伊 Joi 双衣装主题（Joi-Flowers / Joi-Library）for DeepSe
   unofficial, non-commercial fan theme plugin
 package: dsh-joi-channel-theme
 rowId: joi-channel-theme
-version: 0.1.11
+version: 0.1.12
 source:
   kind: external
   repository: https://github.com/tpmoonchefryan/dsh-joi-channel-theme
-  commit: 2df174ba43fced995bc0fb7a24535db470e7dbc2
+  commit: 1b6db037e587c17f87a846d176c7de5e652a2afb
 tags:
   - token-theme
   - light-dark
@@ -23,12 +23,12 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/new-chat-flowers.png
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/new-chat-library.png
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/new-chat-flowers-dark.png
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/new-chat-library-dark.png
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/app-logo-library.png
-  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/2df174ba43fced995bc0fb7a24535db470e7dbc2/docs/app-logo-flowers.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/1b6db037e587c17f87a846d176c7de5e652a2afb/docs/new-chat-flowers.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/1b6db037e587c17f87a846d176c7de5e652a2afb/docs/new-chat-library.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/1b6db037e587c17f87a846d176c7de5e652a2afb/docs/new-chat-flowers-dark.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/1b6db037e587c17f87a846d176c7de5e652a2afb/docs/new-chat-library-dark.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/1b6db037e587c17f87a846d176c7de5e652a2afb/docs/app-logo-library.png
+  - https://raw.githubusercontent.com/tpmoonchefryan/dsh-joi-channel-theme/1b6db037e587c17f87a846d176c7de5e652a2afb/docs/app-logo-flowers.png
 review:
   compatibility: verified
   preview: verified
@@ -36,4 +36,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-09-09T19:36:53Z
+updatedAt: 2026-09-24T15:55:11Z

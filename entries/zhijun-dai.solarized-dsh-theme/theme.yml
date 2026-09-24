@@ -6,11 +6,11 @@ author: zhijun-dai
 description: Solarized 与 Selenized 主题插件：向 DSH Web 主题运行时注册四套忠实色板。
 package: "@yuquexianzhou/solarized-dsh-theme"
 rowId: solarized
-version: 0.2.2
+version: 0.2.3
 source:
   kind: external
   repository: https://github.com/zhijun-dai/Solarized-dsh-theme
-  commit: 1480701b224708eaf098dc5aa2d05ababee667ab
+  commit: 4eb4458d9c98220383dfc588a61cddb08c36fe6f
 tags:
   - pastel
   - token-theme
@@ -23,11 +23,11 @@ compatibility:
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/1480701b224708eaf098dc5aa2d05ababee667ab/assets/preview.webp
-  - https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/1480701b224708eaf098dc5aa2d05ababee667ab/assets/solarized-dark.webp
-  - https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/1480701b224708eaf098dc5aa2d05ababee667ab/assets/solarized-light.webp
-  - https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/1480701b224708eaf098dc5aa2d05ababee667ab/assets/selenized-dark.webp
-  - https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/1480701b224708eaf098dc5aa2d05ababee667ab/assets/selenized-light.webp
+  - https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/4eb4458d9c98220383dfc588a61cddb08c36fe6f/assets/preview.webp
+  - https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/4eb4458d9c98220383dfc588a61cddb08c36fe6f/assets/solarized-dark.webp
+  - https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/4eb4458d9c98220383dfc588a61cddb08c36fe6f/assets/solarized-light.webp
+  - https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/4eb4458d9c98220383dfc588a61cddb08c36fe6f/assets/selenized-dark.webp
+  - https://raw.githubusercontent.com/zhijun-dai/Solarized-dsh-theme/4eb4458d9c98220383dfc588a61cddb08c36fe6f/assets/selenized-light.webp
   - https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png
 review:
   compatibility: verified
@@ -36,4 +36,4 @@ review:
 license:
   code: MIT
   commercialUse: true
-updatedAt: 2026-09-03T11:18:04Z
+updatedAt: 2026-09-24T04:48:45Z

@@ -18,7 +18,7 @@
 <td align="center" valign="middle">Abyssal Maid Atelier</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="Abyssal Maid Atelier" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">2,196</td>
+<td align="center" valign="middle">2,201</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
@@ -36,13 +36,13 @@
 <td align="center" valign="middle">Liang Intensity Skin</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="Liang Intensity Skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">216</td>
+<td align="center" valign="middle">217</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
 <td align="center" valign="middle"><img src="previews/revolutionla.dsh-dream-skin.webp" alt="dsh-dream-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/RevolutionLA/dsh-dream-skin">RevolutionLA/dsh-dream-skin</a></td>
-<td align="center" valign="middle">182</td>
+<td align="center" valign="middle">183</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-catppuccin</td>
@@ -60,7 +60,7 @@
 <td align="center" valign="middle">dsh-client-ui-custom</td>
 <td align="center" valign="middle"><img src="previews/yoli-mi.dsh-client-ui-custom.webp" alt="dsh-client-ui-custom" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/yoli-mi/dsh-client-ui-custom">yoli-mi/dsh-client-ui-custom</a></td>
-<td align="center" valign="middle">37</td>
+<td align="center" valign="middle">36</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-any-background</td>
@@ -90,7 +90,7 @@
 <td align="center" valign="middle">dsh-qq2006</td>
 <td align="center" valign="middle"><img src="previews/laplaceyoung.dsh-qq2006.webp" alt="dsh-qq2006" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/LaplaceYoung/dsh-qq2006">LaplaceYoung/dsh-qq2006</a></td>
-<td align="center" valign="middle">27</td>
+<td align="center" valign="middle">28</td>
 </tr>
 <tr>
 <td align="center" valign="middle">touhou-hakurei</td>
@@ -120,7 +120,7 @@
 <td align="center" valign="middle">dsh-cyber-particle</td>
 <td align="center" valign="middle"><img src="previews/aks1st.dsh-cyber-particle.webp" alt="dsh-cyber-particle" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/AKS1st/dsh-cyber-particle">AKS1st/dsh-cyber-particle</a></td>
-<td align="center" valign="middle">14</td>
+<td align="center" valign="middle">15</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-liquid-glass</td>
@@ -315,6 +315,12 @@
 <td align="center" valign="middle">4</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-wallpaper</td>
+<td align="center" valign="middle"><img src="previews/chinarxq.dsh-wallpaper.webp" alt="dsh-wallpaper" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/chinaRXQ/dsh-wallpaper">chinaRXQ/dsh-wallpaper</a></td>
+<td align="center" valign="middle">4</td>
+</tr>
+<tr>
 <td align="center" valign="middle">silk-background</td>
 <td align="center" valign="middle"><img src="previews/z21for99.silk-background.webp" alt="silk-background" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/z21for99/silk-background">z21for99/silk-background</a></td>
@@ -348,12 +354,6 @@
 <td align="center" valign="middle">dsh-theme-neko</td>
 <td align="center" valign="middle"><img src="previews/drfccv.dsh-theme-neko.webp" alt="dsh-theme-neko" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/drfccv/dsh-theme-neko">drfccv/dsh-theme-neko</a></td>
-<td align="center" valign="middle">3</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-wallpaper</td>
-<td align="center" valign="middle"><img src="previews/chinarxq.dsh-wallpaper.webp" alt="dsh-wallpaper" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/chinaRXQ/dsh-wallpaper">chinaRXQ/dsh-wallpaper</a></td>
 <td align="center" valign="middle">3</td>
 </tr>
 <tr>
