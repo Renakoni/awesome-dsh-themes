@@ -18,13 +18,13 @@
 <td align="center" valign="middle">深海女仆工坊</td>
 <td align="center" valign="middle"><img src="previews/small-tailqwq.maid-atelier.webp" alt="深海女仆工坊" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Small-tailqwq/dsh-deep-whale">Small-tailqwq/dsh-deep-whale</a></td>
-<td align="center" valign="middle">2,191</td>
+<td align="center" valign="middle">2,196</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH-Transparent-UI-Plugin</td>
 <td align="center" valign="middle"><img src="previews/wyh66666666.dsh-transparent-ui-plugin.webp" alt="DSH-Transparent-UI-Plugin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/WYH66666666/DSH-Transparent-UI-Plugin">WYH66666666/DSH-Transparent-UI-Plugin</a></td>
-<td align="center" valign="middle">406</td>
+<td align="center" valign="middle">407</td>
 </tr>
 <tr>
 <td align="center" valign="middle">Open Sea 海洋皮肤</td>
@@ -36,7 +36,7 @@
 <td align="center" valign="middle">滑动变祖</td>
 <td align="center" valign="middle"><img src="previews/king-of-soy-sauce.liang-intensity.webp" alt="滑动变祖" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/kingOfSoySauce/dsh-liang-skin">kingOfSoySauce/dsh-liang-skin</a></td>
-<td align="center" valign="middle">215</td>
+<td align="center" valign="middle">216</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-dream-skin</td>
@@ -48,7 +48,7 @@
 <td align="center" valign="middle">dsh-catppuccin</td>
 <td align="center" valign="middle"><img src="previews/nonamelego.dsh-catppuccin.webp" alt="dsh-catppuccin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/NoNameLeGo/dsh-catppuccin">NoNameLeGo/dsh-catppuccin</a></td>
-<td align="center" valign="middle">45</td>
+<td align="center" valign="middle">46</td>
 </tr>
 <tr>
 <td align="center" valign="middle">达妮娅 · 虚无之泡</td>
@@ -108,13 +108,13 @@
 <td align="center" valign="middle">dsh-skin</td>
 <td align="center" valign="middle"><img src="previews/kingao294.dsh-skin.webp" alt="dsh-skin" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/KinGao294/dsh-skin">KinGao294/dsh-skin</a></td>
-<td align="center" valign="middle">18</td>
+<td align="center" valign="middle">19</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-ui-appearance</td>
 <td align="center" valign="middle"><img src="previews/tqsy114514.dsh-ui-appearance.webp" alt="dsh-ui-appearance" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/TQSY114514/dsh-ui-appearance">TQSY114514/dsh-ui-appearance</a></td>
-<td align="center" valign="middle">15</td>
+<td align="center" valign="middle">16</td>
 </tr>
 <tr>
 <td align="center" valign="middle">dsh-cyber-particle</td>
@@ -147,16 +147,16 @@
 <td align="center" valign="middle">12</td>
 </tr>
 <tr>
-<td align="center" valign="middle">Catppuccin 四味主题</td>
-<td align="center" valign="middle"><img src="previews/zhijun-dai.catppuccin.webp" alt="Catppuccin 四味主题" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/zhijun-dai/Catppuccin-dsh-theme">zhijun-dai/Catppuccin-dsh-theme</a></td>
-<td align="center" valign="middle">11</td>
-</tr>
-<tr>
 <td align="center" valign="middle">freestyle-dsh-theme</td>
 <td align="center" valign="middle"><img src="previews/suzike.freestyle-dsh-theme.webp" alt="freestyle-dsh-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/suzike/freestyle-dsh-theme">suzike/freestyle-dsh-theme</a></td>
 <td align="center" valign="middle">11</td>
+</tr>
+<tr>
+<td align="center" valign="middle">Catppuccin 四味主题</td>
+<td align="center" valign="middle"><img src="previews/zhijun-dai.catppuccin.webp" alt="Catppuccin 四味主题" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/zhijun-dai/Catppuccin-dsh-theme">zhijun-dai/Catppuccin-dsh-theme</a></td>
+<td align="center" valign="middle">10</td>
 </tr>
 <tr>
 <td align="center" valign="middle">DSH 外观画廊</td>
@@ -429,6 +429,12 @@
 <td align="center" valign="middle">2</td>
 </tr>
 <tr>
+<td align="center" valign="middle">dsh-ivory</td>
+<td align="center" valign="middle"><img src="previews/zjuzhiyucai.dsh-ivory.webp" alt="dsh-ivory" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/ZJUZhiyuCai/dsh-ivory">ZJUZhiyuCai/dsh-ivory</a></td>
+<td align="center" valign="middle">2</td>
+</tr>
+<tr>
 <td align="center" valign="middle">dsh-plugin-image-wallpaper</td>
 <td align="center" valign="middle"><img src="previews/caoning3212.dsh-plugin-image-wallpaper.webp" alt="dsh-plugin-image-wallpaper" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/CaoNing3212/dsh-plugin-image-wallpaper">CaoNing3212/dsh-plugin-image-wallpaper</a></td>
@@ -552,12 +558,6 @@
 <td align="center" valign="middle">dsh-image-theme</td>
 <td align="center" valign="middle"><img src="previews/carpon39038.dsh-image-theme.webp" alt="dsh-image-theme" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/Carpon39038/dsh-image-theme">Carpon39038/dsh-image-theme</a></td>
-<td align="center" valign="middle">1</td>
-</tr>
-<tr>
-<td align="center" valign="middle">dsh-ivory</td>
-<td align="center" valign="middle"><img src="previews/zjuzhiyucai.dsh-ivory.webp" alt="dsh-ivory" width="260"></td>
-<td align="center" valign="middle"><a href="https://github.com/ZJUZhiyuCai/dsh-ivory">ZJUZhiyuCai/dsh-ivory</a></td>
 <td align="center" valign="middle">1</td>
 </tr>
 <tr>

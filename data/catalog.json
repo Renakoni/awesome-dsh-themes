@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T19:41:20.595Z",
+  "generatedAt": "2026-09-24T09:17:49.185Z",
   "themes": [
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -2189,7 +2189,7 @@
         "commercialUse": false,
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
-      "stars": 215,
+      "stars": 216,
       "updatedAt": "2026-08-21T03:22:40Z"
     },
     {
@@ -2240,7 +2240,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 18,
+      "stars": 19,
       "updatedAt": "2026-08-18T11:23:24Z"
     },
     {
@@ -2591,9 +2591,9 @@
       "packageName": "@lengduan/dsh-client-ui-skin-815",
       "rowId": "ui-skin-815",
       "install": {
-        "target": "github:lengduan/dsh-815-skin#30425c7bf492df2e26064fbaf00318f5eabdcdf2",
-        "commit": "30425c7bf492df2e26064fbaf00318f5eabdcdf2",
-        "version": "0.1.25"
+        "target": "github:lengduan/dsh-815-skin#9573a8bf8615552be7d41646f2d9f0ddb858440f",
+        "commit": "9573a8bf8615552be7d41646f2d9f0ddb858440f",
+        "version": "0.1.27"
       },
       "tags": [
         "wallpaper",
@@ -2610,8 +2610,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/lengduan/dsh-815-skin/30425c7bf492df2e26064fbaf00318f5eabdcdf2/assets/nanjing-surrender-chen-jian.jpg",
-        "https://raw.githubusercontent.com/lengduan/dsh-815-skin/30425c7bf492df2e26064fbaf00318f5eabdcdf2/docs/preview.png"
+        "https://raw.githubusercontent.com/lengduan/dsh-815-skin/9573a8bf8615552be7d41646f2d9f0ddb858440f/assets/nanjing-surrender-chen-jian.jpg",
+        "https://raw.githubusercontent.com/lengduan/dsh-815-skin/9573a8bf8615552be7d41646f2d9f0ddb858440f/docs/preview.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/lengduan.dsh-815-skin.webp",
       "review": {
@@ -2624,7 +2624,7 @@
         "commercialUse": true
       },
       "stars": 0,
-      "updatedAt": "2026-09-23T13:20:50Z"
+      "updatedAt": "2026-09-24T09:06:43Z"
     },
     {
       "id": "lhy723.dsh-neu-theme",
@@ -3592,7 +3592,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 45,
+      "stars": 46,
       "updatedAt": "2026-09-23T11:08:24Z"
     },
     {
@@ -3941,8 +3941,8 @@
       "packageName": "dsh-dream-skin",
       "rowId": "dream-skin",
       "install": {
-        "target": "github:RevolutionLA/dsh-dream-skin#e45f5003a8af8c6cf65d988236c4fc59c95e5acb",
-        "commit": "e45f5003a8af8c6cf65d988236c4fc59c95e5acb",
+        "target": "github:RevolutionLA/dsh-dream-skin#eeeab20bb80fc4919a2a1f1f736d421b1024e56b",
+        "commit": "eeeab20bb80fc4919a2a1f1f736d421b1024e56b",
         "version": "9.23.0"
       },
       "tags": [
@@ -3962,8 +3962,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/e45f5003a8af8c6cf65d988236c4fc59c95e5acb/docs/screenshots/preview.png",
-        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/e45f5003a8af8c6cf65d988236c4fc59c95e5acb/docs/screenshots/settings.png"
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/eeeab20bb80fc4919a2a1f1f736d421b1024e56b/docs/screenshots/preview.png",
+        "https://raw.githubusercontent.com/RevolutionLA/dsh-dream-skin/eeeab20bb80fc4919a2a1f1f736d421b1024e56b/docs/screenshots/settings.png"
       ],
       "listScreenshot": "https://raw.githubusercontent.com/Renakoni/awesome-dsh-themes/main/previews/revolutionla.dsh-dream-skin.webp",
       "review": {
@@ -3976,7 +3976,7 @@
         "commercialUse": true
       },
       "stars": 182,
-      "updatedAt": "2026-09-23T11:31:00Z"
+      "updatedAt": "2026-09-24T08:25:21Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4310,7 +4310,7 @@
         "commercialUse": false,
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
-      "stars": 2191,
+      "stars": 2196,
       "updatedAt": "2026-09-13T10:19:03Z"
     },
     {
@@ -4848,7 +4848,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 15,
+      "stars": 16,
       "updatedAt": "2026-09-19T07:41:35Z"
     },
     {
@@ -5434,7 +5434,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 406,
+      "stars": 407,
       "updatedAt": "2026-08-22T02:10:09Z"
     },
     {
@@ -6235,7 +6235,7 @@
         "commercialUse": true,
         "notice": "Catppuccin palette 源自 catppuccin/palette，并按 MIT 许可证使用。"
       },
-      "stars": 11,
+      "stars": 10,
       "updatedAt": "2026-09-03T13:26:17Z"
     },
     {
@@ -6432,7 +6432,7 @@
         "code": "MIT",
         "commercialUse": true
       },
-      "stars": 1,
+      "stars": 2,
       "updatedAt": "2026-09-11T09:36:28Z"
     }
   ]
