@@ -2,7 +2,7 @@
 
 [返回 README](README.md) · [English](THEMES.en.md)
 
-共收录 132 个主题。按 Stars 从高到低排序，Stars 相同时按名称排序。
+共收录 133 个主题。按 Stars 从高到低排序，Stars 相同时按名称排序。
 
 <table width="100%">
 <thead>
@@ -805,6 +805,12 @@
 <td align="center" valign="middle"><img src="previews/gooosie.dsh-whale-bg.webp" alt="dsh-whale-bg" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/gooosie/dsh-whale-bg">gooosie/dsh-whale-bg</a></td>
 <td align="center" valign="middle">0</td>
+</tr>
+<tr>
+<td align="center" valign="middle">深夜极光</td>
+<td align="center" valign="middle"><img src="https://raw.githubusercontent.com/liu7654/dsh-theme-aurora/main/preview.png" alt="深夜极光" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/liu7654/dsh-theme-aurora">liu7654/dsh-theme-aurora</a></td>
+<td align="center" valign="middle">-</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 [Back to README](README.en.md) · [简体中文](THEMES.md)
 
-132 themes are listed here. Sorted by Stars, then by name.
+133 themes are listed here. Sorted by Stars, then by name.
 
 <table width="100%">
 <thead>
@@ -805,6 +805,12 @@
 <td align="center" valign="middle"><img src="previews/gooosie.dsh-whale-bg.webp" alt="dsh-whale-bg" width="260"></td>
 <td align="center" valign="middle"><a href="https://github.com/gooosie/dsh-whale-bg">gooosie/dsh-whale-bg</a></td>
 <td align="center" valign="middle">0</td>
+</tr>
+<tr>
+<td align="center" valign="middle">Midnight Aurora</td>
+<td align="center" valign="middle"><img src="https://raw.githubusercontent.com/liu7654/dsh-theme-aurora/main/preview.png" alt="Midnight Aurora" width="260"></td>
+<td align="center" valign="middle"><a href="https://github.com/liu7654/dsh-theme-aurora">liu7654/dsh-theme-aurora</a></td>
+<td align="center" valign="middle">-</td>
 </tr>
 </tbody>
 </table>

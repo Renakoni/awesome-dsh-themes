@@ -1,0 +1,29 @@
+id: liu7654.dsh-theme-aurora
+name:
+  zh: 深夜极光
+  en: Midnight Aurora
+author: liu7654
+description: 深夜极光主题：三层绿、青、紫极光帘幕在星空、山脊与湖面之上缓慢漂移，界面转为半透明暗玻璃；只覆盖 --dsw-alias-* 语义 token，不改布局和交互。
+package: dsh-theme-aurora
+rowId: dsh-theme-aurora
+version: 0.5.0
+source:
+  kind: external
+  repository: https://github.com/liu7654/dsh-theme-aurora
+tags:
+  - aurora
+  - dark
+  - glass
+  - motion
+  - token-theme
+modes:
+  - dark
+compatibility:
+  dsh: ">=0.2.1-rc.3 <0.3.0"
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/liu7654/dsh-theme-aurora/main/preview.png
+license:
+  code: MIT
+  commercialUse: true
